@@ -25,12 +25,12 @@ const products = [
       "label": "Referência de mercado",
       "url": "https://sp.olx.com.br/sao-paulo-e-regiao/informatica/armazenamento/hd-externo-portatil-seagate-expansion-5tb-usb-3-0-pc-e-mac-1544961588"
     },
-    "image": "assets/produtos/seagate-portable-drive-5tb/capa-home-office.png",
-    "alt": "HD externo Seagate Portable Drive preto sobre uma mesa de home office — ambiente ilustrativo criado com IA",
+    "image": "assets/produtos/seagate-portable-drive-5tb/capa-arquivo.png",
+    "alt": "HD externo Seagate Portable Drive preto em uma área organizada para arquivamento — ambiente ilustrativo criado com IA",
     "photos": [
       {
-        "src": "assets/produtos/seagate-portable-drive-5tb/capa-home-office.png",
-        "alt": "HD externo Seagate Portable Drive preto sobre uma mesa de home office — ambiente ilustrativo criado com IA",
+        "src": "assets/produtos/seagate-portable-drive-5tb/capa-arquivo.png",
+        "alt": "HD externo Seagate Portable Drive preto em uma área organizada para arquivamento — ambiente ilustrativo criado com IA",
         "isIllustrative": true
       },
       {
@@ -79,12 +79,12 @@ const products = [
       "label": "Referência de mercado",
       "url": "https://www.ecomdesconto.com.br/produto/hd-externo-portatil-wd-my-passport-2-tb-usb-3-2-preto"
     },
-    "image": "assets/produtos/wd-my-passport-ultra-2tb/capa-home-office.png",
-    "alt": "HD externo WD My Passport Ultra preto sobre uma mesa de home office — ambiente ilustrativo criado com IA",
+    "image": "assets/produtos/wd-my-passport-ultra-2tb/capa-viagem.png",
+    "alt": "HD externo WD My Passport Ultra preto acomodado em uma mala de viagem — ambiente ilustrativo criado com IA",
     "photos": [
       {
-        "src": "assets/produtos/wd-my-passport-ultra-2tb/capa-home-office.png",
-        "alt": "HD externo WD My Passport Ultra preto sobre uma mesa de home office — ambiente ilustrativo criado com IA",
+        "src": "assets/produtos/wd-my-passport-ultra-2tb/capa-viagem.png",
+        "alt": "HD externo WD My Passport Ultra preto acomodado em uma mala de viagem — ambiente ilustrativo criado com IA",
         "isIllustrative": true
       },
       {
