@@ -11,6 +11,50 @@ const categories = [
 ];
 const products = [
   {
+    "id": "torradeira-masterchef-to2004p",
+    "slug": "torradeira-masterchef-4-fatias-inox-110v",
+    "name": "Torradeira MasterChef 4 fatias",
+    "type": "single",
+    "category": "Eletroportáteis",
+    "categoryId": "casa-cozinha",
+    "price": 90,
+    "image": "assets/produtos/torradeira-masterchef-to2004p/capa-cozinha.png",
+    "alt": "Torradeira MasterChef de quatro fatias em uma cozinha contemporânea — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/torradeira-masterchef-to2004p/capa-cozinha.png",
+        "alt": "Torradeira MasterChef de quatro fatias em uma cozinha contemporânea — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/torradeira-masterchef-to2004p/foto-real-frontal.jpg",
+        "alt": "Torradeira MasterChef de quatro fatias anunciada — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · funcionando normalmente",
+    "tag": "Avulso · 4 fatias",
+    "meta": "MasterChef · inox · 110 V",
+    "conditionSummary": "Funcionando normalmente, com marcas de uso.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. A segunda imagem mostra o produto anunciado.",
+    "description": "Torradeira MasterChef em aço inox com capacidade para quatro fatias, dois controles independentes e sete níveis de tostagem. Possui funções para descongelar, reaquecer e cancelar o preparo.",
+    "conditionNotes": "Produto usado, funcionando normalmente e com marcas de uso visíveis no acabamento inox. A foto real da galeria mostra o estado atual.",
+    "details": [
+      ["Marca", "MasterChef"],
+      ["Modelo", "TO2004P"],
+      ["Capacidade", "4 fatias"],
+      ["Níveis de tostagem", "7"],
+      ["Funções", "Descongelar, reaquecer e cancelar"],
+      ["Material", "Aço inox"],
+      ["Voltagem", "110 V"],
+      ["Condição", "Usada, funcionando normalmente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "hamburgueira-picelli-hp112",
     "slug": "hamburgueira-manual-picelli-hp-112",
     "name": "Hamburgueira manual Picelli HP-112",
