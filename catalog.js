@@ -11,6 +11,62 @@ const categories = [
 ];
 const products = [
   {
+    "id": "hamburgueira-picelli-hp112",
+    "slug": "hamburgueira-manual-picelli-hp-112",
+    "name": "Hamburgueira manual Picelli HP-112",
+    "type": "single",
+    "category": "Utensílios profissionais",
+    "categoryId": "casa-cozinha",
+    "price": 590,
+    "image": "assets/produtos/hamburgueira-picelli-hp112/capa-hamburgueria.png",
+    "alt": "Hamburgueira manual Picelli HP-112 em uma cozinha profissional — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/hamburgueira-picelli-hp112/capa-hamburgueria.png",
+        "alt": "Hamburgueira manual Picelli HP-112 em uma cozinha profissional — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/hamburgueira-picelli-hp112/foto-real-frontal.jpg",
+        "alt": "Hamburgueira manual Picelli HP-112 anunciada — vista frontal real"
+      },
+      {
+        "src": "assets/produtos/hamburgueira-picelli-hp112/foto-real-lateral.jpg",
+        "alt": "Hamburgueira manual Picelli HP-112 anunciada — vista lateral real com alavanca"
+      },
+      {
+        "src": "assets/produtos/hamburgueira-picelli-hp112/foto-real-molde.jpg",
+        "alt": "Molde de 112 mm da hamburgueira Picelli anunciada — foto real"
+      },
+      {
+        "src": "assets/produtos/hamburgueira-picelli-hp112/foto-real-discos.jpg",
+        "alt": "Discos de prensagem que acompanham a hamburgueira Picelli — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · manual",
+    "tag": "Avulso · uso profissional",
+    "meta": "Picelli HP-112 · molde Ø 112 mm",
+    "conditionSummary": "Usada, com marcas de uso e pontos de desgaste na pintura.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As quatro imagens seguintes mostram o produto anunciado.",
+    "description": "Hamburgueira manual Picelli HP-112 para moldar hambúrgueres padronizados de 11,2 cm. Equipamento profissional de bancada com alavanca, corpo robusto e componentes de contato em metal.",
+    "conditionNotes": "Produto usado, com marcas de uso e pequenos pontos de desgaste na pintura, visíveis nas fotos reais. Acompanha os dois discos de prensagem mostrados na galeria.",
+    "details": [
+      ["Marca", "Picelli"],
+      ["Modelo", "HP-112"],
+      ["Tipo", "Hamburgueira manual de bancada"],
+      ["Diâmetro do molde", "11,2 cm"],
+      ["Material", "Alumínio e aço inox"],
+      ["Cor", "Branca"],
+      ["Acompanha", "2 discos de prensagem"],
+      ["Condição", "Usada, com marcas de uso"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "kit-2-vestidos-donna-carioca-p",
     "slug": "kit-2-vestidos-donna-carioca-beach-tennis-fitness-tamanho-p",
     "name": "Kit 2 vestidos Donna Carioca",
