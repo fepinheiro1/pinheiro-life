@@ -11,6 +11,55 @@ const categories = [
 ];
 const products = [
   {
+    "id": "motorola-moto-g24-256gb-verde",
+    "slug": "motorola-moto-g24-256gb-verde",
+    "name": "Motorola Moto G24 256 GB Verde",
+    "type": "single",
+    "category": "Celulares",
+    "categoryId": "tecnologia",
+    "price": 590,
+    "image": "assets/produtos/motorola-moto-g24-256gb/capa-em-uso.png",
+    "alt": "Motorola Moto G24 verde sendo usado em casa — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/motorola-moto-g24-256gb/capa-em-uso.png",
+        "alt": "Motorola Moto G24 verde sendo usado em casa — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/motorola-moto-g24-256gb/foto-real-frente.jpg",
+        "alt": "Motorola Moto G24 anunciado com a tela ligada — foto real"
+      },
+      {
+        "src": "assets/produtos/motorola-moto-g24-256gb/foto-real-traseira.jpg",
+        "alt": "Traseira verde e câmeras do Motorola Moto G24 anunciado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado apenas em casa · impecável",
+    "tag": "Avulso · 256 GB",
+    "meta": "4 GB RAM + 4 GB RAM Boost · câmera de 50 MP",
+    "conditionSummary": "Usado apenas em casa, em estado impecável e funcionando perfeitamente.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As duas imagens seguintes mostram o aparelho anunciado.",
+    "description": "Motorola Moto G24 com 256 GB de armazenamento, 4 GB de RAM e mais 4 GB via RAM Boost. Conta com tela de 6,6 polegadas e 90 Hz, câmera principal de 50 MP e bateria de 5.000 mAh.",
+    "conditionNotes": "Produto usado apenas em casa, nunca levado para uso na rua. Está em estado impecável e funcionando perfeitamente.",
+    "details": [
+      ["Marca", "Motorola"],
+      ["Modelo", "Moto G24"],
+      ["Cor", "Verde"],
+      ["Armazenamento", "256 GB"],
+      ["Memória", "4 GB RAM + 4 GB RAM Boost"],
+      ["Tela", "6,6 polegadas · 90 Hz"],
+      ["Câmera principal", "50 MP"],
+      ["Bateria", "5.000 mAh"],
+      ["Condição", "Usado apenas em casa, impecável"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "hd-externo-toshiba-500gb",
     "slug": "hd-externo-toshiba-usb-500gb",
     "name": "HD Externo Toshiba USB 500 GB",
