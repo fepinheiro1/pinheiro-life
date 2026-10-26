@@ -1,6 +1,7 @@
 'use strict';
 // Catálogo editado pela conversa. Fotos, descrição, observações e preço pertencem a cada item.
 const categories = [
+  { id: 'acessorios', label: 'Acessórios' },
   { id: 'tecnologia', label: 'Tecnologia' },
   { id: 'casa-cozinha', label: 'Casa e cozinha' },
   { id: 'relogios', label: 'Relógios' },
@@ -11,6 +12,70 @@ const categories = [
 ];
 const products = [
   {
+    "id": "louis-vuitton-organizer-de-poche-monogram-eclipse",
+    "slug": "louis-vuitton-organizer-de-poche-monogram-eclipse",
+    "name": "Louis Vuitton Organizer de Poche Monogram Eclipse",
+    "type": "single",
+    "category": "Carteiras e acessórios",
+    "categoryId": "acessorios",
+    "price": 1490,
+    "newPrice": 2810,
+    "newPriceLabel": "Novo na Louis Vuitton",
+    "newPriceSource": {
+      "label": "Louis Vuitton Brasil",
+      "url": "https://br.louisvuitton.com/por-br/produtos/pocket-organizer-monogram-eclipse-014391/M61696"
+    },
+    "image": "assets/produtos/louis-vuitton-organizer-de-poche/capa-em-uso.jpg",
+    "alt": "Organizer de Poche Louis Vuitton aberto com um cartão realista sendo colocado em um dos compartimentos — ambientação ilustrativa criada com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/louis-vuitton-organizer-de-poche/capa-em-uso.jpg",
+        "alt": "Organizer de Poche Louis Vuitton aberto com cartão realista, mostrando a gravação interna — ambientação ilustrativa criada com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/louis-vuitton-organizer-de-poche/foto-real-exterior.jpg",
+        "alt": "Exterior Monogram Eclipse do Organizer de Poche anunciado — foto real"
+      },
+      {
+        "src": "assets/produtos/louis-vuitton-organizer-de-poche/foto-real-caixa.jpg",
+        "alt": "Caixa Louis Vuitton que acompanha o Organizer de Poche anunciado — foto real"
+      },
+      {
+        "src": "assets/produtos/louis-vuitton-organizer-de-poche/foto-real-na-caixa.jpg",
+        "alt": "Organizer de Poche anunciado dentro da caixa Louis Vuitton — foto real"
+      },
+      {
+        "src": "assets/produtos/louis-vuitton-organizer-de-poche/foto-real-interior.jpg",
+        "alt": "Interior do Organizer de Poche anunciado com compartimentos e gravação Louis Vuitton Paris made in France — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · ótimo estado",
+    "tag": "Avulso · Monogram Eclipse",
+    "meta": "Canvas Monogram Eclipse · acompanha caixa",
+    "conditionSummary": "Em ótimo estado e acompanha a caixa Louis Vuitton mostrada nas fotos.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As quatro imagens seguintes mostram o produto anunciado e a caixa que o acompanha.",
+    "description": "Louis Vuitton Organizer de Poche em canvas Monogram Eclipse. Compacto e funcional, possui três espaços para cartões, cinco compartimentos internos e um bolso externo.",
+    "conditionNotes": "Produto usado, em ótimo estado de conservação. Acompanha a caixa Louis Vuitton mostrada nas fotos reais.",
+    "details": [
+      ["Marca", "Louis Vuitton"],
+      ["Modelo", "Organizer de Poche"],
+      ["Referência", "M61696"],
+      ["Linha", "Monogram Eclipse"],
+      ["Material", "Canvas Monogram Eclipse"],
+      ["Compartimentos", "3 espaços para cartões, 5 internos e 1 externo"],
+      ["Dimensões", "7,5 × 11 × 1 cm"],
+      ["Gravação interna", "Louis Vuitton Paris · made in France"],
+      ["Acompanha", "Caixa Louis Vuitton"],
+      ["Condição", "Usado, em ótimo estado"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "motorola-moto-g24-256gb-verde",
     "slug": "motorola-moto-g24-256gb-verde",
     "name": "Motorola Moto G24 256 GB Verde",
@@ -18,6 +83,12 @@ const products = [
     "category": "Celulares",
     "categoryId": "tecnologia",
     "price": 590,
+    "newPrice": 999,
+    "newPriceLabel": "Preço de lançamento",
+    "newPriceSource": {
+      "label": "Motorola Brasil",
+      "url": "https://motorolanews.com/br/motorola-anuncia-a-chegada-dos-novos-moto-g04-e-moto-g24-no-brasil/"
+    },
     "image": "assets/produtos/motorola-moto-g24-256gb/capa-em-uso.png",
     "alt": "Frente do Motorola Moto G24 verde com a tela ligada, sendo usado em casa — ambiente ilustrativo criado com IA",
     "photos": [
@@ -114,6 +185,12 @@ const products = [
     "category": "Áudio e vídeo",
     "categoryId": "tecnologia",
     "price": 350,
+    "newPrice": 514,
+    "newPriceLabel": "Valor de referência novo",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/fone-headset-usb-p2-cancelamento-ruido-evolve-30-ms-jabra-du-cor-5/p/MLB21426986"
+    },
     "image": "assets/produtos/jabra-evolve-30-ms-stereo/capa-home-office.png",
     "alt": "Profissional usando headset Jabra Evolve 30 MS Stereo em um home office — ambiente ilustrativo criado com IA",
     "photos": [
@@ -168,6 +245,12 @@ const products = [
     "category": "Tecnologia",
     "categoryId": "tecnologia",
     "price": 250,
+    "newPrice": 386,
+    "newPriceLabel": "Valor de referência novo",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/emeet-s600-4k-30fps-webcam-1080p-60fps-camera-para-pc-kit-videoconfercncia-live-streaming-com-tripe-autofoco-microfone/p/MLB28897430"
+    },
     "image": "assets/produtos/emeet-s600-webcam-4k/capa-home-office.png",
     "alt": "Webcam EMEET S600 instalada em um monitor durante uma videochamada — ambiente ilustrativo criado com IA",
     "photos": [
@@ -223,6 +306,12 @@ const products = [
     "category": "Áudio e vídeo",
     "categoryId": "tecnologia",
     "price": 490,
+    "newPrice": 699,
+    "newPriceLabel": "Novo na Hollyland",
+    "newPriceSource": {
+      "label": "Hollyland Brasil",
+      "url": "https://br.hollyland.com/pt/products/lark-m2"
+    },
     "image": "assets/produtos/hollyland-lark-m2-solo-usbc/capa-criadora.png",
     "alt": "Criadora de conteúdo usando um microfone Hollyland LARK M2 — ambiente ilustrativo criado com IA",
     "photos": [
@@ -322,6 +411,12 @@ const products = [
     "category": "Utensílios profissionais",
     "categoryId": "casa-cozinha",
     "price": 490,
+    "newPrice": 994,
+    "newPriceLabel": "Valor de referência novo",
+    "newPriceSource": {
+      "label": "Radar do Restaurante",
+      "url": "https://radardorestaurante.com.br/produto/picelli-hp-112-modelador-hamburguer-manual/"
+    },
     "image": "assets/produtos/hamburgueira-picelli-hp112/capa-hamburgueria.png",
     "alt": "Hamburgueira manual Picelli HP-112 em uma cozinha profissional — ambiente ilustrativo criado com IA",
     "photos": [
@@ -436,6 +531,12 @@ const products = [
     "category": "Moda fitness",
     "categoryId": "moda-fitness",
     "price": 99,
+    "newPrice": 300,
+    "newPriceLabel": "Valor de referência novo",
+    "newPriceSource": {
+      "label": "Netshoes",
+      "url": "https://www.netshoes.com.br/fitness-e-musculacao/vestidos/hupi"
+    },
     "image": "assets/produtos/vestido-hupi-beach-tennis-p/capa-modelo-quadra.png",
     "alt": "Mulher adulta usando vestido Hupi rosa neon com shorts em uma quadra — ambiente ilustrativo criado com IA",
     "photos": [
@@ -587,6 +688,12 @@ const products = [
     "category": "Áudio",
     "categoryId": "tecnologia",
     "price": 590,
+    "newPrice": 6590,
+    "newPriceLabel": "Novo na Apple",
+    "newPriceSource": {
+      "label": "Apple Brasil",
+      "url": "https://www.apple.com/br/airpods-max/"
+    },
     "image": "assets/produtos/apple-airpods-max-prata/capa-mulher-sorrindo.png",
     "alt": "Mulher sorrindo usando Apple AirPods Max prata e branco — ambiente ilustrativo criado com IA",
     "photos": [
@@ -641,6 +748,12 @@ const products = [
     "category": "Rede e conectividade",
     "categoryId": "tecnologia",
     "price": 490,
+    "newPrice": 982,
+    "newPriceLabel": "Novo com fonte PoE",
+    "newPriceSource": {
+      "label": "Ubiquiti Brasil",
+      "url": "https://br.store.ui.com/br/en/products/u6-plus"
+    },
     "priceSuffix": "cada",
     "quantity": 2,
     "image": "assets/produtos/ubiquiti-unifi-u6-plus/produto-oficial.png",
@@ -876,7 +989,7 @@ const products = [
     "meta": "Abercrombie & Fitch, Hollister e Tommy Hilfiger",
     "conditionSummary": "Conteúdos aproximados de 15%, 100% e 20%. Venda somente do kit completo.",
     "description": "Kit com três perfumes importados: Abercrombie & Fitch, Hollister California e Tommy Hilfiger Impact. Os três frascos são vendidos juntos por R$ 290; não há venda separada.",
-    "conditionNotes": "Produtos abertos. Conteúdos aproximados informados pelo proprietário: Abercrombie & Fitch com 15%, Hollister com 100% e Tommy Hilfiger Impact com 20%. Confira os frascos, níveis e sinais de uso nas fotos reais. Este anúncio é um teste e a venda é somente do kit completo.",
+    "conditionNotes": "Produtos abertos. Conteúdos aproximados: Abercrombie & Fitch com 15%, Hollister com 100% e Tommy Hilfiger Impact com 20%. Confira os frascos, níveis e sinais de uso nas fotos reais. Este anúncio é um teste e a venda é somente do kit completo.",
     "details": [
       [
         "Composição",
