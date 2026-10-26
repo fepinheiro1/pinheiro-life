@@ -25,9 +25,14 @@ const products = [
       "label": "Louis Vuitton Brasil",
       "url": "https://br.louisvuitton.com/por-br/produtos/pocket-organizer-monogram-eclipse-014391/M61696"
     },
-    "image": "assets/produtos/louis-vuitton-organizer-de-poche/capa-em-uso.jpg",
-    "alt": "Organizer de Poche Louis Vuitton aberto com um cartão realista sendo colocado em um dos compartimentos — ambientação ilustrativa criada com IA",
+    "image": "assets/produtos/louis-vuitton-organizer-de-poche/capa-fechada-ambientada.jpg",
+    "alt": "Organizer de Poche Louis Vuitton fechado sobre uma mesa de madeira em um escritório elegante — ambientação ilustrativa criada com IA",
     "photos": [
+      {
+        "src": "assets/produtos/louis-vuitton-organizer-de-poche/capa-fechada-ambientada.jpg",
+        "alt": "Organizer de Poche Louis Vuitton fechado sobre uma mesa de madeira em um escritório elegante — ambientação ilustrativa criada com IA",
+        "isIllustrative": true
+      },
       {
         "src": "assets/produtos/louis-vuitton-organizer-de-poche/capa-em-uso.jpg",
         "alt": "Organizer de Poche Louis Vuitton aberto com cartão realista, mostrando a gravação interna — ambientação ilustrativa criada com IA",
@@ -58,7 +63,7 @@ const products = [
     "tag": "Avulso · Monogram Eclipse",
     "meta": "Canvas Monogram Eclipse · acompanha caixa",
     "conditionSummary": "Em ótimo estado e acompanha a caixa Louis Vuitton mostrada nas fotos.",
-    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As quatro imagens seguintes mostram o produto anunciado e a caixa que o acompanha.",
+    "disclosureNote": "As duas primeiras imagens são ambientações criadas com IA a partir das fotos reais. As quatro imagens seguintes mostram o produto anunciado e a caixa que o acompanha.",
     "description": "Louis Vuitton Organizer de Poche em canvas Monogram Eclipse. Compacto e funcional, possui três espaços para cartões, cinco compartimentos internos e um bolso externo.",
     "conditionNotes": "Produto usado, em ótimo estado de conservação. Acompanha a caixa Louis Vuitton mostrada nas fotos reais.",
     "details": [
