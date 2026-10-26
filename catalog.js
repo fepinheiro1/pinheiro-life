@@ -12,6 +12,55 @@ const categories = [
 ];
 const products = [
   {
+    "id": "hd-externo-wd-my-passport-ultra-2tb",
+    "slug": "hd-externo-wd-my-passport-ultra-2tb",
+    "name": "HD Externo WD My Passport Ultra 2 TB",
+    "type": "single",
+    "category": "Armazenamento",
+    "categoryId": "tecnologia",
+    "price": 290,
+    "newPrice": 599,
+    "newPriceLabel": "Novo equivalente",
+    "newPriceSource": {
+      "label": "Referência de mercado",
+      "url": "https://www.ecomdesconto.com.br/produto/hd-externo-portatil-wd-my-passport-2-tb-usb-3-2-preto"
+    },
+    "image": "assets/produtos/wd-my-passport-ultra-2tb/capa-home-office.png",
+    "alt": "HD externo WD My Passport Ultra preto sobre uma mesa de home office — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/wd-my-passport-ultra-2tb/capa-home-office.png",
+        "alt": "HD externo WD My Passport Ultra preto sobre uma mesa de home office — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/wd-my-passport-ultra-2tb/foto-real.jpg",
+        "alt": "HD externo WD My Passport Ultra de 2 TB anunciado, mostrando os sinais de uso — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · funcionando perfeitamente",
+    "tag": "Avulso · 2 TB",
+    "meta": "USB 3.0 · formatado · pronto para uso",
+    "conditionSummary": "Usado, com sinais de uso, funcionando perfeitamente e formatado.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. A segunda imagem mostra o HD anunciado e seus sinais de uso.",
+    "description": "HD externo portátil Western Digital My Passport Ultra com capacidade de 2 TB e conexão USB 3.0. Compacto para transportar arquivos, fazer cópias de segurança ou ampliar o armazenamento do computador.",
+    "conditionNotes": "Produto usado, com sinais de uso visíveis na foto real. Está funcionando perfeitamente, formatado e pronto para uso.",
+    "details": [
+      ["Marca", "Western Digital"],
+      ["Linha", "My Passport Ultra"],
+      ["Tipo", "HD externo portátil"],
+      ["Capacidade", "2 TB"],
+      ["Conexão", "USB 3.0"],
+      ["Estado do disco", "Formatado e pronto para uso"],
+      ["Condição", "Usado, funcionando perfeitamente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "macbook-air-m3-13-256gb-meia-noite",
     "slug": "macbook-air-m3-13-256gb-meia-noite",
     "name": "MacBook Air 13” M3 2024 8 GB 256 GB",
