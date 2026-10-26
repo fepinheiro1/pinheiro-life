@@ -12,6 +12,67 @@ const categories = [
 ];
 const products = [
   {
+    "id": "apple-iphone-8-64gb-preto",
+    "slug": "apple-iphone-8-64gb-preto",
+    "name": "Apple iPhone 8 64 GB Preto",
+    "type": "single",
+    "category": "Smartphones",
+    "categoryId": "tecnologia",
+    "price": 390,
+    "image": "assets/produtos/iphone-8-64gb-preto/capa-valet-tray.png",
+    "alt": "iPhone 8 preto sobre uma bandeja de couro em um aparador — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/iphone-8-64gb-preto/capa-valet-tray.png",
+        "alt": "iPhone 8 preto sobre uma bandeja de couro em um aparador — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/iphone-8-64gb-preto/foto-real-frente.jpg",
+        "alt": "Parte frontal do iPhone 8 anunciado com a tela ligada — foto real"
+      },
+      {
+        "src": "assets/produtos/iphone-8-64gb-preto/foto-real-traseira.jpg",
+        "alt": "Parte traseira quebrada do iPhone 8 anunciada, protegida com silver tape — foto real"
+      },
+      {
+        "src": "assets/produtos/iphone-8-64gb-preto/foto-real-bateria.jpg",
+        "alt": "Tela de saúde da bateria do iPhone 8 mostrando capacidade máxima de 100% — foto real"
+      },
+      {
+        "src": "assets/produtos/iphone-8-64gb-preto/foto-real-modelo.jpg",
+        "alt": "Tela de informações mostrando iPhone 8 e iOS 16.7.16, com identificadores ocultos — foto real"
+      },
+      {
+        "src": "assets/produtos/iphone-8-64gb-preto/foto-real-capacidade.jpg",
+        "alt": "Tela de informações mostrando capacidade de 64 GB e ausência de bloqueio de operadora, com identificadores ocultos — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · traseira quebrada",
+    "tag": "Avulso · 64 GB",
+    "meta": "iOS 16.7.16 · bateria exibida em 100%",
+    "conditionSummary": "Usado, com a parte traseira quebrada e protegida com silver tape.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. As cinco imagens seguintes mostram o aparelho anunciado. Número de série, IMEI e demais identificadores foram ocultos por privacidade.",
+    "description": "Apple iPhone 8 preto com 64 GB de armazenamento, tela de 4,7 polegadas e botão de início com Touch ID. O aparelho liga e as telas de ajustes registradas nas fotos mostram iOS 16.7.16, capacidade de 64 GB e bateria indicando 100%.",
+    "conditionNotes": "A parte traseira está quebrada e foi coberta com silver tape, como mostra a foto real. A tela está ligada e acessível nas fotos. O preço de R$ 390 já considera essa condição.",
+    "details": [
+      ["Marca", "Apple"],
+      ["Modelo", "iPhone 8"],
+      ["Número do modelo", "MQ6G2BZ/A"],
+      ["Armazenamento", "64 GB"],
+      ["Sistema exibido", "iOS 16.7.16"],
+      ["Saúde da bateria exibida", "100%"],
+      ["Bloqueio de operadora", "Sem restrições"],
+      ["Cor", "Preto"],
+      ["Condição da traseira", "Quebrada e protegida com silver tape"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "hd-externo-seagate-portable-drive-5tb",
     "slug": "hd-externo-seagate-portable-drive-5tb",
     "name": "HD Externo Seagate Portable Drive 5 TB",
