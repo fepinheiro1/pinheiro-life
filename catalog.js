@@ -80,9 +80,14 @@ const products = [
       "label": "Referência de mercado",
       "url": "https://htclick.com.br/produto/caixa-de-som-wi-fi-bose-portable-smart-speaker-triple-black/"
     },
-    "image": "assets/produtos/bose-portable-smart-speaker-triple-black/foto-real-frente.jpg",
-    "alt": "Bose Portable Smart Speaker Triple Black anunciada sobre uma mesa de madeira — foto real",
+    "image": "assets/produtos/bose-portable-smart-speaker-triple-black/capa-quadra-beach-tennis.jpg",
+    "alt": "Bose Portable Smart Speaker Triple Black ao lado de uma quadra de beach tennis — ambiente ilustrativo criado com IA",
     "photos": [
+      {
+        "src": "assets/produtos/bose-portable-smart-speaker-triple-black/capa-quadra-beach-tennis.jpg",
+        "alt": "Bose Portable Smart Speaker Triple Black ao lado de uma quadra de beach tennis — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
       {
         "src": "assets/produtos/bose-portable-smart-speaker-triple-black/foto-real-frente.jpg",
         "alt": "Vista frontal da Bose Portable Smart Speaker Triple Black anunciada — foto real"
@@ -93,14 +98,14 @@ const products = [
       }
     ],
     "imageFit": "cover",
-    "illustratedCover": false,
+    "illustratedCover": true,
     "isDemo": false,
     "status": "available",
     "condition": "Usada · marcas de uso",
     "tag": "Avulso · Bose",
     "meta": "Bluetooth · Wi-Fi · som 360°",
     "conditionSummary": "Marcas de uso visíveis e funcionamento perfeito.",
-    "disclosureNote": "As imagens mostram a caixa de som anunciada e suas marcas de uso reais.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. As duas imagens seguintes mostram a caixa de som anunciada e suas marcas de uso reais.",
     "description": "Caixa de som portátil Bose com áudio em 360 graus e bateria interna recarregável. Possui Bluetooth e Wi-Fi, além de compatibilidade com o aplicativo Bose Music, Apple AirPlay 2 e Spotify Connect. Pode ser usada em casa conectada à rede ou como caixa Bluetooth portátil.",
     "conditionNotes": "Produto usado com muitas marcas de uso visíveis, principalmente na parte superior e no corpo. Está funcionando perfeitamente.",
     "details": [
