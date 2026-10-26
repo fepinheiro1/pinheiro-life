@@ -218,18 +218,22 @@ const products = [
   {
     "id": "hollyland-lark-m2-solo-usbc",
     "slug": "microfone-sem-fio-hollyland-lark-m2-solo-usb-c",
-    "name": "Microfone Hollyland LARK M2 Solo USB-C",
+    "name": "Microfone Hollyland LARK M2 Combo · 1 pessoa",
     "type": "single",
     "category": "Áudio e vídeo",
     "categoryId": "tecnologia",
     "price": 490,
     "image": "assets/produtos/hollyland-lark-m2-solo-usbc/capa-criadora.png",
-    "alt": "Criadora de conteúdo usando um microfone Hollyland LARK M2 Solo — ambiente ilustrativo criado com IA",
+    "alt": "Criadora de conteúdo usando um microfone Hollyland LARK M2 — ambiente ilustrativo criado com IA",
     "photos": [
       {
         "src": "assets/produtos/hollyland-lark-m2-solo-usbc/capa-criadora.png",
-        "alt": "Criadora de conteúdo usando um microfone Hollyland LARK M2 Solo — ambiente ilustrativo criado com IA",
+        "alt": "Criadora de conteúdo usando um microfone Hollyland LARK M2 — ambiente ilustrativo criado com IA",
         "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/hollyland-lark-m2-solo-usbc/foto-real-kit-completo.jpg",
+        "alt": "Kit Hollyland LARK M2 anunciado com estojo, bolsa, receptores e acessórios — foto real"
       },
       {
         "src": "assets/produtos/hollyland-lark-m2-solo-usbc/transmissor-referencia.jpg",
@@ -245,23 +249,24 @@ const products = [
     },
     "isDemo": false,
     "status": "available",
-    "condition": "Novo",
-    "tag": "Avulso · kit para 1 pessoa",
-    "meta": "1 transmissor · receptor USB-C",
-    "conditionSummary": "Novo, versão Solo para uma pessoa.",
-    "disclosureNote": "A primeira imagem é uma ambientação criada com IA. A segunda é uma foto de referência do transmissor deste modelo.",
-    "description": "Sistema de microfone sem fio Hollyland LARK M2 Solo USB-C para uma pessoa, com transmissor compacto e receptor USB-C. Indicado para gravar vídeos, entrevistas, aulas e conteúdo em smartphones, tablets e computadores compatíveis.",
-    "conditionNotes": "Produto novo. Versão Solo para uma pessoa, com um transmissor e receptor USB-C.",
+    "condition": "Novo · kit completo",
+    "tag": "Avulso · completo para 1 pessoa",
+    "meta": "USB-C · Lightning · câmera",
+    "conditionSummary": "Novo, completo e configurado para uma pessoa.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA. A segunda mostra o kit completo anunciado. A terceira é uma foto de referência do transmissor.",
+    "description": "Sistema de microfone sem fio Hollyland LARK M2 Combo para uma pessoa. O conjunto permite gravar em celulares USB-C, aparelhos com conexão Lightning e câmeras compatíveis, com estojo de carregamento e acessórios.",
+    "conditionNotes": "Produto novo e completo. A foto real mostra todos os itens que acompanham o conjunto.",
     "details": [
       ["Marca", "Hollyland"],
-      ["Modelo", "LARK M2 Solo"],
-      ["Versão", "USB-C · para 1 pessoa"],
-      ["Composição", "1 transmissor + 1 receptor USB-C"],
+      ["Modelo", "LARK M2"],
+      ["Versão", "Combo · para 1 pessoa"],
+      ["Composição", "1 transmissor + receptores para USB-C, Lightning e câmera"],
+      ["Acompanha", "Estojo de carregamento, bolsa, cabo, protetores de vento e acessórios de fixação"],
       ["Captação", "Omnidirecional"],
       ["Qualidade de áudio", "48 kHz / 24 bits"],
       ["Conectividade", "Sem fio 2,4 GHz"],
       ["Recurso", "Cancelamento de ruído"],
-      ["Condição", "Novo"],
+      ["Condição", "Novo e completo"],
       ["Formato de venda", "Produto avulso"]
     ]
   },
