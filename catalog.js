@@ -14,30 +14,30 @@ const products = [
   {
     "id": "macbook-air-retina-2019-i5-16gb-256gb",
     "slug": "macbook-air-retina-2019-i5-16gb-256gb",
-    "name": "MacBook Air Retina 13” 2019 i5 16 GB 256 GB",
+    "name": "MacBook Air Retina 13” i5 16 GB 256 GB",
     "type": "single",
     "category": "Notebooks",
     "categoryId": "tecnologia",
-    "price": 3290,
+    "price": 2900,
     "image": "assets/produtos/macbook-air-2019-16gb-256gb/capa-home-office.jpg",
-    "alt": "MacBook Air Retina 13 polegadas de 2019 em uma mesa de trabalho iluminada — ambiente ilustrativo criado com IA",
+    "alt": "MacBook Air Retina de 13 polegadas em uma mesa de trabalho iluminada — ambiente ilustrativo criado com IA",
     "photos": [
       {
         "src": "assets/produtos/macbook-air-2019-16gb-256gb/capa-home-office.jpg",
-        "alt": "MacBook Air Retina 13 polegadas de 2019 em uma mesa de trabalho iluminada — ambiente ilustrativo criado com IA",
+        "alt": "MacBook Air Retina de 13 polegadas em uma mesa de trabalho iluminada — ambiente ilustrativo criado com IA",
         "isIllustrative": true
       },
       {
         "src": "assets/produtos/macbook-air-2019-16gb-256gb/foto-real-frente.jpg",
-        "alt": "MacBook Air 2019 anunciado aberto e ligado, visto de frente — foto real"
+        "alt": "MacBook Air anunciado aberto e ligado, visto de frente — foto real"
       },
       {
         "src": "assets/produtos/macbook-air-2019-16gb-256gb/foto-real-angulo.jpg",
-        "alt": "MacBook Air 2019 anunciado aberto e ligado, visto em ângulo — foto real"
+        "alt": "MacBook Air anunciado aberto e ligado, visto em ângulo — foto real"
       },
       {
         "src": "assets/produtos/macbook-air-2019-16gb-256gb/foto-real-especificacoes.jpg",
-        "alt": "Tela de informações do MacBook Air mostrando modelo 2019, Core i5 e memória de 16 GB, com número de série borrado — foto real"
+        "alt": "Tela de informações do MacBook Air mostrando processador Core i5 e memória de 16 GB, com número de série borrado — foto real"
       }
     ],
     "imageFit": "cover",
@@ -49,11 +49,11 @@ const products = [
     "meta": "16 GB RAM · Intel Core i5 · Retina 13”",
     "conditionSummary": "Muito bem conservado e acompanhado de carregador e capa de proteção.",
     "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As três imagens seguintes mostram o MacBook anunciado. O número de série foi borrado por privacidade.",
-    "description": "MacBook Air Retina de 13 polegadas, modelo 2019, com processador Intel Core i5 dual-core de 1,6 GHz, 16 GB de memória RAM e SSD de 256 GB. Possui tela Retina, Touch ID, teclado retroiluminado e duas portas Thunderbolt 3 USB-C.",
+    "description": "MacBook Air Retina de 13 polegadas com processador Intel Core i5 dual-core de 1,6 GHz, 16 GB de memória RAM e SSD de 256 GB. Possui tela Retina, Touch ID, teclado retroiluminado e duas portas Thunderbolt 3 USB-C.",
     "conditionNotes": "Produto em estado impecável. Acompanha carregador e capa de proteção.",
     "details": [
       ["Marca", "Apple"],
-      ["Modelo", "MacBook Air Retina 13”, 2019"],
+      ["Modelo", "MacBook Air Retina 13”"],
       ["Processador", "Intel Core i5 dual-core de 1,6 GHz"],
       ["Memória", "16 GB LPDDR3 2133 MHz"],
       ["Armazenamento", "SSD de 256 GB"],
