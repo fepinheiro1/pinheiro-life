@@ -121,7 +121,7 @@ const products = [
     "type": "single",
     "category": "Notebooks",
     "categoryId": "tecnologia",
-    "price": 4900,
+    "price": 5900,
     "image": "assets/produtos/macbook-air-m3-13-256gb/capa-home-office.png",
     "alt": "MacBook Air de 13 polegadas M3 na cor meia-noite sobre uma mesa de trabalho — ambiente ilustrativo criado com IA",
     "photos": [
