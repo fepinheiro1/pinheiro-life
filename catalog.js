@@ -12,6 +12,72 @@ const categories = [
 ];
 const products = [
   {
+    "id": "macbook-pro-16-m2-max-96gb-1tb",
+    "slug": "macbook-pro-16-m2-max-96gb-1tb",
+    "name": "MacBook Pro 16” M2 Max 96 GB 1 TB",
+    "type": "single",
+    "category": "Notebooks",
+    "categoryId": "tecnologia",
+    "price": 19900,
+    "image": "assets/produtos/macbook-pro-16-m2-max-96gb-1tb/capa-estudio-criativo.jpg",
+    "alt": "MacBook Pro de 16 polegadas com chip M2 Max em uma mesa de trabalho criativo — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/macbook-pro-16-m2-max-96gb-1tb/capa-estudio-criativo.jpg",
+        "alt": "MacBook Pro de 16 polegadas com chip M2 Max em uma mesa de trabalho criativo — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/macbook-pro-16-m2-max-96gb-1tb/foto-real-fechado.jpg",
+        "alt": "MacBook Pro de 16 polegadas anunciado fechado, mostrando a tampa e o acabamento — foto real"
+      },
+      {
+        "src": "assets/produtos/macbook-pro-16-m2-max-96gb-1tb/foto-real-base-serie-protegida.jpg",
+        "alt": "Base do MacBook Pro anunciado mostrando o modelo A2780, com número de série borrado — foto real"
+      },
+      {
+        "src": "assets/produtos/macbook-pro-16-m2-max-96gb-1tb/foto-real-especificacoes-serie-protegida.jpg",
+        "alt": "Tela de informações do MacBook Pro mostrando chip M2 Max e memória de 96 GB, com número de série borrado — foto real"
+      },
+      {
+        "src": "assets/produtos/macbook-pro-16-m2-max-96gb-1tb/applecare-ate-marco-2027-dados-protegidos.png",
+        "alt": "Tela mostrando AppleCare Plus válido até março de 2027, com dados identificadores borrados — captura real"
+      },
+      {
+        "src": "assets/produtos/macbook-pro-16-m2-max-96gb-1tb/bateria-condicao-normal.png",
+        "alt": "Tela de bateria do MacBook Pro mostrando condição normal — captura real"
+      },
+      {
+        "src": "assets/produtos/macbook-pro-16-m2-max-96gb-1tb/bateria-capacidade-82.png",
+        "alt": "Tela de bateria do MacBook Pro mostrando capacidade máxima de 82 por cento — captura real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · poucas marcas de uso",
+    "tag": "Avulso · AppleCare+",
+    "meta": "M2 Max · 96 GB · SSD 1 TB",
+    "conditionSummary": "Poucas marcas de uso, AppleCare+ ativo e carregador original incluso.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As imagens seguintes mostram o MacBook anunciado e suas informações reais. Números de série, contrato e dados pessoais foram borrados por privacidade.",
+    "description": "MacBook Pro de 16 polegadas com chip Apple M2 Max, 96 GB de memória unificada e SSD de 1 TB. Configuração profissional para edição de vídeo, criação 3D, desenvolvimento, produção musical, inteligência artificial e outras tarefas exigentes. Possui tela Liquid Retina XDR, teclado retroiluminado, Touch ID, HDMI, leitor de cartões SDXC e conexão MagSafe.",
+    "conditionNotes": "Produto usado com poucas marcas de uso. Bateria em condição normal, com capacidade máxima de 82%. Possui AppleCare+ ativo até 22 de março de 2027 e acompanha carregador original.",
+    "details": [
+      ["Marca", "Apple"],
+      ["Modelo", "MacBook Pro 16” · A2780"],
+      ["Chip", "Apple M2 Max"],
+      ["Memória", "96 GB de memória unificada"],
+      ["Armazenamento", "SSD de 1 TB"],
+      ["Tela", "Liquid Retina XDR de 16,2”"],
+      ["Bateria", "Condição normal · capacidade máxima de 82%"],
+      ["Cobertura", "AppleCare+ até 22 de março de 2027"],
+      ["Cor", "Cinza-espacial"],
+      ["Acompanha", "Carregador original"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "microfone-lapela-sem-fio-duplo-lightning",
     "slug": "microfone-lapela-sem-fio-duplo-lightning",
     "name": "Kit Microfone de Lapela Sem Fio Duplo Lightning",
