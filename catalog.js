@@ -12,6 +12,55 @@ const categories = [
 ];
 const products = [
   {
+    "id": "bose-portable-smart-speaker-triple-black",
+    "slug": "bose-portable-smart-speaker-triple-black",
+    "name": "Bose Portable Smart Speaker Triple Black",
+    "type": "single",
+    "category": "Áudio",
+    "categoryId": "tecnologia",
+    "price": 690,
+    "newPrice": 2990,
+    "newPriceLabel": "Nova encontrada",
+    "newPriceSource": {
+      "label": "Referência de mercado",
+      "url": "https://htclick.com.br/produto/caixa-de-som-wi-fi-bose-portable-smart-speaker-triple-black/"
+    },
+    "image": "assets/produtos/bose-portable-smart-speaker-triple-black/foto-real-frente.jpg",
+    "alt": "Bose Portable Smart Speaker Triple Black anunciada sobre uma mesa de madeira — foto real",
+    "photos": [
+      {
+        "src": "assets/produtos/bose-portable-smart-speaker-triple-black/foto-real-frente.jpg",
+        "alt": "Vista frontal da Bose Portable Smart Speaker Triple Black anunciada — foto real"
+      },
+      {
+        "src": "assets/produtos/bose-portable-smart-speaker-triple-black/foto-real-controles.jpg",
+        "alt": "Vista superior e lateral da Bose Portable Smart Speaker anunciada, mostrando controles e marcas de uso — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": false,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas de uso",
+    "tag": "Avulso · Bose",
+    "meta": "Bluetooth · Wi-Fi · som 360°",
+    "conditionSummary": "Marcas de uso visíveis e funcionamento perfeito.",
+    "disclosureNote": "As imagens mostram a caixa de som anunciada e suas marcas de uso reais.",
+    "description": "Caixa de som portátil Bose com áudio em 360 graus e bateria interna recarregável. Possui Bluetooth e Wi-Fi, além de compatibilidade com o aplicativo Bose Music, Apple AirPlay 2 e Spotify Connect. Pode ser usada em casa conectada à rede ou como caixa Bluetooth portátil.",
+    "conditionNotes": "Produto usado com muitas marcas de uso visíveis, principalmente na parte superior e no corpo. Está funcionando perfeitamente.",
+    "details": [
+      ["Marca", "Bose"],
+      ["Modelo", "Portable Smart Speaker"],
+      ["Cor", "Triple Black"],
+      ["Conectividade", "Bluetooth e Wi-Fi"],
+      ["Recursos", "Som 360° · AirPlay 2 · Spotify Connect"],
+      ["Aplicativo", "Bose Music"],
+      ["Alimentação", "Bateria interna recarregável · USB-C"],
+      ["Resistência", "Respingos d’água · IPX4"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "macbook-pro-16-m2-max-96gb-1tb",
     "slug": "macbook-pro-16-m2-max-96gb-1tb",
     "name": "MacBook Pro 16” M2 Max 96 GB 1 TB",
