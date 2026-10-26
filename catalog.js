@@ -18,7 +18,7 @@ const products = [
     "type": "single",
     "category": "Armazenamento",
     "categoryId": "tecnologia",
-    "price": 290,
+    "price": 490,
     "newPrice": 1200,
     "newPriceLabel": "Novo encontrado",
     "newPriceSource": {
@@ -128,7 +128,7 @@ const products = [
     "type": "single",
     "category": "Armazenamento",
     "categoryId": "tecnologia",
-    "price": 690,
+    "price": 890,
     "newPrice": 1163,
     "newPriceLabel": "Novo equivalente",
     "newPriceSource": {
@@ -182,7 +182,7 @@ const products = [
     "type": "single",
     "category": "Armazenamento",
     "categoryId": "tecnologia",
-    "price": 290,
+    "price": 490,
     "newPrice": 599,
     "newPriceLabel": "Novo equivalente",
     "newPriceSource": {
@@ -418,7 +418,7 @@ const products = [
     "type": "single",
     "category": "Armazenamento",
     "categoryId": "tecnologia",
-    "price": 90,
+    "price": 190,
     "image": "assets/produtos/hd-externo-toshiba-500gb/capa-home-office.png",
     "alt": "HD externo Toshiba de 500 GB conectado a um notebook — ambiente ilustrativo criado com IA",
     "photos": [
