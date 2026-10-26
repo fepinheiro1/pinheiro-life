@@ -11,6 +11,53 @@ const categories = [
 ];
 const products = [
   {
+    "id": "hd-externo-toshiba-500gb",
+    "slug": "hd-externo-toshiba-usb-500gb",
+    "name": "HD Externo Toshiba USB 500 GB",
+    "type": "single",
+    "category": "Armazenamento",
+    "categoryId": "tecnologia",
+    "price": 90,
+    "image": "assets/produtos/hd-externo-toshiba-500gb/capa-home-office.png",
+    "alt": "HD externo Toshiba de 500 GB conectado a um notebook — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/hd-externo-toshiba-500gb/capa-home-office.png",
+        "alt": "HD externo Toshiba de 500 GB conectado a um notebook — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/hd-externo-toshiba-500gb/foto-real-hd.jpg",
+        "alt": "HD externo Toshiba de 500 GB anunciado — foto real mostrando as marcas de uso"
+      },
+      {
+        "src": "assets/produtos/hd-externo-toshiba-500gb/foto-real-com-cabo.jpg",
+        "alt": "HD externo Toshiba de 500 GB anunciado com cabo USB — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · funcionando perfeitamente",
+    "tag": "Avulso · 500 GB",
+    "meta": "USB · formatado · pronto para uso",
+    "conditionSummary": "Usado, com marcas de uso e funcionando perfeitamente.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As duas imagens seguintes mostram o produto anunciado.",
+    "description": "HD externo Toshiba com capacidade de 500 GB e conexão USB. Uma opção compacta para transportar arquivos, criar cópias de segurança e ampliar o espaço de armazenamento do computador.",
+    "conditionNotes": "Produto usado, com marcas de uso visíveis nas fotos reais. Está funcionando perfeitamente, formatado e pronto para uso. Acompanha cabo USB.",
+    "details": [
+      ["Marca", "Toshiba"],
+      ["Tipo", "HD externo portátil"],
+      ["Capacidade", "500 GB"],
+      ["Conexão", "USB"],
+      ["Acompanha", "Cabo USB"],
+      ["Estado do disco", "Formatado e pronto para uso"],
+      ["Condição", "Usado, funcionando perfeitamente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "jabra-evolve-30-ms-stereo",
     "slug": "headset-jabra-evolve-30-ms-stereo-usb-p2",
     "name": "Headset Jabra Evolve 30 MS Stereo",
