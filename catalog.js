@@ -12,6 +12,58 @@ const categories = [
 ];
 const products = [
   {
+    "id": "hd-externo-seagate-backup-plus-4tb-prata",
+    "slug": "hd-externo-seagate-backup-plus-4tb-prata",
+    "name": "HD Externo Seagate Backup Plus Portable 4 TB Prata",
+    "type": "single",
+    "category": "Armazenamento",
+    "categoryId": "tecnologia",
+    "price": 690,
+    "newPrice": 1357,
+    "newPriceLabel": "Novo encontrado",
+    "newPriceSource": {
+      "label": "Referência de mercado",
+      "url": "https://tendinfo.com.br/seagate"
+    },
+    "image": "assets/produtos/seagate-backup-plus-4tb-prata/capa-estudio-criativo.jpg",
+    "alt": "HD externo Seagate Backup Plus Portable prata em uma mesa de trabalho criativo — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/seagate-backup-plus-4tb-prata/capa-estudio-criativo.jpg",
+        "alt": "HD externo Seagate Backup Plus Portable prata em uma mesa de trabalho criativo — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/seagate-backup-plus-4tb-prata/foto-real-angulo.jpg",
+        "alt": "HD externo Seagate Backup Plus Portable de 4 TB anunciado, visto em ângulo — foto real"
+      },
+      {
+        "src": "assets/produtos/seagate-backup-plus-4tb-prata/foto-real-superior.jpg",
+        "alt": "Vista superior do HD externo Seagate Backup Plus Portable prata anunciado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado",
+    "tag": "Avulso · 4 TB",
+    "meta": "USB 3.0 · acabamento prata",
+    "conditionSummary": "Produto usado.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As duas imagens seguintes mostram o HD anunciado.",
+    "description": "HD externo portátil Seagate Backup Plus Portable com capacidade de 4 TB, acabamento metálico prata e conexão USB 3.0. Uma opção compacta para armazenar arquivos, fotos, vídeos e cópias de segurança.",
+    "conditionNotes": "As fotos reais da galeria mostram o estado atual do produto.",
+    "details": [
+      ["Marca", "Seagate"],
+      ["Linha", "Backup Plus Portable"],
+      ["Tipo", "HD externo portátil"],
+      ["Capacidade", "4 TB"],
+      ["Conexão", "USB 3.0"],
+      ["Cor", "Prata"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "hd-externo-wd-elements-2tb",
     "slug": "hd-externo-wd-elements-2tb",
     "name": "HD Externo WD Elements 2 TB",
