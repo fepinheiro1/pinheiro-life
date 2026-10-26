@@ -12,6 +12,57 @@ const categories = [
 ];
 const products = [
   {
+    "id": "microfone-lapela-sem-fio-duplo-lightning",
+    "slug": "microfone-lapela-sem-fio-duplo-lightning",
+    "name": "Kit Microfone de Lapela Sem Fio Duplo Lightning",
+    "type": "kit",
+    "category": "Áudio",
+    "categoryId": "tecnologia",
+    "price": 49,
+    "newPrice": 75,
+    "newPriceLabel": "Novo encontrado",
+    "newPriceSource": {
+      "label": "Referência de mercado",
+      "url": "https://ifinformatica.com/produto/microfone-lapela-wireless-iphone-lightning-duplo"
+    },
+    "image": "assets/produtos/microfone-lapela-duplo-lightning/capa-mesa-criador.png",
+    "alt": "Dois microfones de lapela sem fio e receptor Lightning em uma mesa de criação de conteúdo — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/microfone-lapela-duplo-lightning/capa-mesa-criador.png",
+        "alt": "Dois microfones de lapela sem fio e receptor Lightning em uma mesa de criação de conteúdo — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/microfone-lapela-duplo-lightning/foto-real-4708.jpg",
+        "alt": "Dois microfones de lapela sem fio e receptor Lightning anunciados — foto real"
+      },
+      {
+        "src": "assets/produtos/microfone-lapela-duplo-lightning/foto-real-4707.jpg",
+        "alt": "Caixa do kit de microfones de lapela sem fio anunciado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Kit completo",
+    "tag": "Kit · 2 microfones",
+    "meta": "Sem fio · Lightning · 2 cabos",
+    "conditionSummary": "Kit com dois microfones, receptor Lightning e dois cabos.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. As duas imagens seguintes mostram o kit anunciado.",
+    "description": "Kit compacto com dois microfones de lapela sem fio para gravar duas pessoas simultaneamente. O receptor possui conector Lightning para uso com iPhones e iPads compatíveis, sendo uma opção prática para vídeos, entrevistas, aulas e conteúdos para redes sociais.",
+    "conditionNotes": "Acompanha dois microfones, receptor Lightning, dois cabos e caixa. As fotos reais da galeria mostram o conjunto anunciado.",
+    "details": [
+      ["Tipo", "Microfone de lapela sem fio"],
+      ["Quantidade", "2 microfones"],
+      ["Receptor", "Lightning"],
+      ["Compatibilidade", "iPhone e iPad com entrada Lightning"],
+      ["Acompanha", "2 cabos e caixa"],
+      ["Formato de venda", "Kit completo"]
+    ]
+  },
+  {
     "id": "canon-eos-rebel-t3i-kit-18-55-75-300",
     "slug": "canon-eos-rebel-t3i-kit-18-55-75-300",
     "name": "Canon EOS Rebel T3i com Lentes 18–55 e 75–300 mm",
