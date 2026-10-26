@@ -12,6 +12,55 @@ const categories = [
 ];
 const products = [
   {
+    "id": "hd-externo-wd-elements-2tb",
+    "slug": "hd-externo-wd-elements-2tb",
+    "name": "HD Externo WD Elements 2 TB",
+    "type": "single",
+    "category": "Armazenamento",
+    "categoryId": "tecnologia",
+    "price": 290,
+    "newPrice": 1200,
+    "newPriceLabel": "Novo encontrado",
+    "newPriceSource": {
+      "label": "Referência de mercado",
+      "url": "https://www.kabum.com.br/produto/93575/hd-externo-wd-elements-2tb-usb-3-0-preto-wdbu6y0020bbk"
+    },
+    "image": "assets/produtos/wd-elements-2tb/capa-media-console.png",
+    "alt": "HD externo WD Elements preto sobre um móvel de mídia em pedra clara — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/wd-elements-2tb/capa-media-console.png",
+        "alt": "HD externo WD Elements preto sobre um móvel de mídia em pedra clara — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/wd-elements-2tb/foto-real.jpg",
+        "alt": "HD externo WD Elements de 2 TB anunciado, mostrando as marcas de uso — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · funcionando perfeitamente",
+    "tag": "Avulso · 2 TB",
+    "meta": "USB 3.0 · formatado · pronto para uso",
+    "conditionSummary": "Usado, com marcas de uso, formatado e pronto para uso.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. A segunda imagem mostra o HD anunciado e suas marcas de uso.",
+    "description": "HD externo portátil Western Digital da linha WD Elements, com capacidade de 2 TB e conexão USB 3.0. Uma opção compacta para armazenar arquivos, fotos, vídeos e cópias de segurança.",
+    "conditionNotes": "Produto usado, com marcas de uso visíveis na foto real. Está formatado e pronto para uso.",
+    "details": [
+      ["Marca", "Western Digital"],
+      ["Linha", "WD Elements"],
+      ["Tipo", "HD externo portátil"],
+      ["Capacidade", "2 TB"],
+      ["Conexão", "USB 3.0"],
+      ["Estado do disco", "Formatado e pronto para uso"],
+      ["Condição", "Usado, com marcas de uso"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "apple-iphone-8-64gb-preto",
     "slug": "apple-iphone-8-64gb-preto",
     "name": "Apple iPhone 8 64 GB Preto",
