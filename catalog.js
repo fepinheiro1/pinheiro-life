@@ -11,6 +11,60 @@ const categories = [
 ];
 const products = [
   {
+    "id": "jabra-evolve-30-ms-stereo",
+    "slug": "headset-jabra-evolve-30-ms-stereo-usb-p2",
+    "name": "Headset Jabra Evolve 30 MS Stereo",
+    "type": "single",
+    "category": "Áudio e vídeo",
+    "categoryId": "tecnologia",
+    "price": 350,
+    "image": "assets/produtos/jabra-evolve-30-ms-stereo/capa-home-office.png",
+    "alt": "Profissional usando headset Jabra Evolve 30 MS Stereo em um home office — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/jabra-evolve-30-ms-stereo/capa-home-office.png",
+        "alt": "Profissional usando headset Jabra Evolve 30 MS Stereo em um home office — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/jabra-evolve-30-ms-stereo/referencia-com-controle.png",
+        "alt": "Headset Jabra Evolve 30 MS Stereo com cabo, controle de chamadas e conexão USB — imagem de referência do modelo",
+        "isReference": true
+      },
+      {
+        "src": "assets/produtos/jabra-evolve-30-ms-stereo/referencia-headset.png",
+        "alt": "Headset Jabra Evolve 30 MS Stereo preto com detalhes vermelhos — imagem de referência do modelo",
+        "isReference": true
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "referencePhotoSource": {
+      "label": "Jabra",
+      "url": "https://www.jabra.com/supportpages/jabra-evolve-30-ii"
+    },
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · quase perfeito",
+    "tag": "Avulso · headset estéreo",
+    "meta": "USB-A e P2 · microfone com redução de ruído",
+    "conditionSummary": "Uso pessoal, em estado quase perfeito.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA. As duas imagens seguintes são referências do modelo.",
+    "description": "Headset profissional Jabra Evolve 30 MS Stereo com dois fones, microfone com redução de ruído e controle de chamadas no cabo. A conexão USB-A atende computadores, enquanto o conector P2 de 3,5 mm permite o uso em dispositivos compatíveis.",
+    "conditionNotes": "Produto usado para uso pessoal, em estado quase perfeito.",
+    "details": [
+      ["Marca", "Jabra"],
+      ["Linha", "Evolve 30"],
+      ["Versão", "MS Stereo · dois fones"],
+      ["Formato", "On-ear com fio"],
+      ["Conexões", "USB-A e P2 de 3,5 mm"],
+      ["Microfone", "Haste com redução de ruído"],
+      ["Controle no cabo", "Chamadas, volume e mudo"],
+      ["Condição", "Usado, quase perfeito"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "emeet-s600-webcam-4k",
     "slug": "webcam-emeet-s600-4k-autofoco",
     "name": "Webcam EMEET S600 4K",
