@@ -11,6 +11,56 @@ const categories = [
 ];
 const products = [
   {
+    "id": "hollyland-lark-m2-solo-usbc",
+    "slug": "microfone-sem-fio-hollyland-lark-m2-solo-usb-c",
+    "name": "Microfone Hollyland LARK M2 Solo USB-C",
+    "type": "single",
+    "category": "Áudio e vídeo",
+    "categoryId": "tecnologia",
+    "price": 490,
+    "image": "assets/produtos/hollyland-lark-m2-solo-usbc/capa-criadora.png",
+    "alt": "Criadora de conteúdo usando um microfone Hollyland LARK M2 Solo — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/hollyland-lark-m2-solo-usbc/capa-criadora.png",
+        "alt": "Criadora de conteúdo usando um microfone Hollyland LARK M2 Solo — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/hollyland-lark-m2-solo-usbc/transmissor-referencia.jpg",
+        "alt": "Transmissor Hollyland LARK M2 preto — foto de referência do modelo",
+        "isReference": true
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "referencePhotoSource": {
+      "label": "Foto Erhardt",
+      "url": "https://www.foto-erhardt.com/video/microphones/other-manufacturers/hollyland-lark-m2-for-usb-c.html"
+    },
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo",
+    "tag": "Avulso · kit para 1 pessoa",
+    "meta": "1 transmissor · receptor USB-C",
+    "conditionSummary": "Novo, versão Solo para uma pessoa.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA. A segunda é uma foto de referência do transmissor deste modelo.",
+    "description": "Sistema de microfone sem fio Hollyland LARK M2 Solo USB-C para uma pessoa, com transmissor compacto e receptor USB-C. Indicado para gravar vídeos, entrevistas, aulas e conteúdo em smartphones, tablets e computadores compatíveis.",
+    "conditionNotes": "Produto novo. Versão Solo para uma pessoa, com um transmissor e receptor USB-C.",
+    "details": [
+      ["Marca", "Hollyland"],
+      ["Modelo", "LARK M2 Solo"],
+      ["Versão", "USB-C · para 1 pessoa"],
+      ["Composição", "1 transmissor + 1 receptor USB-C"],
+      ["Captação", "Omnidirecional"],
+      ["Qualidade de áudio", "48 kHz / 24 bits"],
+      ["Conectividade", "Sem fio 2,4 GHz"],
+      ["Recurso", "Cancelamento de ruído"],
+      ["Condição", "Novo"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "torradeira-masterchef-to2004p",
     "slug": "torradeira-masterchef-4-fatias-inox-110v",
     "name": "Torradeira MasterChef 4 fatias",
