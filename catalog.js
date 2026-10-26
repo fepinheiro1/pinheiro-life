@@ -12,6 +12,60 @@ const categories = [
 ];
 const products = [
   {
+    "id": "microfone-zealsound-k66-prata",
+    "slug": "microfone-zealsound-k66-prata",
+    "name": "Microfone Condensador USB ZealSound K66 Prata",
+    "type": "single",
+    "category": "Áudio",
+    "categoryId": "tecnologia",
+    "price": 149,
+    "newPrice": 286,
+    "newPriceLabel": "Novo importado com tributos",
+    "newPriceSource": {
+      "label": "Referência no Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/microfone-usb-condensador-para-jogos-de-pc-ps4-ps5-podcast/p/MLB2097046982?pdp_filters=item_id%3AMLB7715527312"
+    },
+    "image": "assets/produtos/microfone-zealsound-k66-prata/capa-estudio-podcast.jpg",
+    "alt": "Microfone condensador USB ZealSound K66 prata em uma mesa de gravação — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/microfone-zealsound-k66-prata/capa-estudio-podcast.jpg",
+        "alt": "Microfone condensador USB ZealSound K66 prata em uma mesa de gravação — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/microfone-zealsound-k66-prata/foto-real-angulo.jpg",
+        "alt": "Microfone ZealSound K66 prata anunciado sobre sua base, visto em ângulo — foto real"
+      },
+      {
+        "src": "assets/produtos/microfone-zealsound-k66-prata/foto-real-frente.jpg",
+        "alt": "Vista frontal do microfone ZealSound K66 anunciado, mostrando seus controles — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · com cabo USB-C",
+    "tag": "Avulso · USB",
+    "meta": "Condensador · controles integrados",
+    "conditionSummary": "Produto usado e acompanhado de cabo USB-C.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As duas imagens seguintes mostram o microfone anunciado.",
+    "description": "Microfone condensador USB ZealSound K66 na cor prata, indicado para podcasts, chamadas, aulas, jogos, transmissões e gravações de voz. Possui botão de mute, controles físicos de ganho do microfone, volume de monitoramento e eco, além de saída para fones de ouvido.",
+    "conditionNotes": "Produto usado, com sinais de uso visíveis nas fotos reais. Acompanha cabo USB-C.",
+    "details": [
+      ["Marca", "ZealSound"],
+      ["Modelo", "K66"],
+      ["Tipo", "Microfone condensador de mesa"],
+      ["Conexão", "USB"],
+      ["Controles", "Mute, ganho, monitoramento e eco"],
+      ["Saída para fone", "3,5 mm"],
+      ["Cor", "Prata"],
+      ["Acompanha", "Cabo USB-C"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "hd-externo-seagate-backup-plus-4tb-prata",
     "slug": "hd-externo-seagate-backup-plus-4tb-prata",
     "name": "HD Externo Seagate Backup Plus Portable 4 TB Prata",
