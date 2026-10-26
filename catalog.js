@@ -27,6 +27,11 @@ const products = [
         "isIllustrative": true
       },
       {
+        "src": "assets/produtos/emeet-s600-webcam-4k/produto-lateral-oficial.png",
+        "alt": "Webcam EMEET S600 4K vista de lado com o suporte articulado — foto oficial de referência do modelo",
+        "isReference": true
+      },
+      {
         "src": "assets/produtos/emeet-s600-webcam-4k/produto-oficial.png",
         "alt": "Webcam EMEET S600 4K preta — foto oficial de referência do modelo",
         "isReference": true
@@ -44,7 +49,7 @@ const products = [
     "tag": "Avulso · webcam 4K",
     "meta": "4K a 30 fps · 1080p a 60 fps",
     "conditionSummary": "Praticamente nova.",
-    "disclosureNote": "A primeira imagem é uma ambientação criada com IA. A segunda é uma foto oficial de referência do modelo.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA. As duas imagens seguintes são fotos oficiais de referência do modelo, incluindo a vista lateral.",
     "description": "Webcam EMEET SmartCam S600 com resolução 4K a 30 fps ou Full HD 1080p a 60 fps. Possui foco automático, correção automática de luz e dois microfones integrados com redução de ruído, sendo indicada para videochamadas, aulas, reuniões e transmissões.",
     "conditionNotes": "Produto praticamente novo.",
     "details": [
