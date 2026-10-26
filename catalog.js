@@ -12,6 +12,60 @@ const categories = [
 ];
 const products = [
   {
+    "id": "hd-externo-seagate-portable-drive-5tb",
+    "slug": "hd-externo-seagate-portable-drive-5tb",
+    "name": "HD Externo Seagate Portable Drive 5 TB",
+    "type": "single",
+    "category": "Armazenamento",
+    "categoryId": "tecnologia",
+    "price": 690,
+    "newPrice": 1163,
+    "newPriceLabel": "Novo equivalente",
+    "newPriceSource": {
+      "label": "Referência de mercado",
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/informatica/armazenamento/hd-externo-portatil-seagate-expansion-5tb-usb-3-0-pc-e-mac-1544961588"
+    },
+    "image": "assets/produtos/seagate-portable-drive-5tb/capa-home-office.png",
+    "alt": "HD externo Seagate Portable Drive preto sobre uma mesa de home office — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/seagate-portable-drive-5tb/capa-home-office.png",
+        "alt": "HD externo Seagate Portable Drive preto sobre uma mesa de home office — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/seagate-portable-drive-5tb/foto-real-frente.jpg",
+        "alt": "HD externo Seagate Portable Drive de 5 TB anunciado visto pela frente — foto real"
+      },
+      {
+        "src": "assets/produtos/seagate-portable-drive-5tb/foto-real-etiqueta.jpg",
+        "alt": "Etiqueta do HD Seagate anunciado mostrando capacidade de 5 TB e modelo, com número de série borrado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · estado excelente",
+    "tag": "Avulso · 5 TB",
+    "meta": "USB 3.0 · funcionando perfeitamente",
+    "conditionSummary": "Usado, em estado excelente e funcionando perfeitamente.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. As duas imagens seguintes mostram o HD anunciado. O número de série foi borrado por privacidade.",
+    "description": "HD externo portátil Seagate Portable Drive com capacidade de 5 TB e conexão USB 3.0. Compacto e com amplo espaço para arquivos, fotos, vídeos, backups e expansão de armazenamento.",
+    "conditionNotes": "Produto usado, em estado excelente e funcionando perfeitamente.",
+    "details": [
+      ["Marca", "Seagate"],
+      ["Linha", "Portable Drive"],
+      ["Modelo", "SRD0NF1"],
+      ["Tipo", "HD externo portátil"],
+      ["Capacidade", "5 TB"],
+      ["Conexão", "USB 3.0"],
+      ["Ano de fabricação", "2023"],
+      ["Condição", "Usado, em estado excelente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "hd-externo-wd-my-passport-ultra-2tb",
     "slug": "hd-externo-wd-my-passport-ultra-2tb",
     "name": "HD Externo WD My Passport Ultra 2 TB",
