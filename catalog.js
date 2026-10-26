@@ -19,11 +19,11 @@ const products = [
     "categoryId": "tecnologia",
     "price": 590,
     "image": "assets/produtos/motorola-moto-g24-256gb/capa-em-uso.png",
-    "alt": "Motorola Moto G24 verde sendo usado em casa — ambiente ilustrativo criado com IA",
+    "alt": "Frente do Motorola Moto G24 verde com a tela ligada, sendo usado em casa — ambiente ilustrativo criado com IA",
     "photos": [
       {
         "src": "assets/produtos/motorola-moto-g24-256gb/capa-em-uso.png",
-        "alt": "Motorola Moto G24 verde sendo usado em casa — ambiente ilustrativo criado com IA",
+        "alt": "Frente do Motorola Moto G24 verde com a tela ligada, sendo usado em casa — ambiente ilustrativo criado com IA",
         "isIllustrative": true
       },
       {
