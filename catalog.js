@@ -12,6 +12,69 @@ const categories = [
 ];
 const products = [
   {
+    "id": "macbook-air-m3-13-256gb-meia-noite",
+    "slug": "macbook-air-m3-13-256gb-meia-noite",
+    "name": "MacBook Air 13” M3 2024 8 GB 256 GB",
+    "type": "single",
+    "category": "Notebooks",
+    "categoryId": "tecnologia",
+    "price": 4900,
+    "image": "assets/produtos/macbook-air-m3-13-256gb/capa-home-office.png",
+    "alt": "MacBook Air de 13 polegadas M3 na cor meia-noite sobre uma mesa de trabalho — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/macbook-air-m3-13-256gb/capa-home-office.png",
+        "alt": "MacBook Air de 13 polegadas M3 na cor meia-noite sobre uma mesa de trabalho — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/macbook-air-m3-13-256gb/foto-real-aberto.jpg",
+        "alt": "MacBook Air M3 anunciado aberto e ligado — foto real"
+      },
+      {
+        "src": "assets/produtos/macbook-air-m3-13-256gb/foto-real-fechado.jpg",
+        "alt": "Tampa do MacBook Air M3 anunciado na cor meia-noite — foto real"
+      },
+      {
+        "src": "assets/produtos/macbook-air-m3-13-256gb/foto-real-base.jpg",
+        "alt": "Base do MacBook Air M3 anunciado com o número de série borrado — foto real"
+      },
+      {
+        "src": "assets/produtos/macbook-air-m3-13-256gb/especificacoes.jpg",
+        "alt": "Tela de informações do MacBook Air mostrando chip M3, memória de 8 GB e ano 2024, com o número de série borrado — foto real"
+      },
+      {
+        "src": "assets/produtos/macbook-air-m3-13-256gb/saude-bateria.jpg",
+        "alt": "Tela de saúde da bateria do MacBook Air mostrando condição normal e capacidade máxima de 97% — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · estado excelente",
+    "tag": "Avulso · M3 · 256 GB",
+    "meta": "8 GB RAM · bateria com 97% · carregador",
+    "conditionSummary": "Em estado excelente, praticamente sem marcas de uso, com 97% de capacidade máxima da bateria.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. As cinco imagens seguintes mostram o computador anunciado. O número de série foi borrado nas fotos por privacidade.",
+    "description": "MacBook Air de 13,6 polegadas, modelo 2024, com chip Apple M3, 8 GB de memória unificada e SSD de 256 GB. Leve, silencioso e com tela Liquid Retina, teclado retroiluminado e Touch ID.",
+    "conditionNotes": "Produto em estado excelente, extremamente novo e praticamente sem marcas de uso. A bateria está com 97% de capacidade máxima e condição normal. Acompanha carregador.",
+    "details": [
+      ["Marca", "Apple"],
+      ["Modelo", "MacBook Air A3113"],
+      ["Ano", "2024"],
+      ["Tela", "13,6 polegadas · Liquid Retina"],
+      ["Chip", "Apple M3"],
+      ["Memória", "8 GB de memória unificada"],
+      ["Armazenamento", "SSD de 256 GB"],
+      ["Cor", "Meia-noite"],
+      ["Saúde da bateria", "Normal · 97% de capacidade máxima"],
+      ["Acompanha", "Carregador"],
+      ["Condição", "Usado, em estado excelente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "louis-vuitton-organizer-de-poche-monogram-eclipse",
     "slug": "louis-vuitton-organizer-de-poche-monogram-eclipse",
     "name": "Louis Vuitton Organizer de Poche Monogram Eclipse",
