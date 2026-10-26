@@ -12,6 +12,70 @@ const categories = [
 ];
 const products = [
   {
+    "id": "canon-eos-rebel-t3i-kit-18-55-75-300",
+    "slug": "canon-eos-rebel-t3i-kit-18-55-75-300",
+    "name": "Canon EOS Rebel T3i com Lentes 18–55 e 75–300 mm",
+    "type": "kit",
+    "category": "Câmeras",
+    "categoryId": "tecnologia",
+    "price": 1900,
+    "image": "assets/produtos/canon-t3i-kit-duas-lentes/capa-estudio-fotografia.png",
+    "alt": "Canon EOS Rebel T3i com lentes 18–55 e 75–300 mm em uma mesa de fotografia — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/canon-t3i-kit-duas-lentes/capa-estudio-fotografia.png",
+        "alt": "Canon EOS Rebel T3i com lentes 18–55 e 75–300 mm em uma mesa de fotografia — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/canon-t3i-kit-duas-lentes/foto-real-4701.jpg",
+        "alt": "Kit Canon EOS Rebel T3i anunciado com as duas lentes, bateria e carregador — foto real"
+      },
+      {
+        "src": "assets/produtos/canon-t3i-kit-duas-lentes/foto-real-4702.jpg",
+        "alt": "Vista frontal da Canon EOS Rebel T3i anunciada com a lente 18–55 mm — foto real"
+      },
+      {
+        "src": "assets/produtos/canon-t3i-kit-duas-lentes/foto-real-4703.jpg",
+        "alt": "Vista lateral da Canon EOS Rebel T3i anunciada — foto real"
+      },
+      {
+        "src": "assets/produtos/canon-t3i-kit-duas-lentes/foto-real-4704.jpg",
+        "alt": "Parte traseira da Canon EOS Rebel T3i anunciada com tela articulada — foto real"
+      },
+      {
+        "src": "assets/produtos/canon-t3i-kit-duas-lentes/foto-real-4705.jpg",
+        "alt": "Vista superior e lateral da Canon EOS Rebel T3i com lente 18–55 mm — foto real"
+      },
+      {
+        "src": "assets/produtos/canon-t3i-kit-duas-lentes/foto-real-4706.jpg",
+        "alt": "Lente Canon EF 75–300 mm III incluída no kit — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · funcionamento perfeito",
+    "tag": "Kit · 2 lentes",
+    "meta": "18 MP · 18–55 mm · 75–300 mm",
+    "conditionSummary": "Câmera e lentes em perfeito funcionamento.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As seis imagens seguintes mostram exatamente a câmera, as lentes e os acessórios anunciados.",
+    "description": "Kit Canon EOS Rebel T3i com sensor de 18 megapixels, gravação de vídeo Full HD e tela LCD articulada. Acompanha uma lente Canon EF-S 18–55 mm IS II para uso geral e uma lente Canon EF 75–300 mm III para fotografar assuntos mais distantes.",
+    "conditionNotes": "Câmera e lentes usadas, em perfeito funcionamento. As fotos reais da galeria mostram o estado atual do conjunto.",
+    "details": [
+      ["Marca", "Canon"],
+      ["Modelo", "EOS Rebel T3i"],
+      ["Sensor", "18 megapixels · APS-C"],
+      ["Vídeo", "Full HD"],
+      ["Tela", "LCD articulada"],
+      ["Lente principal", "Canon EF-S 18–55 mm IS II"],
+      ["Lente teleobjetiva", "Canon EF 75–300 mm f/4–5.6 III"],
+      ["Acompanha", "Bateria e carregador Canon"],
+      ["Formato de venda", "Kit completo"]
+    ]
+  },
+  {
     "id": "macbook-air-retina-2019-i5-16gb-256gb",
     "slug": "macbook-air-retina-2019-i5-16gb-256gb",
     "name": "MacBook Air Retina 13” i5 16 GB 256 GB",
