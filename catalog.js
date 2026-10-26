@@ -17,7 +17,7 @@ const products = [
     "type": "single",
     "category": "Utensílios profissionais",
     "categoryId": "casa-cozinha",
-    "price": 590,
+    "price": 490,
     "image": "assets/produtos/hamburgueira-picelli-hp112/capa-hamburgueria.png",
     "alt": "Hamburgueira manual Picelli HP-112 em uma cozinha profissional — ambiente ilustrativo criado com IA",
     "photos": [
@@ -39,8 +39,8 @@ const products = [
         "alt": "Molde de 112 mm da hamburgueira Picelli anunciada — foto real"
       },
       {
-        "src": "assets/produtos/hamburgueira-picelli-hp112/foto-real-discos.jpg",
-        "alt": "Discos de prensagem que acompanham a hamburgueira Picelli — foto real"
+        "src": "assets/produtos/hamburgueira-picelli-hp112/foto-real-abafadores.jpg",
+        "alt": "Duas tampas abafadoras para derreter queijo — foto real"
       }
     ],
     "imageFit": "cover",
@@ -53,7 +53,7 @@ const products = [
     "conditionSummary": "Usada, com marcas de uso e pontos de desgaste na pintura.",
     "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir das fotos reais. As quatro imagens seguintes mostram o produto anunciado.",
     "description": "Hamburgueira manual Picelli HP-112 para moldar hambúrgueres padronizados de 11,2 cm. Equipamento profissional de bancada com alavanca, corpo robusto e componentes de contato em metal.",
-    "conditionNotes": "Produto usado, com marcas de uso e pequenos pontos de desgaste na pintura, visíveis nas fotos reais. Acompanha os dois discos de prensagem mostrados na galeria.",
+    "conditionNotes": "Produto usado, com marcas de uso e pequenos pontos de desgaste na pintura, visíveis nas fotos reais. Acompanha duas tampas abafadoras usadas para derreter queijo, mostradas na galeria.",
     "details": [
       ["Marca", "Picelli"],
       ["Modelo", "HP-112"],
@@ -61,7 +61,7 @@ const products = [
       ["Diâmetro do molde", "11,2 cm"],
       ["Material", "Alumínio e aço inox"],
       ["Cor", "Branca"],
-      ["Acompanha", "2 discos de prensagem"],
+      ["Acompanha", "2 tampas abafadoras para derreter queijo"],
       ["Condição", "Usada, com marcas de uso"],
       ["Formato de venda", "Produto avulso"]
     ]
