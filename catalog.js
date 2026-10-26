@@ -11,6 +11,56 @@ const categories = [
 ];
 const products = [
   {
+    "id": "emeet-s600-webcam-4k",
+    "slug": "webcam-emeet-s600-4k-autofoco",
+    "name": "Webcam EMEET S600 4K",
+    "type": "single",
+    "category": "Tecnologia",
+    "categoryId": "tecnologia",
+    "price": 250,
+    "image": "assets/produtos/emeet-s600-webcam-4k/capa-home-office.png",
+    "alt": "Webcam EMEET S600 instalada em um monitor durante uma videochamada — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/emeet-s600-webcam-4k/capa-home-office.png",
+        "alt": "Webcam EMEET S600 instalada em um monitor durante uma videochamada — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/emeet-s600-webcam-4k/produto-oficial.png",
+        "alt": "Webcam EMEET S600 4K preta — foto oficial de referência do modelo",
+        "isReference": true
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "referencePhotoSource": {
+      "label": "EMEET",
+      "url": "https://emeet.com/products/webcam-s600"
+    },
+    "isDemo": false,
+    "status": "available",
+    "condition": "Praticamente nova",
+    "tag": "Avulso · webcam 4K",
+    "meta": "4K a 30 fps · 1080p a 60 fps",
+    "conditionSummary": "Praticamente nova.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA. A segunda é uma foto oficial de referência do modelo.",
+    "description": "Webcam EMEET SmartCam S600 com resolução 4K a 30 fps ou Full HD 1080p a 60 fps. Possui foco automático, correção automática de luz e dois microfones integrados com redução de ruído, sendo indicada para videochamadas, aulas, reuniões e transmissões.",
+    "conditionNotes": "Produto praticamente novo.",
+    "details": [
+      ["Marca", "EMEET"],
+      ["Modelo", "SmartCam S600"],
+      ["Resolução máxima", "4K Ultra HD a 30 fps"],
+      ["Modo Full HD", "1080p a 60 fps"],
+      ["Sensor", "8 megapixels"],
+      ["Foco", "Automático"],
+      ["Campo de visão", "Ajustável de 40° a 73°"],
+      ["Microfones", "2 omnidirecionais com redução de ruído"],
+      ["Condição", "Praticamente nova"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "hollyland-lark-m2-solo-usbc",
     "slug": "microfone-sem-fio-hollyland-lark-m2-solo-usb-c",
     "name": "Microfone Hollyland LARK M2 Solo USB-C",
