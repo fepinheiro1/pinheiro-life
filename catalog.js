@@ -27,8 +27,8 @@ const products = [
         "isIllustrative": true
       },
       {
-        "src": "assets/produtos/kit-2-vestidos-donna-carioca-p/modelos-de-costas.png",
-        "alt": "Duas mulheres adultas vistas de costas usando os vestidos Donna Carioca laranja e verde com alças transpassadas — ambiente ilustrativo criado com IA",
+        "src": "assets/produtos/kit-2-vestidos-donna-carioca-p/modelos-de-costas-v2.png",
+        "alt": "Duas mulheres adultas vistas de costas usando os vestidos Donna Carioca laranja e verde com costas abertas e alças transpassadas — ambiente ilustrativo criado com IA",
         "isIllustrative": true
       },
       {
