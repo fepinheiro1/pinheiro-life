@@ -12,6 +12,61 @@ const categories = [
 ];
 const products = [
   {
+    "id": "jbl-flip-5-preta",
+    "slug": "jbl-flip-5-bluetooth-20w-preta",
+    "name": "JBL Flip 5 Bluetooth 20 W Preta",
+    "type": "single",
+    "category": "Áudio",
+    "categoryId": "tecnologia",
+    "price": 490,
+    "newPrice": 700,
+    "newPriceLabel": "Nova encontrada",
+    "newPriceSource": {
+      "label": "Referência de mercado",
+      "url": "https://www.xenxen.com.br/produto/caixa-de-som-bluetooth-jbl-flip-5-preto-xen2-0864"
+    },
+    "image": "assets/produtos/jbl-flip-5-preta/foto-real-frente.jpg",
+    "alt": "JBL Flip 5 preta anunciada sobre uma mesa de madeira — foto real",
+    "photos": [
+      {
+        "src": "assets/produtos/jbl-flip-5-preta/foto-real-frente.jpg",
+        "alt": "Vista frontal da JBL Flip 5 preta anunciada — foto real"
+      },
+      {
+        "src": "assets/produtos/jbl-flip-5-preta/foto-real-ligada.jpg",
+        "alt": "JBL Flip 5 anunciada ligada, mostrando os indicadores de energia e Bluetooth — foto real"
+      },
+      {
+        "src": "assets/produtos/jbl-flip-5-preta/foto-real-lateral.jpg",
+        "alt": "Vista lateral da JBL Flip 5 anunciada, mostrando acabamento e marcas de uso — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": false,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas de uso",
+    "tag": "Avulso · JBL",
+    "meta": "20 W RMS · Bluetooth · IPX7",
+    "conditionSummary": "Marcas de uso visíveis e funcionamento perfeito.",
+    "disclosureNote": "As imagens mostram a caixa de som anunciada, ligada e com suas marcas de uso reais.",
+    "description": "Caixa de som portátil JBL Flip 5 com potência de 20 W RMS, conexão Bluetooth e tecnologia PartyBoost para conectar outras caixas JBL compatíveis. Possui bateria interna recarregável, carregamento por USB-C e estrutura resistente à água com certificação IPX7.",
+    "conditionNotes": "Produto usado com marcas de uso visíveis nas extremidades e no acabamento. Está funcionando perfeitamente.",
+    "details": [
+      ["Marca", "JBL"],
+      ["Modelo", "Flip 5"],
+      ["Cor", "Preta"],
+      ["Potência", "20 W RMS"],
+      ["Conectividade", "Bluetooth 4.2"],
+      ["Bateria", "Interna recarregável · autonomia do modelo de até 12 horas"],
+      ["Carregamento", "USB-C"],
+      ["Resistência", "Água · certificação IPX7"],
+      ["Recurso", "JBL PartyBoost"],
+      ["Transporte", "Cordão integrado"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "bose-portable-smart-speaker-triple-black",
     "slug": "bose-portable-smart-speaker-triple-black",
     "name": "Bose Portable Smart Speaker Triple Black",
