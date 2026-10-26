@@ -418,7 +418,7 @@ const products = [
     "type": "single",
     "category": "Armazenamento",
     "categoryId": "tecnologia",
-    "price": 190,
+    "price": 150,
     "image": "assets/produtos/hd-externo-toshiba-500gb/capa-home-office.png",
     "alt": "HD externo Toshiba de 500 GB conectado a um notebook — ambiente ilustrativo criado com IA",
     "photos": [
