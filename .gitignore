@@ -1,0 +1,6 @@
+.DS_Store
+assets/originais/
+**/originais/
+assets/referencias/
+qa/
+*.log
