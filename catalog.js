@@ -12,6 +12,63 @@ const categories = [
 ];
 const products = [
   {
+    "id": "samsung-cf390-27-duas-unidades",
+    "slug": "monitor-curvo-samsung-cf390-27-full-hd",
+    "name": "Monitor Curvo Samsung CF390 27\u201d Full HD",
+    "type": "single",
+    "category": "Monitores",
+    "categoryId": "tecnologia",
+    "price": 690,
+    "priceSuffix": "cada",
+    "quantity": 2,
+    "newPrice": 800,
+    "newPriceLabel": "Novo encontrado",
+    "newPriceSource": {
+      "label": "Referência de mercado",
+      "url": "https://www.pichau.com.br/monitor-samsung-cf390-27-va-curvo-fhd-4ms-60hz-freesync-vga-hdmi-lc27f390fhlmzd"
+    },
+    "image": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
+    "alt": "Dois monitores curvos Samsung CF390 de 27 polegadas em um home office \u2014 ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
+        "alt": "Dois monitores curvos Samsung CF390 de 27 polegadas em um home office \u2014 ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
+        "alt": "Vista frontal oficial do monitor Samsung CF390 de 27 polegadas \u2014 imagem de referência do modelo",
+        "isReference": true
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados \u00b7 excelente estado",
+    "tag": "2 disponíveis \u00b7 Samsung",
+    "meta": "27\u201d \u00b7 Full HD \u00b7 curvo \u00b7 2 por R$ 1.300",
+    "conditionSummary": "Perfeito estado de uso e conservação. R$ 690 cada ou R$ 1.300 o par.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA.<br>A segunda imagem é uma referência oficial do mesmo modelo. Fotos reais serão adicionadas posteriormente.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA e a segunda é uma referência oficial do mesmo modelo. Fotos reais serão adicionadas posteriormente.",
+    "description": "Monitor curvo Samsung CF390 de 27 polegadas, com painel VA, resolução Full HD e curvatura 1800R. Possui conexões HDMI e VGA, tecnologia AMD FreeSync e modo de proteção ocular. Há duas unidades disponíveis por R$ 690 cada ou R$ 1.300 levando o par.",
+    "conditionNotes": "As duas unidades estão em perfeito estado de uso e conservação, com funcionamento normal.",
+    "details": [
+      ["Marca", "Samsung"],
+      ["Modelo", "CF390 \u00b7 LC27F390FHLMZD"],
+      ["Tamanho", "27 polegadas"],
+      ["Formato", "Tela curva 1800R"],
+      ["Resolução", "Full HD \u00b7 1920 \u00d7 1080"],
+      ["Painel", "VA"],
+      ["Taxa de atualização", "60 Hz"],
+      ["Tempo de resposta", "4 ms"],
+      ["Conexões", "HDMI \u00b7 VGA \u00b7 saída para fone"],
+      ["Recursos", "AMD FreeSync \u00b7 Eye Saver Mode"],
+      ["Quantidade disponível", "2 unidades"],
+      ["Preço", "R$ 690 cada \u00b7 R$ 1.300 o par"]
+    ]
+  },
+  {
     "id": "jbl-flip-5-preta",
     "slug": "jbl-flip-5-bluetooth-20w-preta",
     "name": "JBL Flip 5 Bluetooth 20 W Preta",
