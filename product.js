@@ -75,8 +75,8 @@ if(interest&&!interest.disabled){
     <p class="interest-dialog-price">${productPrice}</p>
     <div class="interest-options">
       <button class="interest-option payment-option" type="button">
-        <span><strong>Pagar e retirar</strong><small>Pagamento seguro pela InfinitePay.</small><span class="payment-tags"><span>10% OFF no Pix</span><span>6x sem juros no cartão</span></span></span>
-        <span class="payment-arrow" aria-hidden="true">→</span>
+        <span class="payment-copy"><strong>Pagar e retirar</strong><small>Pagamento seguro pela InfinitePay.</small></span>
+        <span class="payment-offers"><span class="payment-tags"><span>10% OFF no Pix</span><span>6x sem juros no cartão</span></span><span class="payment-arrow" aria-hidden="true">→</span></span>
       </button>
       <div class="interest-option whatsapp-option">
         <div class="whatsapp-contacts">
