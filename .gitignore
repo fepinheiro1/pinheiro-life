@@ -4,3 +4,5 @@ assets/originais/
 assets/referencias/
 qa/
 *.log
+.env
+.env.*

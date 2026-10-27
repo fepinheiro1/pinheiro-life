@@ -60,6 +60,7 @@ if(interest&&!interest.disabled){
   const productPrice=interest.dataset.productPriceLabel||document.querySelector('.product-info .price')?.textContent?.trim()||'';
   const productPriceCents=Number(interest.dataset.productPrice);
   const productId=interest.dataset.productId||'produto';
+  const checkoutUrl=interest.dataset.checkoutUrl||'';
   const productUrl=location.href.split('#')[0].split('?')[0];
   const whatsappLink=contact=>{
     const message=`Olá, ${contact.name}! Estou interessado(a) no produto: ${productName} (${productPrice}). Vi no pinheiro.life: ${productUrl}`;
@@ -98,38 +99,18 @@ if(interest&&!interest.disabled){
     const outside=event.clientX<bounds.left||event.clientX>bounds.right||event.clientY<bounds.top||event.clientY>bounds.bottom;
     if(outside)closeDialog();
   });
-  paymentButton.addEventListener('click',async()=>{
+  paymentButton.addEventListener('click',()=>{
     if(!Number.isFinite(productPriceCents)||productPriceCents<1){
       paymentStatus.textContent='Não foi possível preparar o valor. Fale conosco pelo WhatsApp.';
       return;
     }
+    if(!checkoutUrl){
+      paymentStatus.textContent='O pagamento online está sendo preparado. Enquanto isso, fale conosco pelo WhatsApp.';
+      return;
+    }
     paymentButton.disabled=true;
     paymentButton.classList.add('is-loading');
-    paymentStatus.textContent='Preparando seu pagamento seguro…';
-    try{
-      const response=await fetch('https://api.checkout.infinitepay.io/links',{
-        method:'POST',
-        headers:{'Content-Type':'application/json'},
-        body:JSON.stringify({
-          handle:'patirpinheiro',
-          order_nsu:`pinheiro-life-${productId}-${Date.now()}`,
-          redirect_url:`${productUrl}?pagamento=concluido`,
-          items:[{quantity:1,price:productPriceCents,description:productName}]
-        })
-      });
-      const checkout=await response.json();
-      if(!response.ok||!checkout.url){
-        const error=new Error('checkout indisponível');
-        error.userMessage=checkout.error==='external_checkout_not_enabled'
-          ? 'O pagamento online está sendo ativado. Enquanto isso, fale conosco pelo WhatsApp.'
-          : 'O pagamento não abriu agora. Tente novamente ou fale conosco pelo WhatsApp.';
-        throw error;
-      }
-      location.assign(checkout.url);
-    }catch(error){
-      paymentStatus.textContent=error.userMessage||'O pagamento não abriu agora. Tente novamente ou fale conosco pelo WhatsApp.';
-      paymentButton.disabled=false;
-      paymentButton.classList.remove('is-loading');
-    }
+    paymentStatus.textContent='Abrindo o pagamento seguro…';
+    location.assign(checkoutUrl);
   });
 }
