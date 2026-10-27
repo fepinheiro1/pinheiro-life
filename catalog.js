@@ -13,24 +13,29 @@ const categories = [
 const products = [
   {
     "id": "jaqueta-calvin-klein-performance-branca-m",
-    "slug": "jaqueta-calvin-klein-performance-masculina-branca-tamanho-m",
-    "name": "Jaqueta Calvin Klein Performance Masculina Branca",
+    "slug": "jaqueta-calvin-klein-performance-unissex-branca-tamanho-m",
+    "name": "Jaqueta Calvin Klein Performance Unissex Branca",
     "type": "single",
     "category": "Moda fitness",
     "categoryId": "moda-fitness",
     "price": 690,
     "newPrice": 1490,
-    "newPriceLabel": "Jaqueta masculina similar nova",
+    "newPriceLabel": "Jaqueta similar nova",
     "newPriceSource": {
       "label": "Calvin Klein Brasil",
       "url": "https://www.calvinklein.com.br/jaqueta-masculina-calvin-klein-jeans-matelasse-com-capuz_branco-2_cme55150_0900/p"
     },
     "image": "assets/produtos/jaqueta-calvin-klein-performance-branca-m/capa-quadra.jpg",
-    "alt": "Homem adulto usando jaqueta Calvin Klein Performance masculina branca em ambiente esportivo — imagem ilustrativa criada com IA",
+    "alt": "Homem adulto usando jaqueta Calvin Klein Performance unissex branca em ambiente esportivo — imagem ilustrativa criada com IA",
     "photos": [
       {
         "src": "assets/produtos/jaqueta-calvin-klein-performance-branca-m/capa-quadra.jpg",
-        "alt": "Homem adulto usando jaqueta Calvin Klein Performance masculina branca em ambiente esportivo — imagem ilustrativa criada com IA",
+        "alt": "Homem adulto usando jaqueta Calvin Klein Performance unissex branca em ambiente esportivo — imagem ilustrativa criada com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/jaqueta-calvin-klein-performance-branca-m/capa-feminina-quadra.jpg",
+        "alt": "Mulher adulta usando jaqueta Calvin Klein Performance unissex branca em ambiente esportivo — imagem ilustrativa criada com IA",
         "isIllustrative": true
       },
       {
@@ -52,14 +57,14 @@ const products = [
     "status": "available",
     "condition": "Praticamente nova · sem marcas de uso",
     "tag": "Avulso · tamanho M",
-    "meta": "100% poliéster · masculina · peça encorpada",
+    "meta": "100% poliéster · unissex · peça encorpada",
     "conditionSummary": "Praticamente nova, sem marcas de uso e em excelente estado.",
-    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir das fotos reais. As três imagens seguintes mostram a jaqueta anunciada.",
-    "description": "Jaqueta Calvin Klein Performance masculina branca, tamanho M, confeccionada em 100% poliéster. É uma peça pesada e encorpada, com gola alta, fechamento frontal por zíper, bolsos laterais, punhos e barra elásticos e faixa preta com o nome Calvin Klein atravessando o peito e as mangas.",
+    "disclosureNote": "As duas primeiras imagens são ambientações ilustrativas criadas com IA a partir das fotos reais. As três imagens seguintes mostram a jaqueta anunciada.",
+    "description": "Jaqueta Calvin Klein Performance unissex branca, tamanho M, confeccionada em 100% poliéster. É uma peça pesada e encorpada, com gola alta, fechamento frontal por zíper, bolsos laterais, punhos e barra elásticos e faixa preta com o nome Calvin Klein atravessando o peito e as mangas.",
     "conditionNotes": "Peça praticamente nova, sem marcas de uso aparentes nas fotos. As imagens reais mostram a frente, os detalhes da faixa de logos e a parte traseira.",
     "details": [
       ["Marca", "Calvin Klein Performance"],
-      ["Tipo", "Jaqueta esportiva masculina"],
+      ["Tipo", "Jaqueta esportiva unissex"],
       ["Tamanho", "M"],
       ["Cor", "Branca com faixa preta"],
       ["Composição", "100% poliéster"],
