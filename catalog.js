@@ -13,24 +13,24 @@ const categories = [
 const products = [
   {
     "id": "jaqueta-calvin-klein-performance-branca-m",
-    "slug": "jaqueta-corta-vento-calvin-klein-performance-branca-tamanho-m",
-    "name": "Jaqueta Corta-Vento Calvin Klein Performance Branca",
+    "slug": "jaqueta-calvin-klein-performance-masculina-branca-tamanho-m",
+    "name": "Jaqueta Calvin Klein Performance Masculina Branca",
     "type": "single",
     "category": "Moda fitness",
     "categoryId": "moda-fitness",
-    "price": 290,
-    "newPrice": 439,
-    "newPriceLabel": "Modelo similar novo",
+    "price": 690,
+    "newPrice": 1490,
+    "newPriceLabel": "Jaqueta masculina similar nova",
     "newPriceSource": {
       "label": "Calvin Klein Brasil",
-      "url": "https://www.calvinklein.com.br/jaqueta-corta-vento-calvin-klein-sport-feminino-com-capuz_preto_cf4or80ot082_0987/p"
+      "url": "https://www.calvinklein.com.br/jaqueta-masculina-calvin-klein-jeans-matelasse-com-capuz_branco-2_cme55150_0900/p"
     },
     "image": "assets/produtos/jaqueta-calvin-klein-performance-branca-m/capa-quadra.jpg",
-    "alt": "Mulher adulta usando jaqueta corta-vento Calvin Klein Performance branca perto de uma quadra — ambiente ilustrativo criado com IA",
+    "alt": "Homem adulto usando jaqueta Calvin Klein Performance masculina branca em ambiente esportivo — imagem ilustrativa criada com IA",
     "photos": [
       {
         "src": "assets/produtos/jaqueta-calvin-klein-performance-branca-m/capa-quadra.jpg",
-        "alt": "Mulher adulta usando jaqueta corta-vento Calvin Klein Performance branca perto de uma quadra — ambiente ilustrativo criado com IA",
+        "alt": "Homem adulto usando jaqueta Calvin Klein Performance masculina branca em ambiente esportivo — imagem ilustrativa criada com IA",
         "isIllustrative": true
       },
       {
@@ -52,17 +52,18 @@ const products = [
     "status": "available",
     "condition": "Praticamente nova · sem marcas de uso",
     "tag": "Avulso · tamanho M",
-    "meta": "100% poliéster · branca · corta-vento",
+    "meta": "100% poliéster · masculina · peça encorpada",
     "conditionSummary": "Praticamente nova, sem marcas de uso e em excelente estado.",
     "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir das fotos reais. As três imagens seguintes mostram a jaqueta anunciada.",
-    "description": "Jaqueta corta-vento Calvin Klein Performance branca, tamanho M, confeccionada em 100% poliéster. Possui gola alta, fechamento frontal por zíper, bolsos laterais, punhos e barra elásticos e faixa preta com o nome Calvin Klein atravessando o peito e as mangas.",
+    "description": "Jaqueta Calvin Klein Performance masculina branca, tamanho M, confeccionada em 100% poliéster. É uma peça pesada e encorpada, com gola alta, fechamento frontal por zíper, bolsos laterais, punhos e barra elásticos e faixa preta com o nome Calvin Klein atravessando o peito e as mangas.",
     "conditionNotes": "Peça praticamente nova, sem marcas de uso aparentes nas fotos. As imagens reais mostram a frente, os detalhes da faixa de logos e a parte traseira.",
     "details": [
       ["Marca", "Calvin Klein Performance"],
-      ["Tipo", "Jaqueta corta-vento"],
+      ["Tipo", "Jaqueta esportiva masculina"],
       ["Tamanho", "M"],
       ["Cor", "Branca com faixa preta"],
       ["Composição", "100% poliéster"],
+      ["Estrutura", "Peça pesada e encorpada"],
       ["Fechamento", "Zíper frontal"],
       ["Bolsos", "Dois bolsos laterais"],
       ["Condição", "Praticamente nova, sem marcas de uso"],
