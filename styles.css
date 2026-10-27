@@ -50,3 +50,21 @@
 .gallery-disclosure{font-size:10px;color:var(--muted);text-align:center;line-height:1.6;margin-top:12px}
 .lightbox-open{overflow:hidden}.photo-lightbox[hidden]{display:none}.photo-lightbox{position:fixed;inset:0;z-index:1000;display:grid;place-items:center;padding:72px 28px 28px;background:rgba(18,15,16,.94);cursor:zoom-out}.photo-lightbox-image{display:block;width:auto;height:auto;max-width:min(1200px,calc(100vw - 56px));max-height:calc(100vh - 100px);object-fit:contain;border-radius:6px;box-shadow:0 24px 80px rgba(0,0,0,.45);cursor:default}.photo-lightbox-close{position:absolute;top:18px;right:22px;width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:rgba(251,250,249,.12);color:#fff;font-size:34px;font-weight:200;line-height:1}.photo-lightbox-close:hover{background:rgba(251,250,249,.2);color:#fff}.photo-lightbox-close:focus-visible{outline-color:#fff}@media(max-width:640px){.photo-lightbox{padding:64px 14px 18px}.photo-lightbox-image{max-width:calc(100vw - 28px);max-height:calc(100vh - 82px)}.photo-lightbox-close{top:10px;right:10px}}
 @media(max-width:640px){.cover-label{top:8px;left:7px;font-size:8px;max-width:calc(100% - 50px)}}
+
+/* Escolha de contato ou pagamento na página do produto. */
+.interest-dialog{width:min(520px,calc(100vw - 32px));max-width:none;margin:auto;padding:34px;border:0;border-radius:12px;background:var(--paper);color:var(--ink);box-shadow:0 28px 90px rgba(18,15,16,.28)}
+.interest-dialog::backdrop{background:rgba(18,15,16,.62);backdrop-filter:blur(3px)}
+.interest-dialog-close{position:absolute;top:13px;right:14px;width:38px;height:38px;border-radius:50%;display:grid;place-items:center;background:var(--sand);font-size:25px;font-weight:300;line-height:1}
+.interest-dialog h2{font-size:30px;margin-top:8px;padding-right:28px}
+.interest-dialog-price{font-family:var(--serif);font-size:23px;margin-top:7px}
+.interest-options{display:grid;gap:10px;margin-top:26px}
+.interest-option{width:100%;min-height:76px;display:flex;align-items:center;justify-content:space-between;gap:20px;padding:15px 17px;border:1px solid var(--line);border-radius:8px;text-align:left;background:#fff;color:var(--ink)}
+.interest-option:hover{border-color:var(--sage);background:#f7faf8;color:var(--ink)}
+.interest-option>span:first-child{display:grid;gap:2px}
+.interest-option strong{font-size:13px;font-weight:600}
+.interest-option small{font-size:11px;line-height:1.55;color:var(--muted)}
+.interest-option>span:last-child{font-size:21px;color:var(--sage-ink)}
+.whatsapp-option{background:var(--ink);border-color:var(--ink);color:#fff}
+.whatsapp-option small{color:#ddd6d3}.whatsapp-option:hover{background:#423a3c;border-color:#423a3c;color:#fff}
+.payment-status{min-height:20px;margin-top:13px;font-size:11px;line-height:1.6;color:var(--muted)}
+@media(max-width:640px){.interest-dialog{padding:28px 20px 20px}.interest-dialog h2{font-size:26px}.interest-option{min-height:72px;padding:13px 14px}}

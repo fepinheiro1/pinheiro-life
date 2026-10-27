@@ -12,6 +12,73 @@ const categories = [
 ];
 const products = [
   {
+    "id": "ghome-smart-k02apro",
+    "slug": "fechadura-inteligente-ghome-smart-k02apro-biometria",
+    "name": "Fechadura Inteligente GHome Smart K02APRO com Biometria",
+    "type": "single",
+    "category": "Casa inteligente",
+    "categoryId": "casa-cozinha",
+    "price": 290,
+    "newPriceText": "US$ 68,99",
+    "newPriceLabel": "Nova na fabricante",
+    "newPriceSource": {
+      "label": "GHome Smart",
+      "url": "https://us.ghomesmart.com/collections/smart-locks"
+    },
+    "image": "assets/produtos/ghome-smart-k02apro/capa-porta-moderna.png",
+    "alt": "Fechadura inteligente GHome Smart K02APRO instalada em uma porta de madeira — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/ghome-smart-k02apro/capa-porta-moderna.png",
+        "alt": "Fechadura inteligente GHome Smart K02APRO instalada em uma porta de madeira — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/ghome-smart-k02apro/referencia-produto.png",
+        "alt": "GHome Smart K02APRO com teclado, leitor biométrico, chaves e aplicativo — imagem de referência do modelo",
+        "isReference": true
+      },
+      {
+        "src": "assets/produtos/ghome-smart-k02apro/foto-real-frente.jpg",
+        "alt": "Frente da caixa lacrada da fechadura GHome Smart K02APRO anunciada — foto real"
+      },
+      {
+        "src": "assets/produtos/ghome-smart-k02apro/foto-real-lateral.jpg",
+        "alt": "Vista lateral da caixa lacrada da fechadura anunciada com a relação de componentes — foto real"
+      },
+      {
+        "src": "assets/produtos/ghome-smart-k02apro/foto-real-especificacoes.jpg",
+        "alt": "Especificações impressas na caixa da GHome Smart K02APRO anunciada — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Nova · lacrada",
+    "tag": "Avulso · nova e lacrada",
+    "meta": "Biometria · senha · app · chave",
+    "conditionSummary": "Nova, lacrada na embalagem original.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir da imagem do modelo.<br>A segunda imagem é uma referência do produto. As três imagens seguintes mostram a caixa lacrada anunciada.",
+    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa, a segunda é uma referência do modelo e as três imagens seguintes mostram a caixa real lacrada.",
+    "description": "Fechadura inteligente GHome Smart K02APRO com quatro formas de abertura: impressão digital, senha, aplicativo e chave física. O modelo utiliza Bluetooth, permite gerenciar usuários pelo aplicativo Gosund e possui alimentação emergencial por USB-C.",
+    "conditionNotes": "Produto novo e lacrado na embalagem original. As quatro pilhas AAA necessárias para o funcionamento não acompanham o produto.",
+    "details": [
+      ["Marca", "GHome Smart"],
+      ["Modelo", "K02APRO"],
+      ["Cor", "Preta"],
+      ["Formas de abertura", "Biometria · senha · aplicativo · chave"],
+      ["Capacidade", "Até 18 digitais e 20 senhas"],
+      ["Conexão", "Bluetooth"],
+      ["Aplicativo", "Gosund"],
+      ["Alimentação", "4 pilhas AAA · não inclusas"],
+      ["Energia emergencial", "USB-C · 5 V / 2 A"],
+      ["Proteção", "IP54"],
+      ["Espessura de porta", "35 a 55 mm"],
+      ["Conteúdo indicado na caixa", "Conjunto da fechadura · mecanismo · 2 chaves · parafusos · manual"]
+    ]
+  },
+  {
     "id": "samsung-cf390-27-duas-unidades",
     "slug": "monitor-curvo-samsung-cf390-27-full-hd",
     "name": "Monitor Curvo Samsung CF390 27\u201d Full HD",

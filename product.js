@@ -51,7 +51,44 @@ if(video){
   window.addEventListener('pagehide',()=>video.pause());
 }
 const interest=document.querySelector('#interest-button');
-interest.addEventListener('click',()=>{
-  document.querySelector('#interest-message').hidden=false;
-  interest.textContent=interest.dataset.demo==='true'?'Demonstração de contato':'Contato em configuração';
-});
+if(interest&&!interest.disabled){
+  const whatsappNumber='5519999554109';
+  const productName=interest.dataset.productName||document.querySelector('#product-title')?.textContent?.trim()||'produto';
+  const productPrice=interest.dataset.productPriceLabel||document.querySelector('.product-info .price')?.textContent?.trim()||'';
+  const productUrl=location.href.split('#')[0].split('?')[0];
+  const whatsappMessage=`Olá, Patricia! Estou interessado(a) no produto: ${productName} (${productPrice}). Vi no pinheiro.life: ${productUrl}`;
+  const contactDialog=document.createElement('dialog');
+  contactDialog.className='interest-dialog';
+  contactDialog.setAttribute('aria-labelledby','interest-dialog-title');
+  contactDialog.innerHTML=`
+    <button class="interest-dialog-close" type="button" aria-label="Fechar">×</button>
+    <p class="green-label">${productName}</p>
+    <h2 id="interest-dialog-title">Como prefere continuar?</h2>
+    <p class="interest-dialog-price">${productPrice}</p>
+    <div class="interest-options">
+      <a class="interest-option whatsapp-option" href="https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}" target="_blank" rel="noopener">
+        <span><strong>Falar com a Patricia</strong><small>Tire dúvidas e combine diretamente pelo WhatsApp.</small></span>
+        <span aria-hidden="true">→</span>
+      </a>
+      <button class="interest-option payment-option" type="button">
+        <span><strong>Pagar e retirar</strong><small>Pagamento seguro pela InfinitePay.</small></span>
+        <span aria-hidden="true">→</span>
+      </button>
+    </div>
+    <p class="payment-status" role="status" aria-live="polite"></p>`;
+  document.body.append(contactDialog);
+  const closeButton=contactDialog.querySelector('.interest-dialog-close');
+  const paymentButton=contactDialog.querySelector('.payment-option');
+  const paymentStatus=contactDialog.querySelector('.payment-status');
+  const closeDialog=()=>contactDialog.close();
+  interest.addEventListener('click',()=>contactDialog.showModal());
+  closeButton.addEventListener('click',closeDialog);
+  contactDialog.addEventListener('click',event=>{
+    const bounds=contactDialog.getBoundingClientRect();
+    const outside=event.clientX<bounds.left||event.clientX>bounds.right||event.clientY<bounds.top||event.clientY>bounds.bottom;
+    if(outside)closeDialog();
+  });
+  paymentButton.addEventListener('click',()=>{
+    paymentStatus.textContent='Pagamento online em configuração. Enquanto isso, fale com a Patricia pelo WhatsApp.';
+  });
+}
