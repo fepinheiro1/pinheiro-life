@@ -1,0 +1,18 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "pinheiro-life-checkout",
+	"main": "index.js",
+	"compatibility_date": "2026-10-27",
+	"account_id": "b2d0f641874010e20125e4a4520ae209",
+	"workers_dev": true,
+	"preview_urls": false,
+	"observability": {
+		"enabled": true
+	},
+	"kv_namespaces": [
+		{
+			"binding": "LEADS",
+			"id": "16d164645a3646b7875d217d560e6526"
+		}
+	]
+}
