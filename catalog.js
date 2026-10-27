@@ -12,6 +12,55 @@ const categories = [
 ];
 const products = [
   {
+    "id": "abajur-madeira-ripado-gota",
+    "slug": "abajur-luminaria-de-mesa-madeira-ripada-formato-gota",
+    "name": "Abajur de Madeira Ripado Formato Gota",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 290,
+    "newPrice": 579,
+    "newPriceLabel": "Similar novo",
+    "newPriceSource": {
+      "label": "Arevo Iluminação",
+      "url": "https://www.arevoiluminacao.com.br/abajures/abajur-ripado-gota-cabo-pp-preto-2-vias-classic-lar-"
+    },
+    "image": "assets/produtos/abajur-madeira-ripado-gota/capa-sala.png",
+    "alt": "Abajur de madeira ripado em formato de gota aceso sobre uma mesa lateral em uma sala — imagem ilustrativa criada com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/abajur-madeira-ripado-gota/capa-sala.png",
+        "alt": "Abajur de madeira ripado em formato de gota aceso sobre uma mesa lateral em uma sala — imagem ilustrativa criada com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/abajur-madeira-ripado-gota/foto-real-frente.jpg",
+        "alt": "Vista frontal do abajur de madeira ripado em formato de gota anunciado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · bom estado aparente",
+    "tag": "Avulso · decoração",
+    "meta": "madeira escura · formato gota · soquete E27",
+    "conditionSummary": "Usado, em bom estado aparente na foto e pronto para compor a decoração.",
+    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir da foto real. A segunda imagem mostra exatamente o abajur anunciado.",
+    "description": "Abajur de mesa decorativo com estrutura ripada em madeira escura e desenho orgânico em formato de gota. As lâminas vazadas deixam a luz aparente e criam um efeito acolhedor, ideal para sala, quarto, escritório ou hall de entrada.",
+    "conditionNotes": "Peça usada, em bom estado aparente na foto enviada. A imagem real mostra a estrutura de madeira, o soquete, a lâmpada e o cabo de alimentação.",
+    "details": [
+      ["Tipo", "Abajur / luminária de mesa"],
+      ["Material", "Madeira"],
+      ["Cor", "Marrom escuro"],
+      ["Formato", "Gota ripada e vazada"],
+      ["Soquete", "Padrão E27"],
+      ["Uso indicado", "Ambientes internos"],
+      ["Condição", "Usado, em bom estado aparente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "oculos-prada-linea-rossa-sps-56m",
     "slug": "oculos-de-sol-prada-linea-rossa-sps-56m",
     "name": "Óculos de Sol Prada Linea Rossa SPS 56M",
