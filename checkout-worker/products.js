@@ -1,5 +1,11 @@
 // Arquivo gerado por scripts/build-checkout-worker-products.cjs.
 export const products = {
+  "cervejeira-midea-bca10p2-96l": {
+    "id": "cervejeira-midea-bca10p2-96l",
+    "slug": "cervejeira-midea-flex-bca10p2-96l-220v",
+    "name": "Cervejeira Midea Flex BCA10P2 96 L 220 V",
+    "price": 189000
+  },
   "decanter-cristal-whisky-26cm": {
     "id": "decanter-cristal-whisky-26cm",
     "slug": "decanter-de-cristal-lapidado-para-whisky-26cm",
@@ -196,7 +202,7 @@ export const products = {
     "id": "adega-electrolux-acs34",
     "slug": "adega-climatizada-electrolux-acs34-34-garrafas",
     "name": "Adega climatizada Electrolux ACS34",
-    "price": 149000
+    "price": 189000
   },
   "kit-pipoqueira-waffle": {
     "id": "kit-pipoqueira-waffle",

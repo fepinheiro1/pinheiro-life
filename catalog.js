@@ -12,6 +12,75 @@ const categories = [
 ];
 const products = [
   {
+    "id": "cervejeira-midea-bca10p2-96l",
+    "slug": "cervejeira-midea-flex-bca10p2-96l-220v",
+    "name": "Cervejeira Midea Flex BCA10P2 96 L 220 V",
+    "type": "single",
+    "category": "Adegas e bebidas",
+    "categoryId": "casa-cozinha",
+    "price": 1890,
+    "newPrice": 2727,
+    "newPriceLabel": "Nova encontrada",
+    "newPriceSource": {
+      "label": "Loja Solar",
+      "url": "https://www.lojasolar.com.br/cervejeira-flex-96l-preta-220v-bca10p2-midea/p"
+    },
+    "image": "assets/produtos/cervejeira-midea-bca10p2-96l/capa-varanda-gourmet.webp",
+    "alt": "Cervejeira Midea Flex BCA10P2 de 96 litros em uma varanda gourmet — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/cervejeira-midea-bca10p2-96l/capa-varanda-gourmet.webp",
+        "alt": "Cervejeira Midea Flex BCA10P2 de 96 litros em uma varanda gourmet — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/cervejeira-midea-bca10p2-96l/referencia-oficial-frontal.webp",
+        "alt": "Vista frontal oficial da cervejeira Midea Flex BCA10P2 de 96 litros",
+        "isReference": true
+      },
+      {
+        "src": "assets/produtos/cervejeira-midea-bca10p2-96l/foto-real-etiqueta.webp",
+        "alt": "Etiqueta real da cervejeira anunciada confirmando o modelo BCA10P2 e a tensão de 220 V"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "referencePhotoSource": {
+      "label": "Midea",
+      "url": "https://www.midea.com.br/cervejeira-frost-free-flex-3-em-1-midea-96-l-26/p"
+    },
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA.<br>Segunda imagem: referência oficial do mesmo modelo.<br>Terceira imagem: etiqueta real da cervejeira anunciada.",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · perfeito estado de conservação",
+    "tag": "Avulso · 96 L · 220 V",
+    "meta": "96 L · −5 °C a 18 °C · Frost Free",
+    "conditionSummary": "Funcionando perfeitamente e em perfeito estado de conservação.",
+    "disclosureNote": "A capa é uma ambientação ilustrativa criada com IA. A segunda imagem é uma referência oficial do modelo e a terceira mostra a etiqueta real da cervejeira anunciada.",
+    "description": "Cervejeira Midea Flex BCA10P2 com capacidade de 96 litros e ampla regulagem de temperatura, de −5 °C a 18 °C. O modelo 3 em 1 pode ser utilizado como cervejeira, frigobar ou adega e conta com sistema Frost Free, porta de vidro triplo, painel digital touch, iluminação interna em LED e três prateleiras removíveis.",
+    "conditionNotes": "Cervejeira usada, funcionando perfeitamente e em perfeito estado de conservação. A foto real da etiqueta confirma o modelo BCA10P2 e a tensão de 220 V.",
+    "details": [
+      ["Marca", "Midea"],
+      ["Linha", "Flex"],
+      ["Modelo", "BCA10P2"],
+      ["Capacidade", "96 litros"],
+      ["Funções", "Cervejeira · frigobar · adega"],
+      ["Faixa de temperatura", "−5 °C a 18 °C"],
+      ["Refrigeração", "Compressor · Frost Free"],
+      ["Porta", "Vidro triplo"],
+      ["Controle", "Painel digital touch"],
+      ["Iluminação", "LED interno"],
+      ["Prateleiras", "3 removíveis"],
+      ["Armazenamento", "Até 67 latas de 350 ml"],
+      ["Tensão", "220 V"],
+      ["Potência", "90 W"],
+      ["Dimensões", "84,5 × 48 × 47,5 cm"],
+      ["Peso", "35 kg"],
+      ["Condição", "Usada, funcionando perfeitamente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "decanter-cristal-whisky-26cm",
     "slug": "decanter-de-cristal-lapidado-para-whisky-26cm",
     "name": "Decanter Kosta Boda City by Vicke Lindstrand 26 cm",
@@ -1848,7 +1917,7 @@ const products = [
     "type": "single",
     "category": "Adegas e bebidas",
     "categoryId": "casa-cozinha",
-    "price": 1490,
+    "price": 1890,
     "image": "assets/produtos/adega-electrolux-acs34/capa-ambiente.png",
     "alt": "Adega climatizada Electrolux ACS34 em uma sala de jantar contemporânea — ambiente ilustrativo criado com IA",
     "photos": [

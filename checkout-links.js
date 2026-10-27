@@ -5,8 +5,8 @@ const checkoutLinks = {
     "url": "https://checkout.infinitepay.io/patirpinheiro/iEVnvw8YEa"
   },
   "adega-electrolux-acs34": {
-    "price": 149000,
-    "url": "https://checkout.infinitepay.io/patirpinheiro/nclVugS5PB"
+    "price": 189000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/0BPDGg6c5H"
   },
   "apple-airpods-max-prata": {
     "price": 59000,
@@ -27,6 +27,10 @@ const checkoutLinks = {
   "canon-eos-rebel-t3i-kit-18-55-75-300": {
     "price": 190000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/Dn6ggmIIYz"
+  },
+  "cervejeira-midea-bca10p2-96l": {
+    "price": 189000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/mkkkxXJc0U"
   },
   "conjunto-calvin-klein-vermelho-p": {
     "price": 14900,
