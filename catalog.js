@@ -19,11 +19,11 @@ const products = [
     "category": "Casa inteligente",
     "categoryId": "casa-cozinha",
     "price": 290,
-    "newPriceText": "US$ 68,99",
+    "newPriceText": "US$ 59,99",
     "newPriceLabel": "Nova na fabricante",
     "newPriceSource": {
       "label": "GHome Smart",
-      "url": "https://us.ghomesmart.com/collections/smart-locks"
+      "url": "https://us.ghomesmart.com/products/ghome-4-in-1-smart-fingerprint-door-knob?cfb=ca5ca9b2-7818-43fb-bd21-99cf59a1cf74&ifb=ca5ca9b2-7818-43fb-bd21-99cf59a1cf74&scm=search.v39.101.102.103.104&score=1&ssp=&spm=..search.search_1.1"
     },
     "image": "assets/produtos/ghome-smart-k02apro/capa-porta-moderna.png",
     "alt": "Fechadura inteligente GHome Smart K02APRO instalada em uma porta de madeira — ambiente ilustrativo criado com IA",
