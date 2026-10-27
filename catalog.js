@@ -12,6 +12,64 @@ const categories = [
 ];
 const products = [
   {
+    "id": "video-porteiro-hd-7-rfid",
+    "slug": "video-porteiro-hd-7-polegadas-rfid",
+    "name": "Vídeo Porteiro HD 7 Polegadas com RFID",
+    "type": "single",
+    "category": "Segurança e acesso",
+    "categoryId": "casa-cozinha",
+    "price": 490,
+    "newPriceText": "US$ 125",
+    "newPriceLabel": "Similar novo importado",
+    "newPriceSource": {
+      "label": "eBay",
+      "url": "https://www.ebay.com/itm/266410694761"
+    },
+    "image": "assets/produtos/video-porteiro-hd-7-rfid/capa-entrada-residencial.png",
+    "alt": "Vídeo porteiro HD com monitor de 7 polegadas e módulo externo instalados em uma entrada residencial — ambiente ilustrativo criado com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/video-porteiro-hd-7-rfid/capa-entrada-residencial.png",
+        "alt": "Vídeo porteiro HD com monitor de 7 polegadas e módulo externo instalados em uma entrada residencial — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/video-porteiro-hd-7-rfid/foto-real-caixa.jpg",
+        "alt": "Caixa original do vídeo porteiro HD de 7 polegadas anunciado — foto real"
+      },
+      {
+        "src": "assets/produtos/video-porteiro-hd-7-rfid/foto-real-conteudo.jpg",
+        "alt": "Conteúdo completo do vídeo porteiro novo dentro da caixa — foto real"
+      },
+      {
+        "src": "assets/produtos/video-porteiro-hd-7-rfid/foto-real-modulo-externo.jpg",
+        "alt": "Módulo externo com câmera, leitor RFID e botão de chamada — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · nunca instalado",
+    "tag": "Avulso · novo",
+    "meta": "Tela 7″ · RFID · visão noturna",
+    "conditionSummary": "Novo, nunca usado e nunca instalado.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir das fotos do produto.<br>As três imagens seguintes mostram o kit real anunciado.",
+    "description": "Kit importado de vídeo porteiro HD com monitor interno colorido de 7 polegadas e módulo externo com câmera e leitor RFID. Permite visualizar e conversar com visitantes, monitorar a área externa e acionar uma fechadura elétrica compatível pelo monitor.",
+    "conditionNotes": "Produto novo, nunca usado e nunca instalado. Conservado na embalagem original. O kit anunciado é exatamente o mostrado nas fotos.",
+    "details": [
+      ["Tipo", "Vídeo porteiro com fio"],
+      ["Tela", "LCD colorida de 7 polegadas"],
+      ["Comunicação", "Viva-voz"],
+      ["Módulo externo", "Câmera · leitor RFID · botão de chamada"],
+      ["Recursos", "Visão noturna · monitoramento externo · abertura elétrica"],
+      ["Instalação", "Residencial · sistema cabeado"],
+      ["Conteúdo do kit", "Monitor interno · módulo externo · fonte · cabeamento · botão de saída · manual e acessórios mostrados nas fotos"],
+      ["Origem", "Importado"],
+      ["Estado", "Novo · nunca instalado"]
+    ]
+  },
+  {
     "id": "ghome-smart-k02apro",
     "slug": "fechadura-inteligente-ghome-smart-k02apro-biometria",
     "name": "Fechadura Inteligente GHome Smart K02APRO com Biometria",
