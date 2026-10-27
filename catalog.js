@@ -34,31 +34,31 @@ const products = [
         "isIllustrative": true
       },
       {
-        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente-com-estojo.jpg",
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente-com-estojo.jpg?v=2",
         "alt": "Óculos Prada Linea Rossa SPS 56M anunciados com o estojo original — foto real"
       },
       {
-        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente.jpg",
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente.jpg?v=2",
         "alt": "Vista frontal dos óculos Prada Linea Rossa SPS 56M anunciados — foto real"
       },
       {
-        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-haste-direita.jpg",
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-haste-direita.jpg?v=2",
         "alt": "Vista lateral da haste com detalhe vermelho Prada Linea Rossa — foto real"
       },
       {
-        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-haste-esquerda.jpg",
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-haste-esquerda.jpg?v=2",
         "alt": "Vista lateral oposta dos óculos Prada Linea Rossa anunciados — foto real"
       },
       {
-        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente-sobre-estojo.jpg",
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente-sobre-estojo.jpg?v=2",
         "alt": "Óculos Prada Linea Rossa apoiados sobre o estojo original — foto real"
       },
       {
-        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-gravacao-prada-made-in-italy.jpg",
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-gravacao-prada-made-in-italy.jpg?v=2",
         "alt": "Gravação Prada Made in Italy na haste dos óculos anunciados — foto real"
       },
       {
-        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-gravacao-modelo.jpg",
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-gravacao-modelo.jpg?v=2",
         "alt": "Gravação do modelo SPS 56M 5AV-6S1 e medidas na haste — foto real"
       }
     ],
