@@ -12,6 +12,60 @@ const categories = [
 ];
 const products = [
   {
+    "id": "lanterna-decorativa-vidro-vela-led",
+    "slug": "lanterna-decorativa-de-vidro-com-vela-led",
+    "name": "Lanterna Decorativa de Vidro com Vela LED",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 190,
+    "newPrice": 399,
+    "newPriceLabel": "Similar novo",
+    "newPriceSource": {
+      "label": "Magazine Luiza",
+      "url": "https://www.magazineluiza.com.br/busca/lanterna%2Bdecorativa%2Bde%2Bvidro/"
+    },
+    "image": "assets/produtos/lanterna-decorativa-vidro-vela-led/capa-varanda.png",
+    "alt": "Lanterna decorativa redonda de vidro e metal com vela de LED acesa em uma varanda — imagem ilustrativa criada com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/lanterna-decorativa-vidro-vela-led/capa-varanda.png",
+        "alt": "Lanterna decorativa redonda de vidro e metal com vela de LED acesa em uma varanda — imagem ilustrativa criada com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/lanterna-decorativa-vidro-vela-led/foto-real-frente.jpg",
+        "alt": "Vista frontal da lanterna decorativa de vidro com vela de LED anunciada — foto real"
+      },
+      {
+        "src": "assets/produtos/lanterna-decorativa-vidro-vela-led/foto-real-lateral.jpg",
+        "alt": "Vista lateral da lanterna decorativa com alça e estrutura metálica — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · bom estado aparente",
+    "tag": "Avulso · decoração",
+    "meta": "vidro transparente · metal prateado · vela LED",
+    "conditionSummary": "Usada, em bom estado aparente e acompanhada da vela de LED mostrada nas fotos.",
+    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir das fotos reais. As duas imagens seguintes mostram exatamente a lanterna e a vela de LED anunciadas.",
+    "description": "Lanterna decorativa redonda com globo de vidro transparente, base e alça em metal prateado e vela de LED. A combinação cria uma iluminação suave e acolhedora para sala, varanda coberta, quarto, hall de entrada ou mesa posta.",
+    "conditionNotes": "Peça usada, em bom estado aparente nas fotos enviadas. O vidro, a base, a alça e a estrutura metálica interna estão visíveis nas imagens reais. Acompanha a vela de LED mostrada.",
+    "details": [
+      ["Tipo", "Lanterna decorativa / porta-vela"],
+      ["Material", "Vidro e metal"],
+      ["Cor", "Transparente e prateada"],
+      ["Formato", "Redondo com alça"],
+      ["Iluminação", "Vela de LED"],
+      ["Acompanha", "Vela de LED mostrada nas fotos"],
+      ["Uso indicado", "Ambientes internos ou varanda coberta"],
+      ["Condição", "Usada, em bom estado aparente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "abajur-madeira-ripado-gota",
     "slug": "abajur-luminaria-de-mesa-madeira-ripada-formato-gota",
     "name": "Abajur de Madeira Ripado Formato Gota",
