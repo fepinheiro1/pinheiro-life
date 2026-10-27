@@ -52,11 +52,17 @@ if(video){
 }
 const interest=document.querySelector('#interest-button');
 if(interest&&!interest.disabled){
-  const whatsappNumber='5519999554109';
+  const contacts=[
+    {name:'Patricia',number:'5519999554109'},
+    {name:'Fernando',number:'5519999642000'}
+  ];
   const productName=interest.dataset.productName||document.querySelector('#product-title')?.textContent?.trim()||'produto';
   const productPrice=interest.dataset.productPriceLabel||document.querySelector('.product-info .price')?.textContent?.trim()||'';
   const productUrl=location.href.split('#')[0].split('?')[0];
-  const whatsappMessage=`Olá, Patricia! Estou interessado(a) no produto: ${productName} (${productPrice}). Vi no pinheiro.life: ${productUrl}`;
+  const whatsappLink=contact=>{
+    const message=`Olá, ${contact.name}! Estou interessado(a) no produto: ${productName} (${productPrice}). Vi no pinheiro.life: ${productUrl}`;
+    return `https://wa.me/${contact.number}?text=${encodeURIComponent(message)}`;
+  };
   const contactDialog=document.createElement('dialog');
   contactDialog.className='interest-dialog';
   contactDialog.setAttribute('aria-labelledby','interest-dialog-title');
@@ -66,12 +72,14 @@ if(interest&&!interest.disabled){
     <h2 id="interest-dialog-title">Como prefere continuar?</h2>
     <p class="interest-dialog-price">${productPrice}</p>
     <div class="interest-options">
-      <a class="interest-option whatsapp-option" href="https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}" target="_blank" rel="noopener">
-        <span><strong>Falar com a Patricia</strong><small>Tire dúvidas e combine diretamente pelo WhatsApp.</small></span>
-        <span aria-hidden="true">→</span>
-      </a>
+      <div class="interest-option whatsapp-option">
+        <div class="whatsapp-contacts">
+          ${contacts.map(contact=>`<a href="${whatsappLink(contact)}" target="_blank" rel="noopener"><strong>Falar com ${contact.name}</strong><span aria-hidden="true">→</span></a>`).join('')}
+        </div>
+        <small>Tire dúvidas e combine diretamente pelo WhatsApp.</small>
+      </div>
       <button class="interest-option payment-option" type="button">
-        <span><strong>Pagar e retirar</strong><small>Pagamento seguro pela InfinitePay.</small></span>
+        <span><strong>Pagar e retirar</strong><small>Pagamento seguro pela InfinitePay.</small><span class="payment-tags"><span>10% OFF no Pix</span><span>6x sem juros no cartão</span></span></span>
         <span aria-hidden="true">→</span>
       </button>
     </div>
