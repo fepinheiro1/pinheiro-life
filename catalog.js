@@ -74,7 +74,7 @@ const products = [
     "slug": "fechadura-inteligente-ghome-smart-k02apro-biometria",
     "name": "Fechadura Inteligente GHome Smart K02APRO com Biometria",
     "type": "single",
-    "category": "Casa inteligente",
+    "category": "Segurança e acesso",
     "categoryId": "casa-cozinha",
     "price": 290,
     "newPriceText": "US$ 59,99",
