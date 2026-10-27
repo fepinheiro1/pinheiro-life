@@ -12,6 +12,82 @@ const categories = [
 ];
 const products = [
   {
+    "id": "oculos-prada-linea-rossa-sps-56m",
+    "slug": "oculos-de-sol-prada-linea-rossa-sps-56m",
+    "name": "Óculos de Sol Prada Linea Rossa SPS 56M",
+    "type": "single",
+    "category": "Acessórios",
+    "categoryId": "acessorios",
+    "price": 690,
+    "newPriceText": "£ 156,75",
+    "newPriceLabel": "Novo no exterior",
+    "newPriceSource": {
+      "label": "United Sunglasses",
+      "url": "https://www.unitedsunglasses.com/products/prada-sunglasses-brown-gradient-pilot-rimless-ps56ms-sps-56m-5av-6s1-62mm"
+    },
+    "image": "assets/produtos/oculos-prada-linea-rossa-sps-56m/capa-homem-terraco.jpg",
+    "alt": "Homem adulto usando óculos Prada Linea Rossa SPS 56M em um terraço — imagem ilustrativa criada com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/capa-homem-terraco.jpg",
+        "alt": "Homem adulto usando óculos Prada Linea Rossa SPS 56M em um terraço — imagem ilustrativa criada com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente-com-estojo.jpg",
+        "alt": "Óculos Prada Linea Rossa SPS 56M anunciados com o estojo original — foto real"
+      },
+      {
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente.jpg",
+        "alt": "Vista frontal dos óculos Prada Linea Rossa SPS 56M anunciados — foto real"
+      },
+      {
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-haste-direita.jpg",
+        "alt": "Vista lateral da haste com detalhe vermelho Prada Linea Rossa — foto real"
+      },
+      {
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-haste-esquerda.jpg",
+        "alt": "Vista lateral oposta dos óculos Prada Linea Rossa anunciados — foto real"
+      },
+      {
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-frente-sobre-estojo.jpg",
+        "alt": "Óculos Prada Linea Rossa apoiados sobre o estojo original — foto real"
+      },
+      {
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-gravacao-prada-made-in-italy.jpg",
+        "alt": "Gravação Prada Made in Italy na haste dos óculos anunciados — foto real"
+      },
+      {
+        "src": "assets/produtos/oculos-prada-linea-rossa-sps-56m/foto-real-gravacao-modelo.jpg",
+        "alt": "Gravação do modelo SPS 56M 5AV-6S1 e medidas na haste — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · quase nenhuma marca de uso",
+    "tag": "Avulso · com estojo original",
+    "meta": "Prada Linea Rossa · 62–14–130 · lentes degradê",
+    "conditionSummary": "Usado, com quase nenhuma marca de uso e em excelente estado geral.",
+    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir das fotos reais. As sete imagens seguintes mostram exatamente os óculos e o estojo anunciados.",
+    "description": "Óculos de sol Prada Linea Rossa SPS 56M, código de cor 5AV-6S1, com design aviador sem aro, armação gunmetal e preta e lentes marrons degradê. O detalhe vermelho Prada nas hastes completa o visual esportivo. Acompanha o estojo original mostrado nas fotos.",
+    "conditionNotes": "Óculos usados com quase nenhuma marca de uso aparente. As fotos reais mostram a frente, as duas hastes, as gravações do modelo e o estojo original que acompanha a peça.",
+    "details": [
+      ["Marca", "Prada Linea Rossa"],
+      ["Modelo", "SPS 56M"],
+      ["Código", "5AV-6S1"],
+      ["Formato", "Aviador sem aro"],
+      ["Lentes", "Marrom degradê · categoria 3N"],
+      ["Armação", "Gunmetal e preta"],
+      ["Medidas", "62–14–130 mm"],
+      ["Origem indicada", "Made in Italy"],
+      ["Acompanha", "Estojo original Prada"],
+      ["Condição", "Usado, com quase nenhuma marca de uso"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "jaqueta-calvin-klein-performance-branca-m",
     "slug": "jaqueta-calvin-klein-performance-unissex-branca-tamanho-m",
     "name": "Jaqueta Calvin Klein Performance Unissex Branca",
