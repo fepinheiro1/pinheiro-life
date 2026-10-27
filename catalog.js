@@ -21,11 +21,11 @@ const products = [
     "price": 690,
     "priceSuffix": "cada",
     "quantity": 2,
-    "newPrice": 800,
-    "newPriceLabel": "Novo encontrado",
+    "newPrice": 1234,
+    "newPriceLabel": "Similar novo encontrado",
     "newPriceSource": {
-      "label": "Referência de mercado",
-      "url": "https://www.pichau.com.br/monitor-samsung-cf390-27-va-curvo-fhd-4ms-60hz-freesync-vga-hdmi-lc27f390fhlmzd"
+      "label": "Samsung 27\u201d curvo novo",
+      "url": "https://www.mercadolivre.com.br/samsung-27-fhd-100hz-curved-monitor-black-preto/p/MLB2080269609"
     },
     "image": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
     "alt": "Dois monitores curvos Samsung CF390 de 27 polegadas em um home office \u2014 ambiente ilustrativo criado com IA",
@@ -51,7 +51,7 @@ const products = [
     "conditionSummary": "Perfeito estado de uso e conservação. R$ 690 cada ou R$ 1.300 o par.",
     "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA.<br>A segunda imagem é uma referência oficial do mesmo modelo. Fotos reais serão adicionadas posteriormente.",
     "disclosureNote": "A primeira imagem é uma ambientação criada com IA e a segunda é uma referência oficial do mesmo modelo. Fotos reais serão adicionadas posteriormente.",
-    "description": "Monitor curvo Samsung CF390 de 27 polegadas, com painel VA, resolução Full HD e curvatura 1800R. Possui conexões HDMI e VGA, tecnologia AMD FreeSync e modo de proteção ocular. Há duas unidades disponíveis por R$ 690 cada ou R$ 1.300 levando o par.",
+    "description": "Monitor curvo Samsung CF390 de 27 polegadas, com painel VA, resolução Full HD e curvatura 1800R. Possui conexões HDMI e VGA, tecnologia AMD FreeSync e modo de proteção ocular. Há duas unidades disponíveis por R$ 690 cada ou R$ 1.300 levando o par. A referência de preço é de um Samsung curvo de 27 polegadas novo e atualmente disponível, de modelo mais recente.",
     "conditionNotes": "As duas unidades estão em perfeito estado de uso e conservação, com funcionamento normal.",
     "details": [
       ["Marca", "Samsung"],
