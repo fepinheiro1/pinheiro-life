@@ -18,7 +18,7 @@ const products = [
     "type": "single",
     "category": "Casa e cozinha",
     "categoryId": "casa-cozinha",
-    "price": 290,
+    "price": 190,
     "newPrice": 579,
     "newPriceLabel": "Similar novo",
     "newPriceSource": {
