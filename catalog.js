@@ -34,8 +34,8 @@ const products = [
         "isIllustrative": true
       },
       {
-        "src": "assets/produtos/porta-retrato-digital-frameo-10-16gb/foto-real-tela-privacidade.jpg",
-        "alt": "Porta-retrato digital Frameo anunciado em funcionamento, com o conteúdo pessoal da tela desfocado por privacidade — foto real"
+        "src": "assets/produtos/porta-retrato-digital-frameo-10-16gb/foto-real-tela.jpg?v=2",
+        "alt": "Porta-retrato digital Frameo anunciado em funcionamento exibindo uma foto de família — foto real"
       }
     ],
     "imageFit": "cover",
@@ -46,9 +46,9 @@ const products = [
     "tag": "Avulso · Wi-Fi",
     "meta": "10,1″ · IPS touch · 16 GB · app Frameo",
     "conditionSummary": "Usado, funcionando normalmente e com tela touch, Wi-Fi e memória interna de 16 GB.",
-    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir da foto real. A segunda mostra exatamente o porta-retrato anunciado em funcionamento; o conteúdo pessoal exibido na tela foi desfocado por privacidade.",
+    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir da foto real. A segunda mostra exatamente o porta-retrato anunciado em funcionamento.",
     "description": "Porta-retrato digital Frameo de 10,1 polegadas com tela IPS sensível ao toque, resolução 1280 × 800, Wi-Fi e 16 GB de armazenamento interno. Pelo aplicativo Frameo para iOS e Android, familiares e amigos podem enviar fotos e vídeos curtos diretamente para o aparelho.",
-    "conditionNotes": "Aparelho usado e fotografado em funcionamento. A imagem real comprova a tela ligada; o conteúdo pessoal exibido foi desfocado antes da publicação. O acabamento preto está em bom estado aparente na foto.",
+    "conditionNotes": "Aparelho usado e fotografado em funcionamento. A imagem real comprova a tela ligada e o acabamento preto está em bom estado aparente.",
     "details": [
       ["Linha / aplicativo", "Frameo"],
       ["Tela", "10,1″ IPS sensível ao toque"],
