@@ -48,7 +48,7 @@ const products = [
     "conditionSummary": "Peça pesada, com cristal espesso e sem avarias visíveis na foto enviada.",
     "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir da peça real. A segunda imagem mostra exatamente o decanter anunciado.",
     "description": "Decanter vintage da linha City, desenhada por Vicke Lindstrand para a tradicional vidraria sueca Kosta, hoje Kosta Boda. O padrão quadriculado lapidado, a medida de 26 cm e a forma correspondem às referências catalogadas da coleção, produzida na segunda metade do século XX. É uma peça pesada de cristal para whisky, bourbon ou licores, com presença de objeto de design escandinavo.",
-    "conditionNotes": "Peça vintage, muito pesada e em ótimo estado aparente. A foto real mostra o corpo lapidado, a base espessa e a tampa esférica, sem lascas, trincas ou outras avarias visíveis.",
+    "conditionNotes": "Peça vintage, muito pesada e em perfeito estado de conservação. A foto real mostra o corpo lapidado, a base espessa e a tampa esférica.",
     "details": [
       ["Tipo", "Decanter / licoreira para whisky"],
       ["Marca", "Kosta Boda / Kosta, Suécia"],
