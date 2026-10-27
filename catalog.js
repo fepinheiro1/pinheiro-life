@@ -12,6 +12,60 @@ const categories = [
 ];
 const products = [
   {
+    "id": "porta-retrato-digital-frameo-10-16gb",
+    "slug": "porta-retrato-digital-frameo-10-1-wifi-16gb",
+    "name": "Porta-Retrato Digital Frameo 10,1″ Wi-Fi 16 GB",
+    "type": "single",
+    "category": "Tecnologia",
+    "categoryId": "tecnologia",
+    "price": 390,
+    "newPriceText": "cerca de R$ 600",
+    "newPriceLabel": "Similar novo no Brasil",
+    "newPriceSource": {
+      "label": "Magazine Luiza",
+      "url": "https://www.magazineluiza.com.br/busca/portaretratos%2Bdigital%2Bframeo/"
+    },
+    "image": "assets/produtos/porta-retrato-digital-frameo-10-16gb/capa-sala.png",
+    "alt": "Porta-retrato digital Frameo preto exibindo uma paisagem em uma sala contemporânea — imagem ilustrativa criada com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/porta-retrato-digital-frameo-10-16gb/capa-sala.png",
+        "alt": "Porta-retrato digital Frameo preto exibindo uma paisagem em uma sala contemporânea — imagem ilustrativa criada com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/porta-retrato-digital-frameo-10-16gb/foto-real-tela-privacidade.jpg",
+        "alt": "Porta-retrato digital Frameo anunciado em funcionamento, com o conteúdo pessoal da tela desfocado por privacidade — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · funcionando normalmente",
+    "tag": "Avulso · Wi-Fi",
+    "meta": "10,1″ · IPS touch · 16 GB · app Frameo",
+    "conditionSummary": "Usado, funcionando normalmente e com tela touch, Wi-Fi e memória interna de 16 GB.",
+    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir da foto real. A segunda mostra exatamente o porta-retrato anunciado em funcionamento; o conteúdo pessoal exibido na tela foi desfocado por privacidade.",
+    "description": "Porta-retrato digital Frameo de 10,1 polegadas com tela IPS sensível ao toque, resolução 1280 × 800, Wi-Fi e 16 GB de armazenamento interno. Pelo aplicativo Frameo para iOS e Android, familiares e amigos podem enviar fotos e vídeos curtos diretamente para o aparelho.",
+    "conditionNotes": "Aparelho usado e fotografado em funcionamento. A imagem real comprova a tela ligada; o conteúdo pessoal exibido foi desfocado antes da publicação. O acabamento preto está em bom estado aparente na foto.",
+    "details": [
+      ["Linha / aplicativo", "Frameo"],
+      ["Tela", "10,1″ IPS sensível ao toque"],
+      ["Resolução", "1280 × 800 pixels"],
+      ["Armazenamento", "16 GB internos"],
+      ["Conectividade", "Wi-Fi"],
+      ["Aplicativo", "Frameo para iOS e Android"],
+      ["Orientação", "Rotação automática horizontal e vertical"],
+      ["Fotos", "JPG, JPEG, BMP e PNG"],
+      ["Vídeos", "MP4"],
+      ["Instalação", "Sobre móvel ou fixado na parede"],
+      ["Condição", "Usado e funcionando normalmente"],
+      ["Referência do modelo", "Amazon ASIN B09NKL4YK5"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "lanterna-decorativa-vidro-vela-led",
     "slug": "lanterna-decorativa-de-vidro-com-vela-led",
     "name": "Lanterna Decorativa de Vidro com Vela LED",
