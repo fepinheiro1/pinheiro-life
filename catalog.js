@@ -25,9 +25,14 @@ const products = [
       "label": "Referência de mercado",
       "url": "https://www.xenxen.com.br/produto/caixa-de-som-bluetooth-jbl-flip-5-preto-xen2-0864"
     },
-    "image": "assets/produtos/jbl-flip-5-preta/foto-real-frente.jpg",
-    "alt": "JBL Flip 5 preta anunciada sobre uma mesa de madeira — foto real",
+    "image": "assets/produtos/jbl-flip-5-preta/capa-varanda-piscina.jpg",
+    "alt": "JBL Flip 5 preta em uma varanda ao lado da piscina — ambiente ilustrativo criado com IA",
     "photos": [
+      {
+        "src": "assets/produtos/jbl-flip-5-preta/capa-varanda-piscina.jpg",
+        "alt": "JBL Flip 5 preta em uma varanda ao lado da piscina — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      },
       {
         "src": "assets/produtos/jbl-flip-5-preta/foto-real-frente.jpg",
         "alt": "Vista frontal da JBL Flip 5 preta anunciada — foto real"
@@ -42,14 +47,14 @@ const products = [
       }
     ],
     "imageFit": "cover",
-    "illustratedCover": false,
+    "illustratedCover": true,
     "isDemo": false,
     "status": "available",
     "condition": "Usada · marcas de uso",
     "tag": "Avulso · JBL",
     "meta": "20 W RMS · Bluetooth · IPX7",
     "conditionSummary": "Marcas de uso visíveis e funcionamento perfeito.",
-    "disclosureNote": "As imagens mostram a caixa de som anunciada, ligada e com suas marcas de uso reais.",
+    "disclosureNote": "A primeira imagem é uma ambientação criada com IA a partir da foto real. As três imagens seguintes mostram a caixa de som anunciada, ligada e com suas marcas de uso reais.",
     "description": "Caixa de som portátil JBL Flip 5 com potência de 20 W RMS, conexão Bluetooth e tecnologia PartyBoost para conectar outras caixas JBL compatíveis. Possui bateria interna recarregável, carregamento por USB-C e estrutura resistente à água com certificação IPX7.",
     "conditionNotes": "Produto usado com marcas de uso visíveis nas extremidades e no acabamento. Está funcionando perfeitamente.",
     "details": [
