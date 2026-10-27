@@ -12,6 +12,56 @@ const categories = [
 ];
 const products = [
   {
+    "id": "decanter-cristal-whisky-26cm",
+    "slug": "decanter-de-cristal-lapidado-para-whisky-26cm",
+    "name": "Decanter de Cristal Lapidado para Whisky 26 cm",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 390,
+    "newPriceText": "R$ 420",
+    "newPriceLabel": "Similar em antiquário",
+    "newPriceSource": {
+      "label": "Jardin Velharia",
+      "url": "https://jardinvelharia.com.br/products/garrafa-decanter-em-cristal-lapidado-com-tampa"
+    },
+    "image": "assets/produtos/decanter-cristal-whisky-26cm/capa-bar.webp",
+    "alt": "Decanter de cristal lapidado para whisky sobre uma bandeja em um bar residencial — imagem ilustrativa criada com IA",
+    "photos": [
+      {
+        "src": "assets/produtos/decanter-cristal-whisky-26cm/capa-bar.webp",
+        "alt": "Decanter de cristal lapidado para whisky sobre uma bandeja em um bar residencial — imagem ilustrativa criada com IA",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/decanter-cristal-whisky-26cm/foto-real-frente.webp",
+        "alt": "Vista frontal do decanter de cristal lapidado anunciado com tampa esférica — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · ótimo estado aparente",
+    "tag": "Avulso · cristal",
+    "meta": "cristal pesado · 26 cm · tampa esférica",
+    "conditionSummary": "Peça pesada, com cristal espesso e sem avarias visíveis na foto enviada.",
+    "disclosureNote": "A primeira imagem é uma ambientação ilustrativa criada com IA a partir da peça real. A segunda imagem mostra exatamente o decanter anunciado.",
+    "description": "Decanter de cristal transparente e pesado para whisky, bourbon ou licores, com lapidação geométrica, base espessa e tampa esférica de cristal. A peça tem presença marcante para servir bebidas ou compor bar, aparador e cristaleira.",
+    "conditionNotes": "Peça usada, muito pesada e em ótimo estado aparente. A foto real mostra o corpo lapidado, a base espessa e a tampa esférica, sem avarias visíveis.",
+    "details": [
+      ["Tipo", "Decanter / licoreira para whisky"],
+      ["Material", "Cristal transparente lapidado"],
+      ["Altura", "26 cm com a tampa"],
+      ["Diâmetro", "13 cm"],
+      ["Tampa", "Esférica em cristal com encaixe"],
+      ["Construção", "Peça pesada com base espessa"],
+      ["Uso indicado", "Whisky, bourbon e licores"],
+      ["Condição", "Usado, em ótimo estado aparente"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "porta-retrato-digital-frameo-10-16gb",
     "slug": "porta-retrato-digital-frameo-10-1-wifi-16gb",
     "name": "Porta-Retrato Digital Frameo 10,1″ Wi-Fi 16 GB",

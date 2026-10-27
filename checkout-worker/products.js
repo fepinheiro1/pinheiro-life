@@ -1,5 +1,11 @@
 // Arquivo gerado por scripts/build-checkout-worker-products.cjs.
 export const products = {
+  "decanter-cristal-whisky-26cm": {
+    "id": "decanter-cristal-whisky-26cm",
+    "slug": "decanter-de-cristal-lapidado-para-whisky-26cm",
+    "name": "Decanter de Cristal Lapidado para Whisky 26 cm",
+    "price": 39000
+  },
   "porta-retrato-digital-frameo-10-16gb": {
     "id": "porta-retrato-digital-frameo-10-16gb",
     "slug": "porta-retrato-digital-frameo-10-1-wifi-16gb",

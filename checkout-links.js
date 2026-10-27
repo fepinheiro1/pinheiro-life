@@ -40,6 +40,10 @@ const checkoutLinks = {
     "price": 9900,
     "url": "https://checkout.infinitepay.io/patirpinheiro/7IyZcl9ysH"
   },
+  "decanter-cristal-whisky-26cm": {
+    "price": 39000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/JSHHK3gRYH"
+  },
   "drop-shot-spektro-7-0-bt": {
     "price": 79000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/xipeh4BbGP"
