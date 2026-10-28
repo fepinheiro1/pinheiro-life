@@ -3879,6 +3879,262 @@ const products = [
       ]
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "raquete-squash-karakal-sx-100",
+    "name": "Raquete de Squash Karakal SX-100 com Capa",
+    "type": "single",
+    "category": "Squash",
+    "categoryId": "esportes",
+    "price": 290,
+    "image": "assets/produtos/raquete-squash-karakal-sx-100/capa-quadra-squash.jpg",
+    "alt": "Raquete de squash Karakal SX-100 com sua capa ao lado de uma quadra de squash",
+    "photos": [
+      {
+        "src": "assets/produtos/raquete-squash-karakal-sx-100/capa-quadra-squash.jpg",
+        "alt": "Raquete Karakal SX-100 e capa em ambiente de quadra de squash",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/raquete-squash-karakal-sx-100/foto-real-raquete-e-capa.jpg",
+        "alt": "Foto real da raquete Karakal SX-100 ao lado da capa"
+      },
+      {
+        "src": "assets/produtos/raquete-squash-karakal-sx-100/foto-real-raquete.jpg",
+        "alt": "Foto real da raquete de squash Karakal SX-100"
+      },
+      {
+        "src": "assets/produtos/raquete-squash-karakal-sx-100/foto-real-capa.jpg",
+        "alt": "Foto real da capa Karakal incluída"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas de uso",
+    "tag": "Avulsa · Karakal",
+    "meta": "100 g · Nano Graphite Magnesium Gel · com capa",
+    "conditionSummary": "Usada, com marcas de uso e grip desgastado. Acompanha capa.",
+    "description": "Raquete de squash Karakal SX-100, modelo leve de 100 g produzido com a tecnologia Nano Graphite Magnesium Gel. Acompanha a capa Karakal mostrada nas fotos reais.",
+    "conditionNotes": "Peça usada, com riscos e desgaste no aro e grip bastante usado, conforme mostram as fotos reais. A estrutura e as cordas estão apresentadas no estado atual do exemplar.",
+    "details": [
+      ["Marca", "Karakal"],
+      ["Modelo", "SX-100"],
+      ["Peso do quadro", "100 g"],
+      ["Material", "Nano Graphite Magnesium Gel"],
+      ["Padrão de cordas", "14 x 19"],
+      ["Acompanha", "Capa Karakal"]
+    ],
+    "newPriceText": "£ 109,99",
+    "newPriceLabel": "Preço original de tabela no exterior",
+    "newPriceSource": {
+      "url": "https://www.tennisnuts.com/karakal-sx-100-gel-squash-racket-1156962.html",
+      "label": "Tennisnuts"
+    },
+    "illustratedCover": true
+  },
+  {
+    "id": "raquete-squash-dunlop-aerogel-pro",
+    "name": "Raquete de Squash Dunlop Aerogel Pro com Capa",
+    "type": "single",
+    "category": "Squash",
+    "categoryId": "esportes",
+    "price": 290,
+    "image": "assets/produtos/raquete-squash-dunlop-aerogel-pro/capa-quadra-squash.jpg",
+    "alt": "Raquete de squash Dunlop Aerogel Pro com sua capa ao lado de uma quadra de squash",
+    "photos": [
+      {
+        "src": "assets/produtos/raquete-squash-dunlop-aerogel-pro/capa-quadra-squash.jpg",
+        "alt": "Raquete Dunlop Aerogel Pro e capa em ambiente de quadra de squash",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/raquete-squash-dunlop-aerogel-pro/foto-real-raquete-e-capa.jpg",
+        "alt": "Foto real da raquete Dunlop Aerogel Pro ao lado da capa"
+      },
+      {
+        "src": "assets/produtos/raquete-squash-dunlop-aerogel-pro/foto-real-raquete.jpg",
+        "alt": "Foto real da raquete de squash Dunlop Aerogel Pro"
+      },
+      {
+        "src": "assets/produtos/raquete-squash-dunlop-aerogel-pro/foto-real-capa.jpg",
+        "alt": "Foto real da capa Dunlop incluída"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas de uso",
+    "tag": "Avulsa · Dunlop",
+    "meta": "135 g · cabeça 525 cm² · com capa",
+    "conditionSummary": "Usada, com marcas de uso e grip desgastado. Acompanha capa.",
+    "description": "Raquete de squash Dunlop Aerogel Pro com quadro de 135 g, cabeça de 525 cm² e padrão de cordas 16 x 19. Acompanha a capa Dunlop mostrada nas fotos.",
+    "conditionNotes": "Peça usada, com riscos no aro e sinais de desgaste no grip, todos visíveis nas fotos reais. A estrutura e as cordas estão apresentadas no estado atual do exemplar.",
+    "details": [
+      ["Marca", "Dunlop"],
+      ["Modelo", "Aerogel Pro"],
+      ["Peso do quadro", "135 g"],
+      ["Cabeça", "525 cm²"],
+      ["Padrão de cordas", "16 x 19"],
+      ["Acompanha", "Capa Dunlop"]
+    ],
+    "newPriceText": "US$ 89",
+    "newPriceLabel": "Novo encontrado no exterior",
+    "newPriceSource": {
+      "url": "https://www.eastwestsportsvail.com/product-page/dunlop-aerogel-pro-squash-racquet",
+      "label": "East West Sports"
+    },
+    "illustratedCover": true
+  },
+  {
+    "id": "raquete-beach-tennis-ianoni-pr780",
+    "name": "Raquete de Beach Tennis IANONI PR780",
+    "type": "single",
+    "category": "Beach tennis",
+    "categoryId": "esportes",
+    "price": 290,
+    "image": "assets/produtos/raquete-beach-tennis-ianoni-pr780/capa-quadra.jpg",
+    "alt": "Raquete preta de beach tennis IANONI PR780 em pé ao lado de uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr780/capa-quadra.jpg",
+        "alt": "Raquete IANONI PR780 em ambiente de quadra de beach tennis com overgrip branco",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr780/foto-real-frente.jpg",
+        "alt": "Foto real da frente da raquete preta IANONI PR780"
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr780/foto-real-duas-raquetes-1.jpg",
+        "alt": "Foto real das duas raquetes IANONI, com a PR780 preta em destaque"
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr780/foto-real-duas-raquetes-2.jpg",
+        "alt": "Outra foto real das raquetes IANONI PR780 e PR720"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas de uso",
+    "tag": "Avulsa · IANONI",
+    "meta": "Carbono · núcleo EVA · 320 g",
+    "conditionSummary": "Usada, com riscos na superfície e grip desgastado.",
+    "description": "Raquete de beach tennis IANONI PR780 preta, construída em fibra de carbono com núcleo de EVA. O formato mede aproximadamente 49 x 23 x 2 cm e o peso informado pela fabricante é de 320 g.",
+    "conditionNotes": "A raquete apresenta riscos, pequenas perdas no acabamento e grip bastante usado, conforme as fotos reais. A capa ambientada mostra uma sugestão visual com overgrip branco novo; o estado entregue é o exibido nas fotos reais.",
+    "details": [
+      ["Marca", "IANONI"],
+      ["Modelo", "PR780"],
+      ["Material", "Fibra de carbono"],
+      ["Núcleo", "EVA"],
+      ["Medidas", "49 x 23 x 2 cm"],
+      ["Peso informado", "320 g"]
+    ],
+    "newPriceText": "US$ 69,99",
+    "newPriceLabel": "Modelo similar novo da fabricante",
+    "newPriceSource": {
+      "url": "https://www.ianonisports.com/products/ianoni-beach-tennis-racket-carbon-fiber-grit-face-with-eva-memory-foam-core-beach-tennis-racket",
+      "label": "IANONI"
+    },
+    "illustratedCover": true
+  },
+  {
+    "id": "raquete-beach-tennis-ianoni-pr720",
+    "name": "Raquete de Beach Tennis IANONI PR720",
+    "type": "single",
+    "category": "Beach tennis",
+    "categoryId": "esportes",
+    "price": 290,
+    "image": "assets/produtos/raquete-beach-tennis-ianoni-pr720/capa-quadra.jpg",
+    "alt": "Raquete branca de beach tennis IANONI PR720 em pé ao lado de uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr720/capa-quadra.jpg",
+        "alt": "Raquete IANONI PR720 em ambiente de quadra de beach tennis com overgrip branco",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr720/foto-real-frente.jpg",
+        "alt": "Foto real da frente da raquete branca IANONI PR720"
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr720/foto-real-duas-raquetes-1.jpg",
+        "alt": "Foto real das duas raquetes IANONI, com a PR720 branca em destaque"
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr720/foto-real-duas-raquetes-2.jpg",
+        "alt": "Outra foto real das raquetes IANONI PR720 e PR780"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas de uso",
+    "tag": "Avulsa · IANONI",
+    "meta": "Carbono · núcleo EVA · 320 g",
+    "conditionSummary": "Usada, com riscos na superfície e grip desgastado.",
+    "description": "Raquete de beach tennis IANONI PR720 branca, construída em fibra de carbono com núcleo de EVA. O formato mede aproximadamente 49 x 23 x 2 cm e o peso informado pela fabricante é de 320 g.",
+    "conditionNotes": "A raquete apresenta riscos, pequenas perdas no acabamento e grip bastante usado, conforme as fotos reais. A capa ambientada mostra uma sugestão visual com overgrip branco novo; o estado entregue é o exibido nas fotos reais.",
+    "details": [
+      ["Marca", "IANONI"],
+      ["Modelo", "PR720"],
+      ["Material", "Fibra de carbono"],
+      ["Núcleo", "EVA"],
+      ["Medidas", "49 x 23 x 2 cm"],
+      ["Peso informado", "320 g"]
+    ],
+    "newPriceText": "US$ 69,99",
+    "newPriceLabel": "Modelo similar novo da fabricante",
+    "newPriceSource": {
+      "url": "https://www.ianoni.com/product/ianoni-sports-oem-odm-pr720-beach-tennis-racket-set-full-carbon-fiber-eva-core/",
+      "label": "IANONI"
+    },
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-frescobol-2-raquetes-bola-bolsa",
+    "name": "Kit Frescobol com 2 Raquetes, Bola e Bolsa",
+    "type": "kit",
+    "category": "Esportes de praia",
+    "categoryId": "esportes",
+    "price": 49,
+    "image": "assets/produtos/kit-frescobol-2-raquetes-bola-bolsa/capa-praia.jpg",
+    "alt": "Kit de frescobol com duas raquetes, bola e bolsa em ambiente de praia",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-frescobol-2-raquetes-bola-bolsa/capa-praia.jpg",
+        "alt": "Duas raquetes de frescobol, bola e bolsa em ambiente de praia",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kit-frescobol-2-raquetes-bola-bolsa/foto-real-conjunto.jpg",
+        "alt": "Foto real do conjunto de frescobol completo"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · boa conservação",
+    "tag": "Kit · 2 raquetes",
+    "meta": "2 raquetes · 1 bola · bolsa",
+    "conditionSummary": "Conjunto usado, completo e em boa conservação aparente.",
+    "description": "Kit de frescobol com duas raquetes de madeira decoradas, uma bola e bolsa tipo saco com cordão. O conjunto já fica pronto para levar à praia.",
+    "conditionNotes": "Itens usados, com sinais leves de uso visíveis na foto real. A venda inclui exatamente as duas raquetes, a bola e a bolsa mostradas.",
+    "details": [
+      ["Material das raquetes", "Madeira"],
+      ["Raquetes", "2 unidades"],
+      ["Bola", "1 unidade"],
+      ["Bolsa", "1 bolsa com cordão"],
+      ["Formato de venda", "Kit completo"]
+    ],
+    "newPriceText": "R$ 59,90",
+    "newPriceLabel": "Kit novo comparável",
+    "newPriceSource": {
+      "url": "https://www.gianninisports.com.br/kit-frescobol-giannini-sports-2-raquetes-1-bola-1729",
+      "label": "Giannini Sports"
+    },
+    "illustratedCover": true
   }
 ];
 

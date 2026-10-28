@@ -610,5 +610,55 @@ export const products = {
     "inventoryUnitIds": [
       "raqueteira-yonex-vermelha"
     ]
+  },
+  "raquete-squash-karakal-sx-100": {
+    "id": "raquete-squash-karakal-sx-100",
+    "slug": "raquete-squash-karakal-sx-100",
+    "name": "Raquete de Squash Karakal SX-100 com Capa",
+    "price": 29000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "raquete-squash-karakal-sx-100"
+    ]
+  },
+  "raquete-squash-dunlop-aerogel-pro": {
+    "id": "raquete-squash-dunlop-aerogel-pro",
+    "slug": "raquete-squash-dunlop-aerogel-pro",
+    "name": "Raquete de Squash Dunlop Aerogel Pro com Capa",
+    "price": 29000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "raquete-squash-dunlop-aerogel-pro"
+    ]
+  },
+  "raquete-beach-tennis-ianoni-pr780": {
+    "id": "raquete-beach-tennis-ianoni-pr780",
+    "slug": "raquete-beach-tennis-ianoni-pr780",
+    "name": "Raquete de Beach Tennis IANONI PR780",
+    "price": 29000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "raquete-beach-tennis-ianoni-pr780"
+    ]
+  },
+  "raquete-beach-tennis-ianoni-pr720": {
+    "id": "raquete-beach-tennis-ianoni-pr720",
+    "slug": "raquete-beach-tennis-ianoni-pr720",
+    "name": "Raquete de Beach Tennis IANONI PR720",
+    "price": 29000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "raquete-beach-tennis-ianoni-pr720"
+    ]
+  },
+  "kit-frescobol-2-raquetes-bola-bolsa": {
+    "id": "kit-frescobol-2-raquetes-bola-bolsa",
+    "slug": "kit-frescobol-2-raquetes-bola-bolsa",
+    "name": "Kit Frescobol com 2 Raquetes, Bola e Bolsa",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-frescobol-2-raquetes-bola-bolsa"
+    ]
   }
 };
