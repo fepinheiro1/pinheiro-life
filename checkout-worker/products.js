@@ -532,7 +532,7 @@ export const products = {
     "id": "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black",
     "slug": "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black",
     "name": "Kit 3 Perfumes Hollister Wave + Burberry Touch + Bvlgari Black",
-    "price": 59000,
+    "price": 39000,
     "status": "available",
     "inventoryUnitIds": [
       "perfume-hollister-wave-full-100ml",

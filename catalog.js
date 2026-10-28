@@ -3204,7 +3204,7 @@ const products = [
     "type": "kit",
     "category": "Perfumes",
     "categoryId": "perfumes",
-    "price": 590,
+    "price": 390,
     "image": "assets/produtos/kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black/foto-real-kit.jpg",
     "alt": "Hollister Wave for Him, Burberry Touch for Men e Bvlgari Black reunidos sobre uma mesa de madeira",
     "photos": [
@@ -3220,7 +3220,7 @@ const products = [
     "tag": "Kit · 3 perfumes",
     "meta": "Hollister Wave · Burberry Touch · Bvlgari Black",
     "conditionSummary": "Hollister Wave for Him com 100%, Burberry Touch for Men com 30% e Bvlgari Black com 30%. Valor proporcional estimado do conteúdo: R$ 683,30.",
-    "description": "Kit com Hollister Wave for Him Eau de Toilette, Burberry Touch for Men Eau de Toilette e Bvlgari Black Eau de Toilette. O Bvlgari Black é uma fragrância descontinuada e valorizada no mercado internacional. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 683,30. O kit completo é anunciado por R$ 590.",
+    "description": "Kit com Hollister Wave for Him Eau de Toilette, Burberry Touch for Men Eau de Toilette e Bvlgari Black Eau de Toilette. O Bvlgari Black é uma fragrância descontinuada e valorizada no mercado internacional. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 683,30. O kit completo é anunciado por R$ 390.",
     "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Hollister Wave com 100%, Burberry Touch com 30% e Bvlgari Black com 30%. Os níveis e o estado dos três frascos aparecem na foto real.",
     "details": [
       [
