@@ -557,61 +557,190 @@ const products = [
     ]
   },
   {
-    "id": "samsung-cf390-27-duas-unidades",
-    "slug": "monitor-curvo-samsung-cf390-27-full-hd",
-    "name": "Monitor Curvo Samsung CF390 27\u201d Full HD",
+    "id": "samsung-cf390-27-unidade-1",
+    "slug": "monitor-curvo-samsung-cf390-27-full-hd-unidade-1",
+    "name": "Monitor Curvo Samsung CF390 27” Full HD — Unidade 1",
     "type": "single",
     "category": "Monitores",
     "categoryId": "tecnologia",
     "price": 690,
-    "priceSuffix": "cada",
-    "quantity": 2,
     "newPrice": 1234,
     "newPriceLabel": "Similar novo encontrado",
     "newPriceSource": {
-      "label": "Samsung 27\u201d curvo novo",
+      "label": "Samsung 27” curvo novo",
       "url": "https://www.mercadolivre.com.br/samsung-27-fhd-100hz-curved-monitor-black-preto/p/MLB2080269609"
     },
-    "image": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
-    "alt": "Dois monitores curvos Samsung CF390 de 27 polegadas em um home office \u2014 ambiente ilustrativo criado com IA",
+    "image": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
+    "alt": "Vista frontal do Monitor Curvo Samsung CF390 de 27 polegadas — unidade 1, imagem de referência do modelo",
     "photos": [
       {
-        "src": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
-        "alt": "Dois monitores curvos Samsung CF390 de 27 polegadas em um home office \u2014 ambiente ilustrativo criado com IA",
-        "isIllustrative": true
+        "src": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
+        "alt": "Vista frontal do Monitor Curvo Samsung CF390 de 27 polegadas — unidade 1, imagem de referência do modelo",
+        "isReference": true
       },
       {
-        "src": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
-        "alt": "Vista frontal oficial do monitor Samsung CF390 de 27 polegadas \u2014 imagem de referência do modelo",
-        "isReference": true
+        "src": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
+        "alt": "As duas unidades do monitor Samsung CF390 em um home office — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
       }
     ],
-    "imageFit": "cover",
-    "illustratedCover": true,
+    "imageFit": "contain",
+    "illustratedCover": false,
     "isDemo": false,
     "status": "available",
-    "condition": "Usados \u00b7 excelente estado",
-    "tag": "2 disponíveis \u00b7 Samsung",
-    "meta": "27\u201d \u00b7 Full HD \u00b7 curvo \u00b7 2 por R$ 1.300",
-    "conditionSummary": "Perfeito estado de uso e conservação. R$ 690 cada ou R$ 1.300 o par.",
-    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA.<br>A segunda imagem é uma referência oficial do mesmo modelo. Fotos reais serão adicionadas posteriormente.",
-    "disclosureNote": "A primeira imagem é uma ambientação criada com IA e a segunda é uma referência oficial do mesmo modelo. Fotos reais serão adicionadas posteriormente.",
-    "description": "Monitor curvo Samsung CF390 de 27 polegadas, com painel VA, resolução Full HD e curvatura 1800R. Possui conexões HDMI e VGA, tecnologia AMD FreeSync e modo de proteção ocular. Há duas unidades disponíveis por R$ 690 cada ou R$ 1.300 levando o par. A referência de preço é de um Samsung curvo de 27 polegadas novo e atualmente disponível, de modelo mais recente.",
-    "conditionNotes": "As duas unidades estão em perfeito estado de uso e conservação, com funcionamento normal.",
+    "condition": "Usado · excelente estado",
+    "tag": "Avulso · unidade 1",
+    "meta": "27” · Full HD · curvo · unidade individual",
+    "conditionSummary": "Perfeito estado de uso e conservação.",
+    "galleryDisclosure": "Primeira imagem: referência oficial do mesmo modelo.<br>A segunda imagem apresenta as duas unidades em um ambiente ilustrativo. Fotos reais serão adicionadas posteriormente.",
+    "disclosureNote": "A primeira imagem é uma referência oficial do mesmo modelo e a segunda apresenta as duas unidades em uma ambientação criada com IA. Fotos reais serão adicionadas posteriormente.",
+    "description": "Monitor curvo Samsung CF390 de 27 polegadas — unidade 1. Possui painel VA, resolução Full HD, curvatura 1800R, conexões HDMI e VGA, AMD FreeSync e modo de proteção ocular. O valor individual é de R$ 690; levando as duas unidades, a sacola aplica automaticamente o preço especial de R$ 1.300 pelo par.",
+    "conditionNotes": "Unidade 1 usada, em perfeito estado de uso e conservação e com funcionamento normal.",
     "details": [
-      ["Marca", "Samsung"],
-      ["Modelo", "CF390 \u00b7 LC27F390FHLMZD"],
-      ["Tamanho", "27 polegadas"],
-      ["Formato", "Tela curva 1800R"],
-      ["Resolução", "Full HD \u00b7 1920 \u00d7 1080"],
-      ["Painel", "VA"],
-      ["Taxa de atualização", "60 Hz"],
-      ["Tempo de resposta", "4 ms"],
-      ["Conexões", "HDMI \u00b7 VGA \u00b7 saída para fone"],
-      ["Recursos", "AMD FreeSync \u00b7 Eye Saver Mode"],
-      ["Quantidade disponível", "2 unidades"],
-      ["Preço", "R$ 690 cada \u00b7 R$ 1.300 o par"]
-    ]
+      [
+        "Marca",
+        "Samsung"
+      ],
+      [
+        "Modelo",
+        "CF390 · LC27F390FHLMZD"
+      ],
+      [
+        "Tamanho",
+        "27 polegadas"
+      ],
+      [
+        "Formato",
+        "Tela curva 1800R"
+      ],
+      [
+        "Resolução",
+        "Full HD · 1920 × 1080"
+      ],
+      [
+        "Painel",
+        "VA"
+      ],
+      [
+        "Taxa de atualização",
+        "60 Hz"
+      ],
+      [
+        "Tempo de resposta",
+        "4 ms"
+      ],
+      [
+        "Conexões",
+        "HDMI · VGA · saída para fone"
+      ],
+      [
+        "Recursos",
+        "AMD FreeSync · Eye Saver Mode"
+      ],
+      [
+        "Identificação",
+        "Unidade 1 de 2"
+      ],
+      [
+        "Preço",
+        "R$ 690 · par com desconto automático na sacola"
+      ]
+    ],
+    "referenceCover": true,
+    "bundleGroup": "samsung-cf390-pair"
+  },
+  {
+    "id": "samsung-cf390-27-unidade-2",
+    "slug": "monitor-curvo-samsung-cf390-27-full-hd-unidade-2",
+    "name": "Monitor Curvo Samsung CF390 27” Full HD — Unidade 2",
+    "type": "single",
+    "category": "Monitores",
+    "categoryId": "tecnologia",
+    "price": 690,
+    "newPrice": 1234,
+    "newPriceLabel": "Similar novo encontrado",
+    "newPriceSource": {
+      "label": "Samsung 27” curvo novo",
+      "url": "https://www.mercadolivre.com.br/samsung-27-fhd-100hz-curved-monitor-black-preto/p/MLB2080269609"
+    },
+    "image": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
+    "alt": "Vista frontal do Monitor Curvo Samsung CF390 de 27 polegadas — unidade 2, imagem de referência do modelo",
+    "photos": [
+      {
+        "src": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
+        "alt": "Vista frontal do Monitor Curvo Samsung CF390 de 27 polegadas — unidade 2, imagem de referência do modelo",
+        "isReference": true
+      },
+      {
+        "src": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
+        "alt": "As duas unidades do monitor Samsung CF390 em um home office — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      }
+    ],
+    "imageFit": "contain",
+    "illustratedCover": false,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · excelente estado",
+    "tag": "Avulso · unidade 2",
+    "meta": "27” · Full HD · curvo · unidade individual",
+    "conditionSummary": "Perfeito estado de uso e conservação.",
+    "galleryDisclosure": "Primeira imagem: referência oficial do mesmo modelo.<br>A segunda imagem apresenta as duas unidades em um ambiente ilustrativo. Fotos reais serão adicionadas posteriormente.",
+    "disclosureNote": "A primeira imagem é uma referência oficial do mesmo modelo e a segunda apresenta as duas unidades em uma ambientação criada com IA. Fotos reais serão adicionadas posteriormente.",
+    "description": "Monitor curvo Samsung CF390 de 27 polegadas — unidade 2. Possui painel VA, resolução Full HD, curvatura 1800R, conexões HDMI e VGA, AMD FreeSync e modo de proteção ocular. O valor individual é de R$ 690; levando as duas unidades, a sacola aplica automaticamente o preço especial de R$ 1.300 pelo par.",
+    "conditionNotes": "Unidade 2 usada, em perfeito estado de uso e conservação e com funcionamento normal.",
+    "details": [
+      [
+        "Marca",
+        "Samsung"
+      ],
+      [
+        "Modelo",
+        "CF390 · LC27F390FHLMZD"
+      ],
+      [
+        "Tamanho",
+        "27 polegadas"
+      ],
+      [
+        "Formato",
+        "Tela curva 1800R"
+      ],
+      [
+        "Resolução",
+        "Full HD · 1920 × 1080"
+      ],
+      [
+        "Painel",
+        "VA"
+      ],
+      [
+        "Taxa de atualização",
+        "60 Hz"
+      ],
+      [
+        "Tempo de resposta",
+        "4 ms"
+      ],
+      [
+        "Conexões",
+        "HDMI · VGA · saída para fone"
+      ],
+      [
+        "Recursos",
+        "AMD FreeSync · Eye Saver Mode"
+      ],
+      [
+        "Identificação",
+        "Unidade 2 de 2"
+      ],
+      [
+        "Preço",
+        "R$ 690 · par com desconto automático na sacola"
+      ]
+    ],
+    "referenceCover": true,
+    "bundleGroup": "samsung-cf390-pair"
   },
   {
     "id": "jbl-flip-5-preta",
@@ -2078,9 +2207,9 @@ const products = [
     ]
   },
   {
-    "id": "ubiquiti-unifi-u6-plus",
-    "slug": "access-point-ubiquiti-unifi-u6-plus-com-fonte-poe",
-    "name": "Access Point Ubiquiti UniFi U6+",
+    "id": "ubiquiti-unifi-u6-plus-unidade-1",
+    "slug": "access-point-ubiquiti-unifi-u6-plus-com-fonte-poe-unidade-1",
+    "name": "Access Point Ubiquiti UniFi U6+ — Unidade 1",
     "type": "single",
     "category": "Rede e conectividade",
     "categoryId": "tecnologia",
@@ -2091,8 +2220,6 @@ const products = [
       "label": "Ubiquiti Brasil",
       "url": "https://br.store.ui.com/br/en/products/u6-plus"
     },
-    "priceSuffix": "cada",
-    "quantity": 2,
     "image": "assets/produtos/ubiquiti-unifi-u6-plus/produto-oficial.png",
     "alt": "Access point Ubiquiti UniFi U6+ branco — foto oficial de referência do mesmo modelo",
     "photos": [
@@ -2116,23 +2243,145 @@ const products = [
     "isDemo": false,
     "status": "available",
     "condition": "Usado · funcionando perfeitamente",
-    "tag": "Avulso · 2 unidades",
-    "meta": "Wi-Fi 6 · fonte PoE incluída · R$ 490 cada",
-    "conditionSummary": "Duas unidades em perfeito funcionamento, com fonte PoE.",
-    "description": "Access point Ubiquiti UniFi U6+ com Wi-Fi 6, indicado para ampliar a cobertura de redes residenciais ou de pequenos escritórios. Há duas unidades disponíveis, vendidas individualmente por R$ 490 cada. Cada unidade acompanha sua fonte/injetor PoE.",
-    "conditionNotes": "As duas unidades são usadas e estão em perfeito funcionamento. Como permanecem instaladas no momento, a foto principal é uma referência oficial do mesmo modelo e a segunda imagem simula o produto montado no teto.",
+    "tag": "Avulso · unidade 1",
+    "meta": "Wi-Fi 6 · fonte PoE incluída · unidade individual",
+    "conditionSummary": "Em perfeito funcionamento e com fonte PoE.",
+    "description": "Access point Ubiquiti UniFi U6+ — unidade 1, com Wi-Fi 6 para ampliar a cobertura de redes residenciais ou de pequenos escritórios. A unidade é vendida individualmente por R$ 490 e acompanha sua própria fonte/injetor PoE.",
+    "conditionNotes": "Unidade 1 usada e em perfeito funcionamento. Como permanece instalada no momento, a foto principal é uma referência oficial do mesmo modelo e a segunda imagem simula o produto montado no teto.",
     "details": [
-      ["Marca", "Ubiquiti"],
-      ["Linha", "UniFi"],
-      ["Modelo", "U6+"],
-      ["Padrão Wi-Fi", "Wi-Fi 6"],
-      ["Cobertura indicada pelo fabricante", "Até 140 m²"],
-      ["Alimentação", "PoE"],
-      ["Acompanha", "Fonte/injetor PoE"],
-      ["Quantidade disponível", "2 unidades"],
-      ["Preço", "R$ 490 por unidade"],
-      ["Condição", "Usado, em perfeito funcionamento"],
-      ["Formato de venda", "Por unidade"]
+      [
+        "Marca",
+        "Ubiquiti"
+      ],
+      [
+        "Linha",
+        "UniFi"
+      ],
+      [
+        "Modelo",
+        "U6+"
+      ],
+      [
+        "Padrão Wi-Fi",
+        "Wi-Fi 6"
+      ],
+      [
+        "Cobertura indicada pelo fabricante",
+        "Até 140 m²"
+      ],
+      [
+        "Alimentação",
+        "PoE"
+      ],
+      [
+        "Acompanha",
+        "Fonte/injetor PoE"
+      ],
+      [
+        "Condição",
+        "Usado, em perfeito funcionamento"
+      ],
+      [
+        "Identificação",
+        "Unidade 1 de 2"
+      ],
+      [
+        "Preço",
+        "R$ 490"
+      ],
+      [
+        "Formato de venda",
+        "Unidade individual"
+      ]
+    ]
+  },
+  {
+    "id": "ubiquiti-unifi-u6-plus-unidade-2",
+    "slug": "access-point-ubiquiti-unifi-u6-plus-com-fonte-poe-unidade-2",
+    "name": "Access Point Ubiquiti UniFi U6+ — Unidade 2",
+    "type": "single",
+    "category": "Rede e conectividade",
+    "categoryId": "tecnologia",
+    "price": 490,
+    "newPrice": 982,
+    "newPriceLabel": "Novo com fonte PoE",
+    "newPriceSource": {
+      "label": "Ubiquiti Brasil",
+      "url": "https://br.store.ui.com/br/en/products/u6-plus"
+    },
+    "image": "assets/produtos/ubiquiti-unifi-u6-plus/produto-oficial.png",
+    "alt": "Access point Ubiquiti UniFi U6+ branco — foto oficial de referência do mesmo modelo",
+    "photos": [
+      {
+        "src": "assets/produtos/ubiquiti-unifi-u6-plus/produto-oficial.png",
+        "alt": "Access point Ubiquiti UniFi U6+ branco — foto oficial de referência do mesmo modelo",
+        "isReference": true
+      },
+      {
+        "src": "assets/produtos/ubiquiti-unifi-u6-plus/instalado-no-teto-escala-real.png",
+        "alt": "Ubiquiti UniFi U6+ instalado em teto branco de uma sala contemporânea — ambiente ilustrativo criado com IA",
+        "isIllustrative": true
+      }
+    ],
+    "imageFit": "contain",
+    "referenceCover": true,
+    "referencePhotoSource": {
+      "label": "Ubiquiti",
+      "url": "https://store.ui.com/us/en/category/wifi-flagship/products/u6-plus?variant=u6-us"
+    },
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · funcionando perfeitamente",
+    "tag": "Avulso · unidade 2",
+    "meta": "Wi-Fi 6 · fonte PoE incluída · unidade individual",
+    "conditionSummary": "Em perfeito funcionamento e com fonte PoE.",
+    "description": "Access point Ubiquiti UniFi U6+ — unidade 2, com Wi-Fi 6 para ampliar a cobertura de redes residenciais ou de pequenos escritórios. A unidade é vendida individualmente por R$ 490 e acompanha sua própria fonte/injetor PoE.",
+    "conditionNotes": "Unidade 2 usada e em perfeito funcionamento. Como permanece instalada no momento, a foto principal é uma referência oficial do mesmo modelo e a segunda imagem simula o produto montado no teto.",
+    "details": [
+      [
+        "Marca",
+        "Ubiquiti"
+      ],
+      [
+        "Linha",
+        "UniFi"
+      ],
+      [
+        "Modelo",
+        "U6+"
+      ],
+      [
+        "Padrão Wi-Fi",
+        "Wi-Fi 6"
+      ],
+      [
+        "Cobertura indicada pelo fabricante",
+        "Até 140 m²"
+      ],
+      [
+        "Alimentação",
+        "PoE"
+      ],
+      [
+        "Acompanha",
+        "Fonte/injetor PoE"
+      ],
+      [
+        "Condição",
+        "Usado, em perfeito funcionamento"
+      ],
+      [
+        "Identificação",
+        "Unidade 2 de 2"
+      ],
+      [
+        "Preço",
+        "R$ 490"
+      ],
+      [
+        "Formato de venda",
+        "Unidade individual"
+      ]
     ]
   },
   {

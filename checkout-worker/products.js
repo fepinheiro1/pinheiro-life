@@ -54,10 +54,16 @@ export const products = {
     "name": "Fechadura Inteligente GHome Smart K02APRO com Biometria",
     "price": 29000
   },
-  "samsung-cf390-27-duas-unidades": {
-    "id": "samsung-cf390-27-duas-unidades",
-    "slug": "monitor-curvo-samsung-cf390-27-full-hd",
-    "name": "Monitor Curvo Samsung CF390 27” Full HD",
+  "samsung-cf390-27-unidade-1": {
+    "id": "samsung-cf390-27-unidade-1",
+    "slug": "monitor-curvo-samsung-cf390-27-full-hd-unidade-1",
+    "name": "Monitor Curvo Samsung CF390 27” Full HD — Unidade 1",
+    "price": 69000
+  },
+  "samsung-cf390-27-unidade-2": {
+    "id": "samsung-cf390-27-unidade-2",
+    "slug": "monitor-curvo-samsung-cf390-27-full-hd-unidade-2",
+    "name": "Monitor Curvo Samsung CF390 27” Full HD — Unidade 2",
     "price": 69000
   },
   "jbl-flip-5-preta": {
@@ -216,10 +222,16 @@ export const products = {
     "name": "Apple AirPods Max prata",
     "price": 59000
   },
-  "ubiquiti-unifi-u6-plus": {
-    "id": "ubiquiti-unifi-u6-plus",
-    "slug": "access-point-ubiquiti-unifi-u6-plus-com-fonte-poe",
-    "name": "Access Point Ubiquiti UniFi U6+",
+  "ubiquiti-unifi-u6-plus-unidade-1": {
+    "id": "ubiquiti-unifi-u6-plus-unidade-1",
+    "slug": "access-point-ubiquiti-unifi-u6-plus-com-fonte-poe-unidade-1",
+    "name": "Access Point Ubiquiti UniFi U6+ — Unidade 1",
+    "price": 49000
+  },
+  "ubiquiti-unifi-u6-plus-unidade-2": {
+    "id": "ubiquiti-unifi-u6-plus-unidade-2",
+    "slug": "access-point-ubiquiti-unifi-u6-plus-com-fonte-poe-unidade-2",
+    "name": "Access Point Ubiquiti UniFi U6+ — Unidade 2",
     "price": 49000
   },
   "jaeger-lecoultre-atmos-elysee-540": {

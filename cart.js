@@ -6,17 +6,25 @@
     {name:'Patricia',number:'5519999554109'},
     {name:'Fernando',number:'5519999642000'}
   ];
+  const MONITOR_PAIR_IDS=['samsung-cf390-27-unidade-1','samsung-cf390-27-unidade-2'];
+  const MONITOR_PAIR_DISCOUNT=8000;
+  const legacyIds={
+    'samsung-cf390-27-duas-unidades':'samsung-cf390-27-unidade-1',
+    'ubiquiti-unifi-u6-plus':'ubiquiti-unifi-u6-plus-unidade-1'
+  };
   const money=cents=>new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:0}).format(cents/100);
   const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
   const readCart=()=>{
     try{
       const parsed=JSON.parse(localStorage.getItem(STORAGE_KEY)||'[]');
-      return Array.isArray(parsed)?parsed.filter(item=>item&&item.id&&item.name&&Number.isFinite(Number(item.price))):[];
+      return Array.isArray(parsed)?parsed.filter(item=>item&&item.id&&item.name&&Number.isFinite(Number(item.price))).map(item=>legacyIds[item.id]?{...item,id:legacyIds[item.id]}:item):[];
     }catch{return [];}
   };
   let cart=readCart();
   const save=()=>{localStorage.setItem(STORAGE_KEY,JSON.stringify(cart));render();};
-  const total=()=>cart.reduce((sum,item)=>sum+Number(item.price),0);
+  const hasMonitorPair=()=>MONITOR_PAIR_IDS.every(id=>cart.some(item=>item.id===id));
+  const discount=()=>hasMonitorPair()?MONITOR_PAIR_DISCOUNT:0;
+  const total=()=>cart.reduce((sum,item)=>sum+Number(item.price),0)-discount();
   const cartItemFromButton=button=>({
     id:button.dataset.productId,
     name:button.dataset.productName,
@@ -47,7 +55,7 @@
     <div class="cart-drawer-header"><div><span class="green-label">Sua seleção</span><h2 id="cart-title">Sacola</h2></div><button class="cart-close" type="button" aria-label="Fechar sacola">×</button></div>
     <div class="cart-items"></div>
     <div class="cart-empty" hidden><span class="cart-empty-icon" aria-hidden="true">♡</span><h3>Sua sacola está vazia.</h3><p>Adicione os produtos que você gostou para comprar tudo junto.</p><button class="text-link cart-continue" type="button">Continuar explorando</button></div>
-    <div class="cart-summary"><div><span>Total</span><strong class="cart-total">R$ 0</strong></div><p>Os produtos são peças únicas. A inclusão na sacola não faz reserva; a reserva acontece após a confirmação do pagamento.</p><button class="primary-button cart-checkout" type="button">Pagar e retirar <span aria-hidden="true">→</span></button><div class="cart-offers"><span>10% OFF no Pix</span><span>6x sem juros no cartão</span></div><div class="cart-whatsapp"></div><small class="cart-help">Tire dúvidas e combine diretamente pelo WhatsApp.</small></div>
+    <div class="cart-summary"><div class="cart-bundle-discount" hidden><span>Desconto pelo par de monitores</span><strong>− R$ 80</strong></div><div class="cart-total-row"><span>Total</span><strong class="cart-total">R$ 0</strong></div><p>Os produtos são peças únicas. A inclusão na sacola não faz reserva; a reserva acontece após a confirmação do pagamento.</p><button class="primary-button cart-checkout" type="button">Pagar e retirar <span aria-hidden="true">→</span></button><div class="cart-offers"><span>10% OFF no Pix</span><span>6x sem juros no cartão</span></div><div class="cart-whatsapp"></div><small class="cart-help">Tire dúvidas e combine diretamente pelo WhatsApp.</small></div>
   </aside>`;
   document.body.append(overlay);
   const drawer=overlay.querySelector('.cart-drawer');
@@ -80,7 +88,8 @@
 
   function whatsappUrl(contact){
     const lines=cart.map((item,index)=>`${index+1}. ${item.name} (${item.priceLabel||money(item.price)})`);
-    const message=`Olá, ${contact.name}! Estou interessado(a) nestes produtos do pinheiro.life:\n\n${lines.join('\n')}\n\nTotal: ${money(total())}\n\nPodemos combinar a compra e a retirada?`;
+    const discountLine=discount()?`\nDesconto pelo par de monitores: − ${money(discount())}`:'';
+    const message=`Olá, ${contact.name}! Estou interessado(a) nestes produtos do pinheiro.life:\n\n${lines.join('\n')}${discountLine}\n\nTotal: ${money(total())}\n\nPodemos combinar a compra e a retirada?`;
     return `https://wa.me/${contact.number}?text=${encodeURIComponent(message)}`;
   }
   function render(){
@@ -89,6 +98,7 @@
     empty.hidden=cart.length>0;summary.hidden=cart.length===0;
     items.innerHTML=cart.map(item=>`<article class="cart-item"><a href="${escapeHtml(item.url)}"><img src="${escapeHtml(item.image)}" alt=""></a><div><h3><a href="${escapeHtml(item.url)}">${escapeHtml(item.name)}</a></h3><strong>${escapeHtml(item.priceLabel||money(item.price))}</strong><button type="button" data-cart-remove="${escapeHtml(item.id)}">Remover</button></div></article>`).join('');
     overlay.querySelector('.cart-total').textContent=money(total());
+    overlay.querySelector('.cart-bundle-discount').hidden=!discount();
     overlay.querySelector('.cart-whatsapp').innerHTML=contacts.map(contact=>`<a href="${whatsappUrl(contact)}" target="_blank" rel="noopener">Falar com ${contact.name}</a>`).join('');
   }
 

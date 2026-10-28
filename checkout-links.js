@@ -172,6 +172,14 @@ const checkoutLinks = {
     "price": 69000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/L2xtZig9qt"
   },
+  "samsung-cf390-27-unidade-1": {
+    "price": 69000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/cKUvJCBOcU"
+  },
+  "samsung-cf390-27-unidade-2": {
+    "price": 69000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/PwjyHVV10f"
+  },
   "top-mulher-elastica-vinho": {
     "price": 7900,
     "url": "https://checkout.infinitepay.io/patirpinheiro/krA3os4Gf5"
@@ -183,6 +191,14 @@ const checkoutLinks = {
   "ubiquiti-unifi-u6-plus": {
     "price": 49000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/Tuo9cjFr53"
+  },
+  "ubiquiti-unifi-u6-plus-unidade-1": {
+    "price": 49000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/WqJCpaNEI4"
+  },
+  "ubiquiti-unifi-u6-plus-unidade-2": {
+    "price": 49000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/xqR8FN2bFR"
   },
   "vestido-hupi-beach-tennis-rosa-neon-p": {
     "price": 9900,

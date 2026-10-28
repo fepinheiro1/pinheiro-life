@@ -30,6 +30,8 @@ const normalizeBrazilianPhone = value => {
   return `+55${digits}`;
 };
 
+const monitorPairIds = ['samsung-cf390-27-unidade-1', 'samsung-cf390-27-unidade-2'];
+
 export default {
   async fetch(request, env) {
     const origin = request.headers.get('Origin') || '';
@@ -66,6 +68,15 @@ export default {
     const isCart = selectedProducts.length > 1 || Array.isArray(payload.productIds);
     const product = selectedProducts[0];
     const orderNsu = `pinheiro-life-${isCart ? 'sacola' : product.id}-${Date.now()}-${crypto.randomUUID().slice(0, 8)}`;
+    const hasMonitorPair = monitorPairIds.every(id => uniqueIds.includes(id));
+    const checkoutItems = selectedProducts.map(item => ({ quantity: 1, price: item.price, description: item.name }));
+    if (hasMonitorPair) {
+      const discountedItem = checkoutItems.find(item => item.description.includes('Unidade 2'));
+      if (discountedItem) {
+        discountedItem.price -= 8000;
+        discountedItem.description += ' · desconto do par';
+      }
+    }
     const response = await fetch('https://api.checkout.infinitepay.io/links', {
       method: 'POST',
       headers: {
@@ -76,7 +87,7 @@ export default {
         order_nsu: orderNsu,
         redirect_url: isCart ? 'https://fepinheiro1.github.io/pinheiro-life/?pagamento=concluido&carrinho=1' : `https://fepinheiro1.github.io/pinheiro-life/produto/${product.slug}/?pagamento=concluido`,
         customer: { phone_number: phone },
-        items: selectedProducts.map(item => ({ quantity: 1, price: item.price, description: item.name })),
+        items: checkoutItems,
         options: {
           assured_installments: 6,
           require_delivery_address: false,
@@ -96,6 +107,7 @@ export default {
       createdAt: new Date().toISOString(),
       productIds: selectedProducts.map(item => item.id),
       productNames: selectedProducts.map(item => item.name),
+      bundleDiscount: hasMonitorPair ? 8000 : 0,
       phone,
       orderNsu,
       checkoutUrl: checkout.url,
