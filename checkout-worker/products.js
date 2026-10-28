@@ -813,24 +813,24 @@ export const products = {
       "kit-4-antivibradores-tenis-sortidos-7"
     ]
   },
-  "corda-gosen-polylon-16-129-rolo-aberto": {
-    "id": "corda-gosen-polylon-16-129-rolo-aberto",
-    "slug": "corda-gosen-polylon-16-129-rolo-aberto",
-    "name": "Corda Gosen Polylon 16 1,29 mm — Rolo Aberto",
-    "price": 19000,
+  "corda-gosen-polylon-16-129-200m": {
+    "id": "corda-gosen-polylon-16-129-200m",
+    "slug": "corda-gosen-polylon-16-129-200m",
+    "name": "Corda Gosen Polylon 16 1,29 mm — Rolo 200 m",
+    "price": 29000,
     "status": "available",
     "inventoryUnitIds": [
-      "corda-gosen-polylon-16-129-rolo-aberto"
+      "corda-gosen-polylon-16-129-200m"
     ]
   },
-  "corda-kirschbaum-synthetic-gut-130-rolo-aberto": {
-    "id": "corda-kirschbaum-synthetic-gut-130-rolo-aberto",
-    "slug": "corda-kirschbaum-synthetic-gut-130-rolo-aberto",
-    "name": "Corda Kirschbaum Synthetic Gut 1,30 mm — Rolo Aberto",
-    "price": 14900,
+  "corda-kirschbaum-synthetic-gut-130-200m": {
+    "id": "corda-kirschbaum-synthetic-gut-130-200m",
+    "slug": "corda-kirschbaum-synthetic-gut-130-200m",
+    "name": "Corda Kirschbaum Synthetic Gut 1,30 mm — Rolo 200 m",
+    "price": 35000,
     "status": "available",
     "inventoryUnitIds": [
-      "corda-kirschbaum-synthetic-gut-130-rolo-aberto"
+      "corda-kirschbaum-synthetic-gut-130-200m"
     ]
   }
 };

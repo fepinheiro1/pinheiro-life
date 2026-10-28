@@ -5001,40 +5001,40 @@ const products = [
     "illustratedCover": true
   },
   {
-    "id": "corda-gosen-polylon-16-129-rolo-aberto",
-    "name": "Corda Gosen Polylon 16 1,29 mm — Rolo Aberto",
+    "id": "corda-gosen-polylon-16-129-200m",
+    "name": "Corda Gosen Polylon 16 1,29 mm — Rolo 200 m",
     "type": "avulso",
     "category": "Tênis",
     "categoryId": "esportes",
-    "price": 190,
-    "newPriceText": "US$ 49,99",
-    "newPriceLabel": "Rolo novo no exterior",
+    "price": 290,
+    "newPriceText": "R$ 299,99",
+    "newPriceLabel": "Rolo novo comparável no Brasil",
     "newPriceSource": {
-      "label": "Tennis Warehouse",
-      "url": "https://www.tennis-warehouse.com/Gosen_Polylon_16_129_String_Reel_-_660/descpage-GPYL16R.html"
+      "label": "Bottcher Tênis",
+      "url": "https://www.bottchertenis.com.br/cordas"
     },
     "image": "assets/produtos/corda-gosen-polylon-16-129-200m/capa-quadra.webp",
-    "alt": "Rolo aberto de corda Gosen Polylon 16 transparente ao lado de uma quadra de tênis",
+    "alt": "Rolo novo de corda Gosen Polylon 16 transparente ao lado de uma quadra de tênis",
     "photos": [
       {
         "src": "assets/produtos/corda-gosen-polylon-16-129-200m/capa-quadra.webp",
-        "alt": "Rolo Gosen Polylon 16 em ambiente de quadra de tênis",
+        "alt": "Rolo novo Gosen Polylon 16 em ambiente de quadra de tênis",
         "isIllustrative": true
       },
       {
         "src": "assets/produtos/corda-gosen-polylon-16-129-200m/foto-real-rolo.webp",
-        "alt": "Foto real do rolo aberto de corda Gosen Polylon 16 anunciado"
+        "alt": "Foto real do rolo novo de corda Gosen Polylon 16 anunciado"
       }
     ],
     "imageFit": "contain",
     "isDemo": false,
     "status": "available",
-    "condition": "Rolo aberto · metragem não aferida",
-    "tag": "Avulso · rolo aberto",
-    "meta": "1,29 mm · poliéster · cor Ice",
-    "conditionSummary": "Rolo aberto, conservado em sua embalagem original, com metragem remanescente não aferida.",
-    "description": "Rolo aberto de corda Gosen Polylon 16, calibre 1,29 mm, na cor Ice. Corda monofilamento de poliéster voltada a jogadores que procuram durabilidade, resposta firme e controle nas batidas.",
-    "conditionNotes": "O carretel original é de 200 metros, mas parte da corda já foi utilizada e a metragem restante não foi medida. A foto real mostra exatamente o volume atual do rolo e a embalagem incluída.",
+    "condition": "Nova · nunca usada",
+    "tag": "Avulso · nova · 200 m",
+    "meta": "200 m · 1,29 mm · poliéster",
+    "conditionSummary": "Rolo completo com 200 metros, novo e nunca utilizado.",
+    "description": "Rolo novo e completo de corda Gosen Polylon 16, calibre 1,29 mm, na cor Ice. Corda monofilamento de poliéster voltada a jogadores que procuram durabilidade, resposta firme e controle nas batidas.",
+    "conditionNotes": "Carretel completo com os 200 metros originais. A corda nunca foi utilizada; a foto real mostra exatamente o rolo e sua embalagem.",
     "details": [
       [
         "Marca",
@@ -5061,12 +5061,12 @@ const products = [
         "Ice · transparente"
       ],
       [
-        "Metragem original do carretel",
+        "Metragem",
         "200 m · 660 ft"
       ],
       [
-        "Metragem restante",
-        "Não aferida"
+        "Estado",
+        "Nova · nunca utilizada"
       ],
       [
         "Origem indicada no rótulo",
@@ -5074,46 +5074,46 @@ const products = [
       ],
       [
         "Formato de venda",
-        "1 rolo aberto"
+        "1 rolo completo"
       ]
     ],
     "illustratedCover": true
   },
   {
-    "id": "corda-kirschbaum-synthetic-gut-130-rolo-aberto",
-    "name": "Corda Kirschbaum Synthetic Gut 1,30 mm — Rolo Aberto",
+    "id": "corda-kirschbaum-synthetic-gut-130-200m",
+    "name": "Corda Kirschbaum Synthetic Gut 1,30 mm — Rolo 200 m",
     "type": "avulso",
     "category": "Tênis",
     "categoryId": "esportes",
-    "price": 149,
-    "newPriceText": "US$ 39,99",
-    "newPriceLabel": "Rolo novo no exterior",
+    "price": 350,
+    "newPriceText": "R$ 369,99 a R$ 475,72",
+    "newPriceLabel": "Rolos novos comparáveis no Brasil",
     "newPriceSource": {
-      "label": "Kirschbaum USA",
-      "url": "https://kirschbaumusa.com/products/synthetic-gut-1-30-reel"
+      "label": "Mercado Livre",
+      "url": "https://lista.mercadolivre.com.br/corda-synthetic-gut"
     },
     "image": "assets/produtos/corda-kirschbaum-synthetic-gut-130-200m/capa-quadra.webp",
-    "alt": "Rolo aberto de corda Kirschbaum Synthetic Gut preta ao lado de uma quadra de tênis",
+    "alt": "Rolo novo de corda Kirschbaum Synthetic Gut preta ao lado de uma quadra de tênis",
     "photos": [
       {
         "src": "assets/produtos/corda-kirschbaum-synthetic-gut-130-200m/capa-quadra.webp",
-        "alt": "Rolo Kirschbaum Synthetic Gut em ambiente de quadra de tênis",
+        "alt": "Rolo novo Kirschbaum Synthetic Gut em ambiente de quadra de tênis",
         "isIllustrative": true
       },
       {
         "src": "assets/produtos/corda-kirschbaum-synthetic-gut-130-200m/foto-real-rolo.webp",
-        "alt": "Foto real do rolo aberto de corda Kirschbaum Synthetic Gut anunciado"
+        "alt": "Foto real do rolo novo de corda Kirschbaum Synthetic Gut anunciado"
       }
     ],
     "imageFit": "contain",
     "isDemo": false,
     "status": "available",
-    "condition": "Rolo aberto · metragem não aferida",
-    "tag": "Avulso · rolo aberto",
-    "meta": "1,30 mm · synthetic gut · preta",
-    "conditionSummary": "Rolo aberto, conservado em sua embalagem original, com metragem remanescente não aferida.",
-    "description": "Rolo aberto de corda Kirschbaum Synthetic Gut, calibre 1,30 mm, na cor preta. Construção sintética de uso versátil, com equilíbrio entre conforto, potência, durabilidade e controle para jogadores recreativos ou montagem híbrida.",
-    "conditionNotes": "O carretel original é de 200 metros, mas parte da corda já foi utilizada e a metragem restante não foi medida. A foto real mostra exatamente o volume atual do rolo e a embalagem incluída.",
+    "condition": "Nova · nunca usada",
+    "tag": "Avulso · nova · 200 m",
+    "meta": "200 m · 1,30 mm · preta",
+    "conditionSummary": "Rolo completo com 200 metros, novo e nunca utilizado.",
+    "description": "Rolo novo e completo de corda Kirschbaum Synthetic Gut, calibre 1,30 mm, na cor preta. Construção sintética de uso versátil, com equilíbrio entre conforto, potência, durabilidade e controle para jogadores recreativos ou montagem híbrida.",
+    "conditionNotes": "Carretel completo com os 200 metros originais. A corda nunca foi utilizada; a foto real mostra exatamente o rolo e sua embalagem.",
     "details": [
       [
         "Marca",
@@ -5136,12 +5136,12 @@ const products = [
         "Preta"
       ],
       [
-        "Metragem original do carretel",
+        "Metragem",
         "200 m · 660 ft"
       ],
       [
-        "Metragem restante",
-        "Não aferida"
+        "Estado",
+        "Nova · nunca utilizada"
       ],
       [
         "Origem indicada no rótulo",
@@ -5149,7 +5149,7 @@ const products = [
       ],
       [
         "Formato de venda",
-        "1 rolo aberto"
+        "1 rolo completo"
       ]
     ],
     "illustratedCover": true
