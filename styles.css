@@ -177,3 +177,8 @@
 .header-search svg{width:18px;height:18px}
 @media(max-width:1000px){.header-inner{gap:20px}.header-search span{display:none}.header-search{padding:0}}
 @media(max-width:640px){.header-search{margin-left:auto}.saved-button,.cart-trigger{margin-left:0}}
+
+/* Ficha do produto em PDF para compartilhar pelo celular. */
+.product-pdf-button{width:100%;min-height:46px;margin-top:10px;display:flex;align-items:center;justify-content:center;gap:9px;border:1px solid #cddbd6;border-radius:8px;background:#f7faf8;color:var(--sage-ink);font-size:11px;font-weight:600}
+.product-pdf-button svg{width:17px;height:17px}
+.product-pdf-button:hover{border-color:var(--sage-ink);background:#edf5f1;color:var(--sage-ink)}
