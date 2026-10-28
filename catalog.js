@@ -4558,6 +4558,447 @@ const products = [
       ["Embalagem", "Individual e resselável"]
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "kit-4-antivibradores-tenis-sortidos-1",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 1",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 54,90 a R$ 99,00 (2 unidades)",
+    "newPriceLabel": "Pares novos comparáveis",
+    "newPriceSource": {
+      "label": "Rakkas",
+      "url": "https://www.rakkas.com.br/acessorios/antivibradores"
+    },
+    "image": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-1.webp",
+    "alt": "Quatro antivibradores de tênis sortidos do kit 1 sobre uma raquete em uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-1.webp",
+        "alt": "Kit 1 com quatro antivibradores sortidos sobre uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/foto-real-kit-1.webp",
+        "alt": "Foto real dos quatro antivibradores incluídos no kit 1"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · boa conservação",
+    "tag": "Kit · 4 unidades · sortidos",
+    "meta": "4 antivibradores · modelos variados",
+    "conditionSummary": "Quatro peças usadas em boa conservação, exatamente como aparecem na foto real.",
+    "description": "Kit com quatro antivibradores sortidos para instalar entre as cordas da raquete de tênis. Eles ajudam a reduzir a vibração das cordas durante o jogo e também personalizam a raquete com modelos variados.",
+    "conditionNotes": "Itens usados, com sinais leves de uso e variações de cor visíveis na foto real. A venda inclui exatamente as quatro peças mostradas; a capa apenas apresenta o kit instalado em uma raquete.",
+    "details": [
+      [
+        "Produto",
+        "Antivibradores para raquete"
+      ],
+      [
+        "Quantidade",
+        "4 unidades"
+      ],
+      [
+        "Uso",
+        "Cordas de raquete de tênis"
+      ],
+      [
+        "Modelos",
+        "Sortidos, conforme a foto real"
+      ],
+      [
+        "Material",
+        "Borracha ou silicone flexível"
+      ],
+      [
+        "Formato de venda",
+        "Kit independente"
+      ]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-4-antivibradores-tenis-sortidos-2",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 2",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 54,90 a R$ 99,00 (2 unidades)",
+    "newPriceLabel": "Pares novos comparáveis",
+    "newPriceSource": {
+      "label": "Rakkas",
+      "url": "https://www.rakkas.com.br/acessorios/antivibradores"
+    },
+    "image": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-2.webp",
+    "alt": "Quatro antivibradores de tênis sortidos do kit 2 sobre uma raquete em uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-2.webp",
+        "alt": "Kit 2 com quatro antivibradores sortidos sobre uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/foto-real-kit-2.webp",
+        "alt": "Foto real dos quatro antivibradores incluídos no kit 2"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · boa conservação",
+    "tag": "Kit · 4 unidades · sortidos",
+    "meta": "4 antivibradores · modelos variados",
+    "conditionSummary": "Quatro peças usadas em boa conservação, exatamente como aparecem na foto real.",
+    "description": "Kit com quatro antivibradores sortidos para instalar entre as cordas da raquete de tênis. Eles ajudam a reduzir a vibração das cordas durante o jogo e também personalizam a raquete com modelos variados.",
+    "conditionNotes": "Itens usados, com sinais leves de uso e variações de cor visíveis na foto real. A venda inclui exatamente as quatro peças mostradas; a capa apenas apresenta o kit instalado em uma raquete.",
+    "details": [
+      [
+        "Produto",
+        "Antivibradores para raquete"
+      ],
+      [
+        "Quantidade",
+        "4 unidades"
+      ],
+      [
+        "Uso",
+        "Cordas de raquete de tênis"
+      ],
+      [
+        "Modelos",
+        "Sortidos, conforme a foto real"
+      ],
+      [
+        "Material",
+        "Borracha ou silicone flexível"
+      ],
+      [
+        "Formato de venda",
+        "Kit independente"
+      ]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-4-antivibradores-tenis-sortidos-3",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 3",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 54,90 a R$ 99,00 (2 unidades)",
+    "newPriceLabel": "Pares novos comparáveis",
+    "newPriceSource": {
+      "label": "Rakkas",
+      "url": "https://www.rakkas.com.br/acessorios/antivibradores"
+    },
+    "image": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-3.webp",
+    "alt": "Quatro antivibradores de tênis sortidos do kit 3 sobre uma raquete em uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-3.webp",
+        "alt": "Kit 3 com quatro antivibradores sortidos sobre uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/foto-real-kit-3.webp",
+        "alt": "Foto real dos quatro antivibradores incluídos no kit 3"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · boa conservação",
+    "tag": "Kit · 4 unidades · sortidos",
+    "meta": "4 antivibradores · modelos variados",
+    "conditionSummary": "Quatro peças usadas em boa conservação, exatamente como aparecem na foto real.",
+    "description": "Kit com quatro antivibradores sortidos para instalar entre as cordas da raquete de tênis. Eles ajudam a reduzir a vibração das cordas durante o jogo e também personalizam a raquete com modelos variados.",
+    "conditionNotes": "Itens usados, com sinais leves de uso e variações de cor visíveis na foto real. A venda inclui exatamente as quatro peças mostradas; a capa apenas apresenta o kit instalado em uma raquete.",
+    "details": [
+      [
+        "Produto",
+        "Antivibradores para raquete"
+      ],
+      [
+        "Quantidade",
+        "4 unidades"
+      ],
+      [
+        "Uso",
+        "Cordas de raquete de tênis"
+      ],
+      [
+        "Modelos",
+        "Sortidos, conforme a foto real"
+      ],
+      [
+        "Material",
+        "Borracha ou silicone flexível"
+      ],
+      [
+        "Formato de venda",
+        "Kit independente"
+      ]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-4-antivibradores-tenis-sortidos-4",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 4",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 54,90 a R$ 99,00 (2 unidades)",
+    "newPriceLabel": "Pares novos comparáveis",
+    "newPriceSource": {
+      "label": "Rakkas",
+      "url": "https://www.rakkas.com.br/acessorios/antivibradores"
+    },
+    "image": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-4.webp",
+    "alt": "Quatro antivibradores de tênis sortidos do kit 4 sobre uma raquete em uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-4.webp",
+        "alt": "Kit 4 com quatro antivibradores sortidos sobre uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/foto-real-kit-4.webp",
+        "alt": "Foto real dos quatro antivibradores incluídos no kit 4"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · boa conservação",
+    "tag": "Kit · 4 unidades · sortidos",
+    "meta": "4 antivibradores · modelos variados",
+    "conditionSummary": "Quatro peças usadas em boa conservação, exatamente como aparecem na foto real.",
+    "description": "Kit com quatro antivibradores sortidos para instalar entre as cordas da raquete de tênis. Eles ajudam a reduzir a vibração das cordas durante o jogo e também personalizam a raquete com modelos variados.",
+    "conditionNotes": "Itens usados, com sinais leves de uso e variações de cor visíveis na foto real. A venda inclui exatamente as quatro peças mostradas; a capa apenas apresenta o kit instalado em uma raquete.",
+    "details": [
+      [
+        "Produto",
+        "Antivibradores para raquete"
+      ],
+      [
+        "Quantidade",
+        "4 unidades"
+      ],
+      [
+        "Uso",
+        "Cordas de raquete de tênis"
+      ],
+      [
+        "Modelos",
+        "Sortidos, conforme a foto real"
+      ],
+      [
+        "Material",
+        "Borracha ou silicone flexível"
+      ],
+      [
+        "Formato de venda",
+        "Kit independente"
+      ]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-4-antivibradores-tenis-sortidos-5",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 5",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 54,90 a R$ 99,00 (2 unidades)",
+    "newPriceLabel": "Pares novos comparáveis",
+    "newPriceSource": {
+      "label": "Rakkas",
+      "url": "https://www.rakkas.com.br/acessorios/antivibradores"
+    },
+    "image": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-5.webp",
+    "alt": "Quatro antivibradores de tênis sortidos do kit 5 sobre uma raquete em uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-5.webp",
+        "alt": "Kit 5 com quatro antivibradores sortidos sobre uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/foto-real-kit-5.webp",
+        "alt": "Foto real dos quatro antivibradores incluídos no kit 5"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · boa conservação",
+    "tag": "Kit · 4 unidades · sortidos",
+    "meta": "4 antivibradores · modelos variados",
+    "conditionSummary": "Quatro peças usadas em boa conservação, exatamente como aparecem na foto real.",
+    "description": "Kit com quatro antivibradores sortidos para instalar entre as cordas da raquete de tênis. Eles ajudam a reduzir a vibração das cordas durante o jogo e também personalizam a raquete com modelos variados.",
+    "conditionNotes": "Itens usados, com sinais leves de uso e variações de cor visíveis na foto real. A venda inclui exatamente as quatro peças mostradas; a capa apenas apresenta o kit instalado em uma raquete.",
+    "details": [
+      [
+        "Produto",
+        "Antivibradores para raquete"
+      ],
+      [
+        "Quantidade",
+        "4 unidades"
+      ],
+      [
+        "Uso",
+        "Cordas de raquete de tênis"
+      ],
+      [
+        "Modelos",
+        "Sortidos, conforme a foto real"
+      ],
+      [
+        "Material",
+        "Borracha ou silicone flexível"
+      ],
+      [
+        "Formato de venda",
+        "Kit independente"
+      ]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-4-antivibradores-tenis-sortidos-6",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 6",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 54,90 a R$ 99,00 (2 unidades)",
+    "newPriceLabel": "Pares novos comparáveis",
+    "newPriceSource": {
+      "label": "Rakkas",
+      "url": "https://www.rakkas.com.br/acessorios/antivibradores"
+    },
+    "image": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-6.webp",
+    "alt": "Quatro antivibradores de tênis sortidos do kit 6 sobre uma raquete em uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-6.webp",
+        "alt": "Kit 6 com quatro antivibradores sortidos sobre uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/foto-real-kit-6.webp",
+        "alt": "Foto real dos quatro antivibradores incluídos no kit 6"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · boa conservação",
+    "tag": "Kit · 4 unidades · sortidos",
+    "meta": "4 antivibradores · modelos variados",
+    "conditionSummary": "Quatro peças usadas em boa conservação, exatamente como aparecem na foto real.",
+    "description": "Kit com quatro antivibradores sortidos para instalar entre as cordas da raquete de tênis. Eles ajudam a reduzir a vibração das cordas durante o jogo e também personalizam a raquete com modelos variados.",
+    "conditionNotes": "Itens usados, com sinais leves de uso e variações de cor visíveis na foto real. A venda inclui exatamente as quatro peças mostradas; a capa apenas apresenta o kit instalado em uma raquete.",
+    "details": [
+      [
+        "Produto",
+        "Antivibradores para raquete"
+      ],
+      [
+        "Quantidade",
+        "4 unidades"
+      ],
+      [
+        "Uso",
+        "Cordas de raquete de tênis"
+      ],
+      [
+        "Modelos",
+        "Sortidos, conforme a foto real"
+      ],
+      [
+        "Material",
+        "Borracha ou silicone flexível"
+      ],
+      [
+        "Formato de venda",
+        "Kit independente"
+      ]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-4-antivibradores-tenis-sortidos-7",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 7",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 54,90 a R$ 99,00 (2 unidades)",
+    "newPriceLabel": "Pares novos comparáveis",
+    "newPriceSource": {
+      "label": "Rakkas",
+      "url": "https://www.rakkas.com.br/acessorios/antivibradores"
+    },
+    "image": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-7.webp",
+    "alt": "Quatro antivibradores de tênis sortidos do kit 7 sobre uma raquete em uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/capa-kit-7.webp",
+        "alt": "Kit 7 com quatro antivibradores sortidos sobre uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kits-antivibradores-tenis-4-unidades/foto-real-kit-7.webp",
+        "alt": "Foto real dos quatro antivibradores incluídos no kit 7"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · boa conservação",
+    "tag": "Kit · 4 unidades · sortidos",
+    "meta": "4 antivibradores · modelos variados",
+    "conditionSummary": "Quatro peças usadas em boa conservação, exatamente como aparecem na foto real.",
+    "description": "Kit com quatro antivibradores sortidos para instalar entre as cordas da raquete de tênis. Eles ajudam a reduzir a vibração das cordas durante o jogo e também personalizam a raquete com modelos variados.",
+    "conditionNotes": "Itens usados, com sinais leves de uso e variações de cor visíveis na foto real. A venda inclui exatamente as quatro peças mostradas; a capa apenas apresenta o kit instalado em uma raquete.",
+    "details": [
+      [
+        "Produto",
+        "Antivibradores para raquete"
+      ],
+      [
+        "Quantidade",
+        "4 unidades"
+      ],
+      [
+        "Uso",
+        "Cordas de raquete de tênis"
+      ],
+      [
+        "Modelos",
+        "Sortidos, conforme a foto real"
+      ],
+      [
+        "Material",
+        "Borracha ou silicone flexível"
+      ],
+      [
+        "Formato de venda",
+        "Kit independente"
+      ]
+    ],
+    "illustratedCover": true
   }
 ];
 

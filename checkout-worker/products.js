@@ -742,5 +742,75 @@ export const products = {
     "inventoryUnitIds": [
       "kit-3-gamma-tacky-towel-2"
     ]
+  },
+  "kit-4-antivibradores-tenis-sortidos-1": {
+    "id": "kit-4-antivibradores-tenis-sortidos-1",
+    "slug": "kit-4-antivibradores-tenis-sortidos-1",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 1",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-4-antivibradores-tenis-sortidos-1"
+    ]
+  },
+  "kit-4-antivibradores-tenis-sortidos-2": {
+    "id": "kit-4-antivibradores-tenis-sortidos-2",
+    "slug": "kit-4-antivibradores-tenis-sortidos-2",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 2",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-4-antivibradores-tenis-sortidos-2"
+    ]
+  },
+  "kit-4-antivibradores-tenis-sortidos-3": {
+    "id": "kit-4-antivibradores-tenis-sortidos-3",
+    "slug": "kit-4-antivibradores-tenis-sortidos-3",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 3",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-4-antivibradores-tenis-sortidos-3"
+    ]
+  },
+  "kit-4-antivibradores-tenis-sortidos-4": {
+    "id": "kit-4-antivibradores-tenis-sortidos-4",
+    "slug": "kit-4-antivibradores-tenis-sortidos-4",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 4",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-4-antivibradores-tenis-sortidos-4"
+    ]
+  },
+  "kit-4-antivibradores-tenis-sortidos-5": {
+    "id": "kit-4-antivibradores-tenis-sortidos-5",
+    "slug": "kit-4-antivibradores-tenis-sortidos-5",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 5",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-4-antivibradores-tenis-sortidos-5"
+    ]
+  },
+  "kit-4-antivibradores-tenis-sortidos-6": {
+    "id": "kit-4-antivibradores-tenis-sortidos-6",
+    "slug": "kit-4-antivibradores-tenis-sortidos-6",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 6",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-4-antivibradores-tenis-sortidos-6"
+    ]
+  },
+  "kit-4-antivibradores-tenis-sortidos-7": {
+    "id": "kit-4-antivibradores-tenis-sortidos-7",
+    "slug": "kit-4-antivibradores-tenis-sortidos-7",
+    "name": "Kit 4 Antivibradores de Tênis Sortidos — Unidade 7",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-4-antivibradores-tenis-sortidos-7"
+    ]
   }
 };
