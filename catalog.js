@@ -3013,7 +3013,12 @@ const products = [
       ]
     ],
     "newPriceText": "cerca de R$ 1.616",
-    "newPriceLabel": "Três frascos novos somados"
+    "newPriceLabel": "Três frascos novos somados",
+    "inventoryUnitIds": [
+      "perfume-dg-pour-homme",
+      "perfume-tommy-impact",
+      "perfume-burberry-london"
+    ]
   },
   {
     "id": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
@@ -3067,7 +3072,12 @@ const products = [
       ]
     ],
     "newPriceText": "cerca de R$ 1.092",
-    "newPriceLabel": "Três frascos novos somados"
+    "newPriceLabel": "Três frascos novos somados",
+    "inventoryUnitIds": [
+      "perfume-af-fierce",
+      "perfume-hollister-free-wave",
+      "perfume-tommy-bahama-st-barts"
+    ]
   },
   {
     "id": "kit-3-perfumes-importados-sauvage-lacoste-hollister",
@@ -3121,7 +3131,12 @@ const products = [
       ]
     ],
     "newPriceText": "cerca de R$ 1.694",
-    "newPriceLabel": "Três frascos novos somados"
+    "newPriceLabel": "Três frascos novos somados",
+    "inventoryUnitIds": [
+      "perfume-dior-sauvage-edp",
+      "perfume-lacoste-match-point",
+      "perfume-hollister-wave"
+    ]
   },
   {
     "id": "kit-3-perfumes-importados-tiffany-212-mercedes",
@@ -3175,7 +3190,71 @@ const products = [
       ]
     ],
     "newPriceText": "cerca de R$ 1.607",
-    "newPriceLabel": "Três frascos novos somados"
+    "newPriceLabel": "Três frascos novos somados",
+    "inventoryUnitIds": [
+      "perfume-tiffany-love-him",
+      "perfume-ch-212-men",
+      "perfume-mercedes-man-grey"
+    ]
+  },
+  {
+    "id": "kit-3-perfumes-importados-obsession-sauvage-fahrenheit",
+    "slug": "kit-3-perfumes-importados-obsession-sauvage-fahrenheit",
+    "name": "Kit 3 Perfumes Obsession Night + Sauvage + Fahrenheit",
+    "type": "kit",
+    "category": "Perfumes",
+    "categoryId": "perfumes",
+    "price": 790,
+    "image": "assets/produtos/kit-3-perfumes-importados-obsession-sauvage-fahrenheit/foto-real-kit.jpg",
+    "alt": "Calvin Klein Obsession Night for Men, Dior Sauvage e Dior Fahrenheit reunidos sobre uma mesa de madeira",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-perfumes-importados-obsession-sauvage-fahrenheit/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Abertos · níveis variados",
+    "tag": "Kit · 3 perfumes",
+    "meta": "Obsession Night · Sauvage EDT · Fahrenheit EDT",
+    "conditionSummary": "Obsession Night for Men com 100%, Dior Sauvage Eau de Toilette com 30% e Dior Fahrenheit Eau de Toilette com 60%. Valor proporcional estimado do conteúdo: R$ 1.152,50.",
+    "description": "Kit com Calvin Klein Obsession Night for Men, Dior Sauvage Eau de Toilette e Dior Fahrenheit Eau de Toilette. Pelos preços atuais dos frascos novos e pelos níveis restantes, o conteúdo representa aproximadamente R$ 1.152,50. O kit completo é anunciado por R$ 790.",
+    "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Obsession Night com 100%, Sauvage com 30% e Fahrenheit com 60%. Os níveis e o estado dos três frascos aparecem na foto real.",
+    "details": [
+      [
+        "Composição",
+        "3 perfumes"
+      ],
+      [
+        "CK Obsession Night for Men",
+        "100% · ref. novo R$ 419 · conteúdo R$ 419"
+      ],
+      [
+        "Dior Sauvage EDT 100 ml",
+        "30% · ref. novo R$ 869 · conteúdo R$ 260,70"
+      ],
+      [
+        "Dior Fahrenheit EDT 100 ml",
+        "60% · ref. novo R$ 788 · conteúdo R$ 472,80"
+      ],
+      [
+        "Valor proporcional",
+        "R$ 1.152,50 em conteúdo restante"
+      ],
+      [
+        "Formato de venda",
+        "Somente o kit completo"
+      ]
+    ],
+    "newPriceText": "cerca de R$ 2.076",
+    "newPriceLabel": "Três frascos novos somados",
+    "inventoryUnitIds": [
+      "perfume-ck-obsession-night-men",
+      "perfume-dior-sauvage-edt-100ml",
+      "perfume-dior-fahrenheit-edt-100ml"
+    ]
   },
   {
     "id": "drop-shot-spektro-7-0-bt",
@@ -5308,6 +5387,10 @@ const products = [
 function applyInventoryAvailability(catalogProducts) {
   const knownIds = new Set(catalogProducts.map(product => product.id));
   const inventoryUnits = product => {
+    const explicit = Array.isArray(product.inventoryUnitIds)
+      ? [...new Set(product.inventoryUnitIds.filter(id => typeof id === 'string' && id.trim()))]
+      : [];
+    if (explicit.length) return explicit;
     const included = Array.isArray(product.includesProductIds)
       ? [...new Set(product.includesProductIds.filter(id => knownIds.has(id)))]
       : [];

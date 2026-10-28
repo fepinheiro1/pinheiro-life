@@ -487,7 +487,9 @@ export const products = {
     "price": 69000,
     "status": "available",
     "inventoryUnitIds": [
-      "kit-3-perfumes-importados-dg-tommy-burberry"
+      "perfume-dg-pour-homme",
+      "perfume-tommy-impact",
+      "perfume-burberry-london"
     ]
   },
   "kit-3-perfumes-importados-fierce-free-wave-st-barth": {
@@ -497,7 +499,9 @@ export const products = {
     "price": 49000,
     "status": "available",
     "inventoryUnitIds": [
-      "kit-3-perfumes-importados-fierce-free-wave-st-barth"
+      "perfume-af-fierce",
+      "perfume-hollister-free-wave",
+      "perfume-tommy-bahama-st-barts"
     ]
   },
   "kit-3-perfumes-importados-sauvage-lacoste-hollister": {
@@ -507,7 +511,9 @@ export const products = {
     "price": 49000,
     "status": "available",
     "inventoryUnitIds": [
-      "kit-3-perfumes-importados-sauvage-lacoste-hollister"
+      "perfume-dior-sauvage-edp",
+      "perfume-lacoste-match-point",
+      "perfume-hollister-wave"
     ]
   },
   "kit-3-perfumes-importados-tiffany-212-mercedes": {
@@ -517,7 +523,21 @@ export const products = {
     "price": 69000,
     "status": "available",
     "inventoryUnitIds": [
-      "kit-3-perfumes-importados-tiffany-212-mercedes"
+      "perfume-tiffany-love-him",
+      "perfume-ch-212-men",
+      "perfume-mercedes-man-grey"
+    ]
+  },
+  "kit-3-perfumes-importados-obsession-sauvage-fahrenheit": {
+    "id": "kit-3-perfumes-importados-obsession-sauvage-fahrenheit",
+    "slug": "kit-3-perfumes-importados-obsession-sauvage-fahrenheit",
+    "name": "Kit 3 Perfumes Obsession Night + Sauvage + Fahrenheit",
+    "price": 79000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "perfume-ck-obsession-night-men",
+      "perfume-dior-sauvage-edt-100ml",
+      "perfume-dior-fahrenheit-edt-100ml"
     ]
   },
   "drop-shot-spektro-7-0-bt": {
