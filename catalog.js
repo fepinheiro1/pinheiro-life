@@ -4307,6 +4307,256 @@ const products = [
       "label": "Giannini Sports"
     },
     "illustratedCover": true
+  },
+  {
+    "id": "kit-2-gamma-tacky-towel-1",
+    "name": "Kit 2 GAMMA Tacky Towel — Unidade 1",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 179,
+    "newPriceText": "US$ 19,99 cada",
+    "newPriceLabel": "Versão anterior nos EUA",
+    "newPriceSource": {
+      "label": "Amazon Estados Unidos",
+      "url": "https://www.amazon.com/Gamma-Tacky-Towel/dp/B00CXXGH6S"
+    },
+    "image": "assets/produtos/gamma-tacky-towel-kits/capa-kit-2.webp",
+    "alt": "Duas toalhas aderentes GAMMA Tacky Towel da versão anterior ao lado de uma quadra de tênis",
+    "photos": [
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/capa-kit-2.webp",
+        "alt": "Kit com duas GAMMA Tacky Towel ao lado de uma quadra de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-kit-2.webp",
+        "alt": "Foto real das duas GAMMA Tacky Towel incluídas no kit"
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-unidade.webp",
+        "alt": "Detalhe real da embalagem individual GAMMA Tacky Towel"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Embaladas · versão anterior",
+    "tag": "Kit · versão anterior · 2 unidades",
+    "meta": "2 toalhas · grip enhancer · fórmula anterior",
+    "conditionSummary": "Duas unidades em suas embalagens individuais, conforme as fotos reais.",
+    "description": "Kit com duas GAMMA Tacky Towel da versão anterior, um acessório aderente para melhorar a firmeza das mãos, grips e luvas em dias quentes ou úmidos. Esta é a geração antiga mostrada no anúncio norte-americano de US$ 19,99 por unidade, diferente da versão nova e menor de 8 x 5 polegadas.",
+    "conditionNotes": "As duas unidades permanecem em suas embalagens individuais resseláveis. A foto real identifica a embalagem da versão anterior; a capa apenas apresenta o mesmo kit em um ambiente de quadra.",
+    "details": [
+      ["Marca", "GAMMA"],
+      ["Produto", "Tacky Towel Grip Enhancer"],
+      ["Versão", "Anterior"],
+      ["Quantidade", "2 unidades"],
+      ["Aplicação", "Mãos · grips · luvas"],
+      ["Esportes indicados", "Tênis · pickleball · golfe · beisebol"],
+      ["Embalagem", "Individual e resselável"]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-2-gamma-tacky-towel-2",
+    "name": "Kit 2 GAMMA Tacky Towel — Unidade 2",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 179,
+    "newPriceText": "US$ 19,99 cada",
+    "newPriceLabel": "Versão anterior nos EUA",
+    "newPriceSource": {
+      "label": "Amazon Estados Unidos",
+      "url": "https://www.amazon.com/Gamma-Tacky-Towel/dp/B00CXXGH6S"
+    },
+    "image": "assets/produtos/gamma-tacky-towel-kits/capa-kit-2.webp",
+    "alt": "Duas toalhas aderentes GAMMA Tacky Towel da versão anterior ao lado de uma quadra de tênis",
+    "photos": [
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/capa-kit-2.webp",
+        "alt": "Kit com duas GAMMA Tacky Towel ao lado de uma quadra de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-kit-2.webp",
+        "alt": "Foto real de duas unidades GAMMA Tacky Towel da versão anterior"
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-unidade.webp",
+        "alt": "Detalhe real da embalagem individual GAMMA Tacky Towel"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Embaladas · versão anterior",
+    "tag": "Kit · versão anterior · 2 unidades",
+    "meta": "2 toalhas · grip enhancer · fórmula anterior",
+    "conditionSummary": "Duas unidades em suas embalagens individuais, conforme as fotos reais.",
+    "description": "Kit com duas GAMMA Tacky Towel da versão anterior, um acessório aderente para melhorar a firmeza das mãos, grips e luvas em dias quentes ou úmidos. Esta é a geração antiga mostrada no anúncio norte-americano de US$ 19,99 por unidade, diferente da versão nova e menor de 8 x 5 polegadas.",
+    "conditionNotes": "As duas unidades permanecem em suas embalagens individuais resseláveis. A foto real identifica a embalagem da versão anterior; a capa apenas apresenta o mesmo kit em um ambiente de quadra.",
+    "details": [
+      ["Marca", "GAMMA"],
+      ["Produto", "Tacky Towel Grip Enhancer"],
+      ["Versão", "Anterior"],
+      ["Quantidade", "2 unidades"],
+      ["Aplicação", "Mãos · grips · luvas"],
+      ["Esportes indicados", "Tênis · pickleball · golfe · beisebol"],
+      ["Embalagem", "Individual e resselável"]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-2-gamma-tacky-towel-3",
+    "name": "Kit 2 GAMMA Tacky Towel — Unidade 3",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 179,
+    "newPriceText": "US$ 19,99 cada",
+    "newPriceLabel": "Versão anterior nos EUA",
+    "newPriceSource": {
+      "label": "Amazon Estados Unidos",
+      "url": "https://www.amazon.com/Gamma-Tacky-Towel/dp/B00CXXGH6S"
+    },
+    "image": "assets/produtos/gamma-tacky-towel-kits/capa-kit-2.webp",
+    "alt": "Duas toalhas aderentes GAMMA Tacky Towel da versão anterior ao lado de uma quadra de tênis",
+    "photos": [
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/capa-kit-2.webp",
+        "alt": "Kit com duas GAMMA Tacky Towel ao lado de uma quadra de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-kit-2.webp",
+        "alt": "Foto real de duas unidades GAMMA Tacky Towel da versão anterior"
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-unidade.webp",
+        "alt": "Detalhe real da embalagem individual GAMMA Tacky Towel"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Embaladas · versão anterior",
+    "tag": "Kit · versão anterior · 2 unidades",
+    "meta": "2 toalhas · grip enhancer · fórmula anterior",
+    "conditionSummary": "Duas unidades em suas embalagens individuais, conforme as fotos reais.",
+    "description": "Kit com duas GAMMA Tacky Towel da versão anterior, um acessório aderente para melhorar a firmeza das mãos, grips e luvas em dias quentes ou úmidos. Esta é a geração antiga mostrada no anúncio norte-americano de US$ 19,99 por unidade, diferente da versão nova e menor de 8 x 5 polegadas.",
+    "conditionNotes": "As duas unidades permanecem em suas embalagens individuais resseláveis. A foto real identifica a embalagem da versão anterior; a capa apenas apresenta o mesmo kit em um ambiente de quadra.",
+    "details": [
+      ["Marca", "GAMMA"],
+      ["Produto", "Tacky Towel Grip Enhancer"],
+      ["Versão", "Anterior"],
+      ["Quantidade", "2 unidades"],
+      ["Aplicação", "Mãos · grips · luvas"],
+      ["Esportes indicados", "Tênis · pickleball · golfe · beisebol"],
+      ["Embalagem", "Individual e resselável"]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-2-gamma-tacky-towel-4",
+    "name": "Kit 2 GAMMA Tacky Towel — Unidade 4",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 179,
+    "newPriceText": "US$ 19,99 cada",
+    "newPriceLabel": "Versão anterior nos EUA",
+    "newPriceSource": {
+      "label": "Amazon Estados Unidos",
+      "url": "https://www.amazon.com/Gamma-Tacky-Towel/dp/B00CXXGH6S"
+    },
+    "image": "assets/produtos/gamma-tacky-towel-kits/capa-kit-2.webp",
+    "alt": "Duas toalhas aderentes GAMMA Tacky Towel da versão anterior ao lado de uma quadra de tênis",
+    "photos": [
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/capa-kit-2.webp",
+        "alt": "Kit com duas GAMMA Tacky Towel ao lado de uma quadra de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-kit-2.webp",
+        "alt": "Foto real de duas unidades GAMMA Tacky Towel da versão anterior"
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-unidade.webp",
+        "alt": "Detalhe real da embalagem individual GAMMA Tacky Towel"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Embaladas · versão anterior",
+    "tag": "Kit · versão anterior · 2 unidades",
+    "meta": "2 toalhas · grip enhancer · fórmula anterior",
+    "conditionSummary": "Duas unidades em suas embalagens individuais, conforme as fotos reais.",
+    "description": "Kit com duas GAMMA Tacky Towel da versão anterior, um acessório aderente para melhorar a firmeza das mãos, grips e luvas em dias quentes ou úmidos. Esta é a geração antiga mostrada no anúncio norte-americano de US$ 19,99 por unidade, diferente da versão nova e menor de 8 x 5 polegadas.",
+    "conditionNotes": "As duas unidades permanecem em suas embalagens individuais resseláveis. A foto real identifica a embalagem da versão anterior; a capa apenas apresenta o mesmo kit em um ambiente de quadra.",
+    "details": [
+      ["Marca", "GAMMA"],
+      ["Produto", "Tacky Towel Grip Enhancer"],
+      ["Versão", "Anterior"],
+      ["Quantidade", "2 unidades"],
+      ["Aplicação", "Mãos · grips · luvas"],
+      ["Esportes indicados", "Tênis · pickleball · golfe · beisebol"],
+      ["Embalagem", "Individual e resselável"]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-3-gamma-tacky-towel",
+    "name": "Kit 3 GAMMA Tacky Towel",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 249,
+    "newPriceText": "US$ 19,99 cada",
+    "newPriceLabel": "Versão anterior nos EUA",
+    "newPriceSource": {
+      "label": "Amazon Estados Unidos",
+      "url": "https://www.amazon.com/Gamma-Tacky-Towel/dp/B00CXXGH6S"
+    },
+    "image": "assets/produtos/gamma-tacky-towel-kits/capa-kit-3.webp",
+    "alt": "Três toalhas aderentes GAMMA Tacky Towel da versão anterior ao lado de uma quadra de tênis",
+    "photos": [
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/capa-kit-3.webp",
+        "alt": "Kit com três GAMMA Tacky Towel ao lado de uma quadra de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-kit-3.webp",
+        "alt": "Foto real das três GAMMA Tacky Towel incluídas no kit"
+      },
+      {
+        "src": "assets/produtos/gamma-tacky-towel-kits/foto-real-unidade.webp",
+        "alt": "Detalhe real da embalagem individual GAMMA Tacky Towel"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Embaladas · versão anterior",
+    "tag": "Kit · versão anterior · 3 unidades",
+    "meta": "3 toalhas · grip enhancer · fórmula anterior",
+    "conditionSummary": "Três unidades em suas embalagens individuais, conforme as fotos reais.",
+    "description": "Kit com três GAMMA Tacky Towel da versão anterior, um acessório aderente para melhorar a firmeza das mãos, grips e luvas em dias quentes ou úmidos. Esta é a geração antiga mostrada no anúncio norte-americano de US$ 19,99 por unidade, diferente da versão nova e menor de 8 x 5 polegadas.",
+    "conditionNotes": "As três unidades permanecem em suas embalagens individuais resseláveis. A foto real identifica a embalagem da versão anterior; a capa apenas apresenta o mesmo kit em um ambiente de quadra.",
+    "details": [
+      ["Marca", "GAMMA"],
+      ["Produto", "Tacky Towel Grip Enhancer"],
+      ["Versão", "Anterior"],
+      ["Quantidade", "3 unidades"],
+      ["Aplicação", "Mãos · grips · luvas"],
+      ["Esportes indicados", "Tênis · pickleball · golfe · beisebol"],
+      ["Embalagem", "Individual e resselável"]
+    ],
+    "illustratedCover": true
   }
 ];
 
