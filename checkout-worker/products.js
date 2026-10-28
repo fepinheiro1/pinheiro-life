@@ -480,14 +480,44 @@ export const products = {
       "breitling-j-class-d53067"
     ]
   },
-  "kit-perfumes-importados": {
-    "id": "kit-perfumes-importados",
-    "slug": "kit-perfumes-importados",
-    "name": "Kit de perfumes importados",
-    "price": 29000,
+  "kit-3-perfumes-importados-dg-tommy-burberry": {
+    "id": "kit-3-perfumes-importados-dg-tommy-burberry",
+    "slug": "kit-3-perfumes-importados-dg-tommy-burberry",
+    "name": "Kit 3 Perfumes D&G + Tommy Impact + Burberry London",
+    "price": 59000,
     "status": "available",
     "inventoryUnitIds": [
-      "kit-perfumes-importados"
+      "kit-3-perfumes-importados-dg-tommy-burberry"
+    ]
+  },
+  "kit-3-perfumes-importados-fierce-free-wave-st-barth": {
+    "id": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
+    "slug": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
+    "name": "Kit 3 Perfumes A&F Fierce + Hollister Free Wave + St. Barth",
+    "price": 39000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-3-perfumes-importados-fierce-free-wave-st-barth"
+    ]
+  },
+  "kit-3-perfumes-importados-sauvage-lacoste-hollister": {
+    "id": "kit-3-perfumes-importados-sauvage-lacoste-hollister",
+    "slug": "kit-3-perfumes-importados-sauvage-lacoste-hollister",
+    "name": "Kit 3 Perfumes Dior Sauvage + Lacoste Match Point + Hollister",
+    "price": 39000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-3-perfumes-importados-sauvage-lacoste-hollister"
+    ]
+  },
+  "kit-3-perfumes-importados-tiffany-212-mercedes": {
+    "id": "kit-3-perfumes-importados-tiffany-212-mercedes",
+    "slug": "kit-3-perfumes-importados-tiffany-212-mercedes",
+    "name": "Kit 3 Perfumes Tiffany & Love + 212 Men + Mercedes-Benz",
+    "price": 69000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-3-perfumes-importados-tiffany-212-mercedes"
     ]
   },
   "drop-shot-spektro-7-0-bt": {

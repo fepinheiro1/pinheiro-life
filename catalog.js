@@ -2962,75 +2962,196 @@ const products = [
     "illustratedCover": true
   },
   {
-    "id": "kit-perfumes-importados",
-    "slug": "kit-perfumes-importados",
-    "name": "Kit de perfumes importados",
+    "id": "kit-3-perfumes-importados-dg-tommy-burberry",
+    "slug": "kit-3-perfumes-importados-dg-tommy-burberry",
+    "name": "Kit 3 Perfumes D&G + Tommy Impact + Burberry London",
     "type": "kit",
     "category": "Perfumes",
     "categoryId": "perfumes",
-    "price": 290,
-    "image": "assets/produtos/kit-perfumes-importados/capa-travertino.jpg",
-    "alt": "Kit com perfumes Abercrombie & Fitch, Tommy Hilfiger Impact e Hollister California sobre travertino — ambiente ilustrativo criado com IA",
+    "price": 590,
+    "image": "assets/produtos/kit-3-perfumes-importados-dg-tommy-burberry/foto-real-kit.jpg",
+    "alt": "Dolce & Gabbana Pour Homme, Tommy Hilfiger Impact e Burberry London reunidos sobre uma mesa de madeira",
     "photos": [
       {
-        "src": "assets/produtos/kit-perfumes-importados/capa-travertino.jpg",
-        "alt": "Kit com três perfumes importados sobre travertino — ambiente ilustrativo criado com IA",
-        "isIllustrative": true
-      },
-      {
-        "src": "assets/produtos/kit-perfumes-importados/4626.jpg",
-        "alt": "Os três frascos do kit — foto real"
-      },
-      {
-        "src": "assets/produtos/kit-perfumes-importados/4627.jpg",
-        "alt": "Frasco Abercrombie & Fitch com aproximadamente 15% — foto real"
-      },
-      {
-        "src": "assets/produtos/kit-perfumes-importados/4628.jpg",
-        "alt": "Frasco Hollister California com aproximadamente 100% — foto real"
-      },
-      {
-        "src": "assets/produtos/kit-perfumes-importados/4629.jpg",
-        "alt": "Frasco Tommy Hilfiger Impact com aproximadamente 20% — foto real"
+        "src": "assets/produtos/kit-3-perfumes-importados-dg-tommy-burberry/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
       }
     ],
     "imageFit": "cover",
     "isDemo": false,
-    "isTest": true,
     "status": "available",
     "condition": "Abertos · níveis variados",
     "tag": "Kit · 3 perfumes",
-    "meta": "Abercrombie & Fitch, Hollister e Tommy Hilfiger",
-    "conditionSummary": "Conteúdos aproximados de 15%, 100% e 20%. Venda somente do kit completo.",
-    "description": "Kit com três perfumes importados: Abercrombie & Fitch, Hollister California e Tommy Hilfiger Impact. Os três frascos são vendidos juntos por R$ 290; não há venda separada.",
-    "conditionNotes": "Produtos abertos. Conteúdos aproximados: Abercrombie & Fitch com 15%, Hollister com 100% e Tommy Hilfiger Impact com 20%. Confira os frascos, níveis e sinais de uso nas fotos reais. Este anúncio é um teste e a venda é somente do kit completo.",
+    "meta": "D&G Pour Homme · Tommy Impact · Burberry London",
+    "conditionSummary": "Três perfumes importados abertos. Burberry London com aproximadamente 85%; os níveis dos outros frascos aparecem na foto real.",
+    "description": "Kit com Dolce & Gabbana Pour Homme, Tommy Hilfiger Impact e Burberry London for Men. Os três frascos são vendidos juntos.",
+    "conditionNotes": "Produtos abertos e com níveis variados. O Burberry London tem aproximadamente 85% do conteúdo. Confira na foto real o nível aparente do Dolce & Gabbana e do Tommy Impact.",
     "details": [
       [
         "Composição",
         "3 perfumes"
       ],
       [
-        "Abercrombie & Fitch",
-        "Aprox. 15%"
+        "Burberry London",
+        "Aprox. 85%"
       ],
       [
-        "Hollister California",
-        "Aprox. 100%"
-      ],
-      [
-        "Tommy Hilfiger Impact",
-        "Aprox. 20%"
+        "Demais frascos",
+        "Níveis visíveis na foto real"
       ],
       [
         "Formato de venda",
         "Somente o kit completo"
-      ],
-      [
-        "Status",
-        "Anúncio de teste"
       ]
     ],
-    "illustratedCover": true
+    "newPriceText": "R$ 699,90",
+    "newPriceLabel": "D&G Pour Homme 125 ml novo encontrado",
+    "newPriceSource": {
+      "label": "BM Shop",
+      "url": "https://www.lojabmshop.com.br/produtos/dghome-125ml/"
+    }
+  },
+  {
+    "id": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
+    "slug": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
+    "name": "Kit 3 Perfumes A&F Fierce + Hollister Free Wave + St. Barth",
+    "type": "kit",
+    "category": "Perfumes",
+    "categoryId": "perfumes",
+    "price": 390,
+    "image": "assets/produtos/kit-3-perfumes-importados-fierce-free-wave-st-barth/foto-real-kit.jpg",
+    "alt": "Perfumes Abercrombie & Fitch Fierce, Hollister Free Wave e St. Barth reunidos sobre uma mesa de madeira",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-perfumes-importados-fierce-free-wave-st-barth/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Abertos · níveis variados",
+    "tag": "Kit · 3 perfumes",
+    "meta": "A&F Fierce · Hollister Free Wave · St. Barth",
+    "conditionSummary": "Três perfumes importados abertos, com os níveis de conteúdo mostrados na foto real.",
+    "description": "Kit com Abercrombie & Fitch Fierce, Hollister Free Wave for Him e St. Barth. Os três frascos são vendidos juntos.",
+    "conditionNotes": "Produtos abertos e com níveis variados. A foto real permite conferir os frascos, o estado externo e os níveis aparentes antes da compra.",
+    "details": [
+      [
+        "Composição",
+        "3 perfumes"
+      ],
+      [
+        "Conteúdo",
+        "Níveis visíveis na foto real"
+      ],
+      [
+        "Formato de venda",
+        "Somente o kit completo"
+      ]
+    ],
+    "newPriceText": "R$ 440",
+    "newPriceLabel": "A&F Fierce 100 ml novo encontrado",
+    "newPriceSource": {
+      "label": "Drogaria Venancio",
+      "url": "https://www.drogariavenancio.com.br/abercrombie"
+    }
+  },
+  {
+    "id": "kit-3-perfumes-importados-sauvage-lacoste-hollister",
+    "slug": "kit-3-perfumes-importados-sauvage-lacoste-hollister",
+    "name": "Kit 3 Perfumes Dior Sauvage + Lacoste Match Point + Hollister",
+    "type": "kit",
+    "category": "Perfumes",
+    "categoryId": "perfumes",
+    "price": 390,
+    "image": "assets/produtos/kit-3-perfumes-importados-sauvage-lacoste-hollister/foto-real-kit.jpg",
+    "alt": "Perfumes Hollister, Dior Sauvage Eau de Parfum e Lacoste Match Point reunidos sobre uma mesa de madeira",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-perfumes-importados-sauvage-lacoste-hollister/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Abertos · níveis variados",
+    "tag": "Kit · 3 perfumes",
+    "meta": "Dior Sauvage EDP · Lacoste Match Point · Hollister",
+    "conditionSummary": "Três perfumes importados abertos. Dior Sauvage Eau de Parfum com aproximadamente 20%; os demais níveis aparecem na foto real.",
+    "description": "Kit com Dior Sauvage Eau de Parfum, Lacoste Match Point e Hollister. Os três frascos são vendidos juntos.",
+    "conditionNotes": "Produtos abertos e com níveis variados. O Dior Sauvage Eau de Parfum tem aproximadamente 20% do conteúdo. Confira na foto real os níveis aparentes dos demais frascos.",
+    "details": [
+      [
+        "Composição",
+        "3 perfumes"
+      ],
+      [
+        "Dior Sauvage EDP",
+        "Aprox. 20%"
+      ],
+      [
+        "Demais frascos",
+        "Níveis visíveis na foto real"
+      ],
+      [
+        "Formato de venda",
+        "Somente o kit completo"
+      ]
+    ],
+    "newPriceText": "R$ 904",
+    "newPriceLabel": "Dior Sauvage EDP 100 ml novo encontrado",
+    "newPriceSource": {
+      "label": "Sephora",
+      "url": "https://www.sephora.com.br/dior-sauvage-edp-edp-100ml-421405.html"
+    }
+  },
+  {
+    "id": "kit-3-perfumes-importados-tiffany-212-mercedes",
+    "slug": "kit-3-perfumes-importados-tiffany-212-mercedes",
+    "name": "Kit 3 Perfumes Tiffany & Love + 212 Men + Mercedes-Benz",
+    "type": "kit",
+    "category": "Perfumes",
+    "categoryId": "perfumes",
+    "price": 690,
+    "image": "assets/produtos/kit-3-perfumes-importados-tiffany-212-mercedes/foto-real-kit.jpg",
+    "alt": "Perfumes Tiffany & Love for Him, Carolina Herrera 212 Men e Mercedes-Benz Man Grey reunidos sobre uma mesa de madeira",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-perfumes-importados-tiffany-212-mercedes/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Abertos · níveis variados",
+    "tag": "Kit · 3 perfumes",
+    "meta": "Tiffany & Love · 212 Men · Mercedes-Benz Man Grey",
+    "conditionSummary": "Três perfumes importados abertos, com os níveis de conteúdo mostrados na foto real.",
+    "description": "Kit com Tiffany & Love for Him, Carolina Herrera 212 Men e Mercedes-Benz Man Grey. Os três frascos são vendidos juntos.",
+    "conditionNotes": "Produtos abertos e com níveis variados. A foto real permite conferir os frascos, o estado externo e os níveis aparentes antes da compra.",
+    "details": [
+      [
+        "Composição",
+        "3 perfumes"
+      ],
+      [
+        "Conteúdo",
+        "Níveis visíveis na foto real"
+      ],
+      [
+        "Formato de venda",
+        "Somente o kit completo"
+      ]
+    ],
+    "newPriceText": "R$ 546,75",
+    "newPriceLabel": "212 Men NYC 100 ml novo na marca",
+    "newPriceSource": {
+      "label": "Carolina Herrera",
+      "url": "https://www.carolinaherrera.com/br/pt/c/212-range"
+    }
   },
   {
     "id": "drop-shot-spektro-7-0-bt",
