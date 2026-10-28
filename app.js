@@ -100,3 +100,11 @@ renderProducts();
 showSlide(0);
 syncAvailability();
 window.addEventListener('pageshow',event=>{if(event.persisted)syncAvailability();});
+if(initialParams.get('buscar')==='1'){
+  setTimeout(()=>{
+    $('#search-input').focus({preventScroll:true});
+    const cleanUrl=new URL(location.href);
+    cleanUrl.searchParams.delete('buscar');
+    history.replaceState({},'',cleanUrl.pathname+cleanUrl.search+cleanUrl.hash);
+  },80);
+}

@@ -23,7 +23,7 @@ const familyFor=category=>categoryFamilies.findIndex(group=>group.includes(categ
 const productUrl=product=>`../../produto/${esc(product.slug||product.id)}/`;
 const recommendationCard=product=>`<article class="recommendation-card"><a class="recommendation-image" href="${productUrl(product)}" aria-label="Ver detalhes de ${esc(product.name)}"><img src="${asset(product.image)}" alt="${esc(product.alt)}" width="720" height="960" loading="lazy"></a><div class="recommendation-info"><p class="product-category">${esc(product.category)}</p><h3><a href="${productUrl(product)}">${esc(product.name)}</a></h3><p>${esc(product.meta)}</p><div><span class="price">${price(product)}</span><a class="details-link" href="${productUrl(product)}">Ver detalhes</a></div></div></article>`;
 const home = fs.readFileSync(path.join(root,'index.html'),'utf8');
-const header = home.match(/<header[\s\S]*?<\/header>/)[0].replaceAll('href="#', 'href="../../#').replace('href="../../#produtos" data-kit-link','href="../../?tipo=kit#produtos" data-kit-link').replace(/<button class="saved-button"[\s\S]*?<\/button>/, '<a class="text-link" href="../../#produtos">Ver todos os produtos</a>');
+const header = home.match(/<header[\s\S]*?<\/header>/)[0].replaceAll('href="#', 'href="../../#').replace('id="header-search" href="../../#produtos"','id="header-search" href="../../?buscar=1#produtos"').replace('href="../../#produtos" data-kit-link','href="../../?tipo=kit#produtos" data-kit-link').replace(/<button class="saved-button"[\s\S]*?<\/button>/, '<a class="text-link" href="../../#produtos">Ver todos os produtos</a>');
 for (const [productIndex,p] of products.entries()) {
  const slug=p.slug||p.id;
  const photos=p.photos?.length?p.photos:[{src:p.image,alt:p.alt}];
