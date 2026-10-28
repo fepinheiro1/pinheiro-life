@@ -723,24 +723,24 @@ export const products = {
       "kit-2-gamma-tacky-towel-3"
     ]
   },
-  "kit-2-gamma-tacky-towel-4": {
-    "id": "kit-2-gamma-tacky-towel-4",
-    "slug": "kit-2-gamma-tacky-towel-4",
-    "name": "Kit 2 GAMMA Tacky Towel — Unidade 4",
-    "price": 17900,
-    "status": "available",
-    "inventoryUnitIds": [
-      "kit-2-gamma-tacky-towel-4"
-    ]
-  },
-  "kit-3-gamma-tacky-towel": {
-    "id": "kit-3-gamma-tacky-towel",
-    "slug": "kit-3-gamma-tacky-towel",
-    "name": "Kit 3 GAMMA Tacky Towel",
+  "kit-3-gamma-tacky-towel-1": {
+    "id": "kit-3-gamma-tacky-towel-1",
+    "slug": "kit-3-gamma-tacky-towel-1",
+    "name": "Kit 3 GAMMA Tacky Towel — Unidade 1",
     "price": 24900,
     "status": "available",
     "inventoryUnitIds": [
-      "kit-3-gamma-tacky-towel"
+      "kit-3-gamma-tacky-towel-1"
+    ]
+  },
+  "kit-3-gamma-tacky-towel-2": {
+    "id": "kit-3-gamma-tacky-towel-2",
+    "slug": "kit-3-gamma-tacky-towel-2",
+    "name": "Kit 3 GAMMA Tacky Towel — Unidade 2",
+    "price": 24900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-3-gamma-tacky-towel-2"
     ]
   }
 };
