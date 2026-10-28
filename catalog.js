@@ -3022,7 +3022,7 @@ const products = [
     "type": "kit",
     "category": "Perfumes",
     "categoryId": "perfumes",
-    "price": 390,
+    "price": 490,
     "image": "assets/produtos/kit-3-perfumes-importados-fierce-free-wave-st-barth/foto-real-kit.jpg",
     "alt": "Perfumes Abercrombie & Fitch Fierce, Hollister Free Wave e Tommy Bahama Set Sail St. Barts reunidos sobre uma mesa de madeira",
     "photos": [
@@ -3037,9 +3037,9 @@ const products = [
     "condition": "Abertos · níveis variados",
     "tag": "Kit · 3 perfumes",
     "meta": "A&F Fierce · Hollister Free Wave · Tommy Bahama St. Barts",
-    "conditionSummary": "A&F Fierce com aproximadamente 40%, Hollister Free Wave com aproximadamente 45% e Tommy Bahama Set Sail St. Barts com aproximadamente 70%. Valor proporcional estimado do conteúdo: R$ 557,45.",
-    "description": "Kit com Abercrombie & Fitch Fierce Cologne, Hollister Free Wave for Him e Tommy Bahama Set Sail St. Barts for Men. Pelos preços atuais dos frascos novos e pelos níveis aparentes, o conteúdo representa aproximadamente R$ 557,45. O kit completo é anunciado por R$ 390.",
-    "conditionNotes": "Produtos originais e abertos. Os níveis foram estimados pela foto real: Fierce com cerca de 40%, Free Wave com cerca de 45% e St. Barts com cerca de 70%. O frasco do Tommy Bahama é fosco, por isso a estimativa dele é menos precisa.",
+    "conditionSummary": "A&F Fierce com aproximadamente 40%, Hollister Free Wave com aproximadamente 45% e Tommy Bahama Set Sail St. Barts com 95%. Valor proporcional estimado do conteúdo: R$ 645,48.",
+    "description": "Kit com Abercrombie & Fitch Fierce Cologne, Hollister Free Wave for Him e Tommy Bahama Set Sail St. Barts for Men. Pelos preços atuais dos frascos novos e pelos níveis restantes, o conteúdo representa aproximadamente R$ 645,48. O kit completo é anunciado por R$ 490.",
+    "conditionNotes": "Produtos originais e abertos. Conteúdo restante: Fierce com cerca de 40%, Free Wave com cerca de 45% e Tommy Bahama Set Sail St. Barts com 95%. Os frascos e o estado externo aparecem na foto real.",
     "details": [
       [
         "Composição",
@@ -3055,11 +3055,11 @@ const products = [
       ],
       [
         "Tommy Bahama St. Barts",
-        "Aprox. 70% · ref. novo R$ 352,13 · conteúdo R$ 246,49"
+        "95% · ref. novo R$ 352,13 · conteúdo R$ 334,52"
       ],
       [
         "Valor proporcional",
-        "R$ 557,45 em conteúdo restante"
+        "R$ 645,48 em conteúdo restante"
       ],
       [
         "Formato de venda",

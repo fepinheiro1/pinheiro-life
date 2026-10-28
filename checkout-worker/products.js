@@ -494,7 +494,7 @@ export const products = {
     "id": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
     "slug": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
     "name": "Kit 3 Perfumes A&F Fierce + Hollister Free Wave + Tommy Bahama St. Barts",
-    "price": 39000,
+    "price": 49000,
     "status": "available",
     "inventoryUnitIds": [
       "kit-3-perfumes-importados-fierce-free-wave-st-barth"
