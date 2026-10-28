@@ -601,14 +601,14 @@ export const products = {
       "yonex-vcore-98-clara"
     ]
   },
-  "raqueteira-yonex-rosa": {
-    "id": "raqueteira-yonex-rosa",
-    "slug": "raqueteira-yonex-rosa",
-    "name": "Raqueteira Yonex Rosa e Preta",
+  "raqueteira-yonex-vermelha": {
+    "id": "raqueteira-yonex-vermelha",
+    "slug": "raqueteira-yonex-vermelha",
+    "name": "Raqueteira Yonex Vermelha e Preta",
     "price": 9000,
     "status": "available",
     "inventoryUnitIds": [
-      "raqueteira-yonex-rosa"
+      "raqueteira-yonex-vermelha"
     ]
   }
 };

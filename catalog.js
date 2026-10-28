@@ -3824,26 +3824,26 @@ const products = [
     "illustratedCover": true
   },
   {
-    "id": "raqueteira-yonex-rosa",
-    "name": "Raqueteira Yonex Rosa e Preta",
+    "id": "raqueteira-yonex-vermelha",
+    "name": "Raqueteira Yonex Vermelha e Preta",
     "type": "single",
     "category": "Tênis",
     "categoryId": "esportes",
     "price": 90,
-    "image": "assets/produtos/raqueteira-yonex-rosa/capa-quadra.jpg",
-    "alt": "Raqueteira Yonex rosa e preta apoiada ao lado de uma quadra de tênis — ambiente ilustrativo criado com IA a partir do produto real",
+    "image": "assets/produtos/raqueteira-yonex-vermelha/capa-quadra.jpg",
+    "alt": "Raqueteira Yonex vermelha e preta apoiada ao lado de uma quadra de tênis — ambiente ilustrativo criado com IA a partir do produto real",
     "photos": [
       {
-        "src": "assets/produtos/raqueteira-yonex-rosa/capa-quadra.jpg",
-        "alt": "Raqueteira Yonex rosa e preta apoiada ao lado de uma quadra de tênis — ambiente ilustrativo criado com IA a partir do produto real",
+        "src": "assets/produtos/raqueteira-yonex-vermelha/capa-quadra.jpg",
+        "alt": "Raqueteira Yonex vermelha e preta apoiada ao lado de uma quadra de tênis — ambiente ilustrativo criado com IA a partir do produto real",
         "isIllustrative": true
       },
       {
-        "src": "assets/produtos/raqueteira-yonex-rosa/foto-real-frente.jpg",
-        "alt": "Vista frontal real da raqueteira Yonex rosa e preta"
+        "src": "assets/produtos/raqueteira-yonex-vermelha/foto-real-frente.jpg",
+        "alt": "Vista frontal real da raqueteira Yonex vermelha e preta"
       },
       {
-        "src": "assets/produtos/raqueteira-yonex-rosa/foto-real-costas.jpg",
+        "src": "assets/produtos/raqueteira-yonex-vermelha/foto-real-costas.jpg",
         "alt": "Vista traseira real da raqueteira Yonex com alças de mochila"
       }
     ],
@@ -3854,7 +3854,7 @@ const products = [
     "tag": "Avulsa · Yonex",
     "meta": "Alças de mochila · bolsos com zíper",
     "conditionSummary": "Usada, com marcas de uso visíveis nas fotos reais.",
-    "description": "Raqueteira Yonex rosa e preta com alças acolchoadas para uso como mochila, alça de mão e bolsos com zíper. Formato alongado próprio para transportar equipamentos de tênis.",
+    "description": "Raqueteira Yonex vermelha e preta com alças acolchoadas para uso como mochila, alça de mão e bolsos com zíper. Formato alongado próprio para transportar equipamentos de tênis.",
     "conditionNotes": "Peça usada, com manchas, riscos e sinais de desgaste visíveis principalmente na parte frontal. Zíperes, alças e costuras aparecem nas fotos reais do exemplar.",
     "details": [
       [
@@ -3863,7 +3863,7 @@ const products = [
       ],
       [
         "Cor",
-        "Rosa e preta"
+        "Vermelha e preta"
       ],
       [
         "Transporte",
