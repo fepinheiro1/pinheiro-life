@@ -3822,6 +3822,63 @@ const products = [
       "yonex-vcore-98-clara"
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "raqueteira-yonex-rosa",
+    "name": "Raqueteira Yonex Rosa e Preta",
+    "type": "single",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 90,
+    "image": "assets/produtos/raqueteira-yonex-rosa/capa-quadra.jpg",
+    "alt": "Raqueteira Yonex rosa e preta apoiada ao lado de uma quadra de tênis — ambiente ilustrativo criado com IA a partir do produto real",
+    "photos": [
+      {
+        "src": "assets/produtos/raqueteira-yonex-rosa/capa-quadra.jpg",
+        "alt": "Raqueteira Yonex rosa e preta apoiada ao lado de uma quadra de tênis — ambiente ilustrativo criado com IA a partir do produto real",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/raqueteira-yonex-rosa/foto-real-frente.jpg",
+        "alt": "Vista frontal real da raqueteira Yonex rosa e preta"
+      },
+      {
+        "src": "assets/produtos/raqueteira-yonex-rosa/foto-real-costas.jpg",
+        "alt": "Vista traseira real da raqueteira Yonex com alças de mochila"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas de uso",
+    "tag": "Avulsa · Yonex",
+    "meta": "Alças de mochila · bolsos com zíper",
+    "conditionSummary": "Usada, com marcas de uso visíveis nas fotos reais.",
+    "description": "Raqueteira Yonex rosa e preta com alças acolchoadas para uso como mochila, alça de mão e bolsos com zíper. Formato alongado próprio para transportar equipamentos de tênis.",
+    "conditionNotes": "Peça usada, com manchas, riscos e sinais de desgaste visíveis principalmente na parte frontal. Zíperes, alças e costuras aparecem nas fotos reais do exemplar.",
+    "details": [
+      [
+        "Marca",
+        "Yonex"
+      ],
+      [
+        "Cor",
+        "Rosa e preta"
+      ],
+      [
+        "Transporte",
+        "Alças de mochila e alça de mão"
+      ],
+      [
+        "Fechamento",
+        "Zíper"
+      ],
+      [
+        "Formato de venda",
+        "1 raqueteira"
+      ]
+    ],
+    "illustratedCover": true
   }
 ];
 
