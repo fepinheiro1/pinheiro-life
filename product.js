@@ -6,6 +6,55 @@ const photo = document.querySelector('#gallery-photo');
 const video = document.querySelector('#gallery-video');
 const videoButton = document.querySelector('#show-product-video');
 const thumbnails = [...document.querySelectorAll('[data-photo]')];
+const recommendationGrid=document.querySelector('.recommendation-grid');
+const recommendationData=document.querySelector('#recommendation-data');
+if(recommendationGrid&&recommendationData){
+  try{
+    const pool=JSON.parse(recommendationData.textContent);
+    for(let index=pool.length-1;index>0;index-=1){
+      const randomIndex=Math.floor(Math.random()*(index+1));
+      [pool[index],pool[randomIndex]]=[pool[randomIndex],pool[index]];
+    }
+    const selected=pool.slice(0,16);
+    const element=(tag,className,text)=>{
+      const node=document.createElement(tag);
+      if(className)node.className=className;
+      if(text!==undefined)node.textContent=text;
+      return node;
+    };
+    const cards=selected.map(product=>{
+      const card=element('article','recommendation-card');
+      const imageLink=element('a','recommendation-image');
+      imageLink.href=product.url;
+      imageLink.setAttribute('aria-label',`Ver detalhes de ${product.name}`);
+      const image=element('img');
+      image.src=product.image;
+      image.alt=product.alt;
+      image.width=720;
+      image.height=960;
+      image.loading='lazy';
+      imageLink.append(image);
+      const info=element('div','recommendation-info');
+      const category=element('p','product-category',product.category);
+      const title=element('h3');
+      const titleLink=element('a','',product.name);
+      titleLink.href=product.url;
+      title.append(titleLink);
+      const meta=element('p','',product.meta);
+      const footer=element('div');
+      const productPrice=element('span','price',product.price);
+      const details=element('a','details-link','Ver detalhes');
+      details.href=product.url;
+      footer.append(productPrice,details);
+      info.append(category,title,meta,footer);
+      card.append(imageLink,info);
+      return card;
+    });
+    recommendationGrid.replaceChildren(...cards);
+    const count=document.querySelector('[data-recommendation-count]');
+    if(count)count.textContent=`${selected.length} produtos`;
+  }catch{}
+}
 const lightbox = document.createElement('div');
 lightbox.className = 'photo-lightbox';
 lightbox.hidden = true;
