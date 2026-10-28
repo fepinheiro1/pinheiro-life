@@ -78,7 +78,7 @@ const products = [
     "type": "single",
     "category": "Monitores",
     "categoryId": "tecnologia",
-    "price": 350,
+    "price": 390,
     "newPriceText": "R$ 681",
     "newPriceLabel": "Samsung 27″ novo comparável",
     "newPriceSource": {

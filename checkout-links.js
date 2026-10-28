@@ -201,8 +201,8 @@ const checkoutLinks = {
     "url": "https://checkout.infinitepay.io/patirpinheiro/PwjyHVV10f"
   },
   "samsung-syncmaster-t27a550-27": {
-    "price": 35000,
-    "url": "https://checkout.infinitepay.io/patirpinheiro/IJbc3p5k4d"
+    "price": 39000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/t7iqOsBetI"
   },
   "top-mulher-elastica-vinho": {
     "price": 7900,

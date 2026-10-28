@@ -10,7 +10,7 @@ export const products = {
     "id": "samsung-syncmaster-t27a550-27",
     "slug": "tv-monitor-samsung-syncmaster-t27a550-27-full-hd",
     "name": "TV Monitor Samsung SyncMaster T27A550 27″ Full HD",
-    "price": 35000
+    "price": 39000
   },
   "kit-3-tubos-dunlop-atp-championship": {
     "id": "kit-3-tubos-dunlop-atp-championship",
