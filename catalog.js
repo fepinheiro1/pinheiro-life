@@ -3204,7 +3204,7 @@ const products = [
     "type": "kit",
     "category": "Perfumes",
     "categoryId": "perfumes",
-    "price": 1490,
+    "price": 990,
     "image": "assets/produtos/kit-3-perfumes-importados-hollister-jake-hermes-dior-homme/foto-real-kit.jpg",
     "alt": "Hollister Jake, Terre d’Hermès Eau Intense Vétiver e Dior Homme Eau for Men reunidos sobre uma mesa de madeira",
     "photos": [
@@ -3220,7 +3220,7 @@ const products = [
     "tag": "Kit · 3 perfumes",
     "meta": "Hollister Jake · Terre d’Hermès · Dior Homme Eau",
     "conditionSummary": "Hollister Jake com 90%, Terre d’Hermès Eau Intense Vétiver com 35% e Dior Homme Eau for Men com 90%. Valor proporcional estimado do conteúdo: R$ 2.256,40.",
-    "description": "Kit com Hollister Jake Eau de Cologne, Terre d’Hermès Eau Intense Vétiver Eau de Parfum e Dior Homme Eau for Men Eau de Toilette. O Dior Homme Eau for Men é uma fragrância descontinuada e valorizada no mercado internacional. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 2.256,40. O kit completo é anunciado por R$ 1.490.",
+    "description": "Kit com Hollister Jake Eau de Cologne, Terre d’Hermès Eau Intense Vétiver Eau de Parfum e Dior Homme Eau for Men Eau de Toilette. O Dior Homme Eau for Men é uma fragrância descontinuada e valorizada no mercado internacional. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 2.256,40. O kit completo é anunciado por R$ 990.",
     "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Hollister Jake com 90%, Terre d’Hermès com 35% e Dior Homme Eau for Men com 90%. Os níveis e o estado dos três frascos aparecem na foto real.",
     "details": [
       [

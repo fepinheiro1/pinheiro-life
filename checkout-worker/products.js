@@ -532,7 +532,7 @@ export const products = {
     "id": "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme",
     "slug": "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme",
     "name": "Kit 3 Perfumes Hollister Jake + Terre d’Hermès + Dior Homme Eau",
-    "price": 149000,
+    "price": 99000,
     "status": "available",
     "inventoryUnitIds": [
       "perfume-hollister-jake-100ml",
