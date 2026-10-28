@@ -6,6 +6,12 @@ export const products = {
     "name": "Liquidificador Ninja Professional BL610 1000 W 2,1 L",
     "price": 59000
   },
+  "air-fryer-electrolux-eaf20-32l": {
+    "id": "air-fryer-electrolux-eaf20-32l",
+    "slug": "air-fryer-electrolux-digital-experience-eaf20-32l",
+    "name": "Air Fryer Electrolux Digital Experience EAF20 3,2 L",
+    "price": 29000
+  },
   "cervejeira-midea-bca10p2-96l": {
     "id": "cervejeira-midea-bca10p2-96l",
     "slug": "cervejeira-midea-flex-bca10p2-96l-220v",

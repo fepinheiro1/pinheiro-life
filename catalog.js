@@ -72,6 +72,69 @@ const products = [
     ]
   },
   {
+    "id": "air-fryer-electrolux-eaf20-32l",
+    "slug": "air-fryer-electrolux-digital-experience-eaf20-32l",
+    "name": "Air Fryer Electrolux Digital Experience EAF20 3,2 L",
+    "type": "single",
+    "category": "Eletroportáteis",
+    "categoryId": "casa-cozinha",
+    "price": 290,
+    "newPriceText": "R$ 549,10",
+    "newPriceLabel": "Nova de 220 V encontrada",
+    "newPriceSource": {
+      "label": "Friopeças",
+      "url": "https://www.friopecas.com.br/fritadeira-eletrica-airfryer-electrolux-32litros-preta-eaf20-220-volts/p"
+    },
+    "image": "assets/produtos/air-fryer-electrolux-eaf20/capa-cozinha.webp",
+    "alt": "Air Fryer Electrolux Digital Experience EAF20 sobre a bancada de uma cozinha contemporânea — ambiente ilustrativo criado com IA a partir do produto real",
+    "photos": [
+      {
+        "src": "assets/produtos/air-fryer-electrolux-eaf20/capa-cozinha.webp",
+        "alt": "Air Fryer Electrolux Digital Experience EAF20 sobre a bancada de uma cozinha contemporânea — ambiente ilustrativo criado com IA a partir do produto real",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/air-fryer-electrolux-eaf20/foto-real-fechada.webp",
+        "alt": "Vista frontal da Air Fryer Electrolux EAF20 anunciada com o painel Assistant Touch — foto real"
+      },
+      {
+        "src": "assets/produtos/air-fryer-electrolux-eaf20/foto-real-cesto.webp",
+        "alt": "Air Fryer Electrolux EAF20 anunciada com o cesto aberto — foto real"
+      },
+      {
+        "src": "assets/produtos/air-fryer-electrolux-eaf20/foto-real-interior.webp",
+        "alt": "Vista superior do cesto e do interior da Air Fryer Electrolux EAF20 anunciada — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · com marcas de uso",
+    "tag": "Avulso · cesto 3,2 L",
+    "meta": "1400 W · painel digital · 9 receitas",
+    "conditionSummary": "Usada, com marcas de uso aparentes nas fotos reais.",
+    "disclosureNote": "A capa é uma ambientação ilustrativa criada com IA a partir do produto real. As três imagens seguintes mostram exatamente a Air Fryer anunciada e seu estado de conservação.",
+    "description": "Air Fryer Electrolux Digital Experience EAF20 com painel Assistant Touch, nove receitas predefinidas e cesto antiaderente de 3,2 litros. Permite ajustar tempo e temperatura, pré-aquecer e avisa quando é hora de virar o alimento.",
+    "conditionNotes": "Produto usado, com riscos e outras marcas de uso visíveis no acabamento externo conforme as fotos reais. O painel digital acende e funciona normalmente. O cesto e o interior também estão registrados nas imagens. A tensão será confirmada antes da retirada.",
+    "details": [
+      ["Marca", "Electrolux"],
+      ["Linha", "Digital Experience"],
+      ["Modelo", "EAF20"],
+      ["Capacidade do cesto", "3,2 litros"],
+      ["Capacidade total", "4 litros"],
+      ["Potência", "1400 W"],
+      ["Painel", "Digital Assistant Touch"],
+      ["Receitas predefinidas", "9"],
+      ["Funções", "Pré-aquecer · aviso para virar · timer · desligamento automático"],
+      ["Cesto", "Removível e antiaderente"],
+      ["Temperatura", "Até 200 °C"],
+      ["Tensão", "A confirmar antes da retirada"],
+      ["Cor", "Grafite"],
+      ["Condição", "Usada, com marcas de uso"]
+    ]
+  },
+  {
     "id": "cervejeira-midea-bca10p2-96l",
     "slug": "cervejeira-midea-flex-bca10p2-96l-220v",
     "name": "Cervejeira Midea Flex BCA10P2 96 L 220 V",

@@ -8,6 +8,10 @@ const checkoutLinks = {
     "price": 189000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/0BPDGg6c5H"
   },
+  "air-fryer-electrolux-eaf20-32l": {
+    "price": 29000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/pojJtCqVXv"
+  },
   "apple-airpods-max-prata": {
     "price": 59000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/R6xP5A1Mvp"
