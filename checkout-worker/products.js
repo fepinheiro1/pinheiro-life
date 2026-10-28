@@ -504,7 +504,7 @@ export const products = {
     "id": "kit-3-perfumes-importados-sauvage-lacoste-hollister",
     "slug": "kit-3-perfumes-importados-sauvage-lacoste-hollister",
     "name": "Kit 3 Perfumes Dior Sauvage + Lacoste Match Point + Hollister",
-    "price": 39000,
+    "price": 59000,
     "status": "available",
     "inventoryUnitIds": [
       "kit-3-perfumes-importados-sauvage-lacoste-hollister"
