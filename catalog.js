@@ -3018,13 +3018,13 @@ const products = [
   {
     "id": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
     "slug": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
-    "name": "Kit 3 Perfumes A&F Fierce + Hollister Free Wave + St. Barth",
+    "name": "Kit 3 Perfumes A&F Fierce + Hollister Free Wave + Tommy Bahama St. Barts",
     "type": "kit",
     "category": "Perfumes",
     "categoryId": "perfumes",
     "price": 390,
     "image": "assets/produtos/kit-3-perfumes-importados-fierce-free-wave-st-barth/foto-real-kit.jpg",
-    "alt": "Perfumes Abercrombie & Fitch Fierce, Hollister Free Wave e St. Barth reunidos sobre uma mesa de madeira",
+    "alt": "Perfumes Abercrombie & Fitch Fierce, Hollister Free Wave e Tommy Bahama Set Sail St. Barts reunidos sobre uma mesa de madeira",
     "photos": [
       {
         "src": "assets/produtos/kit-3-perfumes-importados-fierce-free-wave-st-barth/foto-real-kit.jpg",
@@ -3036,30 +3036,38 @@ const products = [
     "status": "available",
     "condition": "Abertos · níveis variados",
     "tag": "Kit · 3 perfumes",
-    "meta": "A&F Fierce · Hollister Free Wave · St. Barth",
-    "conditionSummary": "Três perfumes importados abertos, com os níveis de conteúdo mostrados na foto real.",
-    "description": "Kit com Abercrombie & Fitch Fierce, Hollister Free Wave for Him e St. Barth. Os três frascos são vendidos juntos.",
-    "conditionNotes": "Produtos abertos e com níveis variados. A foto real permite conferir os frascos, o estado externo e os níveis aparentes antes da compra.",
+    "meta": "A&F Fierce · Hollister Free Wave · Tommy Bahama St. Barts",
+    "conditionSummary": "A&F Fierce com aproximadamente 40%, Hollister Free Wave com aproximadamente 45% e Tommy Bahama Set Sail St. Barts com aproximadamente 70%. Valor proporcional estimado do conteúdo: R$ 557,45.",
+    "description": "Kit com Abercrombie & Fitch Fierce Cologne, Hollister Free Wave for Him e Tommy Bahama Set Sail St. Barts for Men. Pelos preços atuais dos frascos novos e pelos níveis aparentes, o conteúdo representa aproximadamente R$ 557,45. O kit completo é anunciado por R$ 390.",
+    "conditionNotes": "Produtos originais e abertos. Os níveis foram estimados pela foto real: Fierce com cerca de 40%, Free Wave com cerca de 45% e St. Barts com cerca de 70%. O frasco do Tommy Bahama é fosco, por isso a estimativa dele é menos precisa.",
     "details": [
       [
         "Composição",
         "3 perfumes"
       ],
       [
-        "Conteúdo",
-        "Níveis visíveis na foto real"
+        "A&F Fierce Cologne",
+        "Aprox. 40% · ref. novo R$ 440 · conteúdo R$ 176"
+      ],
+      [
+        "Hollister Free Wave",
+        "Aprox. 45% · ref. novo R$ 299,90 · conteúdo R$ 134,96"
+      ],
+      [
+        "Tommy Bahama St. Barts",
+        "Aprox. 70% · ref. novo R$ 352,13 · conteúdo R$ 246,49"
+      ],
+      [
+        "Valor proporcional",
+        "R$ 557,45 em conteúdo restante"
       ],
       [
         "Formato de venda",
         "Somente o kit completo"
       ]
     ],
-    "newPriceText": "R$ 440",
-    "newPriceLabel": "A&F Fierce 100 ml novo encontrado",
-    "newPriceSource": {
-      "label": "Drogaria Venancio",
-      "url": "https://www.drogariavenancio.com.br/abercrombie"
-    }
+    "newPriceText": "cerca de R$ 1.092",
+    "newPriceLabel": "Três frascos novos somados"
   },
   {
     "id": "kit-3-perfumes-importados-sauvage-lacoste-hollister",
