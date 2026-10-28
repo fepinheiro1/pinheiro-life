@@ -588,6 +588,18 @@ export const products = {
       "perfume-dior-fahrenheit-edt-100ml"
     ]
   },
+  "kit-3-perfumes-importados-eternity-mercedes-benz-boss-bottled": {
+    "id": "kit-3-perfumes-importados-eternity-mercedes-benz-boss-bottled",
+    "slug": "kit-3-perfumes-importados-eternity-mercedes-benz-boss-bottled",
+    "name": "Kit 3 Perfumes Eternity + Mercedes-Benz + Boss Bottled",
+    "price": 39000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "perfume-ck-eternity-for-men-edp-100ml",
+      "perfume-mercedes-benz-for-men-edt-120ml",
+      "perfume-hugo-boss-boss-bottled-edt-100ml"
+    ]
+  },
   "drop-shot-spektro-7-0-bt": {
     "id": "drop-shot-spektro-7-0-bt",
     "slug": "raquete-beach-tennis-drop-shot-spektro-7-0-bt",

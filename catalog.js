@@ -3505,6 +3505,69 @@ const products = [
     ]
   },
   {
+    "id": "kit-3-perfumes-importados-eternity-mercedes-benz-boss-bottled",
+    "slug": "kit-3-perfumes-importados-eternity-mercedes-benz-boss-bottled",
+    "name": "Kit 3 Perfumes Eternity + Mercedes-Benz + Boss Bottled",
+    "type": "kit",
+    "category": "Perfumes",
+    "categoryId": "perfumes",
+    "price": 390,
+    "image": "assets/produtos/kit-3-perfumes-importados-eternity-mercedes-benz-boss-bottled/foto-real-kit.jpg",
+    "alt": "Calvin Klein Eternity for Men, Mercedes-Benz for Men e Hugo Boss Boss Bottled reunidos sobre uma mesa de madeira",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-perfumes-importados-eternity-mercedes-benz-boss-bottled/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Abertos · níveis variados",
+    "tag": "Kit · 3 perfumes",
+    "meta": "Eternity EDP · Mercedes-Benz for Men · Boss Bottled",
+    "conditionSummary": "Calvin Klein Eternity for Men Eau de Parfum com 35%, Mercedes-Benz for Men Eau de Toilette com 40% e Hugo Boss Boss Bottled Eau de Toilette com 60%. Valor proporcional estimado do conteúdo: R$ 593,59.",
+    "description": "Kit com Calvin Klein Eternity for Men Eau de Parfum, Mercedes-Benz for Men Eau de Toilette e Hugo Boss Boss Bottled Eau de Toilette. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 593,59. O kit completo é anunciado por R$ 390.",
+    "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Eternity com 35%, Mercedes-Benz for Men com 40% e Boss Bottled com 60%. Os níveis e o estado dos três frascos aparecem na foto real.",
+    "details": [
+      [
+        "Composição",
+        "3 perfumes"
+      ],
+      [
+        "CK Eternity for Men EDP 100 ml",
+        "35% · ref. novo R$ 429,90 · conteúdo R$ 150,47"
+      ],
+      [
+        "Mercedes-Benz for Men EDT 120 ml",
+        "40% · ref. novo R$ 433,11 · conteúdo R$ 173,24"
+      ],
+      [
+        "Hugo Boss Boss Bottled EDT 100 ml",
+        "60% · ref. novo R$ 449,80 · conteúdo R$ 269,88"
+      ],
+      [
+        "Valor proporcional",
+        "R$ 593,59 em conteúdo restante"
+      ],
+      [
+        "Formato de venda",
+        "Somente o kit completo"
+      ]
+    ],
+    "newPriceText": "cerca de R$ 1.313",
+    "newPriceLabel": "Três frascos novos somados",
+    "newPriceSource": {
+      "url": "https://www.belezanaweb.com.br/produto/boss-bottled-hugo-boss-eau-de-toilette-perfume-masculino-100ml/",
+      "label": "Boss Bottled 100 ml"
+    },
+    "inventoryUnitIds": [
+      "perfume-ck-eternity-for-men-edp-100ml",
+      "perfume-mercedes-benz-for-men-edt-120ml",
+      "perfume-hugo-boss-boss-bottled-edt-100ml"
+    ]
+  },
+  {
     "id": "drop-shot-spektro-7-0-bt",
     "slug": "raquete-beach-tennis-drop-shot-spektro-7-0-bt",
     "name": "Raquete Drop Shot Spektro 7.0 BT",
