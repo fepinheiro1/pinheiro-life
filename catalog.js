@@ -12,6 +12,72 @@ const categories = [
 ];
 const products = [
   {
+    "id": "dell-ultrasharp-u2211h-215",
+    "slug": "monitor-dell-ultrasharp-u2211h-215-full-hd-ips",
+    "name": "Monitor Dell UltraSharp U2211H 21,5″ Full HD IPS",
+    "type": "single",
+    "category": "Monitores",
+    "categoryId": "tecnologia",
+    "price": 350,
+    "newPriceText": "R$ 618",
+    "newPriceLabel": "Dell 21,5″ novo comparável",
+    "newPriceSource": {
+      "label": "Dell Brasil",
+      "url": "https://www.dell.com/pt-br/shop/cty/pdp/spd/se2225hm-monitor/m_se2225hm_bcc"
+    },
+    "image": "assets/produtos/dell-ultrasharp-u2211h-215/capa-home-office.webp",
+    "alt": "Monitor Dell UltraSharp U2211H ligado sobre uma mesa de home office contemporânea — ambiente ilustrativo criado com IA a partir do produto real",
+    "photos": [
+      {
+        "src": "assets/produtos/dell-ultrasharp-u2211h-215/capa-home-office.webp",
+        "alt": "Monitor Dell UltraSharp U2211H ligado sobre uma mesa de home office contemporânea — ambiente ilustrativo criado com IA a partir do produto real",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/dell-ultrasharp-u2211h-215/foto-real-frente.webp",
+        "alt": "Vista frontal do Monitor Dell UltraSharp U2211H anunciado — foto real"
+      },
+      {
+        "src": "assets/produtos/dell-ultrasharp-u2211h-215/foto-real-traseira.webp",
+        "alt": "Vista traseira, base ajustável e acabamento do Monitor Dell UltraSharp U2211H anunciado — foto real"
+      },
+      {
+        "src": "assets/produtos/dell-ultrasharp-u2211h-215/foto-real-etiqueta-serial-oculto.webp",
+        "alt": "Etiqueta do Monitor Dell UltraSharp confirmando o modelo U2211Ht, com número de série ocultado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do produto real.<br>As três imagens seguintes são fotos reais do monitor anunciado.",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · bom estado visual",
+    "tag": "Avulso · IPS · base ergonômica",
+    "meta": "21,5″ · Full HD · DisplayPort · 4 USB",
+    "conditionSummary": "Usado, com bom estado visual aparente nas fotos reais.",
+    "disclosureNote": "A capa é uma ambientação ilustrativa criada com IA a partir do produto real. As três imagens seguintes mostram exatamente o monitor anunciado; o número de série foi ocultado na foto da etiqueta.",
+    "description": "Dell UltraSharp U2211H de 21,5 polegadas com painel IPS e resolução Full HD. A linha UltraSharp combina boa reprodução de cores e amplo ângulo de visão com uma base ergonômica que permite ajustar altura, inclinação, giro e usar a tela na posição vertical.",
+    "conditionNotes": "Produto usado, com bom estado visual aparente e marcas leves de uso conforme as fotos reais. O estado de funcionamento e os cabos incluídos serão confirmados antes da retirada.",
+    "details": [
+      ["Marca", "Dell"],
+      ["Linha", "UltraSharp"],
+      ["Modelo", "U2211H · etiqueta U2211Ht"],
+      ["Tela", "21,5 polegadas · antirreflexo"],
+      ["Painel", "IPS"],
+      ["Resolução", "Full HD · 1920 × 1080 a 60 Hz"],
+      ["Brilho", "250 cd/m²"],
+      ["Contraste", "1000:1"],
+      ["Tempo de resposta", "8 ms GtG"],
+      ["Conexões de vídeo", "DisplayPort · DVI-D · VGA"],
+      ["USB", "Hub com 4 portas USB 2.0"],
+      ["Ajustes da base", "Altura · inclinação · giro · pivô vertical"],
+      ["Montagem", "VESA 100 × 100 mm"],
+      ["Alimentação", "Bivolt · 100–240 V"],
+      ["Cor", "Preta com base preta e prata"],
+      ["Condição", "Usado, em bom estado visual"]
+    ]
+  },
+  {
     "id": "liquidificador-ninja-bl610-1000w",
     "slug": "liquidificador-ninja-professional-bl610-1000w-21l",
     "name": "Liquidificador Ninja Professional BL610 1000 W 2,1 L",

@@ -1,5 +1,11 @@
 // Arquivo gerado por scripts/build-checkout-worker-products.cjs.
 export const products = {
+  "dell-ultrasharp-u2211h-215": {
+    "id": "dell-ultrasharp-u2211h-215",
+    "slug": "monitor-dell-ultrasharp-u2211h-215-full-hd-ips",
+    "name": "Monitor Dell UltraSharp U2211H 21,5″ Full HD IPS",
+    "price": 35000
+  },
   "liquidificador-ninja-bl610-1000w": {
     "id": "liquidificador-ninja-bl610-1000w",
     "slug": "liquidificador-ninja-professional-bl610-1000w-21l",
