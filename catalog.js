@@ -3992,7 +3992,7 @@ const products = [
     "type": "single",
     "category": "Beach tennis",
     "categoryId": "esportes",
-    "price": 290,
+    "price": 90,
     "image": "assets/produtos/raquete-beach-tennis-ianoni-pr780/capa-quadra.jpg",
     "alt": "Raquete preta de beach tennis IANONI PR780 em pé ao lado de uma quadra",
     "photos": [
@@ -4045,7 +4045,7 @@ const products = [
     "type": "single",
     "category": "Beach tennis",
     "categoryId": "esportes",
-    "price": 290,
+    "price": 90,
     "image": "assets/produtos/raquete-beach-tennis-ianoni-pr720/capa-quadra.jpg",
     "alt": "Raquete branca de beach tennis IANONI PR720 em pé ao lado de uma quadra",
     "photos": [
@@ -4090,6 +4090,62 @@ const products = [
       "url": "https://www.ianoni.com/product/ianoni-sports-oem-odm-pr720-beach-tennis-racket-set-full-carbon-fiber-eva-core/",
       "label": "IANONI"
     },
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-2-raquetes-beach-tennis-ianoni-pr780-pr720",
+    "name": "Kit 2 Raquetes de Beach Tennis IANONI PR780 + PR720",
+    "type": "kit",
+    "category": "Beach tennis",
+    "categoryId": "esportes",
+    "price": 150,
+    "image": "assets/produtos/kit-2-raquetes-beach-tennis-ianoni-pr780-pr720/capa-quadra.jpg",
+    "alt": "Duas raquetes de beach tennis IANONI PR720 e PR780 juntas ao lado de uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-2-raquetes-beach-tennis-ianoni-pr780-pr720/capa-quadra.jpg",
+        "alt": "Raquetes IANONI PR720 e PR780 juntas em ambiente de quadra de beach tennis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr780/foto-real-duas-raquetes-1.jpg",
+        "alt": "Foto real das duas raquetes IANONI incluídas no kit"
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr780/foto-real-duas-raquetes-2.jpg",
+        "alt": "Outra foto real das raquetes IANONI PR720 e PR780"
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr780/foto-real-frente.jpg",
+        "alt": "Foto real da raquete preta IANONI PR780"
+      },
+      {
+        "src": "assets/produtos/raquete-beach-tennis-ianoni-pr720/foto-real-frente.jpg",
+        "alt": "Foto real da raquete branca IANONI PR720"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usadas · marcas de uso",
+    "tag": "Kit · 2 raquetes",
+    "meta": "IANONI PR780 + PR720 · carbono e EVA",
+    "conditionSummary": "Duas raquetes usadas, com riscos e grips desgastados.",
+    "description": "Kit com duas raquetes de beach tennis IANONI: uma PR780 preta e uma PR720 branca. Ambas são construídas em fibra de carbono com núcleo de EVA, medem aproximadamente 49 x 23 x 2 cm e pesam cerca de 320 g cada.",
+    "conditionNotes": "As duas raquetes apresentam riscos, pequenas perdas no acabamento e grips bastante usados, conforme as fotos reais. A capa ambientada mostra uma sugestão visual com overgrips brancos novos; o estado entregue é o exibido nas fotos reais.",
+    "details": [
+      ["Marca", "IANONI"],
+      ["Modelos", "PR780 preta e PR720 branca"],
+      ["Quantidade", "2 raquetes"],
+      ["Material", "Fibra de carbono"],
+      ["Núcleo", "EVA"],
+      ["Medidas", "49 x 23 x 2 cm cada"],
+      ["Peso informado", "320 g cada"]
+    ],
+    "includesProductIds": [
+      "raquete-beach-tennis-ianoni-pr780",
+      "raquete-beach-tennis-ianoni-pr720"
+    ],
     "illustratedCover": true
   },
   {

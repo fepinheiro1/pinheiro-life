@@ -635,7 +635,7 @@ export const products = {
     "id": "raquete-beach-tennis-ianoni-pr780",
     "slug": "raquete-beach-tennis-ianoni-pr780",
     "name": "Raquete de Beach Tennis IANONI PR780",
-    "price": 29000,
+    "price": 9000,
     "status": "available",
     "inventoryUnitIds": [
       "raquete-beach-tennis-ianoni-pr780"
@@ -645,9 +645,20 @@ export const products = {
     "id": "raquete-beach-tennis-ianoni-pr720",
     "slug": "raquete-beach-tennis-ianoni-pr720",
     "name": "Raquete de Beach Tennis IANONI PR720",
-    "price": 29000,
+    "price": 9000,
     "status": "available",
     "inventoryUnitIds": [
+      "raquete-beach-tennis-ianoni-pr720"
+    ]
+  },
+  "kit-2-raquetes-beach-tennis-ianoni-pr780-pr720": {
+    "id": "kit-2-raquetes-beach-tennis-ianoni-pr780-pr720",
+    "slug": "kit-2-raquetes-beach-tennis-ianoni-pr780-pr720",
+    "name": "Kit 2 Raquetes de Beach Tennis IANONI PR780 + PR720",
+    "price": 15000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "raquete-beach-tennis-ianoni-pr780",
       "raquete-beach-tennis-ianoni-pr720"
     ]
   },
