@@ -1,5 +1,11 @@
 // Arquivo gerado por scripts/build-checkout-worker-products.cjs.
 export const products = {
+  "liquidificador-ninja-bl660-1100w": {
+    "id": "liquidificador-ninja-bl660-1100w",
+    "slug": "liquidificador-ninja-professional-bl660-1100w-21l",
+    "name": "Liquidificador Ninja Professional BL660 1100 W 2,1 L",
+    "price": 79000
+  },
   "cervejeira-midea-bca10p2-96l": {
     "id": "cervejeira-midea-bca10p2-96l",
     "slug": "cervejeira-midea-flex-bca10p2-96l-220v",

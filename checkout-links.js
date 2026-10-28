@@ -132,6 +132,10 @@ const checkoutLinks = {
     "price": 19000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/gSaVwDGfZ3"
   },
+  "liquidificador-ninja-bl660-1100w": {
+    "price": 79000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/51iyMsjsBm"
+  },
   "louis-vuitton-organizer-de-poche-monogram-eclipse": {
     "price": 149000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/2fBsSLjmNq"

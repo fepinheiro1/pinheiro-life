@@ -12,6 +12,66 @@ const categories = [
 ];
 const products = [
   {
+    "id": "liquidificador-ninja-bl660-1100w",
+    "slug": "liquidificador-ninja-professional-bl660-1100w-21l",
+    "name": "Liquidificador Ninja Professional BL660 1100 W 2,1 L",
+    "type": "single",
+    "category": "Eletroportáteis",
+    "categoryId": "casa-cozinha",
+    "price": 790,
+    "newPrice": 2392,
+    "newPriceLabel": "Novo completo encontrado",
+    "newPriceSource": {
+      "label": "Ecletiq",
+      "url": "https://ninja.ecletiq.com.br/liquidificador-ninja-bl660-sistema-de-cozinha-1100w-cinza-jarra-21l-copos-portateis-110v"
+    },
+    "image": "assets/produtos/liquidificador-ninja-bl660-1100w/capa-cozinha.webp",
+    "alt": "Liquidificador Ninja Professional BL660 sobre a bancada de uma cozinha contemporânea — ambiente ilustrativo criado com IA a partir do produto real",
+    "photos": [
+      {
+        "src": "assets/produtos/liquidificador-ninja-bl660-1100w/capa-cozinha.webp",
+        "alt": "Liquidificador Ninja Professional BL660 sobre a bancada de uma cozinha contemporânea — ambiente ilustrativo criado com IA a partir do produto real",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/liquidificador-ninja-bl660-1100w/foto-real-montado.webp",
+        "alt": "Liquidificador Ninja Professional BL660 anunciado com a jarra e a tampa montadas — foto real"
+      },
+      {
+        "src": "assets/produtos/liquidificador-ninja-bl660-1100w/foto-real-jarra-laminas.webp",
+        "alt": "Base, jarra de 2,1 litros, tampa e conjunto de lâminas do Ninja BL660 anunciado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do produto real.<br>Segunda e terceira imagens: fotos reais do liquidificador e dos itens incluídos.",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · bom estado visual",
+    "tag": "Avulso · 1100 W · 110–120 V",
+    "meta": "Jarra 2,1 L · lâminas Total Crushing · 3 velocidades",
+    "conditionSummary": "Usado, com marcas de uso aparentes nas fotos reais.",
+    "disclosureNote": "A capa é uma ambientação ilustrativa criada com IA a partir da foto do produto real. As duas imagens seguintes mostram exatamente o liquidificador e os componentes incluídos.",
+    "description": "Liquidificador Ninja Professional BL660 com motor de 1100 W e jarra grande de 2,1 litros. O conjunto de lâminas Total Crushing foi desenvolvido para triturar gelo, frutas congeladas e preparar vitaminas, molhos e bebidas em maior volume. O painel oferece três velocidades, função Pulse e modo Single Serve.",
+    "conditionNotes": "Produto usado, com marcas de uso visíveis na jarra e na base, conforme as fotos reais. Este anúncio inclui a base motorizada, a jarra de 2,1 litros, a tampa com trava e o conjunto de lâminas empilhadas mostrados nas imagens. Não inclui os copos individuais do kit completo vendido novo.",
+    "details": [
+      ["Marca", "Ninja"],
+      ["Linha", "Professional"],
+      ["Modelo", "BL660"],
+      ["Potência", "1100 W"],
+      ["Tensão", "110–120 V"],
+      ["Capacidade da jarra", "72 oz · 2,1 litros"],
+      ["Capacidade máxima para líquidos", "64 oz · 1,9 litro"],
+      ["Velocidades", "3"],
+      ["Funções", "Pulse · Single Serve"],
+      ["Lâminas", "Total Crushing · conjunto empilhado removível"],
+      ["Itens incluídos", "Base · jarra · tampa com trava · conjunto de lâminas"],
+      ["Cor", "Cinza e preta"],
+      ["Condição", "Usado, com marcas de uso"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "cervejeira-midea-bca10p2-96l",
     "slug": "cervejeira-midea-flex-bca10p2-96l-220v",
     "name": "Cervejeira Midea Flex BCA10P2 96 L 220 V",
