@@ -1,5 +1,8 @@
 import { products } from './products.js';
 
+const INFINITEPAY_HANDLE = 'pinheirolife';
+const INVENTORY_STATE_KEY = 'inventory:state:v1';
+const WEBHOOK_URL = 'https://pinheiro-life-checkout.pinheirolife.workers.dev/webhook/infinitepay';
 const allowedOrigins = new Set([
   'https://fepinheiro1.github.io',
   'http://127.0.0.1:4173',
@@ -8,7 +11,7 @@ const allowedOrigins = new Set([
 
 const corsHeaders = origin => ({
   'Access-Control-Allow-Origin': allowedOrigins.has(origin) ? origin : 'https://fepinheiro1.github.io',
-  'Access-Control-Allow-Methods': 'POST, OPTIONS',
+  'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
   'Access-Control-Allow-Headers': 'Content-Type',
   'Access-Control-Max-Age': '86400',
   'Vary': 'Origin'
@@ -30,7 +33,72 @@ const normalizeBrazilianPhone = value => {
   return `+55${digits}`;
 };
 
+const inventoryUnitsFor = product => product.inventoryUnitIds?.length ? product.inventoryUnitIds : [product.id];
 const monitorPairIds = ['samsung-cf390-27-unidade-1', 'samsung-cf390-27-unidade-2'];
+
+const readInventoryState = async env => {
+  const state = await env.LEADS.get(INVENTORY_STATE_KEY, { type: 'json' }).catch(() => null);
+  return state && typeof state === 'object' && state.soldUnits && typeof state.soldUnits === 'object'
+    ? state
+    : { version: 1, soldUnits: {} };
+};
+
+const soldProductIds = state => Object.values(products)
+  .filter(product => product.status === 'sold' || inventoryUnitsFor(product).some(id => state.soldUnits[id]))
+  .map(product => product.id);
+
+const verifyInfinitePayPayment = async (env, lead, webhook) => {
+  const slug = webhook.invoice_slug || webhook.slug;
+  if (!lead || !slug || !webhook.transaction_nsu || webhook.order_nsu !== lead.orderNsu) return null;
+  const response = await fetch('https://api.checkout.infinitepay.io/payment_check', {
+    method: 'POST',
+    headers: {
+      'X-Api-Key': env.INFINITEPAY_API_KEY,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      handle: INFINITEPAY_HANDLE,
+      order_nsu: lead.orderNsu,
+      transaction_nsu: webhook.transaction_nsu,
+      slug
+    })
+  });
+  const payment = await response.json().catch(() => null);
+  if (!response.ok || !payment?.success || !payment.paid) return null;
+
+  const validAmounts = new Set([
+    Number(lead.checkoutAmount),
+    Math.round(Number(lead.checkoutAmount) * 0.9)
+  ]);
+  if (!validAmounts.has(Number(payment.amount))) return null;
+  return payment;
+};
+
+const confirmSale = async (env, lead, webhook, payment) => {
+  const state = await readInventoryState(env);
+  const soldAt = new Date().toISOString();
+  const unitIds = [...new Set(lead.inventoryUnitIds || lead.productIds || [])];
+  unitIds.forEach(unitId => {
+    state.soldUnits[unitId] = {
+      soldAt,
+      orderNsu: lead.orderNsu,
+      transactionNsu: webhook.transaction_nsu
+    };
+  });
+  state.updatedAt = soldAt;
+  const paidLead = {
+    ...lead,
+    status: 'paid',
+    soldAt,
+    transactionNsu: webhook.transaction_nsu,
+    receiptUrl: webhook.receipt_url || null,
+    captureMethod: payment.capture_method || webhook.capture_method || null
+  };
+  await Promise.all([
+    env.LEADS.put(INVENTORY_STATE_KEY, JSON.stringify(state)),
+    env.LEADS.put(lead.orderNsu, JSON.stringify(paidLead), { expirationTtl: 60 * 60 * 24 * 365 })
+  ]);
+};
 
 export default {
   async fetch(request, env) {
@@ -43,6 +111,27 @@ export default {
     }
 
     if (request.method === 'GET' && url.pathname === '/health') {
+      return json({ ok: true }, 200, origin);
+    }
+
+    if (request.method === 'GET' && url.pathname === '/availability') {
+      if (!allowedOrigins.has(origin)) return json({ error: 'origin_not_allowed' }, 403, origin);
+      const state = await readInventoryState(env);
+      return json({ soldProductIds: soldProductIds(state), updatedAt: state.updatedAt || null }, 200, origin);
+    }
+
+    if (request.method === 'POST' && url.pathname === '/webhook/infinitepay') {
+      let webhook;
+      try {
+        webhook = await request.json();
+      } catch {
+        return json({ error: 'invalid_json' }, 400, origin);
+      }
+      const orderNsu = typeof webhook.order_nsu === 'string' ? webhook.order_nsu : '';
+      const lead = orderNsu ? await env.LEADS.get(orderNsu, { type: 'json' }) : null;
+      const payment = await verifyInfinitePayPayment(env, lead, webhook);
+      if (!payment) return json({ error: 'payment_not_confirmed' }, 400, origin);
+      await confirmSale(env, lead, webhook, payment);
       return json({ ok: true }, 200, origin);
     }
 
@@ -63,7 +152,27 @@ export default {
     const uniqueIds = [...new Set(requestedIds.filter(id => typeof id === 'string'))].slice(0, 20);
     const selectedProducts = uniqueIds.map(id => products[id]).filter(Boolean);
     const phone = normalizeBrazilianPhone(payload.phone);
-    if (!selectedProducts.length || selectedProducts.length !== uniqueIds.length || !phone) return json({ error: 'invalid_checkout_data' }, 400, origin);
+    if (!selectedProducts.length || selectedProducts.length !== uniqueIds.length || !phone) {
+      return json({ error: 'invalid_checkout_data' }, 400, origin);
+    }
+
+    const state = await readInventoryState(env);
+    const unavailable = selectedProducts.filter(product =>
+      product.status === 'sold' || inventoryUnitsFor(product).some(id => state.soldUnits[id])
+    );
+    if (unavailable.length) {
+      return json({ error: 'product_unavailable', productIds: unavailable.map(product => product.id) }, 409, origin);
+    }
+
+    const claimedUnits = new Map();
+    for (const product of selectedProducts) {
+      for (const unitId of inventoryUnitsFor(product)) {
+        if (claimedUnits.has(unitId)) {
+          return json({ error: 'inventory_conflict', productIds: [claimedUnits.get(unitId), product.id] }, 409, origin);
+        }
+        claimedUnits.set(unitId, product.id);
+      }
+    }
 
     const isCart = selectedProducts.length > 1 || Array.isArray(payload.productIds);
     const product = selectedProducts[0];
@@ -77,6 +186,7 @@ export default {
         discountedItem.description += ' · desconto do par';
       }
     }
+    const checkoutAmount = checkoutItems.reduce((sum, item) => sum + item.price * item.quantity, 0);
     const response = await fetch('https://api.checkout.infinitepay.io/links', {
       method: 'POST',
       headers: {
@@ -86,6 +196,7 @@ export default {
       body: JSON.stringify({
         order_nsu: orderNsu,
         redirect_url: isCart ? 'https://fepinheiro1.github.io/pinheiro-life/?pagamento=concluido&carrinho=1' : `https://fepinheiro1.github.io/pinheiro-life/produto/${product.slug}/?pagamento=concluido`,
+        webhook_url: WEBHOOK_URL,
         customer: { phone_number: phone },
         items: checkoutItems,
         options: {
@@ -99,14 +210,14 @@ export default {
     });
 
     const checkout = await response.json().catch(() => ({}));
-    if (!response.ok || !checkout.url) {
-      return json({ error: 'checkout_unavailable' }, 502, origin);
-    }
+    if (!response.ok || !checkout.url) return json({ error: 'checkout_unavailable' }, 502, origin);
 
     await env.LEADS.put(orderNsu, JSON.stringify({
       createdAt: new Date().toISOString(),
       productIds: selectedProducts.map(item => item.id),
       productNames: selectedProducts.map(item => item.name),
+      inventoryUnitIds: [...claimedUnits.keys()],
+      checkoutAmount,
       bundleDiscount: hasMonitorPair ? 8000 : 0,
       phone,
       orderNsu,

@@ -1,5 +1,6 @@
 'use strict';
 const CHECKOUT_API_URL='https://pinheiro-life-checkout.pinheirolife.workers.dev/checkout';
+const AVAILABILITY_API_URL='https://pinheiro-life-checkout.pinheirolife.workers.dev/availability';
 const photoButton = document.querySelector('#gallery-link');
 const photo = document.querySelector('#gallery-photo');
 const video = document.querySelector('#gallery-video');
@@ -52,6 +53,18 @@ if(video){
   window.addEventListener('pagehide',()=>video.pause());
 }
 const interest=document.querySelector('#interest-button');
+const addCartButton=document.querySelector('[data-add-cart]');
+async function syncProductAvailability(){
+  const productId=interest?.dataset.productId||addCartButton?.dataset.productId;
+  if(!productId)return;
+  try{
+    const response=await fetch(AVAILABILITY_API_URL,{cache:'no-store'});
+    const availability=await response.json();
+    if(!response.ok||!availability.soldProductIds?.includes(productId))return;
+    [interest,addCartButton].filter(Boolean).forEach(button=>{button.disabled=true;button.textContent='Vendido';});
+  }catch{}
+}
+syncProductAvailability();
 if(interest&&!interest.disabled){
   const contacts=[
     {name:'Patricia',number:'5519999554109',avatar:'../../assets/contacts/patricia.webp'},
@@ -61,7 +74,6 @@ if(interest&&!interest.disabled){
   const productPrice=interest.dataset.productPriceLabel||document.querySelector('.product-info .price')?.textContent?.trim()||'';
   const productPriceCents=Number(interest.dataset.productPrice);
   const productId=interest.dataset.productId||'produto';
-  const checkoutUrl=interest.dataset.checkoutUrl||'';
   const productUrl=location.href.split('#')[0].split('?')[0];
   const whatsappLink=contact=>{
     const message=`Olá, ${contact.name}! Estou interessado(a) no produto: ${productName} (${productPrice}). Vi no pinheiro.life: ${productUrl}`;
@@ -165,15 +177,15 @@ if(interest&&!interest.disabled){
         body:JSON.stringify({productId,phone:digits})
       });
       const checkout=await response.json();
-      if(!response.ok||!checkout.url)throw new Error('checkout_unavailable');
+      if(!response.ok||!checkout.url){
+        if(checkout.error==='product_unavailable')throw new Error('product_unavailable');
+        throw new Error('checkout_unavailable');
+      }
       location.assign(checkout.url);
     }catch(error){
-      if(checkoutUrl){
-        paymentStatus.textContent='Abrindo o checkout seguro…';
-        setTimeout(()=>location.assign(checkoutUrl),500);
-        return;
-      }
-      paymentStatus.textContent='O pagamento não abriu agora. Tente novamente ou fale conosco pelo WhatsApp.';
+      paymentStatus.textContent=error.message==='product_unavailable'
+        ?'Este produto acabou de ser vendido e não está mais disponível.'
+        :'O pagamento não abriu agora. Tente novamente ou fale conosco pelo WhatsApp.';
       checkoutContinue.disabled=false;
       checkoutContinue.classList.remove('is-loading');
     }

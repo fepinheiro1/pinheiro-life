@@ -3824,3 +3824,30 @@ const products = [
     "illustratedCover": true
   }
 ];
+
+// Cada produto consome uma ou mais unidades físicas de estoque. Um anúncio
+// avulso consome a própria unidade; um kit consome as unidades indicadas em
+// includesProductIds. Assim, vender uma unidade avulsa indisponibiliza os kits
+// que a contêm, e vender um kit indisponibiliza todos os seus anúncios avulsos.
+function applyInventoryAvailability(catalogProducts) {
+  const knownIds = new Set(catalogProducts.map(product => product.id));
+  const inventoryUnits = product => {
+    const included = Array.isArray(product.includesProductIds)
+      ? [...new Set(product.includesProductIds.filter(id => knownIds.has(id)))]
+      : [];
+    return included.length ? included : [product.id];
+  };
+  const soldUnits = new Set(
+    catalogProducts
+      .filter(product => product.status === 'sold')
+      .flatMap(inventoryUnits)
+  );
+
+  catalogProducts.forEach(product => {
+    product.inventoryUnitIds = inventoryUnits(product);
+    if (product.inventoryUnitIds.some(id => soldUnits.has(id))) product.status = 'sold';
+  });
+  return catalogProducts;
+}
+
+applyInventoryAvailability(products);

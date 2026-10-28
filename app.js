@@ -1,4 +1,5 @@
 'use strict';
+const AVAILABILITY_API_URL='https://pinheiro-life-checkout.pinheirolife.workers.dev/availability';
 const slides = [
   {id:'apple-airpods-max-prata',category:'Tecnologia',title:'Som para<br>uma nova<br>fase.',description:'AirPods Max prata com Smart Case e fotos reais para você conferir todos os detalhes do exemplar.',badge:'AirPods Max · com Smart Case',action:'Ver os AirPods Max'},
   {id:'jaeger-lecoultre-atmos-elysee-540',category:'Peça de coleção',title:'Um relógio<br>que vive do<br>ambiente.',description:'Jaeger-LeCoultre Atmos Élysée calibre 540, impecável e em funcionamento.',badge:'Atmos Élysée · calibre 540',action:'Ver o relógio'},
@@ -39,6 +40,19 @@ function renderProducts(){
   $('#empty-description').textContent=onlySaved&&favorites.size===0?'Toque no coração de um produto para guardar seus achados.':rawQuery?`Não encontramos nada para “${rawQuery}”. Tente outro nome, marca ou categoria.`:'Experimente outra busca ou veja a seleção completa.';
   document.querySelectorAll('[data-category]').forEach(b=>{const selected=b.dataset.category===categoryFilter;b.classList.toggle('active',selected);b.setAttribute('aria-pressed',String(selected));});
   syncFavorites();
+}
+async function syncAvailability(){
+  try{
+    const response=await fetch(AVAILABILITY_API_URL,{cache:'no-store'});
+    const availability=await response.json();
+    if(!response.ok||!Array.isArray(availability.soldProductIds))return;
+    const soldIds=new Set(availability.soldProductIds);
+    let changed=false;
+    products.forEach(product=>{
+      if(soldIds.has(product.id)&&product.status!=='sold'){product.status='sold';changed=true;}
+    });
+    if(changed)renderProducts();
+  }catch{}
 }
 function setFilter(value){filter=value;onlySaved=false;renderProducts();}
 function setCategory(value){categoryFilter=value;onlySaved=false;renderProducts();}
@@ -84,3 +98,5 @@ if(initialParams.get('tipo')==='kit')filter='kit';
 if(categories.some(category=>category.id===initialParams.get('categoria')))categoryFilter=initialParams.get('categoria');
 renderProducts();
 showSlide(0);
+syncAvailability();
+window.addEventListener('pageshow',event=>{if(event.persisted)syncAvailability();});

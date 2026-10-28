@@ -93,7 +93,7 @@
     event.preventDefault();const digits=checkoutPhone.value.replace(/\D/g,'');
     if(digits.length!==10&&digits.length!==11){checkoutStatus.textContent='Digite um WhatsApp válido com DDD.';checkoutPhone.focus();return;}
     localStorage.setItem('pinheiro-life-whatsapp',digits);checkoutContinue.disabled=true;checkoutStatus.textContent='Preparando seu checkout seguro…';
-    try{const response=await fetch(CHECKOUT_API_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({productIds:cart.map(item=>item.id),phone:digits})});const checkout=await response.json();if(!response.ok||!checkout.url)throw new Error('checkout_unavailable');location.assign(checkout.url);}catch{checkoutStatus.textContent='O pagamento não abriu agora. Tente novamente ou fale conosco pelo WhatsApp.';checkoutContinue.disabled=false;}
+    try{const response=await fetch(CHECKOUT_API_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({productIds:cart.map(item=>item.id),phone:digits})});const checkout=await response.json();if(!response.ok||!checkout.url){if(checkout.error==='product_unavailable')throw new Error('product_unavailable');if(checkout.error==='inventory_conflict')throw new Error('inventory_conflict');throw new Error('checkout_unavailable');}location.assign(checkout.url);}catch(error){checkoutStatus.textContent=error.message==='product_unavailable'?'Um dos produtos acabou de ser vendido. Remova-o da sacola para continuar.':error.message==='inventory_conflict'?'A sacola contém um kit e um anúncio avulso da mesma peça. Escolha apenas uma das opções.':'O pagamento não abriu agora. Tente novamente ou fale conosco pelo WhatsApp.';checkoutContinue.disabled=false;}
   });
 
   function whatsappUrl(contact){
