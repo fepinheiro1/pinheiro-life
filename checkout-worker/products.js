@@ -528,6 +528,18 @@ export const products = {
       "perfume-mercedes-man-grey"
     ]
   },
+  "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black": {
+    "id": "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black",
+    "slug": "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black",
+    "name": "Kit 3 Perfumes Hollister Wave + Burberry Touch + Bvlgari Black",
+    "price": 59000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "perfume-hollister-wave-full-100ml",
+      "perfume-burberry-touch-100ml",
+      "perfume-bvlgari-black-75ml"
+    ]
+  },
   "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme": {
     "id": "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme",
     "slug": "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme",
