@@ -6,8 +6,6 @@ const photo = document.querySelector('#gallery-photo');
 const video = document.querySelector('#gallery-video');
 const videoButton = document.querySelector('#show-product-video');
 const thumbnails = [...document.querySelectorAll('[data-photo]')];
-const caption = document.querySelector('#gallery-caption');
-const hint = document.querySelector('.gallery-hint');
 const lightbox = document.createElement('div');
 lightbox.className = 'photo-lightbox';
 lightbox.hidden = true;
@@ -38,17 +36,15 @@ document.addEventListener('keydown',event=>{if(event.key==='Escape')closeLightbo
 thumbnails.forEach(button=>button.addEventListener('click',()=>{
   closeLightbox(false);
   if(video){video.pause();video.hidden=true;videoButton.setAttribute('aria-pressed','false');}
-  photoButton.hidden=false;hint.hidden=false;
+  photoButton.hidden=false;
   photo.src=button.querySelector('img').src;photo.alt=button.dataset.alt;
   thumbnails.forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
-  caption.textContent=`${Number(button.dataset.photo)+1} de ${thumbnails.length} · ${button.dataset.alt}`;
 }));
 if(video){
   videoButton.addEventListener('click',()=>{
-    closeLightbox(false);photoButton.hidden=true;hint.hidden=true;video.hidden=false;
+    closeLightbox(false);photoButton.hidden=true;video.hidden=false;
     videoButton.setAttribute('aria-pressed','true');
     thumbnails.forEach(b=>b.setAttribute('aria-pressed','false'));
-    caption.textContent=video.getAttribute('aria-label');
   });
   window.addEventListener('pagehide',()=>video.pause());
 }
