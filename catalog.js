@@ -3198,6 +3198,69 @@ const products = [
     ]
   },
   {
+    "id": "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one",
+    "slug": "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one",
+    "name": "Kit 3 Perfumes Hugo Man + Invictus + Boss Number One",
+    "type": "kit",
+    "category": "Perfumes",
+    "categoryId": "perfumes",
+    "price": 290,
+    "image": "assets/produtos/kit-3-perfumes-importados-hugo-man-invictus-boss-number-one/foto-real-kit.jpg",
+    "alt": "Hugo Man, Rabanne Invictus e Hugo Boss Number One reunidos sobre uma mesa de madeira",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-perfumes-importados-hugo-man-invictus-boss-number-one/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Abertos · níveis variados",
+    "tag": "Kit · 3 perfumes",
+    "meta": "Hugo Man · Invictus · Boss Number One",
+    "conditionSummary": "Hugo Man com 35%, Rabanne Invictus com 40% e Hugo Boss Number One com 40%. Valor proporcional estimado do conteúdo: R$ 463,38.",
+    "description": "Kit com Hugo Man Eau de Toilette, Rabanne Invictus Eau de Toilette e Hugo Boss Number One Eau de Toilette. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 463,38. O kit completo é anunciado por R$ 290.",
+    "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Hugo Man com 35%, Invictus com 40% e Boss Number One com 40%. Os níveis e o estado dos três frascos aparecem na foto real.",
+    "details": [
+      [
+        "Composição",
+        "3 perfumes"
+      ],
+      [
+        "Hugo Man 125 ml",
+        "35% · ref. novo R$ 363,84 · conteúdo R$ 127,34"
+      ],
+      [
+        "Rabanne Invictus 100 ml",
+        "40% · ref. novo R$ 380,90 · conteúdo R$ 152,36"
+      ],
+      [
+        "Hugo Boss Number One 100 ml",
+        "40% · ref. novo R$ 459,20 · conteúdo R$ 183,68"
+      ],
+      [
+        "Valor proporcional",
+        "R$ 463,38 em conteúdo restante"
+      ],
+      [
+        "Formato de venda",
+        "Somente o kit completo"
+      ]
+    ],
+    "newPriceText": "cerca de R$ 1.204",
+    "newPriceLabel": "Três frascos novos somados",
+    "newPriceSource": {
+      "url": "https://bula.com.br/preco/hugo-man-eau-de-toilette-masculino-hugo-boss-125ml-125ml-3614229823806",
+      "label": "Hugo Man"
+    },
+    "inventoryUnitIds": [
+      "perfume-hugo-man-125ml",
+      "perfume-invictus-edt-100ml",
+      "perfume-boss-number-one-100ml"
+    ]
+  },
+  {
     "id": "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct",
     "slug": "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct",
     "name": "Kit 3 Perfumes Acqua Essenziale Blu + CK One + A&F First Instinct",

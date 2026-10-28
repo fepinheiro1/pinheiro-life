@@ -528,6 +528,18 @@ export const products = {
       "perfume-mercedes-man-grey"
     ]
   },
+  "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one": {
+    "id": "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one",
+    "slug": "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one",
+    "name": "Kit 3 Perfumes Hugo Man + Invictus + Boss Number One",
+    "price": 29000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "perfume-hugo-man-125ml",
+      "perfume-invictus-edt-100ml",
+      "perfume-boss-number-one-100ml"
+    ]
+  },
   "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct": {
     "id": "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct",
     "slug": "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct",
