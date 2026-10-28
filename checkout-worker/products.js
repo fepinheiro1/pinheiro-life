@@ -673,6 +673,16 @@ export const products = {
       "raquete-beach-tennis-ianoni-pr720"
     ]
   },
+  "raqueteira-yonex-pro-tripla-92229-x9": {
+    "id": "raqueteira-yonex-pro-tripla-92229-x9",
+    "slug": "raqueteira-yonex-pro-tripla-92229-x9",
+    "name": "Raqueteira Yonex Pro Tripla 92229 X9",
+    "price": 69000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "raqueteira-yonex-pro-tripla-92229-x9"
+    ]
+  },
   "kit-frescobol-2-raquetes-bola-bolsa": {
     "id": "kit-frescobol-2-raquetes-bola-bolsa",
     "slug": "kit-frescobol-2-raquetes-bola-bolsa",

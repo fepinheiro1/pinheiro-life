@@ -4204,6 +4204,67 @@ const products = [
     "illustratedCover": true
   },
   {
+    "id": "raqueteira-yonex-pro-tripla-92229-x9",
+    "name": "Raqueteira Yonex Pro Tripla 92229 X9",
+    "type": "single",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 690,
+    "newPriceText": "R$ 1.599,99",
+    "newPriceLabel": "Yonex Pro X9 nova comparável",
+    "newPriceSource": {
+      "label": "Zapith Esportes",
+      "url": "https://zapithesportes.com.br/produtos/raqueteira-yonex-termica-pro-x9/"
+    },
+    "image": "assets/produtos/raqueteira-yonex-pro-tripla-92229-x9/capa-quadra.webp",
+    "alt": "Raqueteira Yonex Pro Tripla 92229 X9 preta e rosa apoiada ao lado de uma quadra de tênis",
+    "photos": [
+      {
+        "src": "assets/produtos/raqueteira-yonex-pro-tripla-92229-x9/capa-quadra.webp",
+        "alt": "Raqueteira Yonex Pro Tripla 92229 X9 preta e rosa ao lado de uma quadra de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/raqueteira-yonex-pro-tripla-92229-x9/foto-real-frente.webp",
+        "alt": "Vista frontal real da raqueteira Yonex Pro Tripla X9"
+      },
+      {
+        "src": "assets/produtos/raqueteira-yonex-pro-tripla-92229-x9/foto-real-lateral.webp",
+        "alt": "Vista lateral real da raqueteira Yonex com estampa Smash Pink"
+      },
+      {
+        "src": "assets/produtos/raqueteira-yonex-pro-tripla-92229-x9/foto-real-costas.webp",
+        "alt": "Vista traseira real da raqueteira Yonex e de suas alças acolchoadas"
+      },
+      {
+        "src": "assets/produtos/raqueteira-yonex-pro-tripla-92229-x9/foto-real-horizontal.webp",
+        "alt": "Raqueteira Yonex Pro Tripla X9 deitada, mostrando volume e compartimentos"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas de uso",
+    "tag": "Avulsa · Yonex · até 9 raquetes",
+    "meta": "3 compartimentos · proteção térmica · alças de mochila",
+    "conditionSummary": "Usada, com marcas de uso visíveis e estrutura completa nas fotos reais.",
+    "description": "Raqueteira Yonex Pro Tripla 92229 X9 na cor Smash Pink, com capacidade para até nove raquetes. Possui três compartimentos principais, sendo um com proteção térmica, espaço para calçados, bolsos para acessórios e alças acolchoadas para transporte como mochila.",
+    "conditionNotes": "Peça usada, com riscos, manchas e desgaste visíveis principalmente nas áreas pretas e na estampa branca. As fotos reais mostram as alças, os zíperes e os compartimentos do exemplar anunciado.",
+    "details": [
+      ["Marca", "Yonex"],
+      ["Linha", "Pro Tripla"],
+      ["Modelo", "92229 X9"],
+      ["Cor", "Preta · rosa · roxa · dourada"],
+      ["Capacidade", "Até 9 raquetes sem capa"],
+      ["Compartimentos", "3 principais"],
+      ["Proteção", "1 compartimento térmico"],
+      ["Calçados", "Compartimento dedicado"],
+      ["Transporte", "Alças acolchoadas de mochila e alça de mão"],
+      ["Formato de venda", "1 raqueteira"]
+    ],
+    "illustratedCover": true
+  },
+  {
     "id": "kit-frescobol-2-raquetes-bola-bolsa",
     "name": "Kit Frescobol com 2 Raquetes, Bola e Bolsa",
     "type": "kit",
