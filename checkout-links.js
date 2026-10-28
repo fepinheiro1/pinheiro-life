@@ -164,6 +164,10 @@ const checkoutLinks = {
     "price": 14900,
     "url": "https://checkout.infinitepay.io/patirpinheiro/t6Z0Tnx9PW"
   },
+  "monitor-benq-zowie-rl2755-27": {
+    "price": 49000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/JIvNdYhpfM"
+  },
   "motorola-moto-g24-256gb-verde": {
     "price": 59000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/C4uKYwcgg8"

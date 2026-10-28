@@ -60,6 +60,12 @@ export const products = {
     "name": "Fechadura Inteligente GHome Smart K02APRO com Biometria",
     "price": 29000
   },
+  "monitor-benq-zowie-rl2755-27": {
+    "id": "monitor-benq-zowie-rl2755-27",
+    "slug": "monitor-gamer-benq-zowie-rl2755-27-full-hd",
+    "name": "Monitor Gamer BenQ Zowie RL2755 27” Full HD",
+    "price": 49000
+  },
   "samsung-cf390-27-unidade-1": {
     "id": "samsung-cf390-27-unidade-1",
     "slug": "monitor-curvo-samsung-cf390-27-full-hd-unidade-1",

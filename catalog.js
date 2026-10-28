@@ -617,6 +617,66 @@ const products = [
     ]
   },
   {
+    "id": "monitor-benq-zowie-rl2755-27",
+    "slug": "monitor-gamer-benq-zowie-rl2755-27-full-hd",
+    "name": "Monitor Gamer BenQ Zowie RL2755 27” Full HD",
+    "type": "single",
+    "category": "Monitores",
+    "categoryId": "tecnologia",
+    "price": 490,
+    "newPriceText": "R$ 759,90",
+    "newPriceLabel": "Monitor novo comparável",
+    "newPriceSource": {
+      "label": "LG 27” Full HD disponível na KaBuM",
+      "url": "https://www.kabum.com.br/produto/619753/monitor-gamer-lg-27-full-hd-100hz-5ms-ips-27ms500-bivolt"
+    },
+    "image": "assets/produtos/monitor-benq-zowie-rl2755-27/capa-home-office.webp",
+    "alt": "Monitor Gamer BenQ Zowie RL2755 de 27 polegadas ligado em um home office contemporâneo — ambiente ilustrativo criado com IA a partir do produto real",
+    "photos": [
+      {
+        "src": "assets/produtos/monitor-benq-zowie-rl2755-27/capa-home-office.webp",
+        "alt": "Monitor Gamer BenQ Zowie RL2755 de 27 polegadas ligado em um home office contemporâneo — ambiente ilustrativo criado com IA a partir do produto real",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/monitor-benq-zowie-rl2755-27/foto-real-frente.webp",
+        "alt": "Vista frontal do Monitor Gamer BenQ Zowie RL2755 anunciado — foto real"
+      },
+      {
+        "src": "assets/produtos/monitor-benq-zowie-rl2755-27/foto-real-traseira.webp",
+        "alt": "Vista traseira, base e acabamento do Monitor Gamer BenQ Zowie RL2755 anunciado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · funcionando perfeitamente",
+    "tag": "Avulso · 27” · Full HD",
+    "meta": "60 Hz · 1 ms · 2 HDMI · alto-falantes",
+    "conditionSummary": "Usado, funcionando perfeitamente e acompanhado do cabo de energia.",
+    "disclosureNote": "A capa é uma ambientação ilustrativa criada com IA a partir do produto real. A segunda e a terceira imagens mostram exatamente o monitor anunciado. A foto da etiqueta de identificação não foi publicada para preservar o número de série.",
+    "description": "Monitor Gamer BenQ Zowie RL2755 de 27 polegadas, resolução Full HD e resposta de 1 ms. O modelo oferece Black eQualizer, modos para jogos, tecnologia Flicker-Free, duas entradas HDMI e alto-falantes integrados de 2 W cada.",
+    "conditionNotes": "Produto usado, funcionando perfeitamente e com bom estado visual conforme as fotos reais. Acompanha o cabo de energia. Cabo HDMI não incluso.",
+    "details": [
+      ["Marca", "BenQ Zowie"],
+      ["Modelo", "RL2755-B · tipo RL2755"],
+      ["Tamanho", "27 polegadas"],
+      ["Resolução", "Full HD · 1920 × 1080"],
+      ["Painel", "TN"],
+      ["Taxa de atualização", "60 Hz"],
+      ["Tempo de resposta", "1 ms GtG"],
+      ["Brilho", "300 cd/m²"],
+      ["Conexões de vídeo", "2 HDMI · DVI-D · VGA"],
+      ["Áudio", "Alto-falantes 2 W × 2 · entrada e saída de áudio"],
+      ["Recursos", "Black eQualizer · Flicker-Free · Low Blue Light"],
+      ["Montagem", "VESA 100 × 100 mm"],
+      ["Alimentação", "Bivolt · cabo de energia incluso"],
+      ["Cabo HDMI", "Não incluso"],
+      ["Condição", "Usado · funcionando perfeitamente"]
+    ]
+  },
+  {
     "id": "samsung-cf390-27-unidade-1",
     "slug": "monitor-curvo-samsung-cf390-27-full-hd-unidade-1",
     "name": "Monitor Curvo Samsung CF390 27” Full HD — Unidade 1",
