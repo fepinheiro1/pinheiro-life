@@ -3198,6 +3198,65 @@ const products = [
     ]
   },
   {
+    "id": "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme",
+    "slug": "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme",
+    "name": "Kit 3 Perfumes Hollister Jake + Terre d’Hermès + Dior Homme Eau",
+    "type": "kit",
+    "category": "Perfumes",
+    "categoryId": "perfumes",
+    "price": 1490,
+    "image": "assets/produtos/kit-3-perfumes-importados-hollister-jake-hermes-dior-homme/foto-real-kit.jpg",
+    "alt": "Hollister Jake, Terre d’Hermès Eau Intense Vétiver e Dior Homme Eau for Men reunidos sobre uma mesa de madeira",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-perfumes-importados-hollister-jake-hermes-dior-homme/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Abertos · níveis variados",
+    "tag": "Kit · 3 perfumes",
+    "meta": "Hollister Jake · Terre d’Hermès · Dior Homme Eau",
+    "conditionSummary": "Hollister Jake com 90%, Terre d’Hermès Eau Intense Vétiver com 35% e Dior Homme Eau for Men com 90%. Valor proporcional estimado do conteúdo: R$ 2.256,40.",
+    "description": "Kit com Hollister Jake Eau de Cologne, Terre d’Hermès Eau Intense Vétiver Eau de Parfum e Dior Homme Eau for Men Eau de Toilette. O Dior Homme Eau for Men é uma fragrância descontinuada e valorizada no mercado internacional. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 2.256,40. O kit completo é anunciado por R$ 1.490.",
+    "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Hollister Jake com 90%, Terre d’Hermès com 35% e Dior Homme Eau for Men com 90%. Os níveis e o estado dos três frascos aparecem na foto real.",
+    "details": [
+      [
+        "Composição",
+        "3 perfumes"
+      ],
+      [
+        "Hollister Jake 100 ml",
+        "90% · ref. novo R$ 540 · conteúdo R$ 486"
+      ],
+      [
+        "Terre d’Hermès Eau Intense Vétiver 100 ml",
+        "35% · ref. novo R$ 1.250 · conteúdo R$ 437,50"
+      ],
+      [
+        "Dior Homme Eau for Men 100 ml",
+        "90% · ref. internacional convertido R$ 1.481 · conteúdo R$ 1.332,90"
+      ],
+      [
+        "Valor proporcional",
+        "R$ 2.256,40 em conteúdo restante"
+      ],
+      [
+        "Formato de venda",
+        "Somente o kit completo"
+      ]
+    ],
+    "newPriceText": "cerca de R$ 3.271",
+    "newPriceLabel": "Três frascos novos somados",
+    "inventoryUnitIds": [
+      "perfume-hollister-jake-100ml",
+      "perfume-hermes-terre-intense-vetiver-100ml",
+      "perfume-dior-homme-eau-for-men-100ml"
+    ]
+  },
+  {
     "id": "kit-3-perfumes-importados-obsession-sauvage-fahrenheit",
     "slug": "kit-3-perfumes-importados-obsession-sauvage-fahrenheit",
     "name": "Kit 3 Perfumes Obsession Night + Sauvage + Fahrenheit",

@@ -528,6 +528,18 @@ export const products = {
       "perfume-mercedes-man-grey"
     ]
   },
+  "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme": {
+    "id": "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme",
+    "slug": "kit-3-perfumes-importados-hollister-jake-hermes-dior-homme",
+    "name": "Kit 3 Perfumes Hollister Jake + Terre d’Hermès + Dior Homme Eau",
+    "price": 149000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "perfume-hollister-jake-100ml",
+      "perfume-hermes-terre-intense-vetiver-100ml",
+      "perfume-dior-homme-eau-for-men-100ml"
+    ]
+  },
   "kit-3-perfumes-importados-obsession-sauvage-fahrenheit": {
     "id": "kit-3-perfumes-importados-obsession-sauvage-fahrenheit",
     "slug": "kit-3-perfumes-importados-obsession-sauvage-fahrenheit",
