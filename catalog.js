@@ -3145,9 +3145,9 @@ const products = [
     "condition": "Abertos · níveis variados",
     "tag": "Kit · 3 perfumes",
     "meta": "Tiffany & Love · 212 Men · Mercedes-Benz Man Grey",
-    "conditionSummary": "Tiffany & Love for Him com aproximadamente 85%, Carolina Herrera 212 Men com aproximadamente 40% e Mercedes-Benz Man Grey com aproximadamente 30%. Valor proporcional estimado do conteúdo: R$ 913,31.",
-    "description": "Kit com Tiffany & Love for Him Eau de Toilette, Carolina Herrera 212 Men NYC Eau de Toilette e Mercedes-Benz Man Grey Eau de Toilette. Pelos preços atuais dos frascos novos e pelos níveis aparentes, o conteúdo representa aproximadamente R$ 913,31. O kit completo é anunciado por R$ 690.",
-    "conditionNotes": "Produtos originais e abertos. Os níveis foram estimados pela foto real: Tiffany & Love com cerca de 85%, 212 Men com cerca de 40% e Mercedes-Benz Man Grey com cerca de 30%. Os frascos e o estado externo aparecem na foto real.",
+    "conditionSummary": "Tiffany & Love for Him com aproximadamente 85%, Carolina Herrera 212 Men com aproximadamente 40% e Mercedes-Benz Man Grey com aproximadamente 80%. Valor proporcional estimado do conteúdo: R$ 1.088,30.",
+    "description": "Kit com Tiffany & Love for Him Eau de Toilette, Carolina Herrera 212 Men NYC Eau de Toilette e Mercedes-Benz Man Grey Eau de Toilette. Pelos preços atuais dos frascos novos e pelos níveis restantes, o conteúdo representa aproximadamente R$ 1.088,30. O kit completo é anunciado por R$ 690.",
+    "conditionNotes": "Produtos originais e abertos. Conteúdo restante: Tiffany & Love com cerca de 85%, 212 Men com cerca de 40% e Mercedes-Benz Man Grey com cerca de 80%. Os frascos e o estado externo aparecem na foto real.",
     "details": [
       [
         "Composição",
@@ -3163,11 +3163,11 @@ const products = [
       ],
       [
         "Mercedes-Benz Man Grey",
-        "Aprox. 30% · ref. novo R$ 349,99 · conteúdo R$ 105"
+        "Aprox. 80% · ref. novo R$ 349,99 · conteúdo R$ 279,99"
       ],
       [
         "Valor proporcional",
-        "R$ 913,31 em conteúdo restante"
+        "R$ 1.088,30 em conteúdo restante"
       ],
       [
         "Formato de venda",
