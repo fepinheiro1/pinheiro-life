@@ -2968,7 +2968,7 @@ const products = [
     "type": "kit",
     "category": "Perfumes",
     "categoryId": "perfumes",
-    "price": 790,
+    "price": 690,
     "image": "assets/produtos/kit-3-perfumes-importados-dg-tommy-burberry/foto-real-kit.jpg",
     "alt": "Dolce & Gabbana Pour Homme, Tommy Hilfiger Impact e Burberry London reunidos sobre uma mesa de madeira",
     "photos": [
@@ -2984,7 +2984,7 @@ const products = [
     "tag": "Kit · 3 perfumes",
     "meta": "D&G Pour Homme · Tommy Impact · Burberry London",
     "conditionSummary": "D&G Pour Homme com 60%, Tommy Impact com 25% e Burberry London com 85%. Valor proporcional estimado do conteúdo: R$ 912,32.",
-    "description": "Kit com Dolce & Gabbana Pour Homme, Tommy Hilfiger Impact e Burberry London for Men. Pelos preços atuais dos frascos novos e pelos níveis restantes, o conteúdo representa aproximadamente R$ 912,32. O kit completo é anunciado por R$ 790.",
+    "description": "Kit com Dolce & Gabbana Pour Homme, Tommy Hilfiger Impact e Burberry London for Men. Pelos preços atuais dos frascos novos e pelos níveis restantes, o conteúdo representa aproximadamente R$ 912,32. O kit completo é anunciado por R$ 690.",
     "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Dolce & Gabbana Pour Homme com 60%, Tommy Hilfiger Impact com 25% e Burberry London com 85%. Os níveis e o estado dos três frascos aparecem na foto real.",
     "details": [
       [

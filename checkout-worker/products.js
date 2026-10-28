@@ -484,7 +484,7 @@ export const products = {
     "id": "kit-3-perfumes-importados-dg-tommy-burberry",
     "slug": "kit-3-perfumes-importados-dg-tommy-burberry",
     "name": "Kit 3 Perfumes D&G + Tommy Impact + Burberry London",
-    "price": 79000,
+    "price": 69000,
     "status": "available",
     "inventoryUnitIds": [
       "kit-3-perfumes-importados-dg-tommy-burberry"
