@@ -184,6 +184,10 @@ const checkoutLinks = {
     "price": 59000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/C4uKYwcgg8"
   },
+  "nespresso-expert-c80": {
+    "price": 49000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/GyvdEDwv3S"
+  },
   "oculos-prada-linea-rossa-sps-56m": {
     "price": 69000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/tWbDLi4hqX"

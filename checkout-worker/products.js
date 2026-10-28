@@ -1,5 +1,11 @@
 // Arquivo gerado por scripts/build-checkout-worker-products.cjs.
 export const products = {
+  "nespresso-expert-c80": {
+    "id": "nespresso-expert-c80",
+    "slug": "cafeteira-nespresso-expert-c80-19-bar",
+    "name": "Cafeteira Nespresso Expert C80 19 Bar",
+    "price": 49000
+  },
   "dell-ultrasharp-u2211h-215": {
     "id": "dell-ultrasharp-u2211h-215",
     "slug": "monitor-dell-ultrasharp-u2211h-215-full-hd-ips",

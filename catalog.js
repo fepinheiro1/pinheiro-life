@@ -12,6 +12,71 @@ const categories = [
 ];
 const products = [
   {
+    "id": "nespresso-expert-c80",
+    "slug": "cafeteira-nespresso-expert-c80-19-bar",
+    "name": "Cafeteira Nespresso Expert C80 19 Bar",
+    "type": "single",
+    "category": "Cafeteiras",
+    "categoryId": "casa-cozinha",
+    "price": 490,
+    "newPriceText": "R$ 900",
+    "newPriceLabel": "Mesmo modelo usado encontrado",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://lista.mercadolivre.com.br/nespresso-expert"
+    },
+    "image": "assets/produtos/nespresso-expert-c80/capa-cantinho-cafe.webp",
+    "alt": "Cafeteira Nespresso Expert C80 preparando espresso em um cantinho de café contemporâneo — ambiente ilustrativo criado com IA a partir do produto real",
+    "photos": [
+      {
+        "src": "assets/produtos/nespresso-expert-c80/capa-cantinho-cafe.webp",
+        "alt": "Cafeteira Nespresso Expert C80 preparando espresso em um cantinho de café contemporâneo — ambiente ilustrativo criado com IA a partir do produto real",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/nespresso-expert-c80/foto-real-frente.webp",
+        "alt": "Vista frontal da Cafeteira Nespresso Expert anunciada, com reservatório de água e suporte de xícara — foto real"
+      },
+      {
+        "src": "assets/produtos/nespresso-expert-c80/foto-real-lateral.webp",
+        "alt": "Vista lateral da Cafeteira Nespresso Expert anunciada e de seu reservatório de água — foto real"
+      },
+      {
+        "src": "assets/produtos/nespresso-expert-c80/foto-real-superior.webp",
+        "alt": "Vista superior da Cafeteira Nespresso Expert anunciada, mostrando os seletores e o compartimento de cápsula — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do produto real.<br>As três imagens seguintes são fotos reais da cafeteira anunciada.",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · marcas leves de uso",
+    "tag": "Avulsa · linha Original · 19 bar",
+    "meta": "5 bebidas · 3 temperaturas · reservatório 1,11 L",
+    "conditionSummary": "Usada, completa e com marcas leves de uso aparentes nas fotos.",
+    "disclosureNote": "A capa é uma ambientação ilustrativa criada com IA a partir do produto real. As três imagens seguintes mostram exatamente a cafeteira anunciada.",
+    "description": "Nespresso Expert C80, modelo premium da linha Original com pressão de 19 bar. Permite escolher entre Ristretto, Espresso, Lungo, Americano e água quente, além de três níveis de temperatura. O reservatório lateral removível tem capacidade aproximada de 1,11 litro.",
+    "conditionNotes": "Produto usado, completo e com marcas leves de uso aparentes nas fotos reais. O estado de funcionamento e a tensão elétrica serão confirmados antes da retirada. A conectividade por aplicativo não foi considerada na avaliação deste anúncio.",
+    "details": [
+      ["Marca", "Nespresso"],
+      ["Linha", "Expert"],
+      ["Modelo", "C80"],
+      ["Sistema", "Cápsulas Nespresso Original"],
+      ["Pressão", "19 bar"],
+      ["Bebidas", "Ristretto · Espresso · Lungo · Americano · água quente"],
+      ["Temperatura", "3 níveis selecionáveis"],
+      ["Reservatório", "Removível · aproximadamente 1,11 litro"],
+      ["Controles", "Seletores frontais de bebida e temperatura"],
+      ["Suporte de xícara", "Ajustável e removível"],
+      ["Peso", "Aproximadamente 4,4 kg"],
+      ["Dimensões aproximadas", "38,1 × 28,7 × 22,3 cm"],
+      ["Tensão", "A confirmar antes da retirada"],
+      ["Cor", "Preta com acabamento metálico"],
+      ["Condição", "Usada, com marcas leves de uso"]
+    ]
+  },
+  {
     "id": "dell-ultrasharp-u2211h-215",
     "slug": "monitor-dell-ultrasharp-u2211h-215-full-hd-ips",
     "name": "Monitor Dell UltraSharp U2211H 21,5″ Full HD IPS",
