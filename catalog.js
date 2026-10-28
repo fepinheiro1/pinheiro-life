@@ -3076,7 +3076,7 @@ const products = [
     "type": "kit",
     "category": "Perfumes",
     "categoryId": "perfumes",
-    "price": 590,
+    "price": 490,
     "image": "assets/produtos/kit-3-perfumes-importados-sauvage-lacoste-hollister/foto-real-kit.jpg",
     "alt": "Perfumes Hollister, Dior Sauvage Eau de Parfum e Lacoste Match Point reunidos sobre uma mesa de madeira",
     "photos": [
@@ -3092,7 +3092,7 @@ const products = [
     "tag": "Kit · 3 perfumes",
     "meta": "Dior Sauvage EDP · Lacoste Match Point · Hollister Wave",
     "conditionSummary": "Dior Sauvage Eau de Parfum com aproximadamente 20%, Lacoste Match Point com 90% e Hollister Wave for Him com 35%. Valor proporcional estimado do conteúdo: R$ 727,35.",
-    "description": "Kit com Dior Sauvage Eau de Parfum, Lacoste Match Point Eau de Toilette e Hollister Wave for Him. Pelos preços atuais dos frascos novos e pelos níveis restantes, o conteúdo representa aproximadamente R$ 727,35. O kit completo é anunciado por R$ 590.",
+    "description": "Kit com Dior Sauvage Eau de Parfum, Lacoste Match Point Eau de Toilette e Hollister Wave for Him. Pelos preços atuais dos frascos novos e pelos níveis restantes, o conteúdo representa aproximadamente R$ 727,35. O kit completo é anunciado por R$ 490.",
     "conditionNotes": "Produtos originais e abertos. Conteúdo restante: Dior Sauvage com cerca de 20%, Lacoste Match Point com 90% e Hollister Wave for Him com 35%. Os níveis e o estado dos três frascos aparecem na foto real.",
     "details": [
       [
