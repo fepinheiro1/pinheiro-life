@@ -4209,7 +4209,7 @@ const products = [
     "type": "kit",
     "category": "Esportes de praia",
     "categoryId": "esportes",
-    "price": 49,
+    "price": 29,
     "image": "assets/produtos/kit-frescobol-2-raquetes-bola-bolsa/capa-praia.jpg",
     "alt": "Kit de frescobol com duas raquetes, bola e bolsa em ambiente de praia",
     "photos": [

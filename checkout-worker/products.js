@@ -677,7 +677,7 @@ export const products = {
     "id": "kit-frescobol-2-raquetes-bola-bolsa",
     "slug": "kit-frescobol-2-raquetes-bola-bolsa",
     "name": "Kit Frescobol com 2 Raquetes, Bola e Bolsa",
-    "price": 4900,
+    "price": 2900,
     "status": "available",
     "inventoryUnitIds": [
       "kit-frescobol-2-raquetes-bola-bolsa"
