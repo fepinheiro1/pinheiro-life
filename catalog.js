@@ -78,7 +78,7 @@ const products = [
     "type": "kit",
     "category": "Tênis",
     "categoryId": "esportes",
-    "price": 169,
+    "price": 120,
     "newPriceText": "R$ 189,90",
     "newPriceLabel": "Kit novo com 3 tubos encontrado",
     "newPriceSource": {
