@@ -53,8 +53,8 @@ const checkoutLinks = {
     "url": "https://checkout.infinitepay.io/patirpinheiro/Cb4xH5re96"
   },
   "dell-ultrasharp-u2211h-215": {
-    "price": 35000,
-    "url": "https://checkout.infinitepay.io/patirpinheiro/ESDxRo0xgv"
+    "price": 29000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/8kB8n1gHVw"
   },
   "drop-shot-spektro-7-0-bt": {
     "price": 79000,

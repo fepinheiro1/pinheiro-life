@@ -18,7 +18,7 @@ const products = [
     "type": "single",
     "category": "Monitores",
     "categoryId": "tecnologia",
-    "price": 350,
+    "price": 290,
     "newPriceText": "R$ 618",
     "newPriceLabel": "Dell 21,5″ novo comparável",
     "newPriceSource": {
