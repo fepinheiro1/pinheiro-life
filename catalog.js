@@ -624,7 +624,7 @@ const products = [
     "category": "Monitores",
     "categoryId": "tecnologia",
     "price": 490,
-    "newPriceText": "R$ 759,90",
+    "newPriceText": "R$ 856,15",
     "newPriceLabel": "Monitor novo comparável",
     "newPriceSource": {
       "label": "LG 27” Full HD disponível na KaBuM",
