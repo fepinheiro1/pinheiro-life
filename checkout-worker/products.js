@@ -812,5 +812,25 @@ export const products = {
     "inventoryUnitIds": [
       "kit-4-antivibradores-tenis-sortidos-7"
     ]
+  },
+  "corda-gosen-polylon-16-129-rolo-aberto": {
+    "id": "corda-gosen-polylon-16-129-rolo-aberto",
+    "slug": "corda-gosen-polylon-16-129-rolo-aberto",
+    "name": "Corda Gosen Polylon 16 1,29 mm — Rolo Aberto",
+    "price": 19000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "corda-gosen-polylon-16-129-rolo-aberto"
+    ]
+  },
+  "corda-kirschbaum-synthetic-gut-130-rolo-aberto": {
+    "id": "corda-kirschbaum-synthetic-gut-130-rolo-aberto",
+    "slug": "corda-kirschbaum-synthetic-gut-130-rolo-aberto",
+    "name": "Corda Kirschbaum Synthetic Gut 1,30 mm — Rolo Aberto",
+    "price": 14900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "corda-kirschbaum-synthetic-gut-130-rolo-aberto"
+    ]
   }
 };
