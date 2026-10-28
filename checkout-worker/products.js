@@ -528,6 +528,18 @@ export const products = {
       "perfume-mercedes-man-grey"
     ]
   },
+  "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct": {
+    "id": "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct",
+    "slug": "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct",
+    "name": "Kit 3 Perfumes Acqua Essenziale Blu + CK One + A&F First Instinct",
+    "price": 39000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "perfume-acqua-essenziale-blu-100ml",
+      "perfume-ck-one-200ml",
+      "perfume-af-first-instinct-man-100ml"
+    ]
+  },
   "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black": {
     "id": "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black",
     "slug": "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black",

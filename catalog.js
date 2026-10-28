@@ -3198,6 +3198,69 @@ const products = [
     ]
   },
   {
+    "id": "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct",
+    "slug": "kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct",
+    "name": "Kit 3 Perfumes Acqua Essenziale Blu + CK One + A&F First Instinct",
+    "type": "kit",
+    "category": "Perfumes",
+    "categoryId": "perfumes",
+    "price": 390,
+    "image": "assets/produtos/kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct/foto-real-kit.jpg",
+    "alt": "Acqua Essenziale Blu, Calvin Klein CK One e Abercrombie & Fitch First Instinct reunidos sobre uma mesa de madeira",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-perfumes-importados-acqua-essenziale-blu-ck-one-first-instinct/foto-real-kit.jpg",
+        "alt": "Foto real dos três perfumes que compõem o kit"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Abertos · níveis variados",
+    "tag": "Kit · 3 perfumes",
+    "meta": "Acqua Essenziale Blu · CK One · A&F First Instinct",
+    "conditionSummary": "Acqua Essenziale Blu com 90%, Calvin Klein CK One com 90% e Abercrombie & Fitch First Instinct Man com 15%. Valor proporcional estimado do conteúdo: R$ 652,47.",
+    "description": "Kit com Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette, Calvin Klein CK One Eau de Toilette e Abercrombie & Fitch First Instinct Man Eau de Toilette. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 652,47. O kit completo é anunciado por R$ 390.",
+    "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Acqua Essenziale Blu com 90%, CK One com 90% e A&F First Instinct Man com 15%. Os níveis e o estado dos três frascos aparecem na foto real.",
+    "details": [
+      [
+        "Composição",
+        "3 perfumes"
+      ],
+      [
+        "Acqua Essenziale Blu 100 ml",
+        "90% · ref. novo R$ 345,30 · conteúdo R$ 310,77"
+      ],
+      [
+        "Calvin Klein CK One 200 ml",
+        "90% · ref. novo R$ 321 · conteúdo R$ 288,90"
+      ],
+      [
+        "A&F First Instinct Man 100 ml",
+        "15% · ref. novo R$ 352 · conteúdo R$ 52,80"
+      ],
+      [
+        "Valor proporcional",
+        "R$ 652,47 em conteúdo restante"
+      ],
+      [
+        "Formato de venda",
+        "Somente o kit completo"
+      ]
+    ],
+    "newPriceText": "cerca de R$ 1.018",
+    "newPriceLabel": "Três frascos novos somados",
+    "newPriceSource": {
+      "url": "https://aromizebrasil.com/produto/perfume-salvatore-ferragamo-acqua-essenziale-blu-eau-de-toilette-masculino-100ml-45457",
+      "label": "Acqua Essenziale Blu"
+    },
+    "inventoryUnitIds": [
+      "perfume-acqua-essenziale-blu-100ml",
+      "perfume-ck-one-200ml",
+      "perfume-af-first-instinct-man-100ml"
+    ]
+  },
+  {
     "id": "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black",
     "slug": "kit-3-perfumes-importados-hollister-wave-burberry-touch-bvlgari-black",
     "name": "Kit 3 Perfumes Hollister Wave + Burberry Touch + Bvlgari Black",
