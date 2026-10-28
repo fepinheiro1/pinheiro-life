@@ -72,6 +72,70 @@ const products = [
     ]
   },
   {
+    "id": "samsung-syncmaster-t27a550-27",
+    "slug": "tv-monitor-samsung-syncmaster-t27a550-27-full-hd",
+    "name": "TV Monitor Samsung SyncMaster T27A550 27″ Full HD",
+    "type": "single",
+    "category": "Monitores",
+    "categoryId": "tecnologia",
+    "price": 350,
+    "newPriceText": "R$ 681",
+    "newPriceLabel": "Samsung 27″ novo comparável",
+    "newPriceSource": {
+      "label": "Curitiba Tech",
+      "url": "https://www.curitibatech.com.br/produtos/monitor-samsung-27-led-full-hd-hdmi-75hz-5ms-f27t350fhlmzd/"
+    },
+    "image": "assets/produtos/samsung-syncmaster-t27a550-27/capa-home-office.webp",
+    "alt": "TV Monitor Samsung SyncMaster T27A550 de 27 polegadas ligado em um home office contemporâneo — ambiente ilustrativo criado com IA a partir do produto real",
+    "photos": [
+      {
+        "src": "assets/produtos/samsung-syncmaster-t27a550-27/capa-home-office.webp",
+        "alt": "TV Monitor Samsung SyncMaster T27A550 de 27 polegadas ligado em um home office contemporâneo — ambiente ilustrativo criado com IA a partir do produto real",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/samsung-syncmaster-t27a550-27/foto-real-frente.webp",
+        "alt": "Vista frontal do TV Monitor Samsung SyncMaster T27A550 anunciado — foto real"
+      },
+      {
+        "src": "assets/produtos/samsung-syncmaster-t27a550-27/foto-real-traseira.webp",
+        "alt": "Vista traseira, conexões e base do TV Monitor Samsung SyncMaster T27A550 anunciado — foto real"
+      },
+      {
+        "src": "assets/produtos/samsung-syncmaster-t27a550-27/foto-real-etiqueta-serial-oculto.webp",
+        "alt": "Etiqueta do TV Monitor Samsung confirmando o modelo T27A550, com número de série ocultado — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · bom estado visual",
+    "tag": "Avulso · monitor e TV digital",
+    "meta": "27″ · Full HD · 2 HDMI · alto-falantes",
+    "conditionSummary": "Usado, em bom estado visual, com marcas leves de uso.",
+    "disclosureNote": "A capa é uma ambientação ilustrativa criada com IA a partir do produto real. As três imagens seguintes mostram exatamente o aparelho anunciado; o número de série foi ocultado na foto da etiqueta.",
+    "description": "Samsung SyncMaster T27A550 de 27 polegadas com resolução Full HD. É um aparelho 2 em 1: funciona como monitor e como TV digital, trazendo duas entradas HDMI, USB, VGA, entradas de vídeo, alto-falantes integrados e função Picture in Picture.",
+    "conditionNotes": "Produto usado, em bom estado visual, com marcas leves de uso aparentes nas fotos reais. O estado de funcionamento e os acessórios incluídos serão confirmados antes da retirada.",
+    "details": [
+      ["Marca", "Samsung"],
+      ["Linha", "SyncMaster"],
+      ["Modelo", "T27A550 · LT27A550LBMZD"],
+      ["Tela", "27 polegadas · LED"],
+      ["Resolução", "Full HD · 1920 × 1080"],
+      ["Tempo de resposta", "5 ms"],
+      ["Conexões", "2 HDMI · VGA · USB · componente · vídeo composto"],
+      ["TV", "Sintonizador digital integrado"],
+      ["Áudio", "Alto-falantes estéreo integrados · 10 W RMS"],
+      ["Recursos", "Picture in Picture · reprodução por USB"],
+      ["Montagem", "VESA 200 × 100 mm"],
+      ["Tensão", "Bivolt · 100–240 V"],
+      ["Consumo máximo", "65 W"],
+      ["Cor", "Preta com detalhe vermelho"],
+      ["Condição", "Usado, em bom estado visual"]
+    ]
+  },
+  {
     "id": "kit-3-tubos-dunlop-atp-championship",
     "slug": "kit-3-tubos-bolas-tenis-dunlop-atp-championship-extra-duty",
     "name": "Kit 3 Tubos de Bolas de Tênis Dunlop ATP Championship",
