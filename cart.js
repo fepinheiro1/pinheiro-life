@@ -12,12 +12,22 @@
     'samsung-cf390-27-duas-unidades':'samsung-cf390-27-unidade-1',
     'ubiquiti-unifi-u6-plus':'ubiquiti-unifi-u6-plus-unidade-1'
   };
+  const legacyItems={
+    'liquidificador-ninja-bl660-1100w':{
+      id:'liquidificador-ninja-bl610-1000w',
+      name:'Liquidificador Ninja Professional BL610 1000 W 2,1 L',
+      price:59000,
+      priceLabel:'R$ 590',
+      url:'../../produto/liquidificador-ninja-professional-bl610-1000w-21l/',
+      image:'../../assets/produtos/liquidificador-ninja-bl610-1000w/capa-cozinha.webp'
+    }
+  };
   const money=cents=>new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:0}).format(cents/100);
   const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
   const readCart=()=>{
     try{
       const parsed=JSON.parse(localStorage.getItem(STORAGE_KEY)||'[]');
-      return Array.isArray(parsed)?parsed.filter(item=>item&&item.id&&item.name&&Number.isFinite(Number(item.price))).map(item=>legacyIds[item.id]?{...item,id:legacyIds[item.id]}:item):[];
+      return Array.isArray(parsed)?parsed.filter(item=>item&&item.id&&item.name&&Number.isFinite(Number(item.price))).map(item=>legacyItems[item.id]?{...item,...legacyItems[item.id]}:legacyIds[item.id]?{...item,id:legacyIds[item.id]}:item):[];
     }catch{return [];}
   };
   let cart=readCart();

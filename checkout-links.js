@@ -132,6 +132,10 @@ const checkoutLinks = {
     "price": 19000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/gSaVwDGfZ3"
   },
+  "liquidificador-ninja-bl610-1000w": {
+    "price": 59000,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/IOhE6PNL39"
+  },
   "liquidificador-ninja-bl660-1100w": {
     "price": 79000,
     "url": "https://checkout.infinitepay.io/patirpinheiro/51iyMsjsBm"
