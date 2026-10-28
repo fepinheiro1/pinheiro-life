@@ -3,7 +3,7 @@ const AVAILABILITY_API_URL='https://pinheiro-life-checkout.pinheirolife.workers.
 const slides = [
   {id:'apple-airpods-max-prata',category:'Tecnologia',title:'Som para<br>uma nova<br>fase.',description:'AirPods Max prata com Smart Case e fotos reais para você conferir todos os detalhes do exemplar.',badge:'AirPods Max · com Smart Case',action:'Ver os AirPods Max'},
   {id:'jaeger-lecoultre-atmos-elysee-540',category:'Peça de coleção',title:'Um relógio<br>que vive do<br>ambiente.',description:'Jaeger-LeCoultre Atmos Élysée calibre 540, impecável e em funcionamento.',badge:'Atmos Élysée · calibre 540',action:'Ver o relógio'},
-  {id:'kit-perfumes-importados',category:'Kit completo',title:'Três perfumes.<br>Uma única<br>escolha.',description:'Abercrombie & Fitch, Hollister e Tommy Hilfiger reunidos em um kit vendido somente completo.',badge:'Kit importado · 3 perfumes',action:'Ver o kit'}
+  {id:'kit-3-perfumes-importados-dg-tommy-burberry',category:'Kit de perfumes',title:'Três clássicos.<br>Um kit<br>especial.',description:'D&G Pour Homme com 60%, Tommy Impact com 25% e Burberry London com 85%.',badge:'D&G · Tommy · Burberry',action:'Ver o kit'}
 ];
 const $ = selector => document.querySelector(selector);
 const money = value => new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:0}).format(value);

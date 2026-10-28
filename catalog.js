@@ -2968,7 +2968,7 @@ const products = [
     "type": "kit",
     "category": "Perfumes",
     "categoryId": "perfumes",
-    "price": 590,
+    "price": 790,
     "image": "assets/produtos/kit-3-perfumes-importados-dg-tommy-burberry/foto-real-kit.jpg",
     "alt": "Dolce & Gabbana Pour Homme, Tommy Hilfiger Impact e Burberry London reunidos sobre uma mesa de madeira",
     "photos": [
@@ -2983,33 +2983,37 @@ const products = [
     "condition": "Abertos · níveis variados",
     "tag": "Kit · 3 perfumes",
     "meta": "D&G Pour Homme · Tommy Impact · Burberry London",
-    "conditionSummary": "Três perfumes importados abertos. Burberry London com aproximadamente 85%; os níveis dos outros frascos aparecem na foto real.",
-    "description": "Kit com Dolce & Gabbana Pour Homme, Tommy Hilfiger Impact e Burberry London for Men. Os três frascos são vendidos juntos.",
-    "conditionNotes": "Produtos abertos e com níveis variados. O Burberry London tem aproximadamente 85% do conteúdo. Confira na foto real o nível aparente do Dolce & Gabbana e do Tommy Impact.",
+    "conditionSummary": "D&G Pour Homme com 60%, Tommy Impact com 25% e Burberry London com 85%. Valor proporcional estimado do conteúdo: R$ 912,32.",
+    "description": "Kit com Dolce & Gabbana Pour Homme, Tommy Hilfiger Impact e Burberry London for Men. Pelos preços atuais dos frascos novos e pelos níveis restantes, o conteúdo representa aproximadamente R$ 912,32. O kit completo é anunciado por R$ 790.",
+    "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Dolce & Gabbana Pour Homme com 60%, Tommy Hilfiger Impact com 25% e Burberry London com 85%. Os níveis e o estado dos três frascos aparecem na foto real.",
     "details": [
       [
         "Composição",
         "3 perfumes"
       ],
       [
-        "Burberry London",
-        "Aprox. 85%"
+        "D&G Pour Homme",
+        "60% · ref. novo R$ 699,90 · conteúdo R$ 419,94"
       ],
       [
-        "Demais frascos",
-        "Níveis visíveis na foto real"
+        "Tommy Impact",
+        "25% · ref. novo R$ 476,90 · conteúdo R$ 119,23"
+      ],
+      [
+        "Burberry London",
+        "85% · ref. novo R$ 439 · conteúdo R$ 373,15"
+      ],
+      [
+        "Valor proporcional",
+        "R$ 912,32 em conteúdo restante"
       ],
       [
         "Formato de venda",
         "Somente o kit completo"
       ]
     ],
-    "newPriceText": "R$ 699,90",
-    "newPriceLabel": "D&G Pour Homme 125 ml novo encontrado",
-    "newPriceSource": {
-      "label": "BM Shop",
-      "url": "https://www.lojabmshop.com.br/produtos/dghome-125ml/"
-    }
+    "newPriceText": "cerca de R$ 1.616",
+    "newPriceLabel": "Três frascos novos somados"
   },
   {
     "id": "kit-3-perfumes-importados-fierce-free-wave-st-barth",
