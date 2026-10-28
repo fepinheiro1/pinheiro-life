@@ -116,6 +116,10 @@ const checkoutLinks = {
     "price": 14900,
     "url": "https://checkout.infinitepay.io/patirpinheiro/mZgLKYoq5r"
   },
+  "kit-3-tubos-dunlop-atp-championship": {
+    "price": 16900,
+    "url": "https://checkout.infinitepay.io/patirpinheiro/e4Waw40Hbj"
+  },
   "kit-loreal-age-perfect": {
     "price": 14900,
     "url": "https://checkout.infinitepay.io/patirpinheiro/4UWbOOknOb"

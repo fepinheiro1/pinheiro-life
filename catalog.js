@@ -72,6 +72,56 @@ const products = [
     ]
   },
   {
+    "id": "kit-3-tubos-dunlop-atp-championship",
+    "slug": "kit-3-tubos-bolas-tenis-dunlop-atp-championship-extra-duty",
+    "name": "Kit 3 Tubos de Bolas de Tênis Dunlop ATP Championship",
+    "type": "kit",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 169,
+    "newPriceText": "R$ 189,90",
+    "newPriceLabel": "Kit novo com 3 tubos encontrado",
+    "newPriceSource": {
+      "label": "ProTenista",
+      "url": "https://www.protenista.com.br/dunlop"
+    },
+    "image": "assets/produtos/kit-3-tubos-dunlop-atp-championship/capa-quadra.webp",
+    "alt": "Três tubos lacrados de bolas de tênis Dunlop ATP Championship Extra Duty ao lado de uma quadra — ambiente ilustrativo criado com IA a partir do produto real",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-3-tubos-dunlop-atp-championship/capa-quadra.webp",
+        "alt": "Três tubos lacrados de bolas de tênis Dunlop ATP Championship Extra Duty ao lado de uma quadra — ambiente ilustrativo criado com IA a partir do produto real",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kit-3-tubos-dunlop-atp-championship/foto-real-tres-tubos.webp",
+        "alt": "Os três tubos lacrados de bolas de tênis Dunlop ATP Championship Extra Duty anunciados — foto real"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novos · lacrados",
+    "tag": "Kit · 3 tubos · 9 bolas",
+    "meta": "Extra Duty · pressurizadas · lacradas",
+    "conditionSummary": "Três tubos novos, fechados e ainda lacrados.",
+    "disclosureNote": "A capa é uma ambientação ilustrativa criada com IA a partir do produto real. A segunda imagem mostra exatamente os três tubos lacrados anunciados.",
+    "description": "Kit com três tubos Dunlop ATP Championship Extra Duty, cada um com três bolas pressurizadas — nove bolas ao todo. A versão Extra Duty tem feltro resistente e foi desenvolvida para oferecer quique consistente em treinos e partidas.",
+    "conditionNotes": "Os três tubos estão novos, fechados e com o lacre plástico original, conforme a foto real. O conjunto será vendido completo, com nove bolas.",
+    "details": [
+      ["Marca", "Dunlop"],
+      ["Linha", "ATP Championship"],
+      ["Versão", "Extra Duty"],
+      ["Quantidade", "3 tubos · 9 bolas"],
+      ["Conteúdo por tubo", "3 bolas pressurizadas"],
+      ["Indicação", "Treinos e partidas"],
+      ["Superfície", "All Court"],
+      ["Condição", "Novas e lacradas"],
+      ["Formato de venda", "Kit completo"]
+    ]
+  },
+  {
     "id": "air-fryer-electrolux-eaf20-32l",
     "slug": "air-fryer-electrolux-digital-experience-eaf20-32l",
     "name": "Air Fryer Electrolux Digital Experience EAF20 3,2 L",

@@ -6,6 +6,12 @@ export const products = {
     "name": "Liquidificador Ninja Professional BL610 1000 W 2,1 L",
     "price": 59000
   },
+  "kit-3-tubos-dunlop-atp-championship": {
+    "id": "kit-3-tubos-dunlop-atp-championship",
+    "slug": "kit-3-tubos-bolas-tenis-dunlop-atp-championship-extra-duty",
+    "name": "Kit 3 Tubos de Bolas de Tênis Dunlop ATP Championship",
+    "price": 16900
+  },
   "air-fryer-electrolux-eaf20-32l": {
     "id": "air-fryer-electrolux-eaf20-32l",
     "slug": "air-fryer-electrolux-digital-experience-eaf20-32l",
