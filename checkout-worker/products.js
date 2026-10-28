@@ -615,7 +615,7 @@ export const products = {
     "id": "raquete-squash-karakal-sx-100",
     "slug": "raquete-squash-karakal-sx-100",
     "name": "Raquete de Squash Karakal SX-100 com Capa",
-    "price": 19000,
+    "price": 29000,
     "status": "available",
     "inventoryUnitIds": [
       "raquete-squash-karakal-sx-100"
@@ -625,7 +625,7 @@ export const products = {
     "id": "raquete-squash-dunlop-aerogel-pro",
     "slug": "raquete-squash-dunlop-aerogel-pro",
     "name": "Raquete de Squash Dunlop Aerogel Pro com Capa",
-    "price": 19000,
+    "price": 29000,
     "status": "available",
     "inventoryUnitIds": [
       "raquete-squash-dunlop-aerogel-pro"
@@ -635,7 +635,7 @@ export const products = {
     "id": "kit-2-raquetes-squash-karakal-dunlop",
     "slug": "kit-2-raquetes-squash-karakal-dunlop",
     "name": "Kit 2 Raquetes de Squash Karakal + Dunlop com Capas",
-    "price": 30000,
+    "price": 50000,
     "status": "available",
     "inventoryUnitIds": [
       "raquete-squash-karakal-sx-100",

@@ -3886,7 +3886,7 @@ const products = [
     "type": "single",
     "category": "Squash",
     "categoryId": "esportes",
-    "price": 190,
+    "price": 290,
     "image": "assets/produtos/raquete-squash-karakal-sx-100/capa-quadra-squash.jpg",
     "alt": "Raquete de squash Karakal SX-100 com sua capa ao lado de uma quadra de squash",
     "photos": [
@@ -3939,7 +3939,7 @@ const products = [
     "type": "single",
     "category": "Squash",
     "categoryId": "esportes",
-    "price": 190,
+    "price": 290,
     "image": "assets/produtos/raquete-squash-dunlop-aerogel-pro/capa-quadra-squash.jpg",
     "alt": "Raquete de squash Dunlop Aerogel Pro com sua capa ao lado de uma quadra de squash",
     "photos": [
@@ -3992,7 +3992,7 @@ const products = [
     "type": "kit",
     "category": "Squash",
     "categoryId": "esportes",
-    "price": 300,
+    "price": 500,
     "image": "assets/produtos/kit-2-raquetes-squash-karakal-dunlop/capa-quadra-squash.jpg",
     "alt": "Raquetes de squash Karakal SX-100 e Dunlop Aerogel Pro com suas capas em uma quadra",
     "photos": [
