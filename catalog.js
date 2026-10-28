@@ -3198,69 +3198,6 @@ const products = [
     ]
   },
   {
-    "id": "kit-3-perfumes-importados-sauvage-jimmy-choo-bleu-de-chanel",
-    "slug": "kit-3-perfumes-importados-sauvage-jimmy-choo-bleu-de-chanel",
-    "name": "Kit 3 Perfumes Sauvage EDP + Jimmy Choo Man + Bleu de Chanel EDP",
-    "type": "kit",
-    "category": "Perfumes",
-    "categoryId": "perfumes",
-    "price": 990,
-    "image": "assets/produtos/kit-3-perfumes-importados-sauvage-jimmy-choo-bleu-de-chanel/foto-real-kit.jpg",
-    "alt": "Dior Sauvage Eau de Parfum, Jimmy Choo Man e Bleu de Chanel Eau de Parfum reunidos sobre uma mesa de madeira",
-    "photos": [
-      {
-        "src": "assets/produtos/kit-3-perfumes-importados-sauvage-jimmy-choo-bleu-de-chanel/foto-real-kit.jpg",
-        "alt": "Foto real dos três perfumes que compõem o kit"
-      }
-    ],
-    "imageFit": "cover",
-    "isDemo": false,
-    "status": "available",
-    "condition": "Abertos · níveis variados",
-    "tag": "Kit · 3 perfumes",
-    "meta": "Sauvage EDP · Jimmy Choo Man · Bleu de Chanel EDP",
-    "conditionSummary": "Dior Sauvage Eau de Parfum com 100%, Jimmy Choo Man com 100% e Bleu de Chanel Eau de Parfum com 40%. Valor proporcional estimado do conteúdo: R$ 1.869,99.",
-    "description": "Kit com Dior Sauvage Eau de Parfum, Jimmy Choo Man Eau de Toilette e Bleu de Chanel Eau de Parfum. Pelas referências atuais e pelos níveis restantes, o conteúdo representa aproximadamente R$ 1.869,99. O kit completo é anunciado por R$ 990.",
-    "conditionNotes": "Produtos originais e abertos. Conteúdo restante informado: Sauvage EDP com 100%, Jimmy Choo Man com 100% e Bleu de Chanel EDP com 40%. Os níveis e o estado dos três frascos aparecem na foto real.",
-    "details": [
-      [
-        "Composição",
-        "3 perfumes"
-      ],
-      [
-        "Dior Sauvage EDP 100 ml",
-        "100% · ref. novo R$ 904 · conteúdo R$ 904"
-      ],
-      [
-        "Jimmy Choo Man EDT 200 ml",
-        "100% · ref. novo R$ 489,99 · conteúdo R$ 489,99"
-      ],
-      [
-        "Bleu de Chanel EDP 100 ml",
-        "40% · ref. novo R$ 1.190 · conteúdo R$ 476"
-      ],
-      [
-        "Valor proporcional",
-        "R$ 1.869,99 em conteúdo restante"
-      ],
-      [
-        "Formato de venda",
-        "Somente o kit completo"
-      ]
-    ],
-    "newPriceText": "cerca de R$ 2.584",
-    "newPriceLabel": "Três frascos novos somados",
-    "newPriceSource": {
-      "url": "https://www.chanel.com/br/perfumes/p/107360/bleu-de-chanel-eau-de-parfum-spray/",
-      "label": "Chanel"
-    },
-    "inventoryUnitIds": [
-      "perfume-sauvage-edp-100ml-kit-sauvage-jimmy-bleu",
-      "perfume-jimmy-choo-man-200ml-kit-sauvage-jimmy-bleu",
-      "perfume-bleu-de-chanel-edp-100ml-kit-sauvage-jimmy-bleu"
-    ]
-  },
-  {
     "id": "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one",
     "slug": "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one",
     "name": "Kit 3 Perfumes Hugo Man + Invictus + Boss Number One",

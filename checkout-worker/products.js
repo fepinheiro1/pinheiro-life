@@ -528,18 +528,6 @@ export const products = {
       "perfume-mercedes-man-grey"
     ]
   },
-  "kit-3-perfumes-importados-sauvage-jimmy-choo-bleu-de-chanel": {
-    "id": "kit-3-perfumes-importados-sauvage-jimmy-choo-bleu-de-chanel",
-    "slug": "kit-3-perfumes-importados-sauvage-jimmy-choo-bleu-de-chanel",
-    "name": "Kit 3 Perfumes Sauvage EDP + Jimmy Choo Man + Bleu de Chanel EDP",
-    "price": 99000,
-    "status": "available",
-    "inventoryUnitIds": [
-      "perfume-sauvage-edp-100ml-kit-sauvage-jimmy-bleu",
-      "perfume-jimmy-choo-man-200ml-kit-sauvage-jimmy-bleu",
-      "perfume-bleu-de-chanel-edp-100ml-kit-sauvage-jimmy-bleu"
-    ]
-  },
   "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one": {
     "id": "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one",
     "slug": "kit-3-perfumes-importados-hugo-man-invictus-boss-number-one",
