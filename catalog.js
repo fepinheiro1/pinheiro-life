@@ -3886,7 +3886,7 @@ const products = [
     "type": "single",
     "category": "Squash",
     "categoryId": "esportes",
-    "price": 290,
+    "price": 190,
     "image": "assets/produtos/raquete-squash-karakal-sx-100/capa-quadra-squash.jpg",
     "alt": "Raquete de squash Karakal SX-100 com sua capa ao lado de uma quadra de squash",
     "photos": [
@@ -3939,7 +3939,7 @@ const products = [
     "type": "single",
     "category": "Squash",
     "categoryId": "esportes",
-    "price": 290,
+    "price": 190,
     "image": "assets/produtos/raquete-squash-dunlop-aerogel-pro/capa-quadra-squash.jpg",
     "alt": "Raquete de squash Dunlop Aerogel Pro com sua capa ao lado de uma quadra de squash",
     "photos": [
@@ -3984,6 +3984,61 @@ const products = [
       "url": "https://www.eastwestsportsvail.com/product-page/dunlop-aerogel-pro-squash-racquet",
       "label": "East West Sports"
     },
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-2-raquetes-squash-karakal-dunlop",
+    "name": "Kit 2 Raquetes de Squash Karakal + Dunlop com Capas",
+    "type": "kit",
+    "category": "Squash",
+    "categoryId": "esportes",
+    "price": 300,
+    "image": "assets/produtos/kit-2-raquetes-squash-karakal-dunlop/capa-quadra-squash.jpg",
+    "alt": "Raquetes de squash Karakal SX-100 e Dunlop Aerogel Pro com suas capas em uma quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-2-raquetes-squash-karakal-dunlop/capa-quadra-squash.jpg",
+        "alt": "Raquetes Karakal SX-100 e Dunlop Aerogel Pro com suas capas em ambiente de quadra de squash",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/raquete-squash-karakal-sx-100/foto-real-raquete-e-capa.jpg",
+        "alt": "Foto real da raquete Karakal SX-100 e sua capa"
+      },
+      {
+        "src": "assets/produtos/raquete-squash-dunlop-aerogel-pro/foto-real-raquete-e-capa.jpg",
+        "alt": "Foto real da raquete Dunlop Aerogel Pro e sua capa"
+      },
+      {
+        "src": "assets/produtos/raquete-squash-karakal-sx-100/foto-real-raquete.jpg",
+        "alt": "Foto real da raquete Karakal SX-100"
+      },
+      {
+        "src": "assets/produtos/raquete-squash-dunlop-aerogel-pro/foto-real-raquete.jpg",
+        "alt": "Foto real da raquete Dunlop Aerogel Pro"
+      }
+    ],
+    "imageFit": "contain",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usadas · marcas de uso",
+    "tag": "Kit · 2 raquetes",
+    "meta": "Karakal SX-100 + Dunlop Aerogel Pro · com capas",
+    "conditionSummary": "Duas raquetes usadas, com marcas de uso e grips desgastados.",
+    "description": "Kit com duas raquetes de squash: uma Karakal SX-100 de 100 g e uma Dunlop Aerogel Pro de 135 g. Cada raquete acompanha sua respectiva capa mostrada nas fotos reais.",
+    "conditionNotes": "As duas raquetes apresentam riscos e desgaste nos aros e nos grips, conforme as fotos reais. A capa ambientada mostra uma sugestão visual com overgrips pretos novos; o estado entregue é o exibido nas fotos reais.",
+    "details": [
+      ["Quantidade", "2 raquetes"],
+      ["Modelos", "Karakal SX-100 e Dunlop Aerogel Pro"],
+      ["Peso Karakal", "100 g"],
+      ["Peso Dunlop", "135 g"],
+      ["Capas", "2 capas, uma para cada raquete"],
+      ["Formato de venda", "Kit completo"]
+    ],
+    "includesProductIds": [
+      "raquete-squash-karakal-sx-100",
+      "raquete-squash-dunlop-aerogel-pro"
+    ],
     "illustratedCover": true
   },
   {
