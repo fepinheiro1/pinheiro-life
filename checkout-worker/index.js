@@ -57,11 +57,15 @@ export default {
       return json({ error: 'invalid_json' }, 400, origin);
     }
 
-    const product = products[payload.productId];
+    const requestedIds = Array.isArray(payload.productIds) ? payload.productIds : [payload.productId];
+    const uniqueIds = [...new Set(requestedIds.filter(id => typeof id === 'string'))].slice(0, 20);
+    const selectedProducts = uniqueIds.map(id => products[id]).filter(Boolean);
     const phone = normalizeBrazilianPhone(payload.phone);
-    if (!product || !phone) return json({ error: 'invalid_checkout_data' }, 400, origin);
+    if (!selectedProducts.length || selectedProducts.length !== uniqueIds.length || !phone) return json({ error: 'invalid_checkout_data' }, 400, origin);
 
-    const orderNsu = `pinheiro-life-${product.id}-${Date.now()}-${crypto.randomUUID().slice(0, 8)}`;
+    const isCart = selectedProducts.length > 1 || Array.isArray(payload.productIds);
+    const product = selectedProducts[0];
+    const orderNsu = `pinheiro-life-${isCart ? 'sacola' : product.id}-${Date.now()}-${crypto.randomUUID().slice(0, 8)}`;
     const response = await fetch('https://api.checkout.infinitepay.io/links', {
       method: 'POST',
       headers: {
@@ -70,9 +74,9 @@ export default {
       },
       body: JSON.stringify({
         order_nsu: orderNsu,
-        redirect_url: `https://fepinheiro1.github.io/pinheiro-life/produto/${product.slug}/?pagamento=concluido`,
+        redirect_url: isCart ? 'https://fepinheiro1.github.io/pinheiro-life/?pagamento=concluido&carrinho=1' : `https://fepinheiro1.github.io/pinheiro-life/produto/${product.slug}/?pagamento=concluido`,
         customer: { phone_number: phone },
-        items: [{ quantity: 1, price: product.price, description: product.name }],
+        items: selectedProducts.map(item => ({ quantity: 1, price: item.price, description: item.name })),
         options: {
           assured_installments: 6,
           require_delivery_address: false,
@@ -90,8 +94,8 @@ export default {
 
     await env.LEADS.put(orderNsu, JSON.stringify({
       createdAt: new Date().toISOString(),
-      productId: product.id,
-      productName: product.name,
+      productIds: selectedProducts.map(item => item.id),
+      productNames: selectedProducts.map(item => item.name),
       phone,
       orderNsu,
       checkoutUrl: checkout.url,
