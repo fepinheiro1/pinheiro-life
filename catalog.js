@@ -3145,29 +3145,37 @@ const products = [
     "condition": "Abertos · níveis variados",
     "tag": "Kit · 3 perfumes",
     "meta": "Tiffany & Love · 212 Men · Mercedes-Benz Man Grey",
-    "conditionSummary": "Três perfumes importados abertos, com os níveis de conteúdo mostrados na foto real.",
-    "description": "Kit com Tiffany & Love for Him, Carolina Herrera 212 Men e Mercedes-Benz Man Grey. Os três frascos são vendidos juntos.",
-    "conditionNotes": "Produtos abertos e com níveis variados. A foto real permite conferir os frascos, o estado externo e os níveis aparentes antes da compra.",
+    "conditionSummary": "Tiffany & Love for Him com aproximadamente 85%, Carolina Herrera 212 Men com aproximadamente 40% e Mercedes-Benz Man Grey com aproximadamente 30%. Valor proporcional estimado do conteúdo: R$ 913,31.",
+    "description": "Kit com Tiffany & Love for Him Eau de Toilette, Carolina Herrera 212 Men NYC Eau de Toilette e Mercedes-Benz Man Grey Eau de Toilette. Pelos preços atuais dos frascos novos e pelos níveis aparentes, o conteúdo representa aproximadamente R$ 913,31. O kit completo é anunciado por R$ 690.",
+    "conditionNotes": "Produtos originais e abertos. Os níveis foram estimados pela foto real: Tiffany & Love com cerca de 85%, 212 Men com cerca de 40% e Mercedes-Benz Man Grey com cerca de 30%. Os frascos e o estado externo aparecem na foto real.",
     "details": [
       [
         "Composição",
         "3 perfumes"
       ],
       [
-        "Conteúdo",
-        "Níveis visíveis na foto real"
+        "Tiffany & Love for Him",
+        "Aprox. 85% · ref. novo R$ 679 · conteúdo R$ 577,15"
+      ],
+      [
+        "Carolina Herrera 212 Men",
+        "Aprox. 40% · ref. novo R$ 577,90 · conteúdo R$ 231,16"
+      ],
+      [
+        "Mercedes-Benz Man Grey",
+        "Aprox. 30% · ref. novo R$ 349,99 · conteúdo R$ 105"
+      ],
+      [
+        "Valor proporcional",
+        "R$ 913,31 em conteúdo restante"
       ],
       [
         "Formato de venda",
         "Somente o kit completo"
       ]
     ],
-    "newPriceText": "R$ 546,75",
-    "newPriceLabel": "212 Men NYC 100 ml novo na marca",
-    "newPriceSource": {
-      "label": "Carolina Herrera",
-      "url": "https://www.carolinaherrera.com/br/pt/c/212-range"
-    }
+    "newPriceText": "cerca de R$ 1.607",
+    "newPriceLabel": "Três frascos novos somados"
   },
   {
     "id": "drop-shot-spektro-7-0-bt",
