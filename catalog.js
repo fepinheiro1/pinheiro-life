@@ -5718,10 +5718,6 @@ const products = [
       {
         "src": "assets/produtos/jogo-5-facas-com-cepo-madeira-vinho/foto-real-facas-1.jpg",
         "alt": "Foto real das cinco facas ao lado do cepo"
-      },
-      {
-        "src": "assets/produtos/jogo-5-facas-com-cepo-madeira-vinho/foto-real-facas-2.jpg",
-        "alt": "Outra vista real das lâminas, cabos e cepo"
       }
     ],
     "imageFit": "cover",
