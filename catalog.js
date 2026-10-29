@@ -5688,6 +5688,164 @@ const products = [
       ]
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "jogo-5-facas-com-cepo-madeira-vinho",
+    "slug": "jogo-5-facas-com-cepo-madeira-vinho",
+    "name": "Jogo com 5 Facas e Cepo de Madeira Vinho",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 90,
+    "newPriceText": "R$ 499,90",
+    "newPriceLabel": "Conjunto novo comparável de marca conhecida",
+    "newPriceSource": {
+      "label": "Oxford",
+      "url": "https://listas.oxfordporcelanas.com.br/jogo-de-5-facas-com-cepo-de-madeira-wood/p"
+    },
+    "image": "assets/produtos/jogo-5-facas-com-cepo-madeira-vinho/capa-cozinha.jpg",
+    "alt": "Jogo com cinco facas de cabo vinho em cepo de madeira sobre bancada de cozinha",
+    "photos": [
+      {
+        "src": "assets/produtos/jogo-5-facas-com-cepo-madeira-vinho/capa-cozinha.jpg",
+        "alt": "Jogo com cinco facas e cepo em uma cozinha contemporânea",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/jogo-5-facas-com-cepo-madeira-vinho/foto-real-conjunto.jpg",
+        "alt": "Foto real do jogo completo com as facas guardadas no cepo"
+      },
+      {
+        "src": "assets/produtos/jogo-5-facas-com-cepo-madeira-vinho/foto-real-facas-1.jpg",
+        "alt": "Foto real das cinco facas ao lado do cepo"
+      },
+      {
+        "src": "assets/produtos/jogo-5-facas-com-cepo-madeira-vinho/foto-real-facas-2.jpg",
+        "alt": "Outra vista real das lâminas, cabos e cepo"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · marcas de uso",
+    "tag": "Avulso · conjunto completo",
+    "meta": "5 facas · cepo de madeira · cabos vinho",
+    "conditionSummary": "Conjunto usado, com marcas normais nas lâminas, nos cabos e no cepo, conforme mostram as fotos reais.",
+    "description": "Jogo de cozinha com cinco facas de tamanhos e funções diferentes, acompanhado de cepo com parte superior em madeira e base na cor vinho. Uma solução prática para manter as facas organizadas e ao alcance na bancada.",
+    "conditionNotes": "Peça usada e sem marca identificada. As fotos reais mostram sinais de uso nas lâminas e pequenos desgastes no cepo. O anúncio inclui exatamente as cinco facas e o suporte exibidos.",
+    "details": [
+      ["Conteúdo", "5 facas e 1 cepo"],
+      ["Tipos", "Chef · fatiadora · pão · utilitária · legumes"],
+      ["Lâminas", "Aço inox"],
+      ["Cor dos cabos", "Vinho com detalhes metálicos"],
+      ["Cepo", "Topo em madeira e base vinho"],
+      ["Marca", "Não identificada"],
+      ["Estado", "Usado · com marcas de uso"]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "moedor-krups-silent-vortex-gx332",
+    "slug": "moedor-krups-silent-vortex-gx332",
+    "name": "Moedor Krups Silent Vortex GX332 3 em 1",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 190,
+    "newPriceText": "US$ 29,99",
+    "newPriceLabel": "Novo no fabricante nos EUA",
+    "newPriceSource": {
+      "label": "Krups USA",
+      "url": "https://www.krupsusa.com/COFFEE-APPLIANCES/Silent-Vortex-Electric-Grinder/p/8010000905?superCategoryCode=breakfast-appliances"
+    },
+    "image": "assets/produtos/moedor-krups-silent-vortex-gx332/capa-cafe.jpg",
+    "alt": "Moedor Krups Silent Vortex GX332 cinza em uma bancada de café",
+    "photos": [
+      {
+        "src": "assets/produtos/moedor-krups-silent-vortex-gx332/capa-cafe.jpg",
+        "alt": "Moedor Krups Silent Vortex GX332 em um espaço de café",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/moedor-krups-silent-vortex-gx332/foto-real-frente.jpg",
+        "alt": "Foto real frontal do moedor Krups"
+      },
+      {
+        "src": "assets/produtos/moedor-krups-silent-vortex-gx332/foto-real-aberto.jpg",
+        "alt": "Foto real do recipiente removível e da tampa de armazenamento"
+      },
+      {
+        "src": "assets/produtos/moedor-krups-silent-vortex-gx332/foto-real-etiqueta.jpg",
+        "alt": "Etiqueta real do moedor com modelo, tensão e potência"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · perfeito funcionamento",
+    "tag": "Avulso · Krups · 120 V",
+    "meta": "175 W · café, ervas e especiarias · recipiente removível",
+    "conditionSummary": "Usado, muito bem conservado e funcionando perfeitamente. Acompanha recipiente removível e tampa de armazenamento.",
+    "description": "Moedor Krups Silent Vortex GX332 3 em 1 para grãos de café, ervas secas e especiarias. A tecnologia Vortex Spin permite moagem rápida com operação mais silenciosa, e o recipiente removível facilita o uso e a limpeza.",
+    "conditionNotes": "Produto usado e em perfeito funcionamento, com excelente estado de conservação. As fotos reais mostram o aparelho, o recipiente, a tampa e a etiqueta original.",
+    "details": [
+      ["Marca", "Krups"],
+      ["Modelo", "GX332"],
+      ["Linha", "Silent Vortex"],
+      ["Aplicações", "Café · ervas secas · especiarias"],
+      ["Capacidade indicada", "Até 12 xícaras de café"],
+      ["Potência", "175 W"],
+      ["Tensão", "120 V · 60 Hz"],
+      ["Acessórios", "Recipiente removível e tampa de armazenamento"],
+      ["Estado", "Usado · funcionando perfeitamente"]
+    ],
+    "illustratedCover": true
+  },
+  {
+    "id": "par-halteres-4kg-cada-cinza",
+    "slug": "par-halteres-4kg-cada-cinza",
+    "name": "Par de Halteres Sextavados de 4 kg Cada",
+    "type": "single",
+    "category": "Fitness",
+    "categoryId": "esportes",
+    "price": 90,
+    "newPriceText": "R$ 154,79",
+    "newPriceLabel": "Par novo comparável",
+    "newPriceSource": {
+      "label": "Decathlon",
+      "url": "https://www.decathlon.com.br/par-de-halteres-emborrachado-para-musculacao-4kg-preto-2145250871/p"
+    },
+    "image": "assets/produtos/par-halteres-4kg-cada-cinza/capa-academia.jpg",
+    "alt": "Par de halteres sextavados cinza de 4 kg sobre tapete de exercícios",
+    "photos": [
+      {
+        "src": "assets/produtos/par-halteres-4kg-cada-cinza/capa-academia.jpg",
+        "alt": "Par de halteres cinza de 4 kg em um espaço de treino",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/par-halteres-4kg-cada-cinza/foto-real-par.jpg",
+        "alt": "Foto real do par de halteres anunciado"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · marcas de uso",
+    "tag": "Par · 8 kg no total",
+    "meta": "4 kg cada · formato sextavado · cinza",
+    "conditionSummary": "Par usado e plenamente funcional, com riscos e marcas de uso visíveis no revestimento.",
+    "description": "Par de halteres sextavados com 4 kg cada, totalizando 8 kg. O formato evita que rolem no chão e atende treinos de braços, ombros, peito, costas e exercícios funcionais em casa.",
+    "conditionNotes": "Halteres usados, firmes e prontos para treino. O revestimento apresenta riscos e marcas estéticas, mostrados com clareza na foto real.",
+    "details": [
+      ["Conteúdo", "2 halteres"],
+      ["Peso por unidade", "4 kg"],
+      ["Peso total", "8 kg"],
+      ["Formato", "Sextavado"],
+      ["Cor", "Cinza"],
+      ["Estado", "Usados · com marcas estéticas"]
+    ],
+    "illustratedCover": true
   }
 ];
 

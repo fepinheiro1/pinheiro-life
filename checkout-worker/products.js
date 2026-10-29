@@ -942,5 +942,35 @@ export const products = {
     "inventoryUnitIds": [
       "corda-kirschbaum-synthetic-gut-130-200m"
     ]
+  },
+  "jogo-5-facas-com-cepo-madeira-vinho": {
+    "id": "jogo-5-facas-com-cepo-madeira-vinho",
+    "slug": "jogo-5-facas-com-cepo-madeira-vinho",
+    "name": "Jogo com 5 Facas e Cepo de Madeira Vinho",
+    "price": 9000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "jogo-5-facas-com-cepo-madeira-vinho"
+    ]
+  },
+  "moedor-krups-silent-vortex-gx332": {
+    "id": "moedor-krups-silent-vortex-gx332",
+    "slug": "moedor-krups-silent-vortex-gx332",
+    "name": "Moedor Krups Silent Vortex GX332 3 em 1",
+    "price": 19000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "moedor-krups-silent-vortex-gx332"
+    ]
+  },
+  "par-halteres-4kg-cada-cinza": {
+    "id": "par-halteres-4kg-cada-cinza",
+    "slug": "par-halteres-4kg-cada-cinza",
+    "name": "Par de Halteres Sextavados de 4 kg Cada",
+    "price": 9000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "par-halteres-4kg-cada-cinza"
+    ]
   }
 };
