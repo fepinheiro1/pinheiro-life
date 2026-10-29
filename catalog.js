@@ -5951,6 +5951,61 @@ const products = [
       ["Embalagem", "Sem a caixa original"]
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "maleta-invicta-dc8yel-8-relogios-amarela",
+    "slug": "maleta-invicta-dc8yel-8-relogios-amarela",
+    "name": "Maleta Invicta DC8YEL para 8 Relógios",
+    "type": "single",
+    "category": "Relógios",
+    "categoryId": "relogios",
+    "price": 590,
+    "newPriceText": "R$ 1.239,02",
+    "newPriceLabel": "Nova comparável no Brasil",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/maleta-para-relogios-invicta-dive-impact-8-slots-amarelo/up/MLBU3016320867"
+    },
+    "image": "assets/produtos/maleta-invicta-dc8yel-8-relogios-amarela/capa-colecionador.jpg",
+    "alt": "Maleta Invicta DC8YEL amarela para oito relógios aberta em um espaço de colecionador",
+    "photos": [
+      {
+        "src": "assets/produtos/maleta-invicta-dc8yel-8-relogios-amarela/capa-colecionador.jpg",
+        "alt": "Maleta Invicta DC8YEL para oito relógios ambientada em um espaço de colecionador",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/maleta-invicta-dc8yel-8-relogios-amarela/foto-real-fechada.jpg",
+        "alt": "Foto real da maleta Invicta DC8YEL fechada"
+      },
+      {
+        "src": "assets/produtos/maleta-invicta-dc8yel-8-relogios-amarela/foto-real-aberta.jpg",
+        "alt": "Foto real da maleta Invicta DC8YEL aberta com os oito espaços vazios"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Sem uso · nenhum sinal",
+    "tag": "Avulso · original · 8 espaços",
+    "meta": "DC8YEL · rígida e impermeável · espuma anti-impacto",
+    "conditionSummary": "Maleta sem uso, sem qualquer sinal e em perfeito estado de conservação.",
+    "description": "Maleta original Invicta DC8YEL para guardar e transportar até oito relógios. A estrutura rígida amarela combina vedação, duas travas frontais e interior em espuma moldada para proteger as peças contra impactos, poeira e umidade.",
+    "conditionNotes": "A maleta está sem uso e não apresenta qualquer sinal. As fotos reais mostram exatamente a peça anunciada, fechada e aberta, com os oito compartimentos vazios. Relógios não acompanham o produto.",
+    "details": [
+      ["Marca", "Invicta"],
+      ["Modelo", "DC8YEL"],
+      ["Capacidade", "Até 8 relógios"],
+      ["Estrutura", "Plástico rígido impermeável"],
+      ["Interior", "Espuma cinza contra impacto e poeira"],
+      ["Fechamento", "Duas travas frontais"],
+      ["Alça", "Emborrachada"],
+      ["Dimensões aproximadas", "40,6 × 30,5 × 17,8 cm"],
+      ["Cor", "Amarela com detalhes cinza"],
+      ["Estado", "Sem uso · nenhum sinal"],
+      ["Conteúdo", "Somente a maleta vazia"]
+    ],
+    "illustratedCover": true
   }
 ];
 

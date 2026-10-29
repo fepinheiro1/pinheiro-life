@@ -992,5 +992,15 @@ export const products = {
     "inventoryUnitIds": [
       "keurig-k-cafe-special-edition-nickel"
     ]
+  },
+  "maleta-invicta-dc8yel-8-relogios-amarela": {
+    "id": "maleta-invicta-dc8yel-8-relogios-amarela",
+    "slug": "maleta-invicta-dc8yel-8-relogios-amarela",
+    "name": "Maleta Invicta DC8YEL para 8 Relógios",
+    "price": 59000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "maleta-invicta-dc8yel-8-relogios-amarela"
+    ]
   }
 };
