@@ -180,3 +180,58 @@
 .product-pdf-button{width:100%;min-height:46px;margin-top:10px;display:flex;align-items:center;justify-content:center;gap:9px;border:1px solid #cddbd6;border-radius:8px;background:#f7faf8;color:var(--sage-ink);font-size:11px;font-weight:600}
 .product-pdf-button svg{width:17px;height:17px}
 .product-pdf-button:hover{border-color:var(--sage-ink);background:#edf5f1;color:var(--sage-ink)}
+
+/* Página "A mudança". */
+nav a[aria-current=page]{color:var(--sage-ink);font-weight:600}
+.change-page{padding-top:30px}
+.change-intro-line{display:flex;align-items:center;gap:8px;margin-bottom:18px;color:var(--sage-ink);font-size:12px}
+.change-hero{display:grid;grid-template-columns:minmax(0,1.14fr) minmax(400px,.86fr);min-height:650px;overflow:hidden;border-radius:10px;background:var(--sand)}
+.change-photo-placeholder{min-height:650px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px;text-align:center;color:#766d69;background:linear-gradient(145deg,#e7ddd6 0%,#f1e9e4 48%,#ddd6cf 100%);position:relative;isolation:isolate}
+.change-photo-placeholder:before,.change-photo-placeholder:after{content:'';position:absolute;z-index:-1;border:1px solid rgba(66,109,96,.16);border-radius:50%}
+.change-photo-placeholder:before{width:360px;height:360px;top:-150px;right:-120px}
+.change-photo-placeholder:after{width:240px;height:240px;left:-105px;bottom:-80px}
+.change-photo-placeholder svg{width:54px;height:54px;margin-bottom:18px;color:var(--sage-ink);stroke-width:1.15}
+.change-photo-placeholder span{font-family:var(--serif);font-size:25px;letter-spacing:-.45px;color:var(--ink)}
+.change-photo-placeholder small{max-width:250px;margin-top:7px;font-size:11px;line-height:1.65;color:var(--muted)}
+.change-copy{display:flex;flex-direction:column;justify-content:center;padding:58px 54px}
+.change-copy .green-label{margin-bottom:16px}
+.change-copy h1{font-family:var(--serif);font-size:48px;font-weight:400;line-height:1.04;letter-spacing:-1.55px}
+.change-text{display:grid;gap:15px;margin-top:28px}
+.change-text p{color:var(--muted);font-size:12px;line-height:1.9}
+.change-support{display:grid;grid-template-columns:80px minmax(320px,1.1fr) minmax(280px,.9fr);gap:42px;align-items:center;padding:74px 0 68px}
+.change-support-mark{align-self:start;font-family:var(--serif);font-size:62px;line-height:1;color:var(--sage);letter-spacing:-3px}
+.change-support h2{font-size:32px}
+.change-support-copy>p{max-width:510px;margin-top:17px;color:var(--muted);font-size:12px;line-height:1.9}
+.change-support .change-signature{margin-top:23px;color:var(--ink)}
+.change-signature strong{font-weight:600}
+.change-support-action{padding:30px 0 30px 42px;border-left:1px solid var(--line)}
+.change-support-action p{max-width:330px;margin-bottom:22px;color:var(--muted);font-size:12px;line-height:1.85}
+
+@media(max-width:1000px){
+  .change-hero{grid-template-columns:1fr 1fr;min-height:600px}
+  .change-photo-placeholder{min-height:600px}
+  .change-copy{padding:44px 34px}
+  .change-copy h1{font-size:41px}
+  .change-support{grid-template-columns:55px 1fr 1fr;gap:26px}
+  .change-support-action{padding-left:28px}
+}
+
+@media(max-width:720px){
+  .change-page{padding-top:22px}
+  .change-intro-line{margin-bottom:15px;font-size:10px}
+  .change-hero{grid-template-columns:1fr;min-height:0}
+  .change-photo-placeholder{min-height:0;aspect-ratio:4/3;padding:28px}
+  .change-photo-placeholder:before{width:250px;height:250px;top:-110px;right:-85px}
+  .change-photo-placeholder:after{width:180px;height:180px;left:-85px;bottom:-70px}
+  .change-photo-placeholder svg{width:44px;height:44px;margin-bottom:13px}
+  .change-photo-placeholder span{font-size:22px}
+  .change-copy{padding:34px 25px 38px}
+  .change-copy h1{font-size:38px;letter-spacing:-1.05px}
+  .change-text{gap:14px;margin-top:23px}
+  .change-text p{font-size:11px;line-height:1.85}
+  .change-support{grid-template-columns:1fr;gap:22px;padding:48px 0 46px}
+  .change-support-mark{font-size:46px}
+  .change-support h2{font-size:28px}
+  .change-support-action{padding:24px 0 0;border-top:1px solid var(--line);border-left:0}
+  .change-support-action .primary-button{width:100%}
+}
