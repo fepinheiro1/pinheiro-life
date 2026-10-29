@@ -982,5 +982,15 @@ export const products = {
     "inventoryUnitIds": [
       "quadro-decorativo-coruja-moldura-branca-60x65"
     ]
+  },
+  "keurig-k-cafe-special-edition-nickel": {
+    "id": "keurig-k-cafe-special-edition-nickel",
+    "slug": "keurig-k-cafe-special-edition-nickel",
+    "name": "Cafeteira Keurig K-Café Special Edition com Espumador",
+    "price": 99000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "keurig-k-cafe-special-edition-nickel"
+    ]
   }
 };

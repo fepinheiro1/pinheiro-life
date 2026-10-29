@@ -5888,6 +5888,69 @@ const products = [
       ["Estado", "Usado · bem conservado"]
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "keurig-k-cafe-special-edition-nickel",
+    "slug": "keurig-k-cafe-special-edition-nickel",
+    "name": "Cafeteira Keurig K-Café Special Edition com Espumador",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 990,
+    "newPriceText": "US$ 241,99",
+    "newPriceLabel": "Nova nos EUA",
+    "newPriceSource": {
+      "label": "Home Depot",
+      "url": "https://www.homedepot.com/p/Keurig-K-Cafe-Special-Edition-Nickel-Single-Serve-Coffee-Maker-5000200558/307727052"
+    },
+    "image": "assets/produtos/keurig-k-cafe-special-edition-nickel/capa-cantinho-cafe.jpg",
+    "alt": "Cafeteira Keurig K-Café Special Edition Nickel com espumador em um cantinho de café",
+    "photos": [
+      {
+        "src": "assets/produtos/keurig-k-cafe-special-edition-nickel/capa-cantinho-cafe.jpg",
+        "alt": "Keurig K-Café Special Edition ambientada em uma cozinha contemporânea",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/keurig-k-cafe-special-edition-nickel/foto-real-frente.jpg",
+        "alt": "Foto real frontal da cafeteira Keurig e do espumador"
+      },
+      {
+        "src": "assets/produtos/keurig-k-cafe-special-edition-nickel/foto-real-lateral.jpg",
+        "alt": "Foto real lateral da Keurig K-Café Special Edition"
+      },
+      {
+        "src": "assets/produtos/keurig-k-cafe-special-edition-nickel/foto-real-reservatorio.jpg",
+        "alt": "Foto real do reservatório removível e do espumador de leite"
+      },
+      {
+        "src": "assets/produtos/keurig-k-cafe-special-edition-nickel/foto-real-superior.jpg",
+        "alt": "Foto real da parte superior e do compartimento para cápsulas K-Cup"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Praticamente nova · menos de 10 usos",
+    "tag": "Avulso · K-Cup · com espumador",
+    "meta": "K-Café Special Edition · 120 V · espumador integrado",
+    "conditionSummary": "Praticamente nova, utilizada menos de dez vezes e funcionando perfeitamente. Completa, sem a caixa original.",
+    "description": "Keurig K-Café Special Edition Nickel para cafés, lattes e cappuccinos preparados com cápsulas K-Cup. Reúne quatro tamanhos de café, dose concentrada para bebidas especiais, modo Strong e espumador integrado para leite quente ou frio.",
+    "conditionNotes": "A cafeteira foi utilizada menos de dez vezes e está em excelente estado de conservação. Acompanha o reservatório removível, o espumador com tampa e a bandeja mostrados nas fotos reais. Não acompanha a caixa original.",
+    "details": [
+      ["Marca", "Keurig"],
+      ["Modelo", "K-Café Special Edition Nickel · 5000200558"],
+      ["Compatibilidade", "Cápsulas K-Cup"],
+      ["Tamanhos de café", "6 · 8 · 10 · 12 oz"],
+      ["Dose especial", "Shot concentrado de 2 oz"],
+      ["Espumador", "Integrado · leite quente ou frio"],
+      ["Reservatório", "Removível · 60 oz · aproximadamente 1,77 L"],
+      ["Tensão", "120 V"],
+      ["Acabamento", "Dark Charcoal com detalhes Nickel"],
+      ["Estado", "Praticamente nova · menos de 10 usos"],
+      ["Embalagem", "Sem a caixa original"]
+    ],
+    "illustratedCover": true
   }
 ];
 
