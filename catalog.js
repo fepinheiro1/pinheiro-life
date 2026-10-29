@@ -5842,6 +5842,52 @@ const products = [
       ["Estado", "Usados · com marcas estéticas"]
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "quadro-decorativo-coruja-moldura-branca-60x65",
+    "slug": "quadro-decorativo-coruja-moldura-branca-60x65",
+    "name": "Quadro Decorativo de Coruja com Moldura Branca 60 × 65 cm",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 90,
+    "newPriceText": "R$ 140,82",
+    "newPriceLabel": "Quadro novo comparável com moldura",
+    "newPriceSource": {
+      "label": "Magazine Luiza",
+      "url": "https://www.magazineluiza.com.br/quadros-decorativos-com-moldura-sala-quarto-abstrato-moderno-grande-hall-art-in-decor/p/hg8d91a501/de/qdec/"
+    },
+    "image": "assets/produtos/quadro-decorativo-coruja-moldura-branca-60x65/capa-quarto-menina.jpg",
+    "alt": "Quadro colorido de coruja com moldura branca em uma parede rosa de quarto de menina",
+    "photos": [
+      {
+        "src": "assets/produtos/quadro-decorativo-coruja-moldura-branca-60x65/capa-quarto-menina.jpg",
+        "alt": "Quadro de coruja ambientado em um quarto de menina",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/quadro-decorativo-coruja-moldura-branca-60x65/foto-real-quadro.jpg",
+        "alt": "Foto real do quadro decorativo de coruja anunciado"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · bem conservado",
+    "tag": "Avulso · decoração",
+    "meta": "60 × 65 cm · moldura branca · arte colorida",
+    "conditionSummary": "Quadro usado e bem conservado, com a moldura branca e a arte colorida mostradas na foto real.",
+    "description": "Quadro decorativo com estampa de coruja em composição floral, combinando tons de verde, rosa, vinho e azul. A moldura branca deixa a peça leve e fácil de usar em quartos infantis, juvenis ou outros ambientes coloridos.",
+    "conditionNotes": "A foto real mostra exatamente o quadro anunciado. A imagem principal apresenta a peça ambientada em um quarto de menina e preserva suas proporções de 60 cm de largura por 65 cm de altura.",
+    "details": [
+      ["Tema", "Coruja com composição floral"],
+      ["Largura", "60 cm"],
+      ["Altura", "65 cm"],
+      ["Moldura", "Branca"],
+      ["Formato", "Vertical"],
+      ["Estado", "Usado · bem conservado"]
+    ],
+    "illustratedCover": true
   }
 ];
 

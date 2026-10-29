@@ -972,5 +972,15 @@ export const products = {
     "inventoryUnitIds": [
       "par-halteres-4kg-cada-cinza"
     ]
+  },
+  "quadro-decorativo-coruja-moldura-branca-60x65": {
+    "id": "quadro-decorativo-coruja-moldura-branca-60x65",
+    "slug": "quadro-decorativo-coruja-moldura-branca-60x65",
+    "name": "Quadro Decorativo de Coruja com Moldura Branca 60 × 65 cm",
+    "price": 9000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "quadro-decorativo-coruja-moldura-branca-60x65"
+    ]
   }
 };
