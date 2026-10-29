@@ -6006,6 +6006,51 @@ const products = [
       ["Conteúdo", "Somente a maleta vazia"]
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "bolsa-viagem-replica-estilo-monograma-marrom",
+    "slug": "bolsa-viagem-replica-estilo-monograma-marrom",
+    "name": "Bolsa de Viagem Réplica Estilo Monograma",
+    "type": "single",
+    "category": "Carteiras e acessórios",
+    "categoryId": "acessorios",
+    "price": 190,
+    "image": "assets/produtos/bolsa-viagem-replica-estilo-monograma-marrom/capa-hotel-nova-york.jpg",
+    "alt": "Bolsa de viagem réplica marrom com estampa monograma ambientada em hotel de Nova York",
+    "photos": [
+      {
+        "src": "assets/produtos/bolsa-viagem-replica-estilo-monograma-marrom/capa-hotel-nova-york.jpg",
+        "alt": "Bolsa de viagem réplica estilo monograma ambientada em hotel de Nova York",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/bolsa-viagem-replica-estilo-monograma-marrom/foto-real-frente.jpg",
+        "alt": "Foto real frontal da bolsa de viagem réplica anunciada"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "isReplica": true,
+    "status": "available",
+    "condition": "Usada · bom estado visual",
+    "tag": "Avulsa · réplica declarada · comprada em NY",
+    "meta": "Bolsa de viagem · monograma marrom · alças caramelo",
+    "conditionSummary": "Réplica comprada em Nova York, nos Estados Unidos, em bom estado visual.",
+    "description": "Bolsa de viagem ampla em material marrom com estampa estilo monograma, alças duplas caramelo, ferragens douradas e bolso externo. Trata-se de uma réplica comprada em Nova York, nos Estados Unidos, anunciada com essa condição de forma expressa.",
+    "conditionNotes": "Produto usado e visualmente bem conservado, conforme mostra a foto real. Esta peça é uma réplica e não é um produto original da Louis Vuitton. O anúncio inclui somente a bolsa exibida nas imagens.",
+    "details": [
+      ["Tipo", "Bolsa de viagem"],
+      ["Autenticidade", "Réplica · não original"],
+      ["Origem informada", "Comprada em Nova York · EUA"],
+      ["Cor", "Marrom com detalhes caramelo"],
+      ["Estampa", "Estilo monograma"],
+      ["Alças", "Duplas"],
+      ["Fechamento", "Zíper superior"],
+      ["Bolso", "Externo frontal"],
+      ["Estado", "Usada · bom estado visual"],
+      ["Conteúdo", "Somente a bolsa"]
+    ],
+    "illustratedCover": true
   }
 ];
 

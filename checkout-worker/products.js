@@ -1002,5 +1002,15 @@ export const products = {
     "inventoryUnitIds": [
       "maleta-invicta-dc8yel-8-relogios-amarela"
     ]
+  },
+  "bolsa-viagem-replica-estilo-monograma-marrom": {
+    "id": "bolsa-viagem-replica-estilo-monograma-marrom",
+    "slug": "bolsa-viagem-replica-estilo-monograma-marrom",
+    "name": "Bolsa de Viagem Réplica Estilo Monograma",
+    "price": 19000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "bolsa-viagem-replica-estilo-monograma-marrom"
+    ]
   }
 };
