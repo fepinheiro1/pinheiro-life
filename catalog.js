@@ -6091,7 +6091,7 @@ const products = [
     "imageFit": "cover",
     "isDemo": false,
     "status": "available",
-    "condition": "Usada · bom estado visual",
+    "condition": "Nova · sem uso",
     "tag": "Avulso · somente a caixa · 12 espaços",
     "meta": "12 nichos · visor transparente · interior claro",
     "conditionSummary": "Caixa zero, sem uso e sem sinais. Venda somente da caixa, sem relógios.",
@@ -6108,6 +6108,59 @@ const products = [
       ["Conteúdo", "Somente a caixa vazia"],
       ["Relógios", "Não inclusos"]
     ],
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-2-cadeiras-dobraveis-camping-azuis",
+    "slug": "kit-2-cadeiras-dobraveis-camping-azuis-porta-copos",
+    "name": "Kit 2 Cadeiras Dobráveis de Camping Azuis",
+    "type": "kit",
+    "category": "Camping e lazer",
+    "categoryId": "esportes",
+    "price": 90,
+    "image": "assets/produtos/kit-2-cadeiras-dobraveis-camping-azuis/capa-lago.jpg",
+    "alt": "Duas cadeiras dobráveis azuis de camping ambientadas à beira de um lago",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-2-cadeiras-dobraveis-camping-azuis/capa-lago.jpg",
+        "alt": "Duas cadeiras dobráveis azuis de camping ambientadas à beira de um lago",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kit-2-cadeiras-dobraveis-camping-azuis/foto-real-duas-cadeiras-abertas.jpg",
+        "alt": "Foto real das duas cadeiras dobráveis azuis abertas"
+      },
+      {
+        "src": "assets/produtos/kit-2-cadeiras-dobraveis-camping-azuis/foto-real-duas-bolsas.jpg",
+        "alt": "Foto real das duas bolsas de transporte azuis que acompanham as cadeiras"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usadas · com sinais de uso",
+    "tag": "Kit · 2 cadeiras · com bolsas",
+    "meta": "Dobráveis · porta-copos · estrutura metálica",
+    "conditionSummary": "Usadas, com sinais de uso, mas sem avarias ou rasgos.",
+    "description": "Kit com duas cadeiras dobráveis para camping, praia, pesca, eventos e momentos de lazer. As duas têm tecido azul-turquesa, estrutura metálica preta, braços com porta-copos e fechamento compacto para facilitar o transporte. Acompanham duas bolsas individuais.",
+    "conditionNotes": "As duas cadeiras são usadas e apresentam sinais normais de uso, visíveis nas fotos reais. Não possuem avarias nem rasgos. O anúncio inclui as duas cadeiras e suas duas bolsas de transporte.",
+    "details": [
+      ["Quantidade", "2 cadeiras"],
+      ["Tipo", "Dobráveis e portáteis"],
+      ["Cor", "Azul-turquesa com estrutura preta"],
+      ["Estrutura", "Metálica dobrável"],
+      ["Braços", "Com porta-copos em tela"],
+      ["Transporte", "2 bolsas individuais inclusas"],
+      ["Indicação", "Camping · praia · pesca · eventos · lazer"],
+      ["Estado", "Usadas · sinais de uso · sem rasgos ou avarias"],
+      ["Referência comparável", "SAILARY Folding Camping Chair 2PCS · Amazon EUA"]
+    ],
+    "newPriceSource": {
+      "label": "Modelo semelhante na Amazon EUA",
+      "url": "https://www.amazon.com/SAILARY-Chair-Portable-Foldable-Backpacking/dp/B0FFGKSFN1"
+    },
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir das cadeiras reais.<br>As duas imagens seguintes mostram exatamente o kit anunciado.",
+    "disclosureNote": "A referência da Amazon é de um modelo semelhante e não identifica a marca das cadeiras anunciadas.",
     "illustratedCover": true
   }
 ];

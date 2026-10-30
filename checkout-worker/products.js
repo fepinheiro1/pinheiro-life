@@ -1022,5 +1022,15 @@ export const products = {
     "inventoryUnitIds": [
       "caixa-organizadora-12-relogios-visor"
     ]
+  },
+  "kit-2-cadeiras-dobraveis-camping-azuis": {
+    "id": "kit-2-cadeiras-dobraveis-camping-azuis",
+    "slug": "kit-2-cadeiras-dobraveis-camping-azuis-porta-copos",
+    "name": "Kit 2 Cadeiras Dobráveis de Camping Azuis",
+    "price": 9000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-2-cadeiras-dobraveis-camping-azuis"
+    ]
   }
 };
