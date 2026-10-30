@@ -5871,6 +5871,77 @@ const products = [
     "illustratedCover": true
   },
   {
+    "id": "relogio-invicta-pro-diver-scuba-0075",
+    "slug": "relogio-invicta-pro-diver-scuba-chronograph-0075",
+    "name": "Relógio Invicta Pro Diver Scuba Chronograph 0075",
+    "type": "single",
+    "category": "Relógios",
+    "categoryId": "relogios",
+    "price": 690,
+    "newPriceText": "R$ 1.299",
+    "newPriceLabel": "Mesmo modelo novo no Brasil",
+    "newPriceSource": {
+      "label": "Empório 18K",
+      "url": "https://www.emporio18k.com/invicta/pro-diver/"
+    },
+    "image": "assets/produtos/relogio-invicta-pro-diver-0075/capa-luxo.jpg",
+    "alt": "Relógio Invicta Pro Diver Scuba 0075 dourado com mostrador verde em ambiente sofisticado",
+    "photos": [
+      {
+        "src": "assets/produtos/relogio-invicta-pro-diver-0075/capa-luxo.jpg",
+        "alt": "Relógio Invicta Pro Diver Scuba 0075 dourado sobre bandeja de couro verde",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-pro-diver-0075/foto-real-frente.jpg",
+        "alt": "Foto real frontal do relógio Invicta Pro Diver 0075 anunciado"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-pro-diver-0075/foto-real-caixa.jpg",
+        "alt": "Foto real do mostrador verde, cronógrafo e pulseira dourada do Invicta 0075"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-pro-diver-0075/foto-real-verso.jpg",
+        "alt": "Foto real do verso gravado do relógio Invicta Pro Diver 0075"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-pro-diver-0075/foto-real-conjunto.jpg",
+        "alt": "Foto real do relógio Invicta com caixa, almofada e cartão"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-pro-diver-0075/foto-real-estojo.jpg",
+        "alt": "Foto real da caixa Invicta fechada que acompanha o relógio"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado duas vezes · funcionamento perfeito",
+    "tag": "Avulso · original · completo",
+    "meta": "48 mm · cronógrafo · mostrador verde · dourado",
+    "conditionSummary": "Usado apenas duas vezes e funcionando perfeitamente. Completo com caixa, cartão e elos extras da pulseira.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do relógio real.<br>As cinco imagens seguintes mostram exatamente o produto e a caixa anunciados.",
+    "disclosureNote": "O link da Amazon EUA enviado como referência identifica o mesmo modelo Invicta 0075. O valor de R$ 1.299 corresponde a uma referência brasileira do mesmo modelo novo.",
+    "description": "Invicta Pro Diver Scuba Chronograph 0075 original, com caixa de 48 mm, mostrador verde, acabamento dourado e movimento a quartzo. O relógio possui cronógrafo com três submostradores, calendário, bezel giratório e resistência à água indicada pelo fabricante de até 200 metros.",
+    "conditionNotes": "Relógio usado somente duas vezes e funcionando perfeitamente, inclusive hora, data e cronógrafo. Apresenta leves marcas superficiais de manuseio visíveis nas fotos reais. Acompanha caixa Invicta, almofada, cartão e elos extras da pulseira.",
+    "details": [
+      ["Marca", "Invicta"],
+      ["Coleção", "Pro Diver Scuba"],
+      ["Modelo", "0075"],
+      ["Movimento", "Quartzo"],
+      ["Funções", "Hora · data · cronógrafo"],
+      ["Caixa", "48 mm · aço inoxidável · acabamento dourado"],
+      ["Mostrador", "Verde com três submostradores"],
+      ["Pulseira", "Aço inoxidável dourado · com elos extras"],
+      ["Resistência indicada", "Até 200 m"],
+      ["Acompanha", "Caixa · almofada · cartão · elos extras"],
+      ["Funcionamento", "Perfeito · hora, data e cronógrafo"],
+      ["Condição", "Usado somente duas vezes"],
+      ["Referência internacional", "Amazon EUA · ASIN B00075U5IA"]
+    ]
+  },
+  {
     "id": "oculos-esportivo-importado-vermelho-espelhado",
     "slug": "oculos-esportivo-importado-vermelho-lente-espelhada",
     "name": "Óculos Esportivo Importado Vermelho com Lente Espelhada",

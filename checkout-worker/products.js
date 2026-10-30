@@ -973,6 +973,16 @@ export const products = {
       "moedor-krups-silent-vortex-gx332"
     ]
   },
+  "relogio-invicta-pro-diver-scuba-0075": {
+    "id": "relogio-invicta-pro-diver-scuba-0075",
+    "slug": "relogio-invicta-pro-diver-scuba-chronograph-0075",
+    "name": "Relógio Invicta Pro Diver Scuba Chronograph 0075",
+    "price": 69000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "relogio-invicta-pro-diver-scuba-0075"
+    ]
+  },
   "oculos-esportivo-importado-vermelho-espelhado": {
     "id": "oculos-esportivo-importado-vermelho-espelhado",
     "slug": "oculos-esportivo-importado-vermelho-lente-espelhada",
