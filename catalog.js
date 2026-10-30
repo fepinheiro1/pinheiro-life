@@ -2174,11 +2174,11 @@ const products = [
     "status": "available",
     "condition": "Praticamente nova",
     "tag": "Avulso · webcam 4K",
-    "meta": "4K a 30 fps · 1080p a 60 fps",
-    "conditionSummary": "Praticamente nova.",
+    "meta": "4K a 30 fps · 1080p a 60 fps · cabo incluso",
+    "conditionSummary": "Praticamente nova e acompanha cabo.",
     "disclosureNote": "A primeira imagem é uma ambientação criada com IA. As duas imagens seguintes são fotos oficiais de referência do modelo, incluindo a vista lateral.",
-    "description": "Webcam EMEET SmartCam S600 com resolução 4K a 30 fps ou Full HD 1080p a 60 fps. Possui foco automático, correção automática de luz e dois microfones integrados com redução de ruído, sendo indicada para videochamadas, aulas, reuniões e transmissões.",
-    "conditionNotes": "Produto praticamente novo.",
+    "description": "Webcam EMEET SmartCam S600 com resolução 4K a 30 fps ou Full HD 1080p a 60 fps. Possui foco automático, correção automática de luz e dois microfones integrados com redução de ruído, sendo indicada para videochamadas, aulas, reuniões e transmissões. Acompanha cabo.",
+    "conditionNotes": "Produto praticamente novo e acompanha cabo.",
     "details": [
       ["Marca", "EMEET"],
       ["Modelo", "SmartCam S600"],
@@ -2188,6 +2188,7 @@ const products = [
       ["Foco", "Automático"],
       ["Campo de visão", "Ajustável de 40° a 73°"],
       ["Microfones", "2 omnidirecionais com redução de ruído"],
+      ["Acompanha", "Cabo"],
       ["Condição", "Praticamente nova"],
       ["Formato de venda", "Produto avulso"]
     ]
