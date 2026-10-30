@@ -973,6 +973,16 @@ export const products = {
       "moedor-krups-silent-vortex-gx332"
     ]
   },
+  "joelheira-ortopedica-procorpus-tiras-cruzadas": {
+    "id": "joelheira-ortopedica-procorpus-tiras-cruzadas",
+    "slug": "joelheira-ortopedica-procorpus-compressao-tiras-cruzadas",
+    "name": "Joelheira Ortopédica Procorpus com Tiras Cruzadas",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "joelheira-ortopedica-procorpus-tiras-cruzadas"
+    ]
+  },
   "par-halteres-4kg-cada-cinza": {
     "id": "par-halteres-4kg-cada-cinza",
     "slug": "par-halteres-4kg-cada-cinza",

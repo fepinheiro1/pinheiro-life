@@ -5871,6 +5871,60 @@ const products = [
     "illustratedCover": true
   },
   {
+    "id": "joelheira-ortopedica-procorpus-tiras-cruzadas",
+    "slug": "joelheira-ortopedica-procorpus-compressao-tiras-cruzadas",
+    "name": "Joelheira Ortopédica Procorpus com Tiras Cruzadas",
+    "type": "single",
+    "category": "Fitness",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 199,90",
+    "newPriceLabel": "Joelheira ortopédica comparável nova",
+    "newPriceSource": {
+      "label": "Ativa Esportes",
+      "url": "https://www.ativaesportes.com.br/joelheira-ortopedica-kestal-articular-ajustavel-unissex-ksn004-pto/p/5498428"
+    },
+    "image": "assets/produtos/joelheira-ortopedica-procorpus/capa-tenis.jpg",
+    "alt": "Tenista usando joelheira ortopédica preta com abertura frontal e tiras cruzadas",
+    "photos": [
+      {
+        "src": "assets/produtos/joelheira-ortopedica-procorpus/capa-tenis.jpg",
+        "alt": "Tenista usando joelheira ortopédica preta com tiras cruzadas durante uma partida",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/joelheira-ortopedica-procorpus/foto-real-frente.jpg",
+        "alt": "Foto real da frente da joelheira Procorpus anunciada"
+      },
+      {
+        "src": "assets/produtos/joelheira-ortopedica-procorpus/foto-real-verso.jpg",
+        "alt": "Foto real do verso e das tiras ajustáveis da joelheira Procorpus"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Pouco uso · ótima condição",
+    "tag": "Avulso · compressão · ajustável",
+    "meta": "Tiras cruzadas · abertura frontal · velcro",
+    "conditionSummary": "Pouco usada e em ótima condição, com tiras, costuras e fechos preservados.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir da joelheira real.<br>As duas imagens seguintes mostram exatamente o produto anunciado.",
+    "disclosureNote": "A referência da Ativa Esportes é de uma joelheira ortopédica semelhante, de outra marca e outro modelo, usada apenas para comparação de categoria e valor.",
+    "description": "Joelheira ortopédica Procorpus de compressão, com abertura frontal para a patela e tiras cruzadas ajustáveis. O sistema de velcro permite regular a compressão e manter a peça firme durante tênis, academia, caminhadas e outras atividades físicas.",
+    "conditionNotes": "Produto com pouco uso e em ótima condição. O tecido, as costuras, as tiras cruzadas e os fechos de velcro estão preservados, como mostram as duas fotos reais.",
+    "details": [
+      ["Marca", "Procorpus"],
+      ["Tipo", "Joelheira ortopédica de compressão"],
+      ["Cor", "Preta"],
+      ["Abertura", "Frontal para a patela"],
+      ["Ajuste", "Tiras cruzadas com velcro"],
+      ["Indicação", "Tênis · academia · caminhadas · atividades físicas"],
+      ["Condição", "Pouco uso · ótima condição"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "par-halteres-4kg-cada-cinza",
     "slug": "par-halteres-4kg-cada-cinza",
     "name": "Par de Halteres Sextavados de 4 kg Cada",
