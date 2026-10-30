@@ -6162,6 +6162,73 @@ const products = [
     "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir das cadeiras reais.<br>As duas imagens seguintes mostram exatamente o kit anunciado.",
     "disclosureNote": "A referência da Amazon é de um modelo semelhante e não identifica a marca das cadeiras anunciadas.",
     "illustratedCover": true
+  },
+  {
+    "id": "kit-som-nca-sa20-jbl-c521b",
+    "slug": "kit-som-ambiente-nca-sa20-2-caixas-jbl-c521b",
+    "name": "Kit Som Ambiente NCA SA 20 + 2 Caixas JBL C521B",
+    "type": "kit",
+    "category": "Áudio e vídeo",
+    "categoryId": "tecnologia",
+    "price": 890,
+    "newPriceText": "R$ 1.394",
+    "newPriceLabel": "Equivalente novo a partir de",
+    "newPriceSource": {
+      "label": "Referências somadas no Mercado Livre",
+      "url": "https://lista.mercadolivre.com.br/amplificador-sa20-jbl-c521b"
+    },
+    "image": "assets/produtos/kit-som-nca-sa20-jbl-c521b/capa-sala.jpg",
+    "alt": "Amplificador NCA SA 20 preto com duas caixas JBL C521B brancas em uma sala",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-som-nca-sa20-jbl-c521b/capa-sala.jpg",
+        "alt": "Amplificador NCA SA 20 com duas caixas JBL C521B ambientados em uma sala",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kit-som-nca-sa20-jbl-c521b/foto-real-conjunto-frente.jpg",
+        "alt": "Foto real da frente do amplificador NCA SA 20 com as duas caixas JBL C521B"
+      },
+      {
+        "src": "assets/produtos/kit-som-nca-sa20-jbl-c521b/foto-real-caixas-frente.jpg",
+        "alt": "Foto real da frente das duas caixas JBL C521B brancas"
+      },
+      {
+        "src": "assets/produtos/kit-som-nca-sa20-jbl-c521b/foto-real-caixas-traseira.jpg",
+        "alt": "Foto real da traseira, suportes e etiquetas das duas caixas JBL C521B"
+      },
+      {
+        "src": "assets/produtos/kit-som-nca-sa20-jbl-c521b/foto-real-amplificador-traseira.jpg",
+        "alt": "Foto real das conexões traseiras e da alimentação do amplificador NCA SA 20"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · funcionamento perfeito",
+    "tag": "Kit · amplificador + 2 caixas JBL",
+    "meta": "100 W RMS · USB/SD/FM · caixas 8 Ω",
+    "conditionSummary": "Caixas impecáveis e amplificador funcionando perfeitamente, com sinais de uso apenas na parte superior.",
+    "description": "Sistema completo para som ambiente composto por um amplificador compacto NCA/LL Audio SA 20 e um par de caixas passivas JBL C521B brancas. O amplificador oferece 100 W RMS, equalização de três bandas, entradas para microfone e áudio auxiliar, player USB/SD e rádio FM. As caixas JBL possuem duas vias, impedância de 8 Ω e potência de 40 W RMS por unidade, com 80 W de programa musical.",
+    "conditionNotes": "As duas caixas JBL estão impecáveis, sem riscos ou avarias. O amplificador apresenta sinais de uso na parte superior, mas a frente está conservada e sem riscos, e todo o conjunto funciona perfeitamente. A pequena marca de silver tape no controle de volume foi colocada somente como referência visual para facilitar seu uso; o botão está inteiro e funciona normalmente.",
+    "details": [
+      ["Conteúdo", "1 amplificador NCA SA 20 · 2 caixas JBL C521B"],
+      ["Potência do amplificador", "100 W RMS"],
+      ["Recursos", "USB · cartão SD · rádio FM · display"],
+      ["Equalização", "Graves · médios · agudos"],
+      ["Entradas", "Microfone P10 · 2 auxiliares RCA"],
+      ["Saídas", "Terminais para caixas passivas · line out RCA"],
+      ["Modelo das caixas", "JBL C521B · brancas"],
+      ["Sistema das caixas", "2 vias · woofer 5¼″ · tweeter ¾″"],
+      ["Potência das caixas", "40 W RMS cada · 80 W programa musical"],
+      ["Impedância", "8 Ω"],
+      ["Instalação", "Suportes orientáveis inclusos nas caixas"],
+      ["Alimentação", "127/220 V com chave seletora"],
+      ["Estado", "Usado · funcionamento perfeito"]
+    ],
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do conjunto real.<br>As quatro imagens seguintes mostram exatamente o amplificador e as caixas anunciados.",
+    "disclosureNote": "O valor do equivalente novo corresponde à soma das menores referências encontradas para os mesmos modelos no Mercado Livre em 30/10/2026.",
+    "illustratedCover": true
   }
 ];
 
