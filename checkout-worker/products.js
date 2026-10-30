@@ -110,6 +110,16 @@ export const products = {
       "abajur-madeira-ripado-gota"
     ]
   },
+  "oculos-grau-montblanc-retangular-dourado": {
+    "id": "oculos-grau-montblanc-retangular-dourado",
+    "slug": "oculos-de-grau-montblanc-retangular-dourado-novo",
+    "name": "Óculos de Grau Montblanc Retangular Dourado",
+    "price": 49000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "oculos-grau-montblanc-retangular-dourado"
+    ]
+  },
   "oculos-prada-linea-rossa-sps-56m": {
     "id": "oculos-prada-linea-rossa-sps-56m",
     "slug": "oculos-de-sol-prada-linea-rossa-sps-56m",

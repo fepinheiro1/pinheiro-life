@@ -660,6 +660,82 @@ const products = [
     ]
   },
   {
+    "id": "oculos-grau-montblanc-retangular-dourado",
+    "slug": "oculos-de-grau-montblanc-retangular-dourado-novo",
+    "name": "Óculos de Grau Montblanc Retangular Dourado",
+    "type": "single",
+    "category": "Acessórios",
+    "categoryId": "acessorios",
+    "price": 490,
+    "newPriceText": "R$ 4.085,00",
+    "newPriceLabel": "Armação Montblanc comparável nova",
+    "newPriceSource": {
+      "label": "Óticas Diniz",
+      "url": "https://www.oticasdiniz.com.br/armacao-oculos-grau-montblanc-mb0346o-001-preto-e-dourado/p"
+    },
+    "image": "assets/produtos/oculos-grau-montblanc-dourado/capa-escritorio.jpg",
+    "alt": "Óculos de grau Montblanc dourados com estojo e caixa sobre uma mesa de escritório",
+    "photos": [
+      {
+        "src": "assets/produtos/oculos-grau-montblanc-dourado/capa-escritorio.jpg",
+        "alt": "Óculos de grau Montblanc dourados ambientados em um escritório",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-frente.jpg",
+        "alt": "Foto real frontal dos óculos de grau Montblanc anunciados"
+      },
+      {
+        "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-lateral.jpg",
+        "alt": "Foto real lateral da armação Montblanc dourada e das hastes pretas"
+      },
+      {
+        "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-detalhe-logo-1.jpg",
+        "alt": "Detalhe real do emblema Montblanc na ponta da haste"
+      },
+      {
+        "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-detalhe-logo-2.jpg",
+        "alt": "Segundo detalhe real do emblema Montblanc na haste"
+      },
+      {
+        "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-gravacao-montblanc.jpg",
+        "alt": "Gravação Montblanc Made in Italy na haste dos óculos anunciados"
+      },
+      {
+        "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-frente-sobre-caixa.jpg",
+        "alt": "Foto real da armação Montblanc vista de frente sobre a caixa"
+      },
+      {
+        "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-conjunto-completo.jpg",
+        "alt": "Conjunto real completo com óculos Montblanc, estojo, caixa e documentação"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · zero uso",
+    "tag": "Avulso · original · completo",
+    "meta": "Montblanc · metal dourado · hastes pretas",
+    "conditionSummary": "Produto original, novo e nunca usado, com estojo, caixa e documentação.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir dos óculos reais.<br>As sete imagens seguintes mostram exatamente a peça e os acessórios anunciados.",
+    "disclosureNote": "A referência da Óticas Diniz é de outra armação Montblanc comparável e serve apenas para contextualizar o valor de uma peça nova da marca.",
+    "description": "Óculos de grau Montblanc originais com armação retangular fina em metal dourado e hastes pretas. O desenho discreto combina o acabamento clássico da marca com um formato leve e elegante. Acompanha estojo rígido, caixa e documentação Montblanc mostrados nas fotos reais.",
+    "conditionNotes": "Peça nova, sem uso e sem sinais de utilização. O conjunto está completo com estojo rígido, caixa e documentação. As fotos reais mostram a frente, a lateral, os emblemas nas hastes, a gravação Montblanc Made in Italy e todos os itens que acompanham o produto.",
+    "details": [
+      ["Marca", "Montblanc"],
+      ["Tipo", "Óculos de grau / armação óptica"],
+      ["Formato", "Retangular"],
+      ["Material", "Metal"],
+      ["Cor da armação", "Dourada"],
+      ["Hastes", "Pretas com emblema Montblanc"],
+      ["Origem indicada", "Made in Italy"],
+      ["Acompanha", "Estojo rígido · caixa · documentação"],
+      ["Condição", "Novo · zero uso"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "oculos-prada-linea-rossa-sps-56m",
     "slug": "oculos-de-sol-prada-linea-rossa-sps-56m",
     "name": "Óculos de Sol Prada Linea Rossa SPS 56M",
