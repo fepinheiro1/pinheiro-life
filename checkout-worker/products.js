@@ -1092,5 +1092,15 @@ export const products = {
     "inventoryUnitIds": [
       "kit-som-nca-sa20-jbl-c521b"
     ]
+  },
+  "vestido-john-john-preto-texturizado-p": {
+    "id": "vestido-john-john-preto-texturizado-p",
+    "slug": "vestido-john-john-preto-texturizado-costas-abertas-tamanho-p",
+    "name": "Vestido John John Preto Texturizado com Costas Abertas",
+    "price": 39000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "vestido-john-john-preto-texturizado-p"
+    ]
   }
 };

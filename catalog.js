@@ -6,6 +6,7 @@ const categories = [
   { id: 'casa-cozinha', label: 'Casa e cozinha' },
   { id: 'relogios', label: 'Relógios' },
   { id: 'esportes', label: 'Esportes' },
+  { id: 'moda-feminina', label: 'Moda feminina' },
   { id: 'moda-fitness', label: 'Moda fitness' },
   { id: 'perfumes', label: 'Perfumes' },
   { id: 'beleza', label: 'Beleza' }
@@ -6567,6 +6568,66 @@ const products = [
     ],
     "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do conjunto real.<br>As quatro imagens seguintes mostram exatamente o amplificador e as caixas anunciados.",
     "disclosureNote": "O valor do equivalente novo corresponde à soma das menores referências encontradas para os mesmos modelos no Mercado Livre em 30/10/2026.",
+    "illustratedCover": true
+  },
+  {
+    "id": "vestido-john-john-preto-texturizado-p",
+    "slug": "vestido-john-john-preto-texturizado-costas-abertas-tamanho-p",
+    "name": "Vestido John John Preto Texturizado com Costas Abertas",
+    "type": "single",
+    "category": "Moda feminina",
+    "categoryId": "moda-feminina",
+    "price": 390,
+    "newPriceText": "R$ 990",
+    "newPriceLabel": "Valor pago na loja",
+    "image": "assets/produtos/vestido-john-john-preto-texturizado-p/capa-noite.jpg",
+    "alt": "Vestido John John preto texturizado tamanho P apresentado de frente e de costas em ambiente noturno elegante",
+    "photos": [
+      {
+        "src": "assets/produtos/vestido-john-john-preto-texturizado-p/capa-noite.jpg",
+        "alt": "Vestido John John preto texturizado apresentado de frente e de costas em ambiente noturno elegante",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/vestido-john-john-preto-texturizado-p/foto-real-frente.jpg",
+        "alt": "Foto real da frente do vestido John John preto tamanho P anunciado"
+      },
+      {
+        "src": "assets/produtos/vestido-john-john-preto-texturizado-p/foto-real-costas.jpg",
+        "alt": "Foto real das costas abertas e do fecho do vestido John John anunciado"
+      },
+      {
+        "src": "assets/produtos/vestido-john-john-preto-texturizado-p/foto-real-fecho.jpg",
+        "alt": "Foto real aproximada do recorte e do fecho nas costas do vestido John John"
+      },
+      {
+        "src": "assets/produtos/vestido-john-john-preto-texturizado-p/foto-real-textura.jpg",
+        "alt": "Foto real aproximada da textura croco aveludada do vestido John John"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado uma vez · sem marcas de uso",
+    "tag": "Avulso · John John · tamanho P",
+    "meta": "Preto · manga longa · costas abertas · textura croco",
+    "conditionSummary": "Usado apenas uma vez, em perfeito estado e sem nenhuma marca de uso.",
+    "description": "Vestido John John preto tamanho P, com modelagem curta e ajustada, mangas longas e marcante recorte aberto nas costas. O tecido tem toque camurçado e aveludado, com textura croco em relevo que valoriza a peça e ganha destaque sob a luz.",
+    "conditionNotes": "Vestido usado somente uma vez e mantido em perfeito estado de conservação, sem marcas de uso, manchas, fios puxados ou avarias aparentes. As fotos reais mostram a frente, as costas, o fecho e a textura do tecido.",
+    "details": [
+      ["Marca", "John John"],
+      ["Tamanho", "P"],
+      ["Cor", "Preta"],
+      ["Modelagem", "Curta e ajustada"],
+      ["Mangas", "Longas"],
+      ["Costas", "Abertas com recorte e fecho"],
+      ["Acabamento", "Toque camurçado e aveludado · textura croco"],
+      ["Valor pago", "R$ 990"],
+      ["Condição", "Usado uma vez · sem marcas de uso"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "Capa: ambientação noturna ilustrativa criada com IA a partir do vestido real.<br>As quatro imagens seguintes mostram exatamente a peça anunciada.",
+    "disclosureNote": "A imagem de capa é ilustrativa. Cor, textura, recorte das costas e demais características foram baseados nas fotos reais da peça.",
     "illustratedCover": true
   }
 ];
