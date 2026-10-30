@@ -5871,6 +5871,77 @@ const products = [
     "illustratedCover": true
   },
   {
+    "id": "oculos-esportivo-importado-vermelho-espelhado",
+    "slug": "oculos-esportivo-importado-vermelho-lente-espelhada",
+    "name": "Óculos Esportivo Importado Vermelho com Lente Espelhada",
+    "type": "single",
+    "category": "Beach tennis",
+    "categoryId": "esportes",
+    "price": 49,
+    "newPriceText": "R$ 67",
+    "newPriceLabel": "Óculos esportivo importado comparável novo",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://lista.mercadolivre.com.br/oculos-vermelho-ciclismo"
+    },
+    "image": "assets/produtos/oculos-esportivo-importado-vermelho/capa-beach-tennis.jpg",
+    "alt": "Jogadora de beach tennis usando óculos esportivo importado vermelho com lente espelhada",
+    "photos": [
+      {
+        "src": "assets/produtos/oculos-esportivo-importado-vermelho/capa-beach-tennis.jpg",
+        "alt": "Jogadora usando óculos esportivo vermelho durante uma partida de beach tennis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/oculos-esportivo-importado-vermelho/foto-real-com-estojo.jpg",
+        "alt": "Foto real do óculos esportivo vermelho anunciado ao lado do estojo"
+      },
+      {
+        "src": "assets/produtos/oculos-esportivo-importado-vermelho/foto-real-frente.jpg",
+        "alt": "Foto real frontal da lente única espelhada do óculos esportivo"
+      },
+      {
+        "src": "assets/produtos/oculos-esportivo-importado-vermelho/foto-real-lateral.jpg",
+        "alt": "Foto real lateral da armação vermelha e das hastes do óculos"
+      },
+      {
+        "src": "assets/produtos/oculos-esportivo-importado-vermelho/foto-real-interno.jpg",
+        "alt": "Foto real da parte interna e do apoio nasal preto do óculos esportivo"
+      },
+      {
+        "src": "assets/produtos/oculos-esportivo-importado-vermelho/foto-real-no-estojo.jpg",
+        "alt": "Foto real do óculos esportivo vermelho acomodado no estojo rígido"
+      },
+      {
+        "src": "assets/produtos/oculos-esportivo-importado-vermelho/foto-real-estojo-fechado.jpg",
+        "alt": "Foto real do estojo rígido fechado que acompanha o óculos"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado um dia · excelente estado",
+    "tag": "Avulso · importado · esportivo",
+    "meta": "Lente espelhada · armação vermelha · com estojo",
+    "conditionSummary": "Usado apenas um dia e em excelente estado de conservação. Acompanha estojo rígido.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do óculos real.<br>As seis imagens seguintes mostram exatamente o produto e o estojo anunciados.",
+    "disclosureNote": "Produto importado da China, sem marca ou modelo informados. Não há confirmação documental de polarização ou classificação de proteção UV.",
+    "description": "Óculos esportivo importado com armação vermelha, lente única espelhada e formato envolvente. O design oferece ampla cobertura visual para beach tennis, corrida, ciclismo e outras atividades ao ar livre. Acompanha estojo rígido para transporte e proteção.",
+    "conditionNotes": "Produto usado somente um dia e em excelente estado de conservação. A lente, a armação, as hastes e o apoio nasal estão muito bem preservados, como mostram as fotos reais.",
+    "details": [
+      ["Tipo", "Óculos de sol esportivo"],
+      ["Procedência", "Importado da China"],
+      ["Marca", "Não informada"],
+      ["Cor", "Vermelha com detalhes pretos"],
+      ["Lente", "Única · espelhada · tonalidade vermelho e rosa"],
+      ["Indicação", "Beach tennis · corrida · ciclismo · atividades ao ar livre"],
+      ["Acompanha", "Estojo rígido"],
+      ["Condição", "Usado somente um dia · excelente estado"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "oculos-mormaii-athlon-iv-m0042-aab11",
     "slug": "oculos-sol-mormaii-athlon-iv-m0042-aab11-espelhado",
     "name": "Óculos de Sol Mormaii Athlon IV Espelhado",

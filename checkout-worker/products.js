@@ -973,6 +973,16 @@ export const products = {
       "moedor-krups-silent-vortex-gx332"
     ]
   },
+  "oculos-esportivo-importado-vermelho-espelhado": {
+    "id": "oculos-esportivo-importado-vermelho-espelhado",
+    "slug": "oculos-esportivo-importado-vermelho-lente-espelhada",
+    "name": "Óculos Esportivo Importado Vermelho com Lente Espelhada",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "oculos-esportivo-importado-vermelho-espelhado"
+    ]
+  },
   "oculos-mormaii-athlon-iv-m0042-aab11": {
     "id": "oculos-mormaii-athlon-iv-m0042-aab11",
     "slug": "oculos-sol-mormaii-athlon-iv-m0042-aab11-espelhado",
