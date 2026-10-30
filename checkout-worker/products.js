@@ -1012,5 +1012,15 @@ export const products = {
     "inventoryUnitIds": [
       "bolsa-viagem-replica-estilo-monograma-marrom"
     ]
+  },
+  "caixa-organizadora-12-relogios-visor": {
+    "id": "caixa-organizadora-12-relogios-visor",
+    "slug": "caixa-organizadora-12-relogios-visor",
+    "name": "Caixa Organizadora para 12 Relógios com Visor",
+    "price": 4900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "caixa-organizadora-12-relogios-visor"
+    ]
   }
 };

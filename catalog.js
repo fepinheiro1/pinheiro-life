@@ -6052,6 +6052,63 @@ const products = [
       ["Conteúdo", "Somente a bolsa"]
     ],
     "illustratedCover": true
+  },
+  {
+    "id": "caixa-organizadora-12-relogios-visor",
+    "slug": "caixa-organizadora-12-relogios-visor",
+    "name": "Caixa Organizadora para 12 Relógios com Visor",
+    "type": "single",
+    "category": "Relógios",
+    "categoryId": "relogios",
+    "price": 49,
+    "image": "assets/produtos/caixa-organizadora-12-relogios-visor/capa-closet.jpg",
+    "alt": "Caixa organizadora preta para doze relógios, aberta e vazia, em um closet",
+    "photos": [
+      {
+        "src": "assets/produtos/caixa-organizadora-12-relogios-visor/capa-closet.jpg",
+        "alt": "Caixa organizadora para doze relógios aberta e vazia em ambiente de closet",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/caixa-organizadora-12-relogios-visor/foto-real-fechada-vazia.jpg",
+        "alt": "Foto real da caixa organizadora fechada e vazia"
+      },
+      {
+        "src": "assets/produtos/caixa-organizadora-12-relogios-visor/foto-real-aberta-vazia.jpg",
+        "alt": "Foto real da caixa organizadora aberta com os doze espaços vazios"
+      },
+      {
+        "src": "assets/produtos/caixa-organizadora-12-relogios-visor/foto-ilustrativa-fechada-com-relogios.jpg",
+        "alt": "Imagem ilustrativa da caixa fechada com relógios para demonstrar a capacidade; relógios não inclusos",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/caixa-organizadora-12-relogios-visor/foto-ilustrativa-aberta-com-relogios.jpg",
+        "alt": "Imagem ilustrativa da caixa aberta com relógios para demonstrar a capacidade; relógios não inclusos",
+        "isIllustrative": true
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · bom estado visual",
+    "tag": "Avulso · somente a caixa · 12 espaços",
+    "meta": "12 nichos · visor transparente · interior claro",
+    "conditionSummary": "Caixa usada e em bom estado visual. Venda somente da caixa, sem relógios.",
+    "description": "Caixa organizadora preta para armazenar e exibir até doze relógios. Possui tampa com visor transparente, acabamento com costura branca, fecho metálico e interior claro com doze almofadas individuais. A venda inclui somente a caixa; os relógios mostrados nas imagens ilustrativas não estão inclusos.",
+    "conditionNotes": "O anúncio inclui somente a caixa organizadora vazia. Os relógios não acompanham o produto. A segunda e a terceira imagens da galeria mostram a caixa real vazia; a quarta e a quinta imagens, com relógios, são apenas ilustrativas para demonstrar sua capacidade.",
+    "details": [
+      ["Capacidade", "Até 12 relógios"],
+      ["Organização", "2 fileiras com 6 nichos cada"],
+      ["Tampa", "Visor transparente"],
+      ["Exterior", "Preto com costura branca"],
+      ["Interior", "Claro com almofadas individuais"],
+      ["Fechamento", "Fecho metálico frontal"],
+      ["Estado", "Usada · bom estado visual"],
+      ["Conteúdo", "Somente a caixa vazia"],
+      ["Relógios", "Não inclusos"]
+    ],
+    "illustratedCover": true
   }
 ];
 
