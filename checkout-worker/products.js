@@ -1036,7 +1036,7 @@ export const products = {
   "kit-som-nca-sa20-jbl-c521b": {
     "id": "kit-som-nca-sa20-jbl-c521b",
     "slug": "kit-som-ambiente-nca-sa20-2-caixas-jbl-c521b",
-    "name": "Kit Som Ambiente NCA SA 20 + 2 Caixas JBL C521B",
+    "name": "Kit Som Ambiente LL Audio NCA SA 20 + 2 Caixas JBL C521B",
     "price": 89000,
     "status": "available",
     "inventoryUnitIds": [
