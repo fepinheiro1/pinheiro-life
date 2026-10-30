@@ -6580,12 +6580,17 @@ const products = [
     "price": 390,
     "newPriceText": "R$ 990",
     "newPriceLabel": "Valor pago na loja",
-    "image": "assets/produtos/vestido-john-john-preto-texturizado-p/capa-noite.jpg",
-    "alt": "Vestido John John preto texturizado tamanho P apresentado de frente e de costas em ambiente noturno elegante",
+    "image": "assets/produtos/vestido-john-john-preto-texturizado-p/capa-costas-noite.jpg",
+    "alt": "Mulher usando vestido John John preto texturizado tamanho P de costas em ambiente noturno elegante",
     "photos": [
       {
-        "src": "assets/produtos/vestido-john-john-preto-texturizado-p/capa-noite.jpg",
-        "alt": "Vestido John John preto texturizado apresentado de frente e de costas em ambiente noturno elegante",
+        "src": "assets/produtos/vestido-john-john-preto-texturizado-p/capa-costas-noite.jpg",
+        "alt": "Mulher usando vestido John John preto texturizado de costas em ambiente noturno elegante",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/vestido-john-john-preto-texturizado-p/foto-ilustrativa-frente-noite.jpg",
+        "alt": "Mulher usando vestido John John preto texturizado de frente em ambiente noturno elegante",
         "isIllustrative": true
       },
       {
@@ -6626,8 +6631,8 @@ const products = [
       ["Condição", "Usado uma vez · sem marcas de uso"],
       ["Formato de venda", "Produto avulso"]
     ],
-    "galleryDisclosure": "Capa: ambientação noturna ilustrativa criada com IA a partir do vestido real.<br>As quatro imagens seguintes mostram exatamente a peça anunciada.",
-    "disclosureNote": "A imagem de capa é ilustrativa. Cor, textura, recorte das costas e demais características foram baseados nas fotos reais da peça.",
+    "galleryDisclosure": "As duas primeiras imagens são ambientações noturnas ilustrativas criadas com IA a partir do vestido real.<br>As quatro imagens seguintes mostram exatamente a peça anunciada.",
+    "disclosureNote": "As duas primeiras imagens são ilustrativas. Cor, textura, recorte das costas e demais características foram baseados nas fotos reais da peça.",
     "illustratedCover": true
   }
 ];
