@@ -116,8 +116,8 @@
     dialog.setAttribute('aria-labelledby','exit-intent-title');
     dialog.innerHTML=`
       <button class="exit-intent-close" type="button" aria-label="Fechar recomendações">×</button>
-      <div class="exit-intent-heading"><span class="green-label">Antes de você ir…</span><h2 id="exit-intent-title">Separei mais três achados para você.</h2><p>Escolhidos a partir dos produtos que você visitou por último.</p></div>
-      <div class="exit-intent-products">${selected.map(product=>`<a class="exit-intent-product" href="${escapeHtml(product.url)}"><span class="exit-intent-image"><img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.alt||product.name)}" width="260" height="320"></span><span class="exit-intent-product-copy"><small>${escapeHtml(product.category)}</small><strong>${escapeHtml(product.name)}</strong><span>${escapeHtml(product.price)}</span></span></a>`).join('')}</div>
+      <div class="exit-intent-heading"><span class="green-label">Antes de você ir…</span><h2 id="exit-intent-title">Separei mais três achados para você.</h2></div>
+      <div class="exit-intent-products">${selected.map(product=>`<a class="exit-intent-product" href="${escapeHtml(product.url)}"><span class="exit-intent-image"><img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.alt||product.name)}" width="320" height="400"></span><span class="exit-intent-product-copy"><strong>${escapeHtml(product.name)}</strong><span>${escapeHtml(product.price)}</span></span></a>`).join('')}</div>
       <div class="exit-intent-contact"><div><strong>Quer ajuda para escolher?</strong><span>Fale diretamente com a gente pelo WhatsApp.</span></div><div class="exit-intent-contact-actions">${contacts.map(contact=>`<a href="${whatsappUrl(contact,history)}" target="_blank" rel="noopener"><img src="${new URL(contact.avatar,root).href}" alt=""><span>Falar com ${contact.name}</span></a>`).join('')}</div></div>`;
     document.body.append(dialog);
     const close=()=>{markDismissed();dialog.close();};
