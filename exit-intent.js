@@ -103,6 +103,53 @@
     const message=`Olá, ${contact.name}! Vi alguns produtos no pinheiro.life${recent?` — especialmente ${recent}`:''} — e gostaria de ajuda para escolher.`;
     return `https://wa.me/${contact.number}?text=${encodeURIComponent(message)}`;
   };
+  let scrollLock;
+  const lockPageScroll=()=>{
+    if(scrollLock)return;
+    const body=document.body;
+    const root=document.documentElement;
+    const scrollbarWidth=Math.max(0,innerWidth-root.clientWidth);
+    scrollLock={
+      x:scrollX,
+      y:scrollY,
+      rootOverflow:root.style.overflow,
+      position:body.style.position,
+      top:body.style.top,
+      left:body.style.left,
+      right:body.style.right,
+      width:body.style.width,
+      overflow:body.style.overflow,
+      paddingRight:body.style.paddingRight
+    };
+    root.classList.add('exit-intent-open');
+    body.classList.add('exit-intent-open');
+    root.style.overflow='hidden';
+    body.style.position='fixed';
+    body.style.top=`-${scrollLock.y}px`;
+    body.style.left='0';
+    body.style.right='0';
+    body.style.width='100%';
+    body.style.overflow='hidden';
+    if(scrollbarWidth)body.style.paddingRight=`${scrollbarWidth}px`;
+  };
+  const unlockPageScroll=()=>{
+    if(!scrollLock)return;
+    const body=document.body;
+    const root=document.documentElement;
+    const saved=scrollLock;
+    scrollLock=null;
+    root.classList.remove('exit-intent-open');
+    body.classList.remove('exit-intent-open');
+    root.style.overflow=saved.rootOverflow;
+    body.style.position=saved.position;
+    body.style.top=saved.top;
+    body.style.left=saved.left;
+    body.style.right=saved.right;
+    body.style.width=saved.width;
+    body.style.overflow=saved.overflow;
+    body.style.paddingRight=saved.paddingRight;
+    scrollTo(saved.x,saved.y);
+  };
   let dialog;
   function showExitIntent(){
     if(dialog?.open||wasRecentlyDismissed()||blockedByOtherUi())return;
@@ -121,6 +168,7 @@
       <div class="exit-intent-contact"><div><strong>Quer ajuda para escolher?</strong><span>Fale diretamente com a gente pelo WhatsApp.</span></div><div class="exit-intent-contact-actions">${contacts.map(contact=>`<a href="${whatsappUrl(contact,history)}" target="_blank" rel="noopener"><img src="${new URL(contact.avatar,root).href}" alt=""><span>Falar com ${contact.name}</span></a>`).join('')}</div></div>`;
     document.body.append(dialog);
     const close=()=>{markDismissed();dialog.close();};
+    dialog.addEventListener('close',unlockPageScroll,{once:true});
     dialog.querySelector('.exit-intent-close').addEventListener('click',close);
     dialog.addEventListener('cancel',event=>{event.preventDefault();close();});
     dialog.addEventListener('click',event=>{
@@ -129,6 +177,7 @@
       if(event.target.closest('a'))markDismissed();
     });
     sessionStorage.setItem(SESSION_KEY,'1');
+    lockPageScroll();
     dialog.showModal();
     dialog.querySelector('.exit-intent-close').focus();
   }
