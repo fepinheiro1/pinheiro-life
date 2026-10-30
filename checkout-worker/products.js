@@ -973,6 +973,16 @@ export const products = {
       "moedor-krups-silent-vortex-gx332"
     ]
   },
+  "oculos-mormaii-athlon-iv-m0042-aab11": {
+    "id": "oculos-mormaii-athlon-iv-m0042-aab11",
+    "slug": "oculos-sol-mormaii-athlon-iv-m0042-aab11-espelhado",
+    "name": "Óculos de Sol Mormaii Athlon IV Espelhado",
+    "price": 19000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "oculos-mormaii-athlon-iv-m0042-aab11"
+    ]
+  },
   "joelheira-ortopedica-procorpus-tiras-cruzadas": {
     "id": "joelheira-ortopedica-procorpus-tiras-cruzadas",
     "slug": "joelheira-ortopedica-procorpus-compressao-tiras-cruzadas",

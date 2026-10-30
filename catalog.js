@@ -5871,6 +5871,77 @@ const products = [
     "illustratedCover": true
   },
   {
+    "id": "oculos-mormaii-athlon-iv-m0042-aab11",
+    "slug": "oculos-sol-mormaii-athlon-iv-m0042-aab11-espelhado",
+    "name": "Óculos de Sol Mormaii Athlon IV Espelhado",
+    "type": "single",
+    "category": "Beach tennis",
+    "categoryId": "esportes",
+    "price": 190,
+    "newPriceText": "R$ 399",
+    "newPriceLabel": "Mesmo modelo novo",
+    "newPriceSource": {
+      "label": "Rafael Ótica e Relojoaria",
+      "url": "https://www.rafaeloticaerelojoaria.com.br/produtos.php?codigo=7792+%2C10783+%2C7528+%2C10786&produto=oculos-de-sol-mormaii-m0042-aab11-athlon-iv"
+    },
+    "image": "assets/produtos/oculos-mormaii-athlon-iv/capa-beach-tennis.jpg",
+    "alt": "Atleta usando óculos esportivo Mormaii Athlon IV espelhado em uma quadra de beach tennis",
+    "photos": [
+      {
+        "src": "assets/produtos/oculos-mormaii-athlon-iv/capa-beach-tennis.jpg",
+        "alt": "Atleta usando óculos Mormaii Athlon IV durante uma partida de beach tennis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/oculos-mormaii-athlon-iv/foto-real-com-estojo.jpg",
+        "alt": "Foto real do óculos Mormaii Athlon IV anunciado ao lado do estojo"
+      },
+      {
+        "src": "assets/produtos/oculos-mormaii-athlon-iv/foto-real-frente.jpg",
+        "alt": "Foto real frontal da lente espelhada do óculos Mormaii Athlon IV"
+      },
+      {
+        "src": "assets/produtos/oculos-mormaii-athlon-iv/foto-real-lateral.jpg",
+        "alt": "Foto real lateral da armação preta com detalhes vermelhos e verdes"
+      },
+      {
+        "src": "assets/produtos/oculos-mormaii-athlon-iv/foto-real-interno.jpg",
+        "alt": "Foto real da parte interna, hastes e apoio nasal do óculos Mormaii"
+      },
+      {
+        "src": "assets/produtos/oculos-mormaii-athlon-iv/foto-real-no-estojo.jpg",
+        "alt": "Foto real do óculos Mormaii acomodado no estojo rígido"
+      },
+      {
+        "src": "assets/produtos/oculos-mormaii-athlon-iv/foto-real-estojo-fechado.jpg",
+        "alt": "Foto real do estojo rígido fechado que acompanha o óculos"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado duas vezes · excelente estado",
+    "tag": "Avulso · Mormaii · esportivo",
+    "meta": "Athlon IV · lente espelhada · com estojo",
+    "conditionSummary": "Usado aproximadamente duas vezes e em excelente estado, sem marcas relevantes aparentes. Acompanha estojo rígido.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do óculos real.<br>As seis imagens seguintes mostram exatamente o produto e o estojo anunciados.",
+    "description": "Óculos de sol esportivo Mormaii Athlon IV M0042 AAB11, com lente única espelhada e design envolvente para beach tennis, corrida, ciclismo e outras atividades ao ar livre. A armação preta combina detalhes vermelhos e verdes e acompanha estojo rígido.",
+    "conditionNotes": "Produto usado aproximadamente duas vezes e em excelente estado de conservação. Armação, hastes, apoio nasal e lente estão muito bem preservados, como mostram as fotos reais.",
+    "details": [
+      ["Marca", "Mormaii"],
+      ["Linha", "Athlon IV"],
+      ["Modelo", "M0042 AAB11"],
+      ["Tipo", "Óculos de sol esportivo"],
+      ["Armação", "Preta com detalhes vermelhos e verdes"],
+      ["Lente", "Única · espelhada · policarbonato"],
+      ["Indicação", "Beach tennis · corrida · ciclismo · atividades ao ar livre"],
+      ["Acompanha", "Estojo rígido"],
+      ["Condição", "Usado aproximadamente duas vezes · excelente estado"],
+      ["Formato de venda", "Produto avulso"]
+    ]
+  },
+  {
     "id": "joelheira-ortopedica-procorpus-tiras-cruzadas",
     "slug": "joelheira-ortopedica-procorpus-compressao-tiras-cruzadas",
     "name": "Joelheira Ortopédica Procorpus com Tiras Cruzadas",
