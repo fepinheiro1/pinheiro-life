@@ -694,10 +694,6 @@ const products = [
         "alt": "Detalhe real do emblema Montblanc na ponta da haste"
       },
       {
-        "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-detalhe-logo-2.jpg",
-        "alt": "Segundo detalhe real do emblema Montblanc na haste"
-      },
-      {
         "src": "assets/produtos/oculos-grau-montblanc-dourado/foto-real-gravacao-montblanc.jpg",
         "alt": "Gravação Montblanc Made in Italy na haste dos óculos anunciados"
       },
@@ -718,7 +714,7 @@ const products = [
     "tag": "Avulso · original · completo",
     "meta": "Montblanc · metal dourado · hastes pretas",
     "conditionSummary": "Produto original, novo e nunca usado, com estojo, caixa e documentação.",
-    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir dos óculos reais.<br>As sete imagens seguintes mostram exatamente a peça e os acessórios anunciados.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir dos óculos reais.<br>As seis imagens seguintes mostram exatamente a peça e os acessórios anunciados.",
     "disclosureNote": "A referência da Óticas Diniz é de outra armação Montblanc comparável e serve apenas para contextualizar o valor de uma peça nova da marca.",
     "description": "Óculos de grau Montblanc originais com armação retangular fina em metal dourado e hastes pretas. O desenho discreto combina o acabamento clássico da marca com um formato leve e elegante. Acompanha estojo rígido, caixa e documentação Montblanc mostrados nas fotos reais.",
     "conditionNotes": "Peça nova, sem uso e sem sinais de utilização. O conjunto está completo com estojo rígido, caixa e documentação. As fotos reais mostram a frente, a lateral, os emblemas nas hastes, a gravação Montblanc Made in Italy e todos os itens que acompanham o produto.",
