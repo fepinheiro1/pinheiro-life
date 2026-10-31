@@ -977,7 +977,7 @@ export const products = {
     "id": "relogio-invicta-pro-diver-scuba-0075",
     "slug": "relogio-invicta-pro-diver-scuba-chronograph-0075",
     "name": "Relógio Invicta Pro Diver Scuba Chronograph 0075",
-    "price": 69000,
+    "price": 79000,
     "status": "available",
     "inventoryUnitIds": [
       "relogio-invicta-pro-diver-scuba-0075"

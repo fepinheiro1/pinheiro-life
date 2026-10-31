@@ -5878,7 +5878,7 @@ const products = [
     "type": "single",
     "category": "Relógios",
     "categoryId": "relogios",
-    "price": 690,
+    "price": 790,
     "newPriceText": "R$ 1.299",
     "newPriceLabel": "Mesmo modelo novo no Brasil",
     "newPriceSource": {
