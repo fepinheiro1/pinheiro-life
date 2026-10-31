@@ -7120,6 +7120,64 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do vestido real.<br>As três imagens seguintes foram criadas a partir das fotos reais, com remoção digital apenas dos amassados do tecido. A última imagem é a foto original da etiqueta.",
     "disclosureNote": "A modelo e o ambiente da capa são ilustrativos. O anúncio inclui somente o vestido mostrado nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "conjunto-body-for-sure-flow-rosa-p",
+    "slug": "conjunto-body-for-sure-flow-rosa-top-e-shorts-tamanho-p",
+    "name": "Conjunto Body For Sure Flow Rosa — Top e Shorts",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 290,
+    "newPrice": 488,
+    "newPriceLabel": "Top e shorts novos somados",
+    "newPriceSource": {
+      "label": "Body For Sure · coleção Flow",
+      "url": "https://www.bodyforsure.com.br/top-nadador-liso-zip-14-04435-0-1/p"
+    },
+    "image": "assets/produtos/conjunto-body-for-sure-flow-rosa-p/capa-academia.png",
+    "alt": "Mulher adulta magra usando conjunto fitness Body For Sure Flow rosa tamanho P em academia",
+    "photos": [
+      {
+        "src": "assets/produtos/conjunto-body-for-sure-flow-rosa-p/capa-academia.png",
+        "alt": "Mulher adulta magra usando o top e o shorts Body For Sure Flow rosa em academia",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/conjunto-body-for-sure-flow-rosa-p/foto-real-frente.jpg",
+        "alt": "Foto real da frente do top e do shorts fitness Body For Sure Flow rosa anunciados"
+      },
+      {
+        "src": "assets/produtos/conjunto-body-for-sure-flow-rosa-p/foto-real-costas.jpg",
+        "alt": "Foto real das costas do top e do shorts fitness Body For Sure Flow rosa anunciados"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · nunca usado",
+    "tag": "Conjunto · Body For Sure · tamanho P",
+    "meta": "Coleção Flow · top nadador · shorts com bolso",
+    "conditionSummary": "Conjunto novo, nunca usado e sem sinais de uso.",
+    "description": "Conjunto fitness feminino Body For Sure da coleção Flow, tamanho P, formado por top nadador e shorts curto de cintura alta. As duas peças têm tecido rosa-magenta com textura geométrica em relevo; o shorts possui bolsos laterais para celular, chave ou pequenos objetos.",
+    "conditionNotes": "As duas peças estão novas, nunca foram usadas e não apresentam sinais de uso. As fotos reais mostram a frente e as costas do conjunto, incluindo os bolsos laterais e o emblema metálico da marca.",
+    "details": [
+      ["Marca", "Body For Sure"],
+      ["Coleção", "Flow"],
+      ["Tamanho", "P"],
+      ["Cor", "Rosa-magenta"],
+      ["Conteúdo", "Top nadador + shorts fitness"],
+      ["Top", "Texturizado · alças largas · sustentação média"],
+      ["Shorts", "Curto · cintura alta · modelagem justa"],
+      ["Bolsos", "Bolsos laterais"],
+      ["Tecido principal", "Poliamida com elastano"],
+      ["Textura", "Geométrica em relevo"],
+      ["Condição", "Novo · nunca usado"],
+      ["Formato de venda", "Conjunto completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real.<br>As duas imagens seguintes mostram exatamente a frente e as costas do conjunto anunciado.",
+    "disclosureNote": "A modelo, os tênis e o ambiente da capa são ilustrativos. O anúncio inclui somente o top e o shorts mostrados nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
