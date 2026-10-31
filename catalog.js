@@ -5943,6 +5943,85 @@ const products = [
     ]
   },
   {
+    "id": "relogio-invicta-specialty-14876",
+    "slug": "relogio-invicta-specialty-14876-cronografo-bicolor",
+    "name": "Relógio Invicta Specialty 14876 Cronógrafo Bicolor",
+    "type": "single",
+    "category": "Relógios",
+    "categoryId": "relogios",
+    "price": 490,
+    "newPriceText": "R$ 1.899",
+    "newPriceLabel": "Mesmo modelo novo no Brasil",
+    "newPriceSource": {
+      "label": "Clock Society",
+      "url": "https://clocksociety.com.br/produtos/relogio-invicta-specialty-quartzo-cronografo-preto-45mm-14876/"
+    },
+    "image": "assets/produtos/relogio-invicta-specialty-14876/capa-luxo.jpg",
+    "alt": "Relógio Invicta Specialty 14876 bicolor com mostrador preto sobre uma bandeja de couro",
+    "photos": [
+      {
+        "src": "assets/produtos/relogio-invicta-specialty-14876/capa-luxo.jpg",
+        "alt": "Relógio Invicta Specialty 14876 bicolor com mostrador preto sobre uma bandeja de couro",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-caixa.jpg",
+        "alt": "Foto real frontal do Invicta Specialty 14876 sobre a almofada e a caixa original"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-angulo.jpg",
+        "alt": "Foto real em ângulo do mostrador preto e do acabamento bicolor do relógio"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-na-caixa.jpg",
+        "alt": "Foto real do Invicta Specialty 14876 acomodado em sua caixa original"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-frente.jpg",
+        "alt": "Foto real frontal do mostrador, cronógrafo, calendário e bezel do relógio"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-pulseira.jpg",
+        "alt": "Foto real do relógio aberto mostrando a pulseira de aço bicolor"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-verso.jpg",
+        "alt": "Foto real do verso gravado com a identificação do modelo Invicta 14876"
+      },
+      {
+        "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-caixa-fechada.jpg",
+        "alt": "Foto real da caixa Invicta original fechada"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · lindo estado · funcionamento perfeito",
+    "tag": "Avulso · original · com caixa",
+    "meta": "45 mm · cronógrafo · mostrador preto · aço bicolor",
+    "conditionSummary": "Usado, muito bem conservado, sem riscos aparentes e com poucos sinais de uso. Tudo funciona perfeitamente. Acompanha caixa original e elos extras da pulseira.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do relógio real.<br>As sete imagens seguintes mostram exatamente o relógio, a pulseira e a caixa anunciados.",
+    "disclosureNote": "O valor de referência corresponde ao mesmo modelo Invicta Specialty 14876 novo anunciado no Brasil.",
+    "description": "Invicta Specialty 14876 original com caixa de 45 mm, mostrador preto, pulseira de aço inoxidável bicolor e movimento a quartzo. O visual esportivo reúne cronógrafo com três submostradores, calendário, escala taquimétrica e marcadores com detalhes dourados.",
+    "conditionNotes": "Relógio usado, lindo e muito bem conservado, sem riscos aparentes e com poucos sinais de uso. Hora, data, cronógrafo e botões estão funcionando perfeitamente. Acompanha caixa Invicta original, almofada e elos extras da pulseira.",
+    "details": [
+      ["Marca", "Invicta"],
+      ["Coleção", "Specialty"],
+      ["Modelo", "14876"],
+      ["Movimento", "Quartzo japonês"],
+      ["Funções", "Hora · data · cronógrafo · taquímetro"],
+      ["Caixa", "45 mm · aço inoxidável"],
+      ["Mostrador", "Preto com três submostradores"],
+      ["Pulseira", "Aço inoxidável bicolor · com elos extras"],
+      ["Vidro", "Cristal mineral"],
+      ["Resistência indicada", "Até 50 m"],
+      ["Acompanha", "Caixa original · almofada · elos extras"],
+      ["Funcionamento", "Perfeito · hora, data, cronógrafo e botões"],
+      ["Condição", "Usado · poucos sinais · sem riscos aparentes"]
+    ]
+  },
+  {
     "id": "oculos-esportivo-importado-vermelho-espelhado",
     "slug": "oculos-esportivo-importado-vermelho-lente-espelhada",
     "name": "Óculos Esportivo Importado Vermelho com Lente Espelhada",

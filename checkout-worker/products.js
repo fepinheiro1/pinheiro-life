@@ -983,6 +983,16 @@ export const products = {
       "relogio-invicta-pro-diver-scuba-0075"
     ]
   },
+  "relogio-invicta-specialty-14876": {
+    "id": "relogio-invicta-specialty-14876",
+    "slug": "relogio-invicta-specialty-14876-cronografo-bicolor",
+    "name": "Relógio Invicta Specialty 14876 Cronógrafo Bicolor",
+    "price": 49000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "relogio-invicta-specialty-14876"
+    ]
+  },
   "oculos-esportivo-importado-vermelho-espelhado": {
     "id": "oculos-esportivo-importado-vermelho-espelhado",
     "slug": "oculos-esportivo-importado-vermelho-lente-espelhada",
