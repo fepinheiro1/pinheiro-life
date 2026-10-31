@@ -5977,10 +5977,6 @@ const products = [
         "alt": "Foto real do Invicta Specialty 14876 acomodado em sua caixa original"
       },
       {
-        "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-frente.jpg",
-        "alt": "Foto real frontal do mostrador, cronógrafo, calendário e bezel do relógio"
-      },
-      {
         "src": "assets/produtos/relogio-invicta-specialty-14876/foto-real-pulseira.jpg",
         "alt": "Foto real do relógio aberto mostrando a pulseira de aço bicolor"
       },
@@ -6001,7 +5997,7 @@ const products = [
     "tag": "Avulso · original · com caixa",
     "meta": "45 mm · cronógrafo · mostrador preto · aço bicolor",
     "conditionSummary": "Usado, muito bem conservado, sem riscos aparentes e com poucos sinais de uso. Tudo funciona perfeitamente. Acompanha caixa original e elos extras da pulseira.",
-    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do relógio real.<br>As sete imagens seguintes mostram exatamente o relógio, a pulseira e a caixa anunciados.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do relógio real.<br>As seis imagens seguintes mostram exatamente o relógio, a pulseira e a caixa anunciados.",
     "disclosureNote": "O valor de referência corresponde ao mesmo modelo Invicta Specialty 14876 novo anunciado no Brasil.",
     "description": "Invicta Specialty 14876 original com caixa de 45 mm, mostrador preto, pulseira de aço inoxidável bicolor e movimento a quartzo. O visual esportivo reúne cronógrafo com três submostradores, calendário, escala taquimétrica e marcadores com detalhes dourados.",
     "conditionNotes": "Relógio usado, lindo e muito bem conservado, sem riscos aparentes e com poucos sinais de uso. Hora, data, cronógrafo e botões estão funcionando perfeitamente. Acompanha caixa Invicta original, almofada e elos extras da pulseira.",
