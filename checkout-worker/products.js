@@ -1262,5 +1262,15 @@ export const products = {
     "inventoryUnitIds": [
       "vestido-alto-giro-beach-tennis-roxo-p"
     ]
+  },
+  "kit-fogareiro-portatil-3-cartuchos-ntk": {
+    "id": "kit-fogareiro-portatil-3-cartuchos-ntk",
+    "slug": "kit-fogareiro-portatil-gas-3-cartuchos-ntk",
+    "name": "Kit Fogareiro Portátil a Gás com Maleta + 3 Cartuchos NTK",
+    "price": 7900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-fogareiro-portatil-3-cartuchos-ntk"
+    ]
   }
 };

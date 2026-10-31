@@ -7596,6 +7596,66 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real, usando luz natural neutra.<br>As três imagens seguintes mostram exatamente o vestido e o shorts anunciados.",
     "disclosureNote": "A modelo, a raquete e a quadra da capa são ilustrativas. O anúncio inclui somente o vestido e o shorts mostrados nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "kit-fogareiro-portatil-3-cartuchos-ntk",
+    "slug": "kit-fogareiro-portatil-gas-3-cartuchos-ntk",
+    "name": "Kit Fogareiro Portátil a Gás com Maleta + 3 Cartuchos NTK",
+    "type": "kit",
+    "category": "Camping e lazer",
+    "categoryId": "esportes",
+    "price": 79,
+    "newPriceText": "Aprox. R$ 111",
+    "newPriceLabel": "Conjunto equivalente novo",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/p/MLB77875124?pdp_filters=item_id%3AMLB5101792381&sid=cart"
+    },
+    "image": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/capa-camping.png",
+    "alt": "Fogareiro portátil preto com maleta e três cartuchos de gás NTK em uma mesa de camping",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/capa-camping.png",
+        "alt": "Fogareiro portátil com maleta e exatamente três cartuchos NTK em ambiente de camping",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/fogareiro-referencia.jpg",
+        "alt": "Imagem de referência do fogareiro portátil automático e de sua maleta"
+      },
+      {
+        "src": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/fogareiro-com-maleta.jpg",
+        "alt": "Segunda imagem de referência do fogareiro portátil com maleta"
+      },
+      {
+        "src": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/cartuchos-ntk.webp",
+        "alt": "Imagem de referência dos cartuchos NTK Campgás; o anúncio inclui três unidades lacradas"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Praticamente novo · cartuchos lacrados",
+    "tag": "Kit · fogareiro + maleta + 3 cartuchos",
+    "meta": "1 boca · acendimento automático · 3 refis NTK de 227 g",
+    "conditionSummary": "Fogareiro praticamente novo, acompanhado da maleta e de três cartuchos NTK lacrados.",
+    "description": "Kit completo para camping, pesca, viagens e emergências. Reúne um fogareiro portátil de uma boca com acendimento automático e controle de chama, a maleta rígida para transporte e três cartuchos NTK Campgás de 227 g ainda lacrados.",
+    "conditionNotes": "O fogareiro está praticamente novo. Os três cartuchos que acompanham o conjunto permanecem lacrados e prontos para uso.",
+    "details": [
+      ["Conteúdo", "1 fogareiro + maleta + 3 cartuchos"],
+      ["Tipo", "Fogareiro portátil de 1 boca"],
+      ["Acendimento", "Automático"],
+      ["Controle", "Regulagem de chama"],
+      ["Combustível", "Cartucho Campgás de 227 g"],
+      ["Cartuchos", "3 unidades NTK lacradas"],
+      ["Transporte", "Maleta rígida inclusa"],
+      ["Indicação", "Camping · pesca · viagens · emergências"],
+      ["Condição", "Fogareiro praticamente novo · cartuchos lacrados"],
+      ["Formato de venda", "Kit completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir de imagens de referência dos modelos.<br>As imagens seguintes são referências do fogareiro, da maleta e dos cartuchos. O conjunto anunciado inclui três cartuchos lacrados.",
+    "disclosureNote": "O ambiente de camping da capa é ilustrativo. As fotos de referência podem mostrar quatro cartuchos, mas o kit anunciado e entregue contém exatamente três unidades lacradas.",
+    "illustratedCover": true
   }
 ];
 
