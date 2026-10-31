@@ -7534,6 +7534,67 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do cushion real, mostrando como ele fica instalado numa raquete.<br>As duas imagens seguintes mostram exatamente o produto anunciado.",
     "disclosureNote": "A raquete e a quadra da capa são ilustrativas e não acompanham o produto. O anúncio inclui somente o cushion grip mostrado nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "vestido-alto-giro-beach-tennis-roxo-p",
+    "slug": "vestido-alto-giro-beach-tennis-roxo-com-shorts-tamanho-p",
+    "name": "Vestido Alto Giro Beach Tennis Roxo com Shorts — Tamanho P",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 290,
+    "newPriceText": "R$ 481,48",
+    "newPriceLabel": "Mesmo modelo novo encontrado",
+    "newPriceSource": {
+      "label": "Centauro",
+      "url": "https://www.centauro.com.br/vestido-alto-giro-beach-tennis-feminino-m0nvo1-mktp.html"
+    },
+    "image": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis.png",
+    "alt": "Mulher adulta usando vestido Alto Giro roxo com detalhes laranja e shorts em uma quadra de beach tennis",
+    "photos": [
+      {
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis.png",
+        "alt": "Mulher adulta usando o vestido Alto Giro roxo tamanho P durante uma partida de beach tennis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/foto-real-5454.jpg",
+        "alt": "Foto real da frente do vestido Alto Giro roxo e laranja anunciado"
+      },
+      {
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/foto-real-5455.jpg",
+        "alt": "Foto real das costas nadador e dos recortes do vestido Alto Giro anunciado"
+      },
+      {
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/foto-real-5456.jpg",
+        "alt": "Foto real do vestido Alto Giro e do shorts avulso tamanho P incluído"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · sem uso",
+    "tag": "Conjunto · tamanho P",
+    "meta": "Vestido + shorts · costas nadador · roxo e laranja",
+    "conditionSummary": "Conjunto novo, sem uso e sem marcas, composto pelo vestido e pelo shorts avulso.",
+    "description": "Vestido esportivo Alto Giro para tênis, beach tennis e outros esportes de raquete. A modelagem curta combina costas nadador, recortes que acompanham o corpo e frisos laranja contrastantes. Acompanha shorts avulso roxo para proporcionar liberdade de movimento e segurança durante o jogo.",
+    "conditionNotes": "Produto novo e sem uso. As três fotos reais mostram a frente, as costas nadador, os recortes, o símbolo da Alto Giro e o shorts tamanho P que acompanha o vestido.",
+    "details": [
+      ["Marca", "Alto Giro"],
+      ["Tamanho", "P"],
+      ["Conteúdo", "Vestido + shorts avulso"],
+      ["Cor", "Roxo / fúcsia com detalhes laranja"],
+      ["Modelagem", "Curta · levemente ajustada"],
+      ["Costas", "Nadador"],
+      ["Vestido", "76% poliamida · 24% elastano"],
+      ["Shorts", "84% poliamida · 16% elastano"],
+      ["Indicação", "Tênis · beach tennis · padel"],
+      ["Condição", "Novo · sem uso"],
+      ["Formato de venda", "Conjunto completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real, usando luz natural neutra.<br>As três imagens seguintes mostram exatamente o vestido e o shorts anunciados.",
+    "disclosureNote": "A modelo, a raquete e a quadra da capa são ilustrativas. O anúncio inclui somente o vestido e o shorts mostrados nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
