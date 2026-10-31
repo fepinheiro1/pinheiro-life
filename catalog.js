@@ -7171,6 +7171,59 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real.<br>As duas imagens seguintes mostram exatamente a frente e as costas do conjunto anunciado.",
     "disclosureNote": "A modelo, os tênis e o ambiente da capa são ilustrativos. O anúncio inclui somente o top e o shorts mostrados nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "vestido-preto-rodado-p",
+    "slug": "vestido-preto-rodado-costas-abertas-tamanho-p",
+    "name": "Vestido Preto Rodado com Costas Abertas — Tamanho P",
+    "type": "single",
+    "category": "Moda feminina",
+    "categoryId": "moda-feminina",
+    "price": 90,
+    "image": "assets/produtos/vestido-preto-rodado-p/capa-boutique.png",
+    "alt": "Vestido preto rodado tamanho P exposto em manequim de boutique",
+    "photos": [
+      {
+        "src": "assets/produtos/vestido-preto-rodado-p/capa-boutique.png",
+        "alt": "Vestido preto rodado tamanho P em ambientação de boutique",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/vestido-preto-rodado-p/foto-real-frente-cabide.jpg",
+        "alt": "Foto real do vestido preto rodado tamanho P visto de frente no cabide"
+      },
+      {
+        "src": "assets/produtos/vestido-preto-rodado-p/foto-real-frente.jpg",
+        "alt": "Foto real da frente do vestido preto rodado anunciado"
+      },
+      {
+        "src": "assets/produtos/vestido-preto-rodado-p/foto-real-costas.jpg",
+        "alt": "Foto real das costas abertas com amarração do vestido preto anunciado"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · nunca usado",
+    "tag": "Avulso · tamanho P",
+    "meta": "Preto · saia rodada · costas abertas",
+    "conditionSummary": "Vestido novo, nunca usado e sem sinais de uso.",
+    "description": "Vestido preto curto tamanho P, com alças finas, decote em V, cintura marcada e saia rodada. As costas abertas recebem amarração central, dando acabamento delicado à peça.",
+    "conditionNotes": "Peça nova, nunca usada e sem sinais de uso. As três fotos reais mostram a frente, o caimento da saia e o detalhe de amarração nas costas.",
+    "details": [
+      ["Tamanho", "P"],
+      ["Cor", "Preta"],
+      ["Comprimento", "Curto"],
+      ["Modelagem", "Cintura marcada · saia rodada"],
+      ["Decote", "V"],
+      ["Alças", "Finas"],
+      ["Costas", "Abertas · com amarração"],
+      ["Condição", "Novo · nunca usado"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do vestido real.<br>As três imagens seguintes mostram exatamente o vestido anunciado.",
+    "disclosureNote": "O manequim e o ambiente da capa são ilustrativos. O anúncio inclui somente o vestido mostrado nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 

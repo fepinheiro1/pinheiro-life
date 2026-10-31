@@ -1192,5 +1192,15 @@ export const products = {
     "inventoryUnitIds": [
       "conjunto-livre-e-leve-rosa-p"
     ]
+  },
+  "vestido-preto-rodado-p": {
+    "id": "vestido-preto-rodado-p",
+    "slug": "vestido-preto-rodado-costas-abertas-tamanho-p",
+    "name": "Vestido Preto Rodado com Costas Abertas — Tamanho P",
+    "price": 9000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "vestido-preto-rodado-p"
+    ]
   }
 };
