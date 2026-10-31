@@ -11,11 +11,18 @@ const recommendationData=document.querySelector('#recommendation-data');
 if(recommendationGrid&&recommendationData){
   try{
     const pool=JSON.parse(recommendationData.textContent);
-    for(let index=pool.length-1;index>0;index-=1){
-      const randomIndex=Math.floor(Math.random()*(index+1));
-      [pool[index],pool[randomIndex]]=[pool[randomIndex],pool[index]];
-    }
-    const selected=pool.slice(0,16);
+    const currentCategory=recommendationGrid.closest('.product-recommendations')?.dataset.currentCategory||'';
+    const shuffle=items=>{
+      const shuffled=[...items];
+      for(let index=shuffled.length-1;index>0;index-=1){
+        const randomIndex=Math.floor(Math.random()*(index+1));
+        [shuffled[index],shuffled[randomIndex]]=[shuffled[randomIndex],shuffled[index]];
+      }
+      return shuffled;
+    };
+    const sameCategory=shuffle(pool.filter(product=>product.category===currentCategory));
+    const otherCategories=shuffle(pool.filter(product=>product.category!==currentCategory));
+    const selected=[...sameCategory,...otherCategories].slice(0,16);
     const element=(tag,className,text)=>{
       const node=document.createElement(tag);
       if(className)node.className=className;
