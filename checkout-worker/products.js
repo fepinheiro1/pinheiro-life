@@ -1263,6 +1263,16 @@ export const products = {
       "vestido-alto-giro-beach-tennis-roxo-p"
     ]
   },
+  "calca-morena-rosa-sarja-branca": {
+    "id": "calca-morena-rosa-sarja-branca",
+    "slug": "calca-morena-rosa-sarja-branca",
+    "name": "Calça Morena Rosa de Sarja Branca",
+    "price": 15000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "calca-morena-rosa-sarja-branca"
+    ]
+  },
   "kit-fogareiro-portatil-3-cartuchos-ntk": {
     "id": "kit-fogareiro-portatil-3-cartuchos-ntk",
     "slug": "kit-fogareiro-portatil-gas-3-cartuchos-ntk",

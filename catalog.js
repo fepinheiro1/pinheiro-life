@@ -7598,6 +7598,64 @@ const products = [
     "illustratedCover": true
   },
   {
+    "id": "calca-morena-rosa-sarja-branca",
+    "slug": "calca-morena-rosa-sarja-branca",
+    "name": "Calça Morena Rosa de Sarja Branca",
+    "type": "single",
+    "category": "Moda feminina",
+    "categoryId": "moda-feminina",
+    "price": 150,
+    "image": "assets/produtos/calca-morena-rosa-sarja-branca/capa-modelo-luz-natural.png",
+    "alt": "Mulher adulta usando calça Morena Rosa de sarja branca bem passada em ambiente urbano com luz natural",
+    "photos": [
+      {
+        "src": "assets/produtos/calca-morena-rosa-sarja-branca/capa-modelo-luz-natural.png",
+        "alt": "Mulher adulta usando a calça Morena Rosa branca com caimento ajustado e tecido bem passado",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/calca-morena-rosa-sarja-branca/foto-real-4886.jpg",
+        "alt": "Foto real da calça Morena Rosa de sarja branca anunciada vista por inteiro"
+      },
+      {
+        "src": "assets/produtos/calca-morena-rosa-sarja-branca/foto-real-4887.jpg",
+        "alt": "Foto real aproximada da cintura, dos bolsos e dos metais da calça Morena Rosa anunciada"
+      },
+      {
+        "src": "assets/produtos/calca-morena-rosa-sarja-branca/foto-real-4888.jpg",
+        "alt": "Foto real da frente e da etiqueta interna Morena Rosa Jeans da calça anunciada"
+      },
+      {
+        "src": "assets/produtos/calca-morena-rosa-sarja-branca/foto-real-4889.jpg",
+        "alt": "Foto real do bolso traseiro e da placa metálica Morena Rosa da calça anunciada"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · ótimo estado visual",
+    "tag": "Avulsa · Morena Rosa",
+    "meta": "Sarja branca · modelagem ajustada · cinco bolsos",
+    "conditionSummary": "Peça usada em ótimo estado visual aparente, limpa e sem avarias visíveis nas fotos.",
+    "description": "Calça feminina Morena Rosa Jeans em sarja branca, com modelagem ajustada e corte versátil. Possui cintura com passantes, fechamento frontal, cinco bolsos e pequenos metais dourados que dão acabamento discreto à peça.",
+    "conditionNotes": "Peça usada em ótimo estado visual aparente. As quatro fotos reais mostram a calça inteira, a cintura, os bolsos, as costuras e as identificações da Morena Rosa, sem manchas ou avarias aparentes.",
+    "details": [
+      ["Marca", "Morena Rosa"],
+      ["Linha", "Morena Rosa Jeans"],
+      ["Cor", "Branca"],
+      ["Material", "Sarja"],
+      ["Modelagem", "Ajustada"],
+      ["Bolsos", "Cinco bolsos"],
+      ["Fechamento", "Botão e zíper frontal"],
+      ["Acabamentos", "Metais dourados"],
+      ["Condição", "Usada · ótimo estado visual"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da calça real, mostrando a peça bem passada no corpo e com luz natural neutra.<br>As quatro imagens seguintes mostram exatamente a calça anunciada.",
+    "disclosureNote": "A modelo, a blusa, os calçados e o ambiente da capa são ilustrativos. O anúncio inclui somente a calça mostrada nas fotos reais.",
+    "illustratedCover": true
+  },
+  {
     "id": "kit-fogareiro-portatil-3-cartuchos-ntk",
     "slug": "kit-fogareiro-portatil-gas-3-cartuchos-ntk",
     "name": "Kit Fogareiro Portátil a Gás com Maleta + 3 Cartuchos NTK",
