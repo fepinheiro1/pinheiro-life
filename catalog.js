@@ -7657,6 +7657,61 @@ const products = [
     "illustratedCover": true
   },
   {
+    "id": "conjunto-john-john-gym-rocks-verde-neon-p",
+    "slug": "conjunto-fitness-john-john-gym-rocks-verde-neon-tamanho-p",
+    "name": "Conjunto Fitness John John Gym Rocks Verde Neon — Tamanho P",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 190,
+    "image": "assets/produtos/conjunto-john-john-gym-rocks-verde-neon-p/capa-academia-luz-natural.png",
+    "alt": "Mulher adulta de porte P usando conjunto fitness John John Gym Rocks verde neon em academia com luz natural",
+    "photos": [
+      {
+        "src": "assets/produtos/conjunto-john-john-gym-rocks-verde-neon-p/capa-academia-luz-natural.png",
+        "alt": "Mulher adulta usando top cropped e legging John John Gym Rocks verde neon em uma academia",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/conjunto-john-john-gym-rocks-verde-neon-p/foto-real-conjunto.jpg",
+        "alt": "Foto real do conjunto John John Gym Rocks verde neon completo, com top e legging"
+      },
+      {
+        "src": "assets/produtos/conjunto-john-john-gym-rocks-verde-neon-p/foto-real-legging.jpg",
+        "alt": "Foto real da legging canelada John John Gym Rocks verde neon vista por inteiro"
+      },
+      {
+        "src": "assets/produtos/conjunto-john-john-gym-rocks-verde-neon-p/foto-real-detalhes.jpg",
+        "alt": "Foto real do top e da legging John John Gym Rocks dobrados, mostrando logotipos e textura"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · nunca usado",
+    "tag": "Conjunto · John John · tamanho P",
+    "meta": "Gym Rocks · top cropped + legging · verde neon",
+    "conditionSummary": "Conjunto novo, nunca usado e sem sinais de uso.",
+    "description": "Conjunto fitness feminino John John da linha Gym Rocks, tamanho P, composto por top cropped de alças finas e legging de cintura alta. As duas peças têm malha canelada verde neon e faixas com a identificação John John Gym Rocks em contraste.",
+    "conditionNotes": "Conjunto novo, nunca usado e sem sinais de uso. As três fotos reais mostram as duas peças completas, a textura canelada, os acabamentos e as identificações da linha Gym Rocks.",
+    "details": [
+      ["Marca", "John John"],
+      ["Linha", "Gym Rocks"],
+      ["Tamanho", "P"],
+      ["Conteúdo", "Top cropped + legging"],
+      ["Cor", "Verde neon / verde-limão"],
+      ["Tecido", "Malha canelada elástica"],
+      ["Top", "Cropped · alças finas · faixa larga"],
+      ["Legging", "Cintura alta · comprimento total"],
+      ["Detalhes", "Logotipo John John Gym Rocks em contraste"],
+      ["Condição", "Novo · nunca usado"],
+      ["Formato de venda", "Conjunto completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real, usando luz natural neutra.<br>As três imagens seguintes mostram exatamente o top e a legging anunciados.",
+    "disclosureNote": "A modelo, os tênis e o ambiente da capa são ilustrativos. O anúncio inclui somente o top e a legging mostrados nas fotos reais.",
+    "illustratedCover": true
+  },
+  {
     "id": "kit-fogareiro-portatil-3-cartuchos-ntk",
     "slug": "kit-fogareiro-portatil-gas-3-cartuchos-ntk",
     "name": "Kit Fogareiro Portátil a Gás com Maleta + 3 Cartuchos NTK",

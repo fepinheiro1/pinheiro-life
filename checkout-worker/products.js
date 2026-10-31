@@ -1273,6 +1273,16 @@ export const products = {
       "calca-morena-rosa-sarja-branca"
     ]
   },
+  "conjunto-john-john-gym-rocks-verde-neon-p": {
+    "id": "conjunto-john-john-gym-rocks-verde-neon-p",
+    "slug": "conjunto-fitness-john-john-gym-rocks-verde-neon-tamanho-p",
+    "name": "Conjunto Fitness John John Gym Rocks Verde Neon — Tamanho P",
+    "price": 19000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "conjunto-john-john-gym-rocks-verde-neon-p"
+    ]
+  },
   "kit-fogareiro-portatil-3-cartuchos-ntk": {
     "id": "kit-fogareiro-portatil-3-cartuchos-ntk",
     "slug": "kit-fogareiro-portatil-gas-3-cartuchos-ntk",
