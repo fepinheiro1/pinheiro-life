@@ -1071,21 +1071,16 @@ const products = [
       "label": "Samsung 27” curvo novo",
       "url": "https://www.mercadolivre.com.br/samsung-27-fhd-100hz-curved-monitor-black-preto/p/MLB2080269609"
     },
-    "image": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
-    "alt": "Vista frontal do Monitor Curvo Samsung CF390 de 27 polegadas — unidade 1, imagem de referência do modelo",
+    "image": "assets/produtos/samsung-cf390-27-duas-unidades/capa-real-unidade-1.jpg",
+    "alt": "Monitor Curvo Samsung CF390 de 27 polegadas instalado em uma mesa de jogos — foto real de referência do mesmo modelo",
     "photos": [
       {
-        "src": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
-        "alt": "Vista frontal do Monitor Curvo Samsung CF390 de 27 polegadas — unidade 1, imagem de referência do modelo",
+        "src": "assets/produtos/samsung-cf390-27-duas-unidades/capa-real-unidade-1.jpg",
+        "alt": "Monitor Curvo Samsung CF390 de 27 polegadas instalado em uma mesa de jogos, com a curvatura visível no arco superior da tela — foto real de referência do mesmo modelo",
         "isReference": true
-      },
-      {
-        "src": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
-        "alt": "As duas unidades do monitor Samsung CF390 em um home office — ambiente ilustrativo criado com IA",
-        "isIllustrative": true
       }
     ],
-    "imageFit": "contain",
+    "imageFit": "cover",
     "illustratedCover": false,
     "isDemo": false,
     "status": "available",
@@ -1093,8 +1088,8 @@ const products = [
     "tag": "Avulso · unidade 1",
     "meta": "27” · Full HD · curvo · unidade individual",
     "conditionSummary": "Perfeito estado de uso e conservação.",
-    "galleryDisclosure": "Primeira imagem: referência oficial do mesmo modelo.<br>A segunda imagem apresenta as duas unidades em um ambiente ilustrativo. Fotos reais serão adicionadas posteriormente.",
-    "disclosureNote": "A primeira imagem é uma referência oficial do mesmo modelo e a segunda apresenta as duas unidades em uma ambientação criada com IA. Fotos reais serão adicionadas posteriormente.",
+    "galleryDisclosure": "Foto real de referência do mesmo modelo instalado em um ambiente de uso. A curvatura aparece claramente no arco superior da tela.",
+    "disclosureNote": "A imagem mostra o mesmo modelo em um ambiente real e é usada como referência visual da unidade 1.",
     "description": "Monitor curvo Samsung CF390 de 27 polegadas — unidade 1. Possui painel VA, resolução Full HD, curvatura 1800R, conexões HDMI e VGA, AMD FreeSync e modo de proteção ocular. O valor individual é de R$ 690; levando as duas unidades, a sacola aplica automaticamente o preço especial de R$ 1.300 pelo par.",
     "conditionNotes": "Unidade 1 usada, em perfeito estado de uso e conservação e com funcionamento normal.",
     "details": [
@@ -1164,21 +1159,16 @@ const products = [
       "label": "Samsung 27” curvo novo",
       "url": "https://www.mercadolivre.com.br/samsung-27-fhd-100hz-curved-monitor-black-preto/p/MLB2080269609"
     },
-    "image": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
-    "alt": "Vista frontal do Monitor Curvo Samsung CF390 de 27 polegadas — unidade 2, imagem de referência do modelo",
+    "image": "assets/produtos/samsung-cf390-27-duas-unidades/capa-real-unidade-2.jpg",
+    "alt": "Monitor Curvo Samsung CF390 de 27 polegadas instalado em uma estação de trabalho — foto real de referência do mesmo modelo",
     "photos": [
       {
-        "src": "assets/produtos/samsung-cf390-27-duas-unidades/referencia-oficial-frente.jpg",
-        "alt": "Vista frontal do Monitor Curvo Samsung CF390 de 27 polegadas — unidade 2, imagem de referência do modelo",
+        "src": "assets/produtos/samsung-cf390-27-duas-unidades/capa-real-unidade-2.jpg",
+        "alt": "Monitor Curvo Samsung CF390 de 27 polegadas instalado em uma estação de trabalho, com a curvatura visível no arco superior da tela — foto real de referência do mesmo modelo",
         "isReference": true
-      },
-      {
-        "src": "assets/produtos/samsung-cf390-27-duas-unidades/capa-home-office.jpg",
-        "alt": "As duas unidades do monitor Samsung CF390 em um home office — ambiente ilustrativo criado com IA",
-        "isIllustrative": true
       }
     ],
-    "imageFit": "contain",
+    "imageFit": "cover",
     "illustratedCover": false,
     "isDemo": false,
     "status": "available",
@@ -1186,8 +1176,8 @@ const products = [
     "tag": "Avulso · unidade 2",
     "meta": "27” · Full HD · curvo · unidade individual",
     "conditionSummary": "Perfeito estado de uso e conservação.",
-    "galleryDisclosure": "Primeira imagem: referência oficial do mesmo modelo.<br>A segunda imagem apresenta as duas unidades em um ambiente ilustrativo. Fotos reais serão adicionadas posteriormente.",
-    "disclosureNote": "A primeira imagem é uma referência oficial do mesmo modelo e a segunda apresenta as duas unidades em uma ambientação criada com IA. Fotos reais serão adicionadas posteriormente.",
+    "galleryDisclosure": "Foto real de referência do mesmo modelo instalado em um ambiente de uso. A curvatura aparece claramente no arco superior da tela.",
+    "disclosureNote": "A imagem mostra o mesmo modelo em um ambiente real e é usada como referência visual da unidade 2.",
     "description": "Monitor curvo Samsung CF390 de 27 polegadas — unidade 2. Possui painel VA, resolução Full HD, curvatura 1800R, conexões HDMI e VGA, AMD FreeSync e modo de proteção ocular. O valor individual é de R$ 690; levando as duas unidades, a sacola aplica automaticamente o preço especial de R$ 1.300 pelo par.",
     "conditionNotes": "Unidade 2 usada, em perfeito estado de uso e conservação e com funcionamento normal.",
     "details": [
