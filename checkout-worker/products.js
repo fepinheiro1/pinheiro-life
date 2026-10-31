@@ -1232,5 +1232,15 @@ export const products = {
     "inventoryUnitIds": [
       "par-halteres-3kg-cada-azul"
     ]
+  },
+  "mala-ogio-rig-9800-azul-preta": {
+    "id": "mala-ogio-rig-9800-azul-preta",
+    "slug": "mala-ogio-rig-9800-com-rodas-azul-preta",
+    "name": "Mala OGIO Rig 9800 com Rodas Azul e Preta",
+    "price": 190000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "mala-ogio-rig-9800-azul-preta"
+    ]
   }
 };

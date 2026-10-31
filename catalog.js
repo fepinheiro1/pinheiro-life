@@ -7413,6 +7413,78 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir dos halteres reais, usando luz natural neutra.<br>As duas imagens seguintes mostram exatamente o par anunciado.",
     "disclosureNote": "O ambiente e os acessórios da capa são ilustrativos. O anúncio inclui somente os dois halteres mostrados nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "mala-ogio-rig-9800-azul-preta",
+    "slug": "mala-ogio-rig-9800-com-rodas-azul-preta",
+    "name": "Mala OGIO Rig 9800 com Rodas Azul e Preta",
+    "type": "single",
+    "category": "Esportes e viagem",
+    "categoryId": "esportes",
+    "price": 1900,
+    "newPriceText": "R$ 2.999,90",
+    "newPriceLabel": "Nova na loja oficial",
+    "newPriceSource": {
+      "label": "OGIO Brasil",
+      "url": "https://www.ogio.com.br/products/bolsa-de-equipamentos-ogio-rig-9800-wheeled-123l-dark-static"
+    },
+    "image": "assets/produtos/mala-ogio-rig-9800-azul-preta/capa-paddock-luz-natural.png",
+    "alt": "Mala OGIO Rig 9800 azul e preta em pé em uma área de embarque esportiva com luz natural",
+    "photos": [
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/capa-paddock-luz-natural.png",
+        "alt": "Mala OGIO Rig 9800 azul e preta ambientada em área esportiva com luz natural",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0971.jpg",
+        "alt": "Foto real da mala OGIO Rig 9800 anunciada vista de frente"
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0972.jpg",
+        "alt": "Foto real da mala OGIO Rig 9800 mostrando a estrutura, alças e compartimentos"
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0973.jpg",
+        "alt": "Foto real da mala OGIO Rig 9800 em pé mostrando a parte frontal e as rodas"
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0974.jpg",
+        "alt": "Foto real da lateral e da base rígida da mala OGIO Rig 9800 anunciada"
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0975.jpg",
+        "alt": "Foto real da base moldada e das rodas da mala OGIO Rig 9800 anunciada"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Praticamente nova · pouquíssimos sinais",
+    "tag": "Avulsa · 123 L · com rodas",
+    "meta": "Chassi SLED · rodas grandes · alta capacidade",
+    "conditionSummary": "Mala muito nova, muito bem conservada e com pouquíssimos sinais superficiais de uso.",
+    "description": "OGIO Rig 9800, mala premium de equipamentos com 123 litros de capacidade. O chassi rígido SLED protege a base contra impactos, enquanto as rodas grandes, a abertura ampla, os compartimentos internos e as cintas de compressão facilitam transportar roupas e equipamentos esportivos em viagens.",
+    "conditionNotes": "Produto praticamente novo e em excelente estado de conservação. As fotos reais mostram a frente, os compartimentos, as alças, a estrutura rígida, a base e as rodas. Há apenas sinais superficiais muito leves na parte inferior, compatíveis com pouco uso.",
+    "details": [
+      ["Marca", "OGIO"],
+      ["Linha", "Rig"],
+      ["Modelo", "9800 Wheeled"],
+      ["Capacidade", "123 litros"],
+      ["Estrutura", "Chassi rígido SLED"],
+      ["Compartimento principal", "Abertura ampla com divisórias ajustáveis"],
+      ["Organização", "Compartimentos multiuso e cintas de compressão"],
+      ["Transporte", "Rodas grandes · múltiplas alças"],
+      ["Material", "Poliéster com base estrutural em ABS/PVC"],
+      ["Dimensões aproximadas", "86,3 × 41,9 × 38,7 cm"],
+      ["Peso aproximado", "6,4 kg"],
+      ["Cor", "Azul e preta"],
+      ["Condição", "Praticamente nova · pouquíssimos sinais"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da mala real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a mala anunciada.",
+    "disclosureNote": "O ambiente da capa é ilustrativo. O anúncio inclui somente a mala mostrada nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
