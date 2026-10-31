@@ -7845,7 +7845,13 @@ const products = [
     "type": "single",
     "category": "Moda fitness",
     "categoryId": "moda-fitness",
-    "price": 90,
+    "price": 120,
+    "newPriceText": "Consulte os valores atuais",
+    "newPriceLabel": "Produtos na loja oficial",
+    "newPriceSource": {
+      "label": "Livre e Leve",
+      "url": "https://www.livreeleve.com.br/collections/conjuntos-fitness?sort_by=price-descending"
+    },
     "image": "assets/produtos/conjunto-livre-e-leve-degrade-p/capa-academia-luz-natural.png",
     "alt": "Mulher adulta magra usando conjunto fitness Livre e Leve degradê tamanho P em academia",
     "photos": [
