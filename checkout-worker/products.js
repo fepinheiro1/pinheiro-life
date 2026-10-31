@@ -1266,7 +1266,7 @@ export const products = {
   "calca-morena-rosa-sarja-branca": {
     "id": "calca-morena-rosa-sarja-branca",
     "slug": "calca-morena-rosa-sarja-branca",
-    "name": "Calça Morena Rosa de Sarja Branca",
+    "name": "Calça Morena Rosa de Sarja Branca — Tamanho 34",
     "price": 15000,
     "status": "available",
     "inventoryUnitIds": [
