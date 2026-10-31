@@ -1242,5 +1242,15 @@ export const products = {
     "inventoryUnitIds": [
       "mala-ogio-rig-9800-azul-preta"
     ]
+  },
+  "cushion-grip-perfurado-verde-agua": {
+    "id": "cushion-grip-perfurado-verde-agua",
+    "slug": "cushion-grip-perfurado-raquete-tenis-verde-agua",
+    "name": "Cushion Grip Perfurado para Raquete de Tênis",
+    "price": 3000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "cushion-grip-perfurado-verde-agua"
+    ]
   }
 };

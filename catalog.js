@@ -7485,6 +7485,55 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da mala real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a mala anunciada.",
     "disclosureNote": "O ambiente da capa é ilustrativo. O anúncio inclui somente a mala mostrada nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "cushion-grip-perfurado-verde-agua",
+    "slug": "cushion-grip-perfurado-raquete-tenis-verde-agua",
+    "name": "Cushion Grip Perfurado para Raquete de Tênis",
+    "type": "single",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 30,
+    "image": "assets/produtos/cushion-grip-perfurado-verde-agua/capa-raquete-quadra.png",
+    "alt": "Cushion grip perfurado verde-água instalado no cabo de uma raquete de tênis ao lado da quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/cushion-grip-perfurado-verde-agua/capa-raquete-quadra.png",
+        "alt": "Cushion grip perfurado verde-água instalado corretamente em uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/cushion-grip-perfurado-verde-agua/foto-real-4884.jpg",
+        "alt": "Foto real aproximada do cushion grip perfurado verde-água anunciado"
+      },
+      {
+        "src": "assets/produtos/cushion-grip-perfurado-verde-agua/foto-real-4885.jpg",
+        "alt": "Foto real do cushion grip verde-água com sua embalagem e instruções de aplicação"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Sem sinais aparentes de aplicação",
+    "tag": "Avulso · cushion grip",
+    "meta": "Perfurado · verde-água · absorção de suor",
+    "conditionSummary": "Cushion grip guardado na embalagem, sem sinais aparentes de aplicação em raquete.",
+    "description": "Cushion grip perfurado para envolver o cabo de raquetes de tênis e outros esportes de raquete. O material macio ajuda a aumentar o conforto e a espessura da empunhadura, enquanto as perfurações favorecem a ventilação e a absorção do suor.",
+    "conditionNotes": "Produto guardado em sua embalagem original aberta. As duas fotos reais mostram a fita completa, a superfície perfurada, a cor e as instruções impressas na embalagem.",
+    "details": [
+      ["Tipo", "Cushion grip / overgrip"],
+      ["Indicação", "Raquetes de tênis e outros esportes de raquete"],
+      ["Acabamento", "Perfurado"],
+      ["Cor", "Verde-água / turquesa"],
+      ["Função", "Conforto, aumento de espessura e absorção de suor"],
+      ["Aplicação", "Enrolado em espiral sobre o cabo da raquete"],
+      ["Conteúdo", "1 fita cushion grip"],
+      ["Condição", "Sem sinais aparentes de aplicação"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do cushion real, mostrando como ele fica instalado numa raquete.<br>As duas imagens seguintes mostram exatamente o produto anunciado.",
+    "disclosureNote": "A raquete e a quadra da capa são ilustrativas e não acompanham o produto. O anúncio inclui somente o cushion grip mostrado nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
