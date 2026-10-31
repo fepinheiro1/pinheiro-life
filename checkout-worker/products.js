@@ -1302,5 +1302,15 @@ export const products = {
     "inventoryUnitIds": [
       "kit-fogareiro-portatil-3-cartuchos-ntk"
     ]
+  },
+  "conjunto-livre-e-leve-degrade-p": {
+    "id": "conjunto-livre-e-leve-degrade-p",
+    "slug": "conjunto-fitness-livre-e-leve-degrade-top-legging-tamanho-p",
+    "name": "Conjunto Fitness Livre e Leve Degradê — Top e Legging Tamanho P",
+    "price": 9000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "conjunto-livre-e-leve-degrade-p"
+    ]
   }
 };

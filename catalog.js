@@ -7837,6 +7837,60 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir de imagens de referência dos modelos.<br>As imagens seguintes são referências do fogareiro, da maleta e dos cartuchos. O conjunto anunciado inclui três cartuchos lacrados.",
     "disclosureNote": "O ambiente de camping da capa é ilustrativo. As fotos de referência podem mostrar quatro cartuchos, mas o kit anunciado e entregue contém exatamente três unidades lacradas.",
     "illustratedCover": true
+  },
+  {
+    "id": "conjunto-livre-e-leve-degrade-p",
+    "slug": "conjunto-fitness-livre-e-leve-degrade-top-legging-tamanho-p",
+    "name": "Conjunto Fitness Livre e Leve Degradê — Top e Legging Tamanho P",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 90,
+    "image": "assets/produtos/conjunto-livre-e-leve-degrade-p/capa-academia-luz-natural.png",
+    "alt": "Mulher adulta magra usando conjunto fitness Livre e Leve degradê tamanho P em academia",
+    "photos": [
+      {
+        "src": "assets/produtos/conjunto-livre-e-leve-degrade-p/capa-academia-luz-natural.png",
+        "alt": "Mulher adulta de porte P usando top e legging Livre e Leve degradê em academia",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/conjunto-livre-e-leve-degrade-p/foto-real-conjunto.jpg",
+        "alt": "Foto real do conjunto Livre e Leve degradê completo com top e legging"
+      },
+      {
+        "src": "assets/produtos/conjunto-livre-e-leve-degrade-p/foto-real-legging.jpg",
+        "alt": "Foto real da legging Livre e Leve degradê vista por inteiro com etiqueta"
+      },
+      {
+        "src": "assets/produtos/conjunto-livre-e-leve-degrade-p/foto-real-detalhes.jpg",
+        "alt": "Foto real do top e da legging Livre e Leve mostrando o degradê e as etiquetas"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · nunca usado · com etiqueta",
+    "tag": "Conjunto · Livre e Leve · tamanho P",
+    "meta": "Top fitness + legging · degradê azul, lilás e rosa",
+    "conditionSummary": "Conjunto novo, nunca usado e ainda com as etiquetas originais.",
+    "description": "Conjunto fitness feminino Livre e Leve, tamanho P, composto por top de alças largas e legging de cintura alta com comprimento total. As duas peças combinam um degradê marcante que parte do azul, passa pelo lilás e termina em rosa, com textura tonal delicada.",
+    "conditionNotes": "O conjunto nunca foi usado e permanece com as etiquetas originais. As três fotos reais mostram o top, a legging, o degradê do tecido, o emblema da marca e as etiquetas presentes nas peças.",
+    "details": [
+      ["Marca", "Livre e Leve"],
+      ["Tamanho", "P"],
+      ["Conteúdo", "Top fitness + legging"],
+      ["Cores", "Azul · lilás · rosa"],
+      ["Estampa", "Degradê com textura tonal"],
+      ["Top", "Alças largas · faixa inferior larga"],
+      ["Legging", "Cintura alta · comprimento total"],
+      ["Modelagem", "Ajustada"],
+      ["Condição", "Novo · nunca usado · com etiqueta"],
+      ["Formato de venda", "Conjunto completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real, usando luz natural neutra.<br>As três imagens seguintes mostram exatamente o top e a legging anunciados, ainda com suas etiquetas.",
+    "disclosureNote": "A modelo, os tênis e o ambiente da capa são ilustrativos. O anúncio inclui somente o top e a legging mostrados nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
