@@ -6074,6 +6074,73 @@ const products = [
     ]
   },
   {
+    "id": "relogio-casio-g-shock-ga-110hc-1ajf",
+    "slug": "relogio-casio-g-shock-ga-110hc-1ajf-hyper-colors",
+    "name": "Relógio Casio G-Shock GA-110HC-1AJF Hyper Colors",
+    "type": "single",
+    "category": "Relógios",
+    "categoryId": "relogios",
+    "price": 290,
+    "newPriceText": "Modelo raro · edição japonesa",
+    "newPriceLabel": "Referência internacional do modelo",
+    "newPriceSource": {
+      "label": "Amazon",
+      "url": "https://www.amazon.com/Casio-G-shock-Japanese-Limited-Ga-110hc-1ajf/dp/B004XUDHQM"
+    },
+    "image": "assets/produtos/relogio-casio-g-shock-ga-110hc-1ajf/capa-urbana-luz-natural.png",
+    "alt": "Relógio Casio G-Shock GA-110HC-1AJF preto, roxo e azul sobre pedestal de concreto em ambiente urbano",
+    "photos": [
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-110hc-1ajf/capa-urbana-luz-natural.png",
+        "alt": "Casio G-Shock GA-110HC-1AJF Hyper Colors em ambiente urbano com luz natural",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-110hc-1ajf/foto-real-frente-angulo.jpg",
+        "alt": "Foto real em ângulo do G-Shock GA-110HC-1AJF anunciado"
+      },
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-110hc-1ajf/foto-real-mostrador.jpg",
+        "alt": "Foto real frontal do mostrador roxo e azul do G-Shock GA-110HC-1AJF"
+      },
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-110hc-1ajf/foto-real-pulseira.jpg",
+        "alt": "Foto real da pulseira, fecho e parte interna do relógio"
+      },
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-110hc-1ajf/foto-real-verso.jpg",
+        "alt": "Foto real do verso gravado GA-110HC do relógio Casio G-Shock"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · funcionamento perfeito",
+    "tag": "Avulso · edição japonesa · original",
+    "meta": "Analógico-digital · 200 m · preto, roxo e azul",
+    "conditionSummary": "Relógio usado, com riscos e sinais de uso visíveis na caixa e na pulseira. Está funcionando perfeitamente.",
+    "galleryDisclosure": "Capa: ambientação ilustrativa criada com IA a partir do relógio real.<br>As quatro imagens seguintes mostram exatamente o produto anunciado.",
+    "disclosureNote": "A referência da Amazon identifica o mesmo GA-110HC-1AJF Hyper Colors de edição japonesa. A venda inclui somente o relógio mostrado nas fotos reais.",
+    "description": "Casio G-Shock GA-110HC-1AJF da coleção Hyper Colors, edição japonesa com caixa e pulseira pretas, mostrador roxo e detalhes azul-turquesa. O modelo combina indicação analógica e digital, resistência a impactos e o visual grande e marcante da linha GA-110.",
+    "conditionNotes": "Relógio usado e funcionando perfeitamente. Há riscos, marcas superficiais e desgaste natural de uso na resina preta, todos visíveis nas fotos reais. Mostrador, pulseira, fecho e tampa traseira estão registrados em detalhes.",
+    "details": [
+      ["Marca", "Casio"],
+      ["Linha", "G-Shock Hyper Colors"],
+      ["Modelo", "GA-110HC-1AJF"],
+      ["Módulo", "5146"],
+      ["Movimento", "Quartzo · analógico-digital"],
+      ["Cores", "Preto · roxo · azul-turquesa"],
+      ["Caixa", "55 × 51,2 × 16,9 mm"],
+      ["Material", "Caixa e pulseira de resina"],
+      ["Resistência indicada", "Até 200 m · não testada recentemente"],
+      ["Funções", "Hora mundial · cronômetro 1/1000 s · temporizador · alarmes · calendário · iluminação"],
+      ["Funcionamento", "Perfeito"],
+      ["Condição", "Usado · sinais de uso visíveis"],
+      ["Conteúdo", "1 relógio"]
+    ]
+  },
+  {
     "id": "relogio-diesel-armbar-dz1819",
     "slug": "relogio-diesel-armbar-dz1819-preto-vermelho",
     "name": "Relógio Diesel Armbar DZ1819 Preto com Mostrador Vermelho",

@@ -1003,6 +1003,16 @@ export const products = {
       "relogio-casio-g-shock-ga-150-7a"
     ]
   },
+  "relogio-casio-g-shock-ga-110hc-1ajf": {
+    "id": "relogio-casio-g-shock-ga-110hc-1ajf",
+    "slug": "relogio-casio-g-shock-ga-110hc-1ajf-hyper-colors",
+    "name": "Relógio Casio G-Shock GA-110HC-1AJF Hyper Colors",
+    "price": 29000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "relogio-casio-g-shock-ga-110hc-1ajf"
+    ]
+  },
   "relogio-diesel-armbar-dz1819": {
     "id": "relogio-diesel-armbar-dz1819",
     "slug": "relogio-diesel-armbar-dz1819-preto-vermelho",
