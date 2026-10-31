@@ -7122,48 +7122,41 @@ const products = [
     "illustratedCover": true
   },
   {
-    "id": "conjunto-body-for-sure-flow-rosa-p",
-    "slug": "conjunto-body-for-sure-flow-rosa-top-e-shorts-tamanho-p",
-    "name": "Conjunto Body For Sure Flow Rosa — Top e Shorts",
+    "id": "conjunto-livre-e-leve-rosa-p",
+    "slug": "conjunto-livre-e-leve-rosa-top-e-shorts-tamanho-p",
+    "name": "Conjunto Livre e Leve Rosa — Top e Shorts",
     "type": "single",
     "category": "Moda fitness",
     "categoryId": "moda-fitness",
-    "price": 290,
-    "newPrice": 488,
-    "newPriceLabel": "Top e shorts novos somados",
-    "newPriceSource": {
-      "label": "Body For Sure · coleção Flow",
-      "url": "https://www.bodyforsure.com.br/top-nadador-liso-zip-14-04435-0-1/p"
-    },
-    "image": "assets/produtos/conjunto-body-for-sure-flow-rosa-p/capa-academia.png",
-    "alt": "Mulher adulta magra usando conjunto fitness Body For Sure Flow rosa tamanho P em academia",
+    "price": 90,
+    "image": "assets/produtos/conjunto-livre-e-leve-rosa-p/capa-academia.png",
+    "alt": "Mulher adulta magra usando conjunto fitness Livre e Leve rosa tamanho P em academia",
     "photos": [
       {
-        "src": "assets/produtos/conjunto-body-for-sure-flow-rosa-p/capa-academia.png",
-        "alt": "Mulher adulta magra usando o top e o shorts Body For Sure Flow rosa em academia",
+        "src": "assets/produtos/conjunto-livre-e-leve-rosa-p/capa-academia.png",
+        "alt": "Mulher adulta magra usando o top e o shorts Livre e Leve rosa em academia",
         "isIllustrative": true
       },
       {
-        "src": "assets/produtos/conjunto-body-for-sure-flow-rosa-p/foto-real-frente.jpg",
-        "alt": "Foto real da frente do top e do shorts fitness Body For Sure Flow rosa anunciados"
+        "src": "assets/produtos/conjunto-livre-e-leve-rosa-p/foto-real-frente.jpg",
+        "alt": "Foto real da frente do top e do shorts fitness Livre e Leve rosa anunciados"
       },
       {
-        "src": "assets/produtos/conjunto-body-for-sure-flow-rosa-p/foto-real-costas.jpg",
-        "alt": "Foto real das costas do top e do shorts fitness Body For Sure Flow rosa anunciados"
+        "src": "assets/produtos/conjunto-livre-e-leve-rosa-p/foto-real-costas.jpg",
+        "alt": "Foto real das costas do top e do shorts fitness Livre e Leve rosa anunciados"
       }
     ],
     "imageFit": "cover",
     "isDemo": false,
     "status": "available",
     "condition": "Novo · nunca usado",
-    "tag": "Conjunto · Body For Sure · tamanho P",
-    "meta": "Coleção Flow · top nadador · shorts com bolso",
+    "tag": "Conjunto · Livre e Leve · tamanho P",
+    "meta": "Top nadador · shorts curto · bolsos laterais",
     "conditionSummary": "Conjunto novo, nunca usado e sem sinais de uso.",
-    "description": "Conjunto fitness feminino Body For Sure da coleção Flow, tamanho P, formado por top nadador e shorts curto de cintura alta. As duas peças têm tecido rosa-magenta com textura geométrica em relevo; o shorts possui bolsos laterais para celular, chave ou pequenos objetos.",
+    "description": "Conjunto fitness feminino Livre e Leve, tamanho P, formado por top nadador e shorts curto de cintura alta. As duas peças têm tecido rosa-magenta com textura geométrica em relevo; o shorts possui bolsos laterais para celular, chave ou pequenos objetos.",
     "conditionNotes": "As duas peças estão novas, nunca foram usadas e não apresentam sinais de uso. As fotos reais mostram a frente e as costas do conjunto, incluindo os bolsos laterais e o emblema metálico da marca.",
     "details": [
-      ["Marca", "Body For Sure"],
-      ["Coleção", "Flow"],
+      ["Marca", "Livre e Leve"],
       ["Tamanho", "P"],
       ["Cor", "Rosa-magenta"],
       ["Conteúdo", "Top nadador + shorts fitness"],

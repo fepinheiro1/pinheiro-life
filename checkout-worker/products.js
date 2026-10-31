@@ -1183,14 +1183,14 @@ export const products = {
       "vestido-fashion-nova-angel-baby-mini-dress-preto-s"
     ]
   },
-  "conjunto-body-for-sure-flow-rosa-p": {
-    "id": "conjunto-body-for-sure-flow-rosa-p",
-    "slug": "conjunto-body-for-sure-flow-rosa-top-e-shorts-tamanho-p",
-    "name": "Conjunto Body For Sure Flow Rosa — Top e Shorts",
-    "price": 29000,
+  "conjunto-livre-e-leve-rosa-p": {
+    "id": "conjunto-livre-e-leve-rosa-p",
+    "slug": "conjunto-livre-e-leve-rosa-top-e-shorts-tamanho-p",
+    "name": "Conjunto Livre e Leve Rosa — Top e Shorts",
+    "price": 9000,
     "status": "available",
     "inventoryUnitIds": [
-      "conjunto-body-for-sure-flow-rosa-p"
+      "conjunto-livre-e-leve-rosa-p"
     ]
   }
 };
