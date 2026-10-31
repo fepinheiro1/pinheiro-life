@@ -7292,6 +7292,74 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da jaqueta real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a peça anunciada.",
     "disclosureNote": "O modelo e o ambiente da capa são ilustrativos. O anúncio inclui somente a jaqueta mostrada nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "jaqueta-tommy-hilfiger-vermelha-m",
+    "slug": "jaqueta-tommy-hilfiger-vermelha-forrada-tamanho-m",
+    "name": "Jaqueta Tommy Hilfiger Vermelha Forrada — Tamanho M",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 290,
+    "newPriceText": "R$ 699,90",
+    "newPriceLabel": "Jaqueta Tommy Hilfiger nova comparável",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://lista.mercadolivre.com.br/jaqueta-hilfiger"
+    },
+    "image": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/capa-luz-natural.png",
+    "alt": "Homem adulto usando jaqueta Tommy Hilfiger vermelha tamanho M em ambiente externo com luz natural",
+    "photos": [
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/capa-luz-natural.png",
+        "alt": "Homem adulto usando a jaqueta Tommy Hilfiger vermelha em ambiente externo com luz natural",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-frente.jpg",
+        "alt": "Foto real da frente da jaqueta Tommy Hilfiger vermelha anunciada"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-costas.jpg",
+        "alt": "Foto real das costas da jaqueta Tommy Hilfiger vermelha anunciada"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-aberta.jpg",
+        "alt": "Foto real da jaqueta Tommy Hilfiger vermelha aberta mostrando o forro preto acolchoado"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-logo.jpg",
+        "alt": "Detalhe real do bordado Tommy Hilfiger no peito da jaqueta vermelha"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-etiqueta.jpg",
+        "alt": "Etiqueta real Tommy Hilfiger tamanho M da jaqueta vermelha anunciada"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · bom estado",
+    "tag": "Avulso · tamanho M",
+    "meta": "Vermelha · forro acolchoado · gola alta",
+    "conditionSummary": "Jaqueta usada, em bom estado de conservação aparente nas fotos.",
+    "description": "Jaqueta Tommy Hilfiger masculina tamanho M na cor vermelha, com gola alta revestida, fechamento frontal por zíper protegido por vista, dois bolsos frontais e forro interno preto acolchoado. Possui bordado discreto no peito, bandeira da marca nas costas e acabamento preto nos punhos e na barra.",
+    "conditionNotes": "Peça usada. As cinco fotos reais mostram a frente, as costas, o interior acolchoado, o bordado e a etiqueta tamanho M, permitindo conferir o estado atual da jaqueta.",
+    "details": [
+      ["Marca", "Tommy Hilfiger"],
+      ["Tamanho", "M"],
+      ["Cor", "Vermelha com detalhes pretos"],
+      ["Gola", "Alta · revestida"],
+      ["Fechamento", "Zíper frontal com vista"],
+      ["Forro", "Preto acolchoado"],
+      ["Bolsos", "Dois bolsos frontais"],
+      ["Acabamento", "Punhos e barra com viés preto"],
+      ["Condição", "Usada · bom estado aparente"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da jaqueta real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a peça anunciada.",
+    "disclosureNote": "O modelo e o ambiente da capa são ilustrativos. O anúncio inclui somente a jaqueta mostrada nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 

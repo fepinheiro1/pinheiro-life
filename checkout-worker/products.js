@@ -1212,5 +1212,15 @@ export const products = {
     "inventoryUnitIds": [
       "jaqueta-tommy-hilfiger-laranja-m"
     ]
+  },
+  "jaqueta-tommy-hilfiger-vermelha-m": {
+    "id": "jaqueta-tommy-hilfiger-vermelha-m",
+    "slug": "jaqueta-tommy-hilfiger-vermelha-forrada-tamanho-m",
+    "name": "Jaqueta Tommy Hilfiger Vermelha Forrada — Tamanho M",
+    "price": 29000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "jaqueta-tommy-hilfiger-vermelha-m"
+    ]
   }
 };
