@@ -1152,5 +1152,25 @@ export const products = {
     "inventoryUnitIds": [
       "tripe-iluminacao-greika-fc-s288l-280m"
     ]
+  },
+  "escultura-centro-mesa-vidro-artistico-soprado": {
+    "id": "escultura-centro-mesa-vidro-artistico-soprado",
+    "slug": "escultura-centro-de-mesa-vidro-artistico-soprado",
+    "name": "Escultura Centro de Mesa em Vidro Artístico Soprado",
+    "price": 15000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "escultura-centro-mesa-vidro-artistico-soprado"
+    ]
+  },
+  "fruteira-vidro-lapidado-com-pe": {
+    "id": "fruteira-vidro-lapidado-com-pe",
+    "slug": "fruteira-de-vidro-lapidado-com-pe",
+    "name": "Fruteira de Vidro Lapidado com Pé",
+    "price": 15000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "fruteira-vidro-lapidado-com-pe"
+    ]
   }
 };

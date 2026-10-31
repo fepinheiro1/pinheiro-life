@@ -6949,6 +6949,117 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do tripé real.<br>As duas imagens seguintes mostram exatamente o produto anunciado, aberto e totalmente estendido.",
     "disclosureNote": "O softbox e os demais equipamentos vistos na ambientação não acompanham o produto. O anúncio inclui somente o tripé mostrado nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "escultura-centro-mesa-vidro-artistico-soprado",
+    "slug": "escultura-centro-de-mesa-vidro-artistico-soprado",
+    "name": "Escultura Centro de Mesa em Vidro Artístico Soprado",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 150,
+    "image": "assets/produtos/escultura-centro-mesa-vidro-artistico-soprado/capa-sala.png",
+    "alt": "Escultura de centro de mesa em vidro artístico transparente com detalhes rosados e verdes em uma sala elegante",
+    "photos": [
+      {
+        "src": "assets/produtos/escultura-centro-mesa-vidro-artistico-soprado/capa-sala.png",
+        "alt": "Escultura de vidro artístico soprado ambientada sobre uma mesa em sala contemporânea",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/escultura-centro-mesa-vidro-artistico-soprado/foto-real-4869.jpg",
+        "alt": "Foto real frontal da escultura de vidro artístico anunciada"
+      },
+      {
+        "src": "assets/produtos/escultura-centro-mesa-vidro-artistico-soprado/foto-real-4870.jpg",
+        "alt": "Foto real em ângulo da escultura de vidro mostrando as formas orgânicas"
+      },
+      {
+        "src": "assets/produtos/escultura-centro-mesa-vidro-artistico-soprado/foto-real-4871.jpg",
+        "alt": "Foto real superior mostrando os detalhes rosados, verdes e marfim no vidro"
+      },
+      {
+        "src": "assets/produtos/escultura-centro-mesa-vidro-artistico-soprado/foto-real-4872.jpg",
+        "alt": "Foto real lateral mostrando a base e o perfil da escultura de vidro"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · perfeito estado",
+    "tag": "Avulsa · vidro artístico",
+    "meta": "Vidro soprado · formas orgânicas · base com pé",
+    "conditionSummary": "Peça usada em perfeito estado de conservação, sem trincas, lascas ou avarias aparentes.",
+    "description": "Escultura decorativa e centro de mesa em vidro artístico soprado, com desenho orgânico formado por curvas e alças transparentes. O interior recebe delicados veios em tons de rosa, verde e marfim, enquanto a base elevada valoriza a peça sobre mesas, aparadores e estantes.",
+    "conditionNotes": "Peça em perfeito estado de conservação. As fotos reais mostram a frente, as laterais, a parte superior, a base e os detalhes coloridos do vidro. Não há marca ou assinatura visível, por isso o anúncio não atribui fabricante ou procedência específica.",
+    "details": [
+      ["Tipo", "Escultura decorativa · centro de mesa"],
+      ["Material", "Vidro artístico soprado"],
+      ["Cor", "Transparente com detalhes rosa, verde e marfim"],
+      ["Formato", "Orgânico com curvas e alças"],
+      ["Base", "Elevada com pé de vidro"],
+      ["Uso sugerido", "Mesa · aparador · estante"],
+      ["Marca", "Não identificada"],
+      ["Condição", "Usada · perfeito estado"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da peça real.<br>As quatro imagens seguintes mostram exatamente a escultura de vidro anunciada.",
+    "disclosureNote": "A ambientação da capa é ilustrativa. O anúncio inclui somente a peça de vidro mostrada nas fotos reais.",
+    "illustratedCover": true
+  },
+  {
+    "id": "fruteira-vidro-lapidado-com-pe",
+    "slug": "fruteira-de-vidro-lapidado-com-pe",
+    "name": "Fruteira de Vidro Lapidado com Pé",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 150,
+    "image": "assets/produtos/fruteira-vidro-lapidado-com-pe/capa-mesa.png",
+    "alt": "Fruteira de vidro lapidado com pé contendo frutas sobre uma mesa de jantar elegante",
+    "photos": [
+      {
+        "src": "assets/produtos/fruteira-vidro-lapidado-com-pe/capa-mesa.png",
+        "alt": "Fruteira de vidro lapidado com pé ambientada com frutas sobre mesa posta",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/fruteira-vidro-lapidado-com-pe/foto-real-4873.jpg",
+        "alt": "Foto real em ângulo da fruteira de vidro lapidado anunciada"
+      },
+      {
+        "src": "assets/produtos/fruteira-vidro-lapidado-com-pe/foto-real-4874.jpg",
+        "alt": "Foto real frontal mostrando o desenho geométrico e o pé da fruteira"
+      },
+      {
+        "src": "assets/produtos/fruteira-vidro-lapidado-com-pe/foto-real-4875.jpg",
+        "alt": "Foto real superior mostrando o interior e a borda trabalhada da fruteira"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · perfeito estado",
+    "tag": "Avulsa · vidro lapidado",
+    "meta": "Padrão geométrico · borda trabalhada · pedestal",
+    "conditionSummary": "Peça usada em perfeito estado de conservação, sem trincas, lascas ou avarias aparentes.",
+    "description": "Fruteira de vidro lapidado com pé, borda trabalhada e padrão geométrico em relevo que reflete a luz por toda a peça. O pedestal eleva a apresentação e permite usá-la com frutas, doces, sobremesas ou como centro decorativo em mesas e aparadores.",
+    "conditionNotes": "Peça em perfeito estado de conservação. As fotos reais mostram o desenho externo, o interior, a borda e o pedestal. O material foi descrito como vidro, sem atribuição de cristal ou fabricante não identificados nas imagens.",
+    "details": [
+      ["Tipo", "Fruteira · taça de mesa"],
+      ["Material", "Vidro lapidado"],
+      ["Cor", "Transparente"],
+      ["Acabamento", "Padrão geométrico em relevo"],
+      ["Borda", "Trabalhada"],
+      ["Base", "Pedestal com detalhes radiais"],
+      ["Uso sugerido", "Frutas · doces · sobremesas · decoração"],
+      ["Marca", "Não identificada"],
+      ["Condição", "Usada · perfeito estado"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da peça real.<br>As três imagens seguintes mostram exatamente a fruteira de vidro anunciada.",
+    "disclosureNote": "As frutas e os demais elementos vistos na capa são ilustrativos e não acompanham o produto. O anúncio inclui somente a fruteira mostrada nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
