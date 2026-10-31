@@ -1142,5 +1142,15 @@ export const products = {
     "inventoryUnitIds": [
       "conjunto-mesa-rustica-2-bancos-250x100"
     ]
+  },
+  "tripe-iluminacao-greika-fc-s288l-280m": {
+    "id": "tripe-iluminacao-greika-fc-s288l-280m",
+    "slug": "tripe-iluminacao-greika-fc-s288l-280m-aco-inox",
+    "name": "Tripé de Iluminação Greika FC-S288L 2,80 m em Aço Inox",
+    "price": 19000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "tripe-iluminacao-greika-fc-s288l-280m"
+    ]
   }
 };

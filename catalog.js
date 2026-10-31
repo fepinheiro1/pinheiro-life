@@ -6892,6 +6892,63 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real.<br>As quatro imagens seguintes foram produzidas a partir das fotos reais, com correções de iluminação e balanço de branco, sem alteração intencional do estado do móvel.",
     "disclosureNote": "A ambientação da capa é ilustrativa. As demais imagens preservam o produto real e receberam somente ajustes fotográficos de luz, cor e contraste.",
     "illustratedCover": true
+  },
+  {
+    "id": "tripe-iluminacao-greika-fc-s288l-280m",
+    "slug": "tripe-iluminacao-greika-fc-s288l-280m-aco-inox",
+    "name": "Tripé de Iluminação Greika FC-S288L 2,80 m em Aço Inox",
+    "type": "single",
+    "category": "Fotografia",
+    "categoryId": "tecnologia",
+    "price": 190,
+    "newPriceText": "R$ 230–300",
+    "newPriceLabel": "Mesmo modelo novo no Brasil",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/tripe-de-iluminacao-greika-fc-s288l-280m-aco-inox/p/MLB30158809?pdp_filters=item_id:MLB6188617204&sid=purchases"
+    },
+    "image": "assets/produtos/tripe-iluminacao-greika-fc-s288l-280m/capa-estudio.png",
+    "alt": "Tripé de iluminação Greika FC-S288L em aço inox montado em um estúdio fotográfico",
+    "photos": [
+      {
+        "src": "assets/produtos/tripe-iluminacao-greika-fc-s288l-280m/capa-estudio.png",
+        "alt": "Tripé Greika FC-S288L com softbox em um estúdio fotográfico",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/tripe-iluminacao-greika-fc-s288l-280m/foto-real-aberto.jpg",
+        "alt": "Foto real do tripé Greika FC-S288L aberto mostrando os pés, travas e seções telescópicas"
+      },
+      {
+        "src": "assets/produtos/tripe-iluminacao-greika-fc-s288l-280m/foto-real-estendido.jpg",
+        "alt": "Foto real do tripé Greika FC-S288L totalmente estendido"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · muito bem conservado",
+    "tag": "Avulso · Greika · aço inox",
+    "meta": "Até 2,80 m · telescópico · iluminação e fotografia",
+    "conditionSummary": "Usado e muito bem conservado, sem avarias visíveis nas fotos. Estrutura, pés e travas apresentam ótimo aspecto.",
+    "description": "Tripé de iluminação Greika FC-S288L em aço inox, com estrutura telescópica e altura regulável de aproximadamente 1,00 a 2,80 metros. É indicado para flashes, refletores, sombrinhas, softboxes e outros acessórios de estúdio, oferecendo uma base ampla e resistente para produções fotográficas e de vídeo.",
+    "conditionNotes": "Produto usado e muito bem conservado, sem avarias aparentes. As fotos reais mostram o tripé aberto e totalmente estendido, incluindo pés, travas, seções telescópicas e encaixe superior.",
+    "details": [
+      ["Marca", "Greika"],
+      ["Modelo", "FC-S288L"],
+      ["Tipo", "Tripé de iluminação"],
+      ["Material", "Aço inox"],
+      ["Altura regulável", "Aproximadamente 1,00 a 2,80 m"],
+      ["Estrutura", "Telescópica com três seções e travas"],
+      ["Base", "Três pés com hastes de reforço"],
+      ["Compatibilidade", "Flashes · refletores · sombrinhas · softboxes"],
+      ["Encaixe superior", "Adaptável a acessórios de estúdio"],
+      ["Condição", "Usado · muito bem conservado"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do tripé real.<br>As duas imagens seguintes mostram exatamente o produto anunciado, aberto e totalmente estendido.",
+    "disclosureNote": "O softbox e os demais equipamentos vistos na ambientação não acompanham o produto. O anúncio inclui somente o tripé mostrado nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
