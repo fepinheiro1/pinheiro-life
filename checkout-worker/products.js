@@ -1222,5 +1222,15 @@ export const products = {
     "inventoryUnitIds": [
       "jaqueta-tommy-hilfiger-vermelha-m"
     ]
+  },
+  "par-halteres-3kg-cada-azul": {
+    "id": "par-halteres-3kg-cada-azul",
+    "slug": "par-halteres-sextavados-3kg-cada-azul",
+    "name": "Par de Halteres Sextavados de 3 kg Cada",
+    "price": 6000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "par-halteres-3kg-cada-azul"
+    ]
   }
 };

@@ -7360,6 +7360,59 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da jaqueta real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a peça anunciada.",
     "disclosureNote": "O modelo e o ambiente da capa são ilustrativos. O anúncio inclui somente a jaqueta mostrada nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "par-halteres-3kg-cada-azul",
+    "slug": "par-halteres-sextavados-3kg-cada-azul",
+    "name": "Par de Halteres Sextavados de 3 kg Cada",
+    "type": "single",
+    "category": "Fitness",
+    "categoryId": "esportes",
+    "price": 60,
+    "newPriceText": "R$ 92,99",
+    "newPriceLabel": "Par novo comparável",
+    "newPriceSource": {
+      "label": "2M Fitness",
+      "url": "https://www.2mfitness.com.br/kit-de-halteres/sextavados-emborrachados/par-de-halteres-sextavado-emborrachado-3-kg"
+    },
+    "image": "assets/produtos/par-halteres-3kg-cada-azul/capa-academia-luz-natural.png",
+    "alt": "Par de halteres sextavados azul-petróleo de 3 kg sobre tapete de exercícios em academia doméstica",
+    "photos": [
+      {
+        "src": "assets/produtos/par-halteres-3kg-cada-azul/capa-academia-luz-natural.png",
+        "alt": "Par de halteres azul-petróleo de 3 kg ambientado em academia doméstica com luz natural",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/par-halteres-3kg-cada-azul/foto-real-par-1.jpg",
+        "alt": "Foto real do par de halteres azul-petróleo de 3 kg anunciado"
+      },
+      {
+        "src": "assets/produtos/par-halteres-3kg-cada-azul/foto-real-par-2.jpg",
+        "alt": "Segunda foto real do par de halteres mostrando a marcação de 3 kg"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · marcas de uso",
+    "tag": "Par · 6 kg no total",
+    "meta": "3 kg cada · formato sextavado · azul-petróleo",
+    "conditionSummary": "Par usado e plenamente funcional, com marcas superficiais no revestimento.",
+    "description": "Par de halteres sextavados com 3 kg cada, totalizando 6 kg. O formato ajuda a evitar que rolem no chão e é indicado para treinos de braços, ombros, peito, costas, exercícios funcionais e atividades em casa.",
+    "conditionNotes": "Halteres usados, firmes e prontos para treino. O revestimento azul-petróleo apresenta riscos e marcas estéticas superficiais, mostrados nas duas fotos reais.",
+    "details": [
+      ["Conteúdo", "2 halteres"],
+      ["Peso por unidade", "3 kg"],
+      ["Peso total", "6 kg"],
+      ["Formato", "Sextavado"],
+      ["Cor", "Azul-petróleo"],
+      ["Estado", "Usados · com marcas estéticas"],
+      ["Formato de venda", "Par completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir dos halteres reais, usando luz natural neutra.<br>As duas imagens seguintes mostram exatamente o par anunciado.",
+    "disclosureNote": "O ambiente e os acessórios da capa são ilustrativos. O anúncio inclui somente os dois halteres mostrados nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
