@@ -1256,7 +1256,7 @@ export const products = {
   "vestido-alto-giro-beach-tennis-roxo-p": {
     "id": "vestido-alto-giro-beach-tennis-roxo-p",
     "slug": "vestido-alto-giro-beach-tennis-roxo-com-shorts-tamanho-p",
-    "name": "Vestido Alto Giro Beach Tennis Roxo com Shorts — Tamanho P",
+    "name": "Vestido Alto Giro Thássia Naves Bodytex II Roxo com Shorts — Tamanho P",
     "price": 29000,
     "status": "available",
     "inventoryUnitIds": [

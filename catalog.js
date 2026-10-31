@@ -7538,16 +7538,16 @@ const products = [
   {
     "id": "vestido-alto-giro-beach-tennis-roxo-p",
     "slug": "vestido-alto-giro-beach-tennis-roxo-com-shorts-tamanho-p",
-    "name": "Vestido Alto Giro Beach Tennis Roxo com Shorts — Tamanho P",
+    "name": "Vestido Alto Giro Thássia Naves Bodytex II Roxo com Shorts — Tamanho P",
     "type": "single",
     "category": "Moda fitness",
     "categoryId": "moda-fitness",
     "price": 290,
-    "newPriceText": "R$ 481,48",
+    "newPriceText": "R$ 379,90",
     "newPriceLabel": "Mesmo modelo novo encontrado",
     "newPriceSource": {
-      "label": "Centauro",
-      "url": "https://www.centauro.com.br/vestido-alto-giro-beach-tennis-feminino-m0nvo1-mktp.html"
+      "label": "Mercado Livre",
+      "url": "https://produto.mercadolivre.com.br/MLB-2658503446-vestido-thassia-naves-alto-giro-beach-tennis-lilas-2022-_JM"
     },
     "image": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis-v3.png",
     "alt": "Mulher adulta ruiva de porte P usando vestido Alto Giro roxo com detalhes laranja e shorts em uma quadra de beach tennis",
@@ -7575,12 +7575,13 @@ const products = [
     "status": "available",
     "condition": "Novo · sem uso",
     "tag": "Conjunto · tamanho P",
-    "meta": "Vestido + shorts · costas nadador · roxo e laranja",
+    "meta": "Thássia Naves Bodytex II · vestido + shorts · roxo e laranja",
     "conditionSummary": "Conjunto novo, sem uso e sem marcas, composto pelo vestido e pelo shorts avulso.",
-    "description": "Vestido esportivo Alto Giro para tênis, beach tennis e outros esportes de raquete. A modelagem curta combina costas nadador, recortes que acompanham o corpo e frisos laranja contrastantes. Acompanha shorts avulso roxo para proporcionar liberdade de movimento e segurança durante o jogo.",
+    "description": "Vestido esportivo Alto Giro da linha Thássia Naves Bodytex II Recortes 2022, indicado para tênis, beach tennis e outros esportes de raquete. A modelagem curta combina costas nadador, recortes que acompanham o corpo e frisos laranja contrastantes. Acompanha shorts avulso roxo para proporcionar liberdade de movimento e segurança durante o jogo.",
     "conditionNotes": "Produto novo e sem uso. As três fotos reais mostram a frente, as costas nadador, os recortes, o símbolo da Alto Giro e o shorts tamanho P que acompanha o vestido.",
     "details": [
       ["Marca", "Alto Giro"],
+      ["Linha", "Thássia Naves · Bodytex II Recortes"],
       ["Tamanho", "P"],
       ["Conteúdo", "Vestido + shorts avulso"],
       ["Cor", "Roxo / fúcsia com detalhes laranja"],
