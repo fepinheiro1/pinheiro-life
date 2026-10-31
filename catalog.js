@@ -7445,8 +7445,8 @@ const products = [
         "alt": "Foto real da mala OGIO Rig 9800 mostrando a estrutura, alças e compartimentos"
       },
       {
-        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0973.jpg",
-        "alt": "Foto real da mala OGIO Rig 9800 em pé mostrando a parte frontal e as rodas"
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-interior.jpg",
+        "alt": "Foto real do interior amplo, das divisórias e dos compartimentos da mala OGIO Rig 9800 anunciada"
       },
       {
         "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0974.jpg",
