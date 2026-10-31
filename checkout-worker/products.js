@@ -993,6 +993,26 @@ export const products = {
       "relogio-invicta-specialty-14876"
     ]
   },
+  "relogio-casio-g-shock-ga-150-7a": {
+    "id": "relogio-casio-g-shock-ga-150-7a",
+    "slug": "relogio-casio-g-shock-ga-150-7a-branco",
+    "name": "Relógio Casio G-Shock GA-150-7A Branco",
+    "price": 19000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "relogio-casio-g-shock-ga-150-7a"
+    ]
+  },
+  "relogio-diesel-armbar-dz1819": {
+    "id": "relogio-diesel-armbar-dz1819",
+    "slug": "relogio-diesel-armbar-dz1819-preto-vermelho",
+    "name": "Relógio Diesel Armbar DZ1819 Preto com Mostrador Vermelho",
+    "price": 39000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "relogio-diesel-armbar-dz1819"
+    ]
+  },
   "oculos-esportivo-importado-vermelho-espelhado": {
     "id": "oculos-esportivo-importado-vermelho-espelhado",
     "slug": "oculos-esportivo-importado-vermelho-lente-espelhada",

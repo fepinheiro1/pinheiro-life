@@ -6018,6 +6018,131 @@ const products = [
     ]
   },
   {
+    "id": "relogio-casio-g-shock-ga-150-7a",
+    "slug": "relogio-casio-g-shock-ga-150-7a-branco",
+    "name": "Relógio Casio G-Shock GA-150-7A Branco",
+    "type": "single",
+    "category": "Relógios",
+    "categoryId": "relogios",
+    "price": 190,
+    "image": "assets/produtos/relogio-casio-g-shock-ga-150-7a/capa-esportiva.png",
+    "alt": "Relógio Casio G-Shock GA-150 branco e limpo sobre pedestal de concreto",
+    "photos": [
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-150-7a/capa-esportiva.png",
+        "alt": "Relógio Casio G-Shock GA-150 branco em ambiente esportivo minimalista",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-150-7a/foto-real-frente.jpg",
+        "alt": "Foto real frontal do Casio G-Shock GA-150 branco anunciado"
+      },
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-150-7a/foto-real-almofada.jpg",
+        "alt": "Foto real do G-Shock branco apoiado sobre almofada"
+      },
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-150-7a/foto-real-angulo.jpg",
+        "alt": "Foto real em ângulo mostrando a caixa e a pulseira branca do relógio"
+      },
+      {
+        "src": "assets/produtos/relogio-casio-g-shock-ga-150-7a/foto-real-verso.jpg",
+        "alt": "Foto real do verso gravado do Casio G-Shock GA-150 módulo 5140"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · será entregue higienizado",
+    "tag": "Avulso · original · branco",
+    "meta": "Analógico-digital · resina branca · módulo 5140",
+    "conditionSummary": "Relógio usado com sinais de uso. Será limpo e entregue branquinho, higienizado e pronto para o novo dono.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA mostrando o relógio após a limpeza.<br>As quatro imagens seguintes mostram exatamente o produto anunciado antes da higienização.",
+    "description": "Casio G-Shock GA-150-7A branco, relógio analógico-digital com construção resistente a impactos, caixa grande e pulseira de resina. O modelo reúne hora mundial, cronômetro, temporizador, alarmes, calendário automático e iluminação em um visual esportivo marcante.",
+    "conditionNotes": "Produto usado com sinais de uso e marcas naturais na resina branca. As fotos reais foram feitas antes da limpeza; o relógio será higienizado e entregue branquinho.",
+    "details": [
+      ["Marca", "Casio"],
+      ["Linha", "G-Shock"],
+      ["Modelo", "GA-150-7A"],
+      ["Módulo", "5140"],
+      ["Movimento", "Quartzo · analógico-digital"],
+      ["Funções", "Hora mundial · cronômetro · temporizador · alarmes · calendário · iluminação"],
+      ["Caixa e pulseira", "Resina branca"],
+      ["Resistência indicada", "Até 200 m · não testada recentemente"],
+      ["Condição", "Usado · será entregue higienizado"]
+    ]
+  },
+  {
+    "id": "relogio-diesel-armbar-dz1819",
+    "slug": "relogio-diesel-armbar-dz1819-preto-vermelho",
+    "name": "Relógio Diesel Armbar DZ1819 Preto com Mostrador Vermelho",
+    "type": "single",
+    "category": "Relógios",
+    "categoryId": "relogios",
+    "price": 390,
+    "newPriceText": "R$ 899",
+    "newPriceLabel": "Mesmo modelo novo no Brasil",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/relogio-masculino-diesel-preto-dz1819bi-p1px/p/MLB27158893?pdp_filters=item_id%3AMLB6482929702"
+    },
+    "image": "assets/produtos/relogio-diesel-armbar-dz1819/capa-luxo.png",
+    "alt": "Relógio Diesel Armbar DZ1819 preto com mostrador vermelho em ambiente sofisticado",
+    "photos": [
+      {
+        "src": "assets/produtos/relogio-diesel-armbar-dz1819/capa-luxo.png",
+        "alt": "Relógio Diesel Armbar DZ1819 preto com mostrador vermelho sobre pedestal escuro",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/relogio-diesel-armbar-dz1819/foto-real-angulo.jpg",
+        "alt": "Foto real em ângulo do Diesel Armbar DZ1819 anunciado"
+      },
+      {
+        "src": "assets/produtos/relogio-diesel-armbar-dz1819/foto-real-almofada.jpg",
+        "alt": "Foto real frontal do relógio Diesel sobre a almofada original"
+      },
+      {
+        "src": "assets/produtos/relogio-diesel-armbar-dz1819/foto-real-verso.jpg",
+        "alt": "Foto real do verso gravado do Diesel DZ1819"
+      },
+      {
+        "src": "assets/produtos/relogio-diesel-armbar-dz1819/foto-real-caixa-aberta.jpg",
+        "alt": "Foto real do relógio Diesel acomodado na caixa original aberta"
+      },
+      {
+        "src": "assets/produtos/relogio-diesel-armbar-dz1819/foto-real-caixa-fechada.jpg",
+        "alt": "Foto real da caixa Diesel original fechada"
+      }
+    ],
+    "imageFit": "cover",
+    "illustratedCover": true,
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · com caixa original",
+    "tag": "Avulso · original · com caixa",
+    "meta": "45 mm · quartzo · silicone preto · mostrador vermelho",
+    "conditionSummary": "Relógio usado com sinais de uso visíveis nas fotos reais. Acompanha caixa Diesel original com almofada.",
+    "galleryDisclosure": "Capa: ambiente ilustrativo criado com IA a partir do relógio real.<br>As cinco imagens seguintes mostram exatamente o relógio e a caixa anunciados.",
+    "disclosureNote": "O valor de referência corresponde ao mesmo modelo Diesel DZ1819 novo anunciado no Brasil.",
+    "description": "Diesel Armbar DZ1819 com caixa preta de 45 mm, mostrador vermelho em degradê e pulseira de silicone preta. O design grande e esportivo combina movimento a quartzo, leitura analógica e resistência à água indicada pelo fabricante de até 10 ATM.",
+    "conditionNotes": "Relógio usado com sinais de uso aparentes na caixa e na pulseira, todos registrados nas fotos reais. Acompanha a caixa Diesel original com almofada.",
+    "details": [
+      ["Marca", "Diesel"],
+      ["Coleção", "Armbar"],
+      ["Modelo", "DZ1819"],
+      ["Movimento", "Quartzo · analógico"],
+      ["Caixa", "45 mm · policarbonato preto"],
+      ["Mostrador", "Vermelho em degradê"],
+      ["Pulseira", "Silicone preto"],
+      ["Vidro", "Cristal mineral"],
+      ["Resistência indicada", "10 ATM · 100 m · não testada recentemente"],
+      ["Acompanha", "Caixa Diesel original · almofada"],
+      ["Condição", "Usado · sinais de uso"]
+    ]
+  },
+  {
     "id": "oculos-esportivo-importado-vermelho-espelhado",
     "slug": "oculos-esportivo-importado-vermelho-lente-espelhada",
     "name": "Óculos Esportivo Importado Vermelho com Lente Espelhada",
