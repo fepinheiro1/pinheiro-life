@@ -1172,5 +1172,15 @@ export const products = {
     "inventoryUnitIds": [
       "fruteira-vidro-lapidado-com-pe"
     ]
+  },
+  "vestido-fashion-nova-angel-baby-mini-dress-preto-s": {
+    "id": "vestido-fashion-nova-angel-baby-mini-dress-preto-s",
+    "slug": "vestido-fashion-nova-angel-baby-mini-dress-preto-tamanho-s",
+    "name": "Vestido Fashion Nova Angel Baby Mini Dress Preto",
+    "price": 9000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "vestido-fashion-nova-angel-baby-mini-dress-preto-s"
+    ]
   }
 };

@@ -7060,6 +7060,66 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da peça real.<br>As três imagens seguintes mostram exatamente a fruteira de vidro anunciada.",
     "disclosureNote": "As frutas e os demais elementos vistos na capa são ilustrativos e não acompanham o produto. O anúncio inclui somente a fruteira mostrada nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "vestido-fashion-nova-angel-baby-mini-dress-preto-s",
+    "slug": "vestido-fashion-nova-angel-baby-mini-dress-preto-tamanho-s",
+    "name": "Vestido Fashion Nova Angel Baby Mini Dress Preto",
+    "type": "single",
+    "category": "Moda feminina",
+    "categoryId": "moda-feminina",
+    "price": 90,
+    "image": "assets/produtos/vestido-fashion-nova-angel-baby-mini-dress-preto-s/capa-adolescente.png",
+    "alt": "Adolescente loira usando vestido preto Fashion Nova Angel Baby Mini Dress em ambiente externo",
+    "photos": [
+      {
+        "src": "assets/produtos/vestido-fashion-nova-angel-baby-mini-dress-preto-s/capa-adolescente.png",
+        "alt": "Adolescente loira usando o vestido Fashion Nova Angel Baby Mini Dress preto com tênis brancos",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/vestido-fashion-nova-angel-baby-mini-dress-preto-s/foto-real-cabide-passado.png",
+        "alt": "Foto do vestido Fashion Nova Angel Baby preto no cabide com os amassados removidos digitalmente"
+      },
+      {
+        "src": "assets/produtos/vestido-fashion-nova-angel-baby-mini-dress-preto-s/foto-real-frente-passado.png",
+        "alt": "Foto frontal do vestido Fashion Nova preto estendido e com os amassados removidos digitalmente"
+      },
+      {
+        "src": "assets/produtos/vestido-fashion-nova-angel-baby-mini-dress-preto-s/foto-real-costas-passado.png",
+        "alt": "Foto das costas do vestido Fashion Nova preto com os amassados removidos digitalmente"
+      },
+      {
+        "src": "assets/produtos/vestido-fashion-nova-angel-baby-mini-dress-preto-s/foto-real-etiqueta.jpg",
+        "alt": "Foto real da etiqueta Fashion Nova Angel Baby Mini Dress tamanho S e código FND2212"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Com etiqueta · sem sinais de uso",
+    "tag": "Avulso · Fashion Nova · tamanho S",
+    "meta": "Mini dress · preto · manga curta · estampa Angel",
+    "conditionSummary": "Vestido com etiqueta, sem sinais de uso aparentes e em excelente estado de conservação.",
+    "description": "Vestido curto Fashion Nova Angel Baby Mini Dress, modelo FND2212, na cor preta e tamanho S. A modelagem ajustada de manga curta tem gola redonda e estampa frontal Angel em branco e rosa, acompanhada de auréola e pequenas estrelas coloridas.",
+    "conditionNotes": "Peça com etiqueta e sem sinais de uso aparentes. Para apresentar melhor a modelagem, os amassados do tecido foram removidos digitalmente nas três fotos da peça inteira, sem alteração intencional de cor, corte, estampa ou condição. A última imagem mostra a etiqueta real e a identificação do modelo.",
+    "details": [
+      ["Marca", "Fashion Nova"],
+      ["Modelo", "Angel Baby Mini Dress"],
+      ["Código", "FND2212"],
+      ["Tamanho", "S"],
+      ["Cor", "Preta"],
+      ["Comprimento", "Curto · mini dress"],
+      ["Mangas", "Curtas"],
+      ["Gola", "Redonda"],
+      ["Estampa", "Angel em branco e rosa com auréola e estrelas"],
+      ["Modelagem", "Ajustada"],
+      ["Condição", "Com etiqueta · sem sinais de uso"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do vestido real.<br>As três imagens seguintes foram criadas a partir das fotos reais, com remoção digital apenas dos amassados do tecido. A última imagem é a foto original da etiqueta.",
+    "disclosureNote": "A modelo e o ambiente da capa são ilustrativos. O anúncio inclui somente o vestido mostrado nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
