@@ -1132,5 +1132,15 @@ export const products = {
     "inventoryUnitIds": [
       "vestido-john-john-preto-texturizado-p"
     ]
+  },
+  "conjunto-mesa-rustica-2-bancos-250x100": {
+    "id": "conjunto-mesa-rustica-2-bancos-250x100",
+    "slug": "conjunto-mesa-rustica-madeira-250x100-2-bancos",
+    "name": "Conjunto Mesa Rústica de Madeira 2,5 m + 2 Bancos",
+    "price": 290000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "conjunto-mesa-rustica-2-bancos-250x100"
+    ]
   }
 };

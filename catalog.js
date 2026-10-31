@@ -6834,6 +6834,58 @@ const products = [
     "galleryDisclosure": "As duas primeiras imagens são ambientações noturnas ilustrativas criadas com IA a partir do vestido real.<br>As quatro imagens seguintes mostram exatamente a peça anunciada.",
     "disclosureNote": "As duas primeiras imagens são ilustrativas. Cor, textura, recorte das costas e demais características foram baseados nas fotos reais da peça.",
     "illustratedCover": true
+  },
+  {
+    "id": "conjunto-mesa-rustica-2-bancos-250x100",
+    "slug": "conjunto-mesa-rustica-madeira-250x100-2-bancos",
+    "name": "Conjunto Mesa Rústica de Madeira 2,5 m + 2 Bancos",
+    "type": "single",
+    "category": "Casa e cozinha",
+    "categoryId": "casa-cozinha",
+    "price": 2900,
+    "image": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/capa-real-conjunto.jpg",
+    "alt": "Mesa rústica de madeira de 2,5 metros acompanhada por dois bancos longos",
+    "photos": [
+      {
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/capa-real-conjunto.jpg",
+        "alt": "Foto real do conjunto com mesa rústica de madeira e dois bancos"
+      },
+      {
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-frontal.jpg",
+        "alt": "Foto real frontal da mesa rústica de 2,5 metros e dos dois bancos"
+      },
+      {
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-lateral.jpg",
+        "alt": "Foto real lateral mostrando o tampo espesso e a estrutura robusta do conjunto"
+      },
+      {
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-tampo.jpg",
+        "alt": "Foto real aproximada do tampo rústico de madeira da mesa"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usado · perfeito estado de conservação",
+    "tag": "Conjunto · mesa + 2 bancos",
+    "meta": "2,50 × 1,00 m · madeira · robusto e pesado",
+    "conditionSummary": "Conjunto em perfeito estado de conservação, com estrutura firme e acabamento rústico preservado.",
+    "description": "Conjunto de jantar rústico composto por uma mesa grande de madeira, com 2,50 m de comprimento por 1,00 m de largura, e dois bancos longos no mesmo acabamento. É uma peça imponente, pesada e resistente, com tampo espesso, pés robustos e textura natural que valoriza o estilo rústico.",
+    "conditionNotes": "Mesa e bancos em perfeito estado de conservação, sem avarias estruturais. As fotos reais mostram o conjunto completo, o tampo, os pés e o acabamento preservado. Por ser um móvel grande e pesado, a retirada exige transporte adequado.",
+    "details": [
+      ["Conteúdo", "1 mesa + 2 bancos"],
+      ["Comprimento da mesa", "2,50 m"],
+      ["Largura da mesa", "1,00 m"],
+      ["Material", "Madeira"],
+      ["Estilo", "Rústico"],
+      ["Estrutura", "Pesada, firme e resistente"],
+      ["Tampo", "Espesso com acabamento rústico"],
+      ["Bancos", "2 bancos longos no mesmo acabamento"],
+      ["Estado", "Usado · perfeito estado de conservação"],
+      ["Retirada", "Requer transporte adequado ao tamanho e ao peso"]
+    ],
+    "galleryDisclosure": "Todas as imagens da galeria são fotos reais do conjunto anunciado.",
+    "illustratedCover": false
   }
 ];
 
