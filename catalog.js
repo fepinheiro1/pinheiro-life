@@ -6843,24 +6843,29 @@ const products = [
     "category": "Casa e cozinha",
     "categoryId": "casa-cozinha",
     "price": 2900,
-    "image": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/capa-real-conjunto.jpg",
-    "alt": "Mesa rústica de madeira de 2,5 metros acompanhada por dois bancos longos",
+    "image": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/capa-area-lazer-piscina.jpg",
+    "alt": "Mesa rústica de madeira de 2,5 metros com dois bancos em uma área de lazer próxima à piscina",
     "photos": [
       {
-        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/capa-real-conjunto.jpg",
-        "alt": "Foto real do conjunto com mesa rústica de madeira e dois bancos"
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/capa-area-lazer-piscina.jpg",
+        "alt": "Mesa rústica de madeira e dois bancos em uma área de lazer coberta próxima à piscina",
+        "isIllustrative": true
       },
       {
-        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-frontal.jpg",
-        "alt": "Foto real frontal da mesa rústica de 2,5 metros e dos dois bancos"
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-conjunto-luz.jpg",
+        "alt": "Foto real do conjunto completo com iluminação corrigida"
       },
       {
-        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-lateral.jpg",
-        "alt": "Foto real lateral mostrando o tampo espesso e a estrutura robusta do conjunto"
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-frontal-luz.jpg",
+        "alt": "Foto real frontal da mesa rústica de 2,5 metros e dos dois bancos com iluminação corrigida"
       },
       {
-        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-tampo.jpg",
-        "alt": "Foto real aproximada do tampo rústico de madeira da mesa"
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-lateral-luz.jpg",
+        "alt": "Foto real lateral mostrando o tampo espesso e a estrutura robusta do conjunto com iluminação corrigida"
+      },
+      {
+        "src": "assets/produtos/conjunto-mesa-rustica-2-bancos-250x100/foto-real-tampo-luz.jpg",
+        "alt": "Foto real aproximada do tampo rústico de madeira com iluminação corrigida"
       }
     ],
     "imageFit": "cover",
@@ -6884,8 +6889,9 @@ const products = [
       ["Estado", "Usado · perfeito estado de conservação"],
       ["Retirada", "Requer transporte adequado ao tamanho e ao peso"]
     ],
-    "galleryDisclosure": "Todas as imagens da galeria são fotos reais do conjunto anunciado.",
-    "illustratedCover": false
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real.<br>As quatro imagens seguintes foram produzidas a partir das fotos reais, com correções de iluminação e balanço de branco, sem alteração intencional do estado do móvel.",
+    "disclosureNote": "A ambientação da capa é ilustrativa. As demais imagens preservam o produto real e receberam somente ajustes fotográficos de luz, cor e contraste.",
+    "illustratedCover": true
   }
 ];
 
