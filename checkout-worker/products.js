@@ -1212,5 +1212,65 @@ export const products = {
     "inventoryUnitIds": [
       "jaqueta-tommy-hilfiger-laranja-m"
     ]
+  },
+  "jaqueta-tommy-hilfiger-vermelha-m": {
+    "id": "jaqueta-tommy-hilfiger-vermelha-m",
+    "slug": "jaqueta-tommy-hilfiger-vermelha-forrada-tamanho-m",
+    "name": "Jaqueta Tommy Hilfiger Vermelha Forrada — Tamanho M",
+    "price": 29000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "jaqueta-tommy-hilfiger-vermelha-m"
+    ]
+  },
+  "par-halteres-3kg-cada-azul": {
+    "id": "par-halteres-3kg-cada-azul",
+    "slug": "par-halteres-sextavados-3kg-cada-azul",
+    "name": "Par de Halteres Sextavados de 3 kg Cada",
+    "price": 6000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "par-halteres-3kg-cada-azul"
+    ]
+  },
+  "mala-ogio-rig-9800-azul-preta": {
+    "id": "mala-ogio-rig-9800-azul-preta",
+    "slug": "mala-ogio-rig-9800-com-rodas-azul-preta",
+    "name": "Mala OGIO Rig 9800 com Rodas Azul e Preta",
+    "price": 190000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "mala-ogio-rig-9800-azul-preta"
+    ]
+  },
+  "cushion-grip-perfurado-verde-agua": {
+    "id": "cushion-grip-perfurado-verde-agua",
+    "slug": "cushion-grip-perfurado-raquete-tenis-verde-agua",
+    "name": "Cushion Grip Perfurado para Raquete de Tênis",
+    "price": 3000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "cushion-grip-perfurado-verde-agua"
+    ]
+  },
+  "vestido-alto-giro-beach-tennis-roxo-p": {
+    "id": "vestido-alto-giro-beach-tennis-roxo-p",
+    "slug": "vestido-alto-giro-beach-tennis-roxo-com-shorts-tamanho-p",
+    "name": "Vestido Alto Giro Thássia Naves Bodytex II Roxo com Shorts — Tamanho P",
+    "price": 19000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "vestido-alto-giro-beach-tennis-roxo-p"
+    ]
+  },
+  "kit-fogareiro-portatil-3-cartuchos-ntk": {
+    "id": "kit-fogareiro-portatil-3-cartuchos-ntk",
+    "slug": "kit-fogareiro-portatil-gas-3-cartuchos-ntk",
+    "name": "Kit Fogareiro Portátil a Gás com Maleta + 3 Cartuchos NTK",
+    "price": 7900,
+    "status": "available",
+    "inventoryUnitIds": [
+      "kit-fogareiro-portatil-3-cartuchos-ntk"
+    ]
   }
 };

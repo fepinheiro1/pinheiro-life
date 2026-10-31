@@ -7292,6 +7292,370 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da jaqueta real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a peça anunciada.",
     "disclosureNote": "O modelo e o ambiente da capa são ilustrativos. O anúncio inclui somente a jaqueta mostrada nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "jaqueta-tommy-hilfiger-vermelha-m",
+    "slug": "jaqueta-tommy-hilfiger-vermelha-forrada-tamanho-m",
+    "name": "Jaqueta Tommy Hilfiger Vermelha Forrada — Tamanho M",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 290,
+    "newPriceText": "R$ 699,90",
+    "newPriceLabel": "Jaqueta Tommy Hilfiger nova comparável",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://lista.mercadolivre.com.br/jaqueta-hilfiger"
+    },
+    "image": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/capa-luz-natural.png",
+    "alt": "Homem adulto usando jaqueta Tommy Hilfiger vermelha tamanho M em ambiente externo com luz natural",
+    "photos": [
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/capa-luz-natural.png",
+        "alt": "Homem adulto usando a jaqueta Tommy Hilfiger vermelha em ambiente externo com luz natural",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-frente.jpg",
+        "alt": "Foto real da frente da jaqueta Tommy Hilfiger vermelha anunciada"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-costas.jpg",
+        "alt": "Foto real das costas da jaqueta Tommy Hilfiger vermelha anunciada"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-aberta.jpg",
+        "alt": "Foto real da jaqueta Tommy Hilfiger vermelha aberta mostrando o forro preto acolchoado"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-logo.jpg",
+        "alt": "Detalhe real do bordado Tommy Hilfiger no peito da jaqueta vermelha"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-vermelha-m/foto-real-etiqueta.jpg",
+        "alt": "Etiqueta real Tommy Hilfiger tamanho M da jaqueta vermelha anunciada"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada · bom estado",
+    "tag": "Avulso · tamanho M",
+    "meta": "Vermelha · forro acolchoado · gola alta",
+    "conditionSummary": "Jaqueta usada, em bom estado de conservação aparente nas fotos.",
+    "description": "Jaqueta Tommy Hilfiger masculina tamanho M na cor vermelha, com gola alta revestida, fechamento frontal por zíper protegido por vista, dois bolsos frontais e forro interno preto acolchoado. Possui bordado discreto no peito, bandeira da marca nas costas e acabamento preto nos punhos e na barra.",
+    "conditionNotes": "Peça usada. As cinco fotos reais mostram a frente, as costas, o interior acolchoado, o bordado e a etiqueta tamanho M, permitindo conferir o estado atual da jaqueta.",
+    "details": [
+      ["Marca", "Tommy Hilfiger"],
+      ["Tamanho", "M"],
+      ["Cor", "Vermelha com detalhes pretos"],
+      ["Gola", "Alta · revestida"],
+      ["Fechamento", "Zíper frontal com vista"],
+      ["Forro", "Preto acolchoado"],
+      ["Bolsos", "Dois bolsos frontais"],
+      ["Acabamento", "Punhos e barra com viés preto"],
+      ["Condição", "Usada · bom estado aparente"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da jaqueta real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a peça anunciada.",
+    "disclosureNote": "O modelo e o ambiente da capa são ilustrativos. O anúncio inclui somente a jaqueta mostrada nas fotos reais.",
+    "illustratedCover": true
+  },
+  {
+    "id": "par-halteres-3kg-cada-azul",
+    "slug": "par-halteres-sextavados-3kg-cada-azul",
+    "name": "Par de Halteres Sextavados de 3 kg Cada",
+    "type": "single",
+    "category": "Fitness",
+    "categoryId": "esportes",
+    "price": 60,
+    "newPriceText": "R$ 92,99",
+    "newPriceLabel": "Par novo comparável",
+    "newPriceSource": {
+      "label": "2M Fitness",
+      "url": "https://www.2mfitness.com.br/kit-de-halteres/sextavados-emborrachados/par-de-halteres-sextavado-emborrachado-3-kg"
+    },
+    "image": "assets/produtos/par-halteres-3kg-cada-azul/capa-academia-luz-natural.png",
+    "alt": "Par de halteres sextavados azul-petróleo de 3 kg sobre tapete de exercícios em academia doméstica",
+    "photos": [
+      {
+        "src": "assets/produtos/par-halteres-3kg-cada-azul/capa-academia-luz-natural.png",
+        "alt": "Par de halteres azul-petróleo de 3 kg ambientado em academia doméstica com luz natural",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/par-halteres-3kg-cada-azul/foto-real-par-1.jpg",
+        "alt": "Foto real do par de halteres azul-petróleo de 3 kg anunciado"
+      },
+      {
+        "src": "assets/produtos/par-halteres-3kg-cada-azul/foto-real-par-2.jpg",
+        "alt": "Segunda foto real do par de halteres mostrando a marcação de 3 kg"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usados · marcas de uso",
+    "tag": "Par · 6 kg no total",
+    "meta": "3 kg cada · formato sextavado · azul-petróleo",
+    "conditionSummary": "Par usado e plenamente funcional, com marcas superficiais no revestimento.",
+    "description": "Par de halteres sextavados com 3 kg cada, totalizando 6 kg. O formato ajuda a evitar que rolem no chão e é indicado para treinos de braços, ombros, peito, costas, exercícios funcionais e atividades em casa.",
+    "conditionNotes": "Halteres usados, firmes e prontos para treino. O revestimento azul-petróleo apresenta riscos e marcas estéticas superficiais, mostrados nas duas fotos reais.",
+    "details": [
+      ["Conteúdo", "2 halteres"],
+      ["Peso por unidade", "3 kg"],
+      ["Peso total", "6 kg"],
+      ["Formato", "Sextavado"],
+      ["Cor", "Azul-petróleo"],
+      ["Estado", "Usados · com marcas estéticas"],
+      ["Formato de venda", "Par completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir dos halteres reais, usando luz natural neutra.<br>As duas imagens seguintes mostram exatamente o par anunciado.",
+    "disclosureNote": "O ambiente e os acessórios da capa são ilustrativos. O anúncio inclui somente os dois halteres mostrados nas fotos reais.",
+    "illustratedCover": true
+  },
+  {
+    "id": "mala-ogio-rig-9800-azul-preta",
+    "slug": "mala-ogio-rig-9800-com-rodas-azul-preta",
+    "name": "Mala OGIO Rig 9800 com Rodas Azul e Preta",
+    "type": "single",
+    "category": "Esportes e viagem",
+    "categoryId": "esportes",
+    "price": 1900,
+    "newPriceText": "R$ 2.999,90",
+    "newPriceLabel": "Nova na loja oficial",
+    "newPriceSource": {
+      "label": "OGIO Brasil",
+      "url": "https://www.ogio.com.br/products/bolsa-de-equipamentos-ogio-rig-9800-wheeled-123l-dark-static"
+    },
+    "image": "assets/produtos/mala-ogio-rig-9800-azul-preta/capa-paddock-luz-natural.png",
+    "alt": "Mala OGIO Rig 9800 azul e preta em pé em uma área de embarque esportiva com luz natural",
+    "photos": [
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/capa-paddock-luz-natural.png",
+        "alt": "Mala OGIO Rig 9800 azul e preta ambientada em área esportiva com luz natural",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0971.jpg",
+        "alt": "Foto real da mala OGIO Rig 9800 anunciada vista de frente"
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0972.jpg",
+        "alt": "Foto real da mala OGIO Rig 9800 mostrando a estrutura, alças e compartimentos"
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-interior.jpg",
+        "alt": "Foto real do interior amplo, das divisórias e dos compartimentos da mala OGIO Rig 9800 anunciada"
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0974.jpg",
+        "alt": "Foto real da lateral e da base rígida da mala OGIO Rig 9800 anunciada"
+      },
+      {
+        "src": "assets/produtos/mala-ogio-rig-9800-azul-preta/foto-real-0975.jpg",
+        "alt": "Foto real da base moldada e das rodas da mala OGIO Rig 9800 anunciada"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Praticamente nova · pouquíssimos sinais",
+    "tag": "Avulsa · 123 L · com rodas",
+    "meta": "Chassi SLED · rodas grandes · alta capacidade",
+    "conditionSummary": "Mala muito nova, muito bem conservada e com pouquíssimos sinais superficiais de uso.",
+    "description": "OGIO Rig 9800, mala premium de equipamentos com 123 litros de capacidade. O chassi rígido SLED protege a base contra impactos, enquanto as rodas grandes, a abertura ampla, os compartimentos internos e as cintas de compressão facilitam transportar roupas e equipamentos esportivos em viagens.",
+    "conditionNotes": "Produto praticamente novo e em excelente estado de conservação. As fotos reais mostram a frente, os compartimentos, as alças, a estrutura rígida, a base e as rodas. Há apenas sinais superficiais muito leves na parte inferior, compatíveis com pouco uso.",
+    "details": [
+      ["Marca", "OGIO"],
+      ["Linha", "Rig"],
+      ["Modelo", "9800 Wheeled"],
+      ["Capacidade", "123 litros"],
+      ["Estrutura", "Chassi rígido SLED"],
+      ["Compartimento principal", "Abertura ampla com divisórias ajustáveis"],
+      ["Organização", "Compartimentos multiuso e cintas de compressão"],
+      ["Transporte", "Rodas grandes · múltiplas alças"],
+      ["Material", "Poliéster com base estrutural em ABS/PVC"],
+      ["Dimensões aproximadas", "86,3 × 41,9 × 38,7 cm"],
+      ["Peso aproximado", "6,4 kg"],
+      ["Cor", "Azul e preta"],
+      ["Condição", "Praticamente nova · pouquíssimos sinais"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da mala real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a mala anunciada.",
+    "disclosureNote": "O ambiente da capa é ilustrativo. O anúncio inclui somente a mala mostrada nas fotos reais.",
+    "illustratedCover": true
+  },
+  {
+    "id": "cushion-grip-perfurado-verde-agua",
+    "slug": "cushion-grip-perfurado-raquete-tenis-verde-agua",
+    "name": "Cushion Grip Perfurado para Raquete de Tênis",
+    "type": "single",
+    "category": "Tênis",
+    "categoryId": "esportes",
+    "price": 30,
+    "image": "assets/produtos/cushion-grip-perfurado-verde-agua/capa-raquete-quadra.png",
+    "alt": "Cushion grip perfurado verde-água instalado no cabo de uma raquete de tênis ao lado da quadra",
+    "photos": [
+      {
+        "src": "assets/produtos/cushion-grip-perfurado-verde-agua/capa-raquete-quadra.png",
+        "alt": "Cushion grip perfurado verde-água instalado corretamente em uma raquete de tênis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/cushion-grip-perfurado-verde-agua/foto-real-4884.jpg",
+        "alt": "Foto real aproximada do cushion grip perfurado verde-água anunciado"
+      },
+      {
+        "src": "assets/produtos/cushion-grip-perfurado-verde-agua/foto-real-4885.jpg",
+        "alt": "Foto real do cushion grip verde-água com sua embalagem e instruções de aplicação"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Sem sinais aparentes de aplicação",
+    "tag": "Avulso · cushion grip",
+    "meta": "Perfurado · verde-água · absorção de suor",
+    "conditionSummary": "Cushion grip guardado na embalagem, sem sinais aparentes de aplicação em raquete.",
+    "description": "Cushion grip perfurado para envolver o cabo de raquetes de tênis e outros esportes de raquete. O material macio ajuda a aumentar o conforto e a espessura da empunhadura, enquanto as perfurações favorecem a ventilação e a absorção do suor.",
+    "conditionNotes": "Produto guardado em sua embalagem original aberta. As duas fotos reais mostram a fita completa, a superfície perfurada, a cor e as instruções impressas na embalagem.",
+    "details": [
+      ["Tipo", "Cushion grip / overgrip"],
+      ["Indicação", "Raquetes de tênis e outros esportes de raquete"],
+      ["Acabamento", "Perfurado"],
+      ["Cor", "Verde-água / turquesa"],
+      ["Função", "Conforto, aumento de espessura e absorção de suor"],
+      ["Aplicação", "Enrolado em espiral sobre o cabo da raquete"],
+      ["Conteúdo", "1 fita cushion grip"],
+      ["Condição", "Sem sinais aparentes de aplicação"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do cushion real, mostrando como ele fica instalado numa raquete.<br>As duas imagens seguintes mostram exatamente o produto anunciado.",
+    "disclosureNote": "A raquete e a quadra da capa são ilustrativas e não acompanham o produto. O anúncio inclui somente o cushion grip mostrado nas fotos reais.",
+    "illustratedCover": true
+  },
+  {
+    "id": "vestido-alto-giro-beach-tennis-roxo-p",
+    "slug": "vestido-alto-giro-beach-tennis-roxo-com-shorts-tamanho-p",
+    "name": "Vestido Alto Giro Thássia Naves Bodytex II Roxo com Shorts — Tamanho P",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 190,
+    "newPriceText": "Aprox. R$ 449",
+    "newPriceLabel": "Vestidos similares",
+    "newPriceSource": {
+      "label": "Alto Giro",
+      "url": "https://altogiro.com.br/collections/vestido-feminino"
+    },
+    "image": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis-v3.png",
+    "alt": "Mulher adulta ruiva de porte P usando vestido Alto Giro roxo com detalhes laranja e shorts em uma quadra de beach tennis",
+    "photos": [
+      {
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis-v3.png",
+        "alt": "Mulher adulta ruiva de porte P usando o vestido Alto Giro roxo durante uma partida de beach tennis",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/foto-real-5454.jpg",
+        "alt": "Foto real da frente do vestido Alto Giro roxo e laranja anunciado"
+      },
+      {
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/foto-real-5455.jpg",
+        "alt": "Foto real das costas nadador e dos recortes do vestido Alto Giro anunciado"
+      },
+      {
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/foto-real-5456.jpg",
+        "alt": "Foto real do vestido Alto Giro e do shorts avulso tamanho P incluído"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · sem uso",
+    "tag": "Conjunto · tamanho P",
+    "meta": "Thássia Naves Bodytex II · vestido + shorts · roxo e laranja",
+    "conditionSummary": "Conjunto novo, sem uso e sem marcas, composto pelo vestido e pelo shorts avulso.",
+    "description": "Vestido esportivo Alto Giro da linha Thássia Naves Bodytex II Recortes 2022, indicado para tênis, beach tennis e outros esportes de raquete. A modelagem curta combina costas nadador, recortes que acompanham o corpo e frisos laranja contrastantes. Acompanha shorts avulso roxo para proporcionar liberdade de movimento e segurança durante o jogo.",
+    "conditionNotes": "Produto novo e sem uso. As três fotos reais mostram a frente, as costas nadador, os recortes, o símbolo da Alto Giro e o shorts tamanho P que acompanha o vestido.",
+    "details": [
+      ["Marca", "Alto Giro"],
+      ["Linha", "Thássia Naves · Bodytex II Recortes"],
+      ["Tamanho", "P"],
+      ["Conteúdo", "Vestido + shorts avulso"],
+      ["Cor", "Roxo / fúcsia com detalhes laranja"],
+      ["Modelagem", "Curta · levemente ajustada"],
+      ["Costas", "Nadador"],
+      ["Vestido", "76% poliamida · 24% elastano"],
+      ["Shorts", "84% poliamida · 16% elastano"],
+      ["Indicação", "Tênis · beach tennis · padel"],
+      ["Condição", "Novo · sem uso"],
+      ["Formato de venda", "Conjunto completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real, usando luz natural neutra.<br>As três imagens seguintes mostram exatamente o vestido e o shorts anunciados.",
+    "disclosureNote": "A modelo, a raquete e a quadra da capa são ilustrativas. O anúncio inclui somente o vestido e o shorts mostrados nas fotos reais.",
+    "illustratedCover": true
+  },
+  {
+    "id": "kit-fogareiro-portatil-3-cartuchos-ntk",
+    "slug": "kit-fogareiro-portatil-gas-3-cartuchos-ntk",
+    "name": "Kit Fogareiro Portátil a Gás com Maleta + 3 Cartuchos NTK",
+    "type": "kit",
+    "category": "Camping e lazer",
+    "categoryId": "esportes",
+    "price": 79,
+    "newPriceText": "Aprox. R$ 111",
+    "newPriceLabel": "Conjunto equivalente novo",
+    "newPriceSource": {
+      "label": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br/p/MLB77875124?pdp_filters=item_id%3AMLB5101792381&sid=cart"
+    },
+    "image": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/capa-camping.png",
+    "alt": "Fogareiro portátil preto com maleta e três cartuchos de gás NTK em uma mesa de camping",
+    "photos": [
+      {
+        "src": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/capa-camping.png",
+        "alt": "Fogareiro portátil com maleta e exatamente três cartuchos NTK em ambiente de camping",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/fogareiro-referencia.jpg",
+        "alt": "Imagem de referência do fogareiro portátil automático e de sua maleta"
+      },
+      {
+        "src": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/fogareiro-com-maleta.jpg",
+        "alt": "Segunda imagem de referência do fogareiro portátil com maleta"
+      },
+      {
+        "src": "assets/produtos/kit-fogareiro-portatil-3-cartuchos-ntk/cartuchos-ntk.webp",
+        "alt": "Imagem de referência dos cartuchos NTK Campgás; o anúncio inclui três unidades lacradas"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Praticamente novo · cartuchos lacrados",
+    "tag": "Kit · fogareiro + maleta + 3 cartuchos",
+    "meta": "1 boca · acendimento automático · 3 refis NTK de 227 g",
+    "conditionSummary": "Fogareiro praticamente novo, acompanhado da maleta e de três cartuchos NTK lacrados.",
+    "description": "Kit completo para camping, pesca, viagens e emergências. Reúne um fogareiro portátil de uma boca com acendimento automático e controle de chama, a maleta rígida para transporte e três cartuchos NTK Campgás de 227 g ainda lacrados.",
+    "conditionNotes": "O fogareiro está praticamente novo. Os três cartuchos que acompanham o conjunto permanecem lacrados e prontos para uso.",
+    "details": [
+      ["Conteúdo", "1 fogareiro + maleta + 3 cartuchos"],
+      ["Tipo", "Fogareiro portátil de 1 boca"],
+      ["Acendimento", "Automático"],
+      ["Controle", "Regulagem de chama"],
+      ["Combustível", "Cartucho Campgás de 227 g"],
+      ["Cartuchos", "3 unidades NTK lacradas"],
+      ["Transporte", "Maleta rígida inclusa"],
+      ["Indicação", "Camping · pesca · viagens · emergências"],
+      ["Condição", "Fogareiro praticamente novo · cartuchos lacrados"],
+      ["Formato de venda", "Kit completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir de imagens de referência dos modelos.<br>As imagens seguintes são referências do fogareiro, da maleta e dos cartuchos. O conjunto anunciado inclui três cartuchos lacrados.",
+    "disclosureNote": "O ambiente de camping da capa é ilustrativo. As fotos de referência podem mostrar quatro cartuchos, mas o kit anunciado e entregue contém exatamente três unidades lacradas.",
+    "illustratedCover": true
   }
 ];
 
