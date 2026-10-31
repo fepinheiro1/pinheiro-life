@@ -7897,6 +7897,66 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real, usando luz natural neutra.<br>As três imagens seguintes mostram exatamente o top e a legging anunciados, ainda com suas etiquetas.",
     "disclosureNote": "A modelo, os tênis e o ambiente da capa são ilustrativos. O anúncio inclui somente o top e a legging mostrados nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "conjunto-labellamafia-coral-p",
+    "slug": "conjunto-fitness-labellamafia-coral-top-legging-tamanho-p",
+    "name": "Conjunto Fitness Labellamafia Coral — Top e Legging Tamanho P",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 120,
+    "newPriceText": "R$ 494,99",
+    "newPriceLabel": "Conjunto Labellamafia similar novo",
+    "newPriceSource": {
+      "label": "Shopee",
+      "url": "https://shopee.com.br/CONJUNTO-TOP-E-LEGGING-BOXER-LABELLAMAFIA-i.696381777.23492475496"
+    },
+    "image": "assets/produtos/conjunto-labellamafia-coral-p/capa-pista-luz-natural.png",
+    "alt": "Mulher adulta ruiva de porte P usando conjunto fitness Labellamafia coral em pista de corrida",
+    "photos": [
+      {
+        "src": "assets/produtos/conjunto-labellamafia-coral-p/capa-pista-luz-natural.png",
+        "alt": "Mulher adulta de porte P usando top e legging Labellamafia coral em ambiente esportivo externo",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/conjunto-labellamafia-coral-p/foto-real-conjunto.jpg",
+        "alt": "Foto real do conjunto Labellamafia coral completo com top e legging"
+      },
+      {
+        "src": "assets/produtos/conjunto-labellamafia-coral-p/foto-real-legging.jpg",
+        "alt": "Foto real da legging Labellamafia coral tamanho P vista por inteiro"
+      },
+      {
+        "src": "assets/produtos/conjunto-labellamafia-coral-p/foto-real-detalhes.jpg",
+        "alt": "Foto real dos detalhes e identificações Labellamafia no top e na legging"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Novo · nunca usado",
+    "tag": "Conjunto · Labellamafia · tamanho P",
+    "meta": "Top nadador + legging · coral e azul-marinho",
+    "conditionSummary": "Conjunto novo, nunca usado e sem sinais de uso.",
+    "description": "Conjunto fitness feminino Labellamafia, tamanho P, formado por top nadador e legging de cintura alta com comprimento total. O visual coral ganha contraste com o forro azul-marinho do top, faixas laterais e identificações marcantes da marca.",
+    "conditionNotes": "As duas peças nunca foram usadas e não apresentam sinais de uso. As três fotos reais mostram o conjunto completo, o caimento das peças, as faixas laterais e as identificações Labellamafia.",
+    "details": [
+      ["Marca", "Labellamafia"],
+      ["Tamanho", "P"],
+      ["Conteúdo", "Top fitness + legging"],
+      ["Cores", "Coral · azul-marinho"],
+      ["Top", "Nadador · faixa larga · forro em contraste"],
+      ["Legging", "Cintura alta · comprimento total"],
+      ["Detalhes", "Faixas laterais e identificação Labellamafia"],
+      ["Modelagem", "Ajustada"],
+      ["Condição", "Novo · nunca usado"],
+      ["Formato de venda", "Conjunto completo"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do conjunto real, usando luz natural neutra.<br>As três imagens seguintes mostram exatamente o top e a legging anunciados.",
+    "disclosureNote": "A modelo, os tênis e o ambiente da capa são ilustrativos. O anúncio inclui somente o top e a legging mostrados nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 

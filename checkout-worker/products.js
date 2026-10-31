@@ -1312,5 +1312,15 @@ export const products = {
     "inventoryUnitIds": [
       "conjunto-livre-e-leve-degrade-p"
     ]
+  },
+  "conjunto-labellamafia-coral-p": {
+    "id": "conjunto-labellamafia-coral-p",
+    "slug": "conjunto-fitness-labellamafia-coral-top-legging-tamanho-p",
+    "name": "Conjunto Fitness Labellamafia Coral — Top e Legging Tamanho P",
+    "price": 12000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "conjunto-labellamafia-coral-p"
+    ]
   }
 };
