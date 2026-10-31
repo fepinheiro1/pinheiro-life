@@ -7542,12 +7542,12 @@ const products = [
     "type": "single",
     "category": "Moda fitness",
     "categoryId": "moda-fitness",
-    "price": 290,
-    "newPriceText": "R$ 379,90",
-    "newPriceLabel": "Mesmo modelo novo encontrado",
+    "price": 190,
+    "newPriceText": "Aprox. R$ 449",
+    "newPriceLabel": "Vestidos similares",
     "newPriceSource": {
-      "label": "Mercado Livre",
-      "url": "https://produto.mercadolivre.com.br/MLB-2658503446-vestido-thassia-naves-alto-giro-beach-tennis-lilas-2022-_JM"
+      "label": "Alto Giro",
+      "url": "https://altogiro.com.br/collections/vestido-feminino"
     },
     "image": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis-v3.png",
     "alt": "Mulher adulta ruiva de porte P usando vestido Alto Giro roxo com detalhes laranja e shorts em uma quadra de beach tennis",
