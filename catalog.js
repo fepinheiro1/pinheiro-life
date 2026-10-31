@@ -7549,12 +7549,12 @@ const products = [
       "label": "Centauro",
       "url": "https://www.centauro.com.br/vestido-alto-giro-beach-tennis-feminino-m0nvo1-mktp.html"
     },
-    "image": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis-v2.png",
-    "alt": "Mulher adulta de porte P usando vestido Alto Giro roxo com detalhes laranja e shorts em uma quadra de beach tennis",
+    "image": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis-v3.png",
+    "alt": "Mulher adulta ruiva de porte P usando vestido Alto Giro roxo com detalhes laranja e shorts em uma quadra de beach tennis",
     "photos": [
       {
-        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis-v2.png",
-        "alt": "Mulher adulta de porte P usando o vestido Alto Giro roxo durante uma partida de beach tennis",
+        "src": "assets/produtos/vestido-alto-giro-beach-tennis-roxo-p/capa-beach-tennis-v3.png",
+        "alt": "Mulher adulta ruiva de porte P usando o vestido Alto Giro roxo durante uma partida de beach tennis",
         "isIllustrative": true
       },
       {
