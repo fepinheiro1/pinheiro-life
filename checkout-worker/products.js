@@ -1202,5 +1202,15 @@ export const products = {
     "inventoryUnitIds": [
       "vestido-preto-rodado-p"
     ]
+  },
+  "jaqueta-tommy-hilfiger-laranja-m": {
+    "id": "jaqueta-tommy-hilfiger-laranja-m",
+    "slug": "jaqueta-tommy-hilfiger-laranja-forrada-tamanho-m",
+    "name": "Jaqueta Tommy Hilfiger Laranja Forrada — Tamanho M",
+    "price": 49000,
+    "status": "available",
+    "inventoryUnitIds": [
+      "jaqueta-tommy-hilfiger-laranja-m"
+    ]
   }
 };

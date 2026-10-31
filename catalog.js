@@ -7224,6 +7224,74 @@ const products = [
     "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir do vestido real.<br>As três imagens seguintes mostram exatamente o vestido anunciado.",
     "disclosureNote": "O manequim e o ambiente da capa são ilustrativos. O anúncio inclui somente o vestido mostrado nas fotos reais.",
     "illustratedCover": true
+  },
+  {
+    "id": "jaqueta-tommy-hilfiger-laranja-m",
+    "slug": "jaqueta-tommy-hilfiger-laranja-forrada-tamanho-m",
+    "name": "Jaqueta Tommy Hilfiger Laranja Forrada — Tamanho M",
+    "type": "single",
+    "category": "Moda fitness",
+    "categoryId": "moda-fitness",
+    "price": 490,
+    "newPriceText": "R$ 749",
+    "newPriceLabel": "Jaqueta Tommy Hilfiger laranja nova similar",
+    "newPriceSource": {
+      "label": "VV Miami",
+      "url": "https://vvmiami.com.br/produtos/jaqueta-velejador-tommy-hilfiger-masculina-laranja-g9gg3/"
+    },
+    "image": "assets/produtos/jaqueta-tommy-hilfiger-laranja-m/capa-luz-natural.png",
+    "alt": "Homem adulto usando jaqueta Tommy Hilfiger laranja tamanho M em ambiente urbano com luz natural",
+    "photos": [
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-laranja-m/capa-luz-natural.png",
+        "alt": "Homem adulto usando a jaqueta Tommy Hilfiger laranja em ambiente urbano com luz natural",
+        "isIllustrative": true
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-laranja-m/foto-real-frente.jpg",
+        "alt": "Foto real da frente da jaqueta Tommy Hilfiger laranja anunciada"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-laranja-m/foto-real-costas.jpg",
+        "alt": "Foto real das costas da jaqueta Tommy Hilfiger laranja anunciada"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-laranja-m/foto-real-aberta.jpg",
+        "alt": "Foto real da jaqueta Tommy Hilfiger aberta mostrando o forro interno escuro"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-laranja-m/foto-real-logo.jpg",
+        "alt": "Detalhe real do bordado Tommy Hilfiger no peito da jaqueta"
+      },
+      {
+        "src": "assets/produtos/jaqueta-tommy-hilfiger-laranja-m/foto-real-etiqueta.jpg",
+        "alt": "Etiqueta real Tommy Hilfiger tamanho M da jaqueta anunciada"
+      }
+    ],
+    "imageFit": "cover",
+    "isDemo": false,
+    "status": "available",
+    "condition": "Usada uma vez · sem marcas de uso",
+    "tag": "Avulso · tamanho M",
+    "meta": "Laranja queimado · forro interno · gola alta",
+    "conditionSummary": "Usada apenas uma vez, sem nenhuma marca de uso e em estado de nova.",
+    "description": "Jaqueta Tommy Hilfiger masculina tamanho M em tom laranja queimado, com gola alta, fechamento frontal por zíper protegido por vista, dois bolsos frontais e forro interno escuro macio. O logo aparece bordado de forma discreta no peito e a bandeira da marca está aplicada nas costas.",
+    "conditionNotes": "Peça usada apenas uma vez. Está impecável, sem manchas, riscos, furos, desgaste ou qualquer marca de uso aparente. As fotos reais mostram a frente, as costas, o forro, o bordado e a etiqueta tamanho M.",
+    "details": [
+      ["Marca", "Tommy Hilfiger"],
+      ["Tamanho", "M"],
+      ["Cor", "Laranja queimado"],
+      ["Gola", "Alta"],
+      ["Fechamento", "Zíper frontal com vista"],
+      ["Forro", "Interno escuro e macio"],
+      ["Bolsos", "Dois bolsos frontais"],
+      ["Punhos e barra", "Elásticos"],
+      ["Condição", "Usada uma vez · sem marcas de uso"],
+      ["Formato de venda", "Produto avulso"]
+    ],
+    "galleryDisclosure": "A capa é uma ambientação ilustrativa criada com IA a partir da jaqueta real, usando luz natural neutra.<br>As cinco imagens seguintes mostram exatamente a peça anunciada.",
+    "disclosureNote": "O modelo e o ambiente da capa são ilustrativos. O anúncio inclui somente a jaqueta mostrada nas fotos reais.",
+    "illustratedCover": true
   }
 ];
 
